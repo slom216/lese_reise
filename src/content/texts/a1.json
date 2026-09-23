@@ -1037,5 +1037,4560 @@
         "answer": 1
       }
     ]
+  },
+  {
+    "id": "a1-11",
+    "level": "A1",
+    "title": "Im Café",
+    "topic": "Food and drink",
+    "body": "Es ist Samstag, drei Uhr. Nadia und ihr Bruder Karim sitzen in einem kleinen Café in der Altstadt. Das Café ist voll, aber sie finden noch einen Tisch am Fenster.\n\nDer Kellner kommt und fragt: „Was möchten Sie trinken?“ Nadia bestellt einen Kaffee mit Milch. Karim trinkt keinen Kaffee. Er nimmt eine heiße Schokolade mit Sahne.\n\nDann sehen sie die Kuchen. Nadia nimmt ein Stück Apfelkuchen. Karim isst gern Schokolade. Er bestellt ein Stück Schokoladenkuchen.\n\nDer Kuchen ist sehr lecker. Sie sprechen über die Arbeit und über ihre Eltern. Nach einer Stunde möchten sie bezahlen. Nadia sagt: „Die Rechnung, bitte!“ Alles kostet 14,80 Euro. Nadia bezahlt heute. Sie gibt dem Kellner 16 Euro und sagt: „Stimmt so.“ Karim sagt: „Danke! Nächstes Mal bezahle ich.“",
+    "glossary": [
+      {
+        "german": "die Altstadt",
+        "english": "old town"
+      },
+      {
+        "german": "voll",
+        "english": "full"
+      },
+      {
+        "german": "der Kellner",
+        "english": "waiter"
+      },
+      {
+        "german": "bestellen",
+        "english": "to order",
+        "match": "bestellt"
+      },
+      {
+        "german": "heiß",
+        "english": "hot",
+        "match": "heiße"
+      },
+      {
+        "german": "die Sahne",
+        "english": "(whipped) cream"
+      },
+      {
+        "german": "das Stück",
+        "english": "piece, slice"
+      },
+      {
+        "german": "lecker",
+        "english": "tasty, delicious"
+      },
+      {
+        "german": "die Rechnung",
+        "english": "bill"
+      },
+      {
+        "german": "Stimmt so.",
+        "english": "Keep the change."
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Wann sind Nadia und Karim im Café?",
+        "options": [
+          "Am Samstag um drei Uhr",
+          "Am Sonntag um drei Uhr",
+          "Am Freitag um acht Uhr",
+          "Am Samstag um zehn Uhr"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "tf",
+        "prompt": "Im Café sind nur wenige Leute.",
+        "answer": false,
+        "explanation": "Das Café ist voll."
+      },
+      {
+        "type": "mc",
+        "prompt": "Wo sitzen sie?",
+        "options": ["An der Tür", "Draußen", "Am Fenster", "An der Bar"],
+        "answer": 2
+      },
+      {
+        "type": "mc",
+        "prompt": "Was trinkt Karim?",
+        "options": ["Einen Kaffee mit Milch", "Tee", "Wasser", "Eine heiße Schokolade"],
+        "answer": 3
+      },
+      {
+        "type": "tf",
+        "prompt": "Nadia isst Apfelkuchen.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Worüber sprechen sie?",
+        "options": [
+          "Über den Urlaub",
+          "Über die Arbeit und die Eltern",
+          "Über Fußball",
+          "Über das Wetter"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie viel kostet alles?",
+        "options": ["14,80 Euro", "16,00 Euro", "18,40 Euro", "12,80 Euro"],
+        "answer": 0
+      },
+      {
+        "type": "tf",
+        "prompt": "Karim bezahlt heute.",
+        "answer": false,
+        "explanation": "Nadia bezahlt heute. Karim bezahlt nächstes Mal."
+      }
+    ]
+  },
+  {
+    "id": "a1-12",
+    "level": "A1",
+    "title": "Mein Hund Bruno",
+    "topic": "Animals",
+    "body": "Ich heiße Pablo und ich habe einen Hund. Er heißt Bruno und ist vier Jahre alt. Bruno ist groß und braun. Er hat lange Ohren und einen kurzen Schwanz.\n\nJeden Tag gehe ich dreimal mit Bruno spazieren: am Morgen, am Mittag und am Abend. Am Morgen gehen wir nur zehn Minuten, denn ich muss zur Arbeit. Am Abend gehen wir lange in den Park. Dort spielt Bruno mit anderen Hunden. Er rennt sehr gern.\n\nBruno bekommt zweimal am Tag Futter, morgens und abends. Er trinkt auch viel Wasser. Manchmal bekommt er einen Knochen. Das findet er super!\n\nAm Wochenende fahren wir oft zu einem See. Bruno schwimmt gern im Wasser. Danach ist er nass und schmutzig. Dann muss ich ihn waschen. Das mag Bruno gar nicht. Aber er ist mein bester Freund.",
+    "glossary": [
+      {
+        "german": "das Ohr",
+        "english": "ear",
+        "match": "Ohren"
+      },
+      {
+        "german": "der Schwanz",
+        "english": "tail"
+      },
+      {
+        "german": "spazieren gehen",
+        "english": "to go for a walk",
+        "match": "spazieren"
+      },
+      {
+        "german": "rennen",
+        "english": "to run",
+        "match": "rennt"
+      },
+      {
+        "german": "das Futter",
+        "english": "(animal) food"
+      },
+      {
+        "german": "der Knochen",
+        "english": "bone"
+      },
+      {
+        "german": "der See",
+        "english": "lake"
+      },
+      {
+        "german": "nass",
+        "english": "wet"
+      },
+      {
+        "german": "schmutzig",
+        "english": "dirty"
+      },
+      {
+        "german": "waschen",
+        "english": "to wash"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Wie alt ist Bruno?",
+        "options": ["Zwei Jahre", "Drei Jahre", "Vier Jahre", "Acht Jahre"],
+        "answer": 2
+      },
+      {
+        "type": "tf",
+        "prompt": "Bruno ist klein und schwarz.",
+        "answer": false,
+        "explanation": "Bruno ist groß und braun."
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie oft geht Pablo mit Bruno spazieren?",
+        "options": [
+          "Einmal am Tag",
+          "Zweimal am Tag",
+          "Dreimal am Tag",
+          "Viermal am Tag"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "mc",
+        "prompt": "Warum ist der Spaziergang am Morgen kurz?",
+        "options": [
+          "Bruno ist müde.",
+          "Pablo muss zur Arbeit.",
+          "Es regnet.",
+          "Der Park ist geschlossen."
+        ],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Im Park spielt Bruno mit anderen Hunden.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Wann bekommt Bruno Futter?",
+        "options": [
+          "Nur am Mittag",
+          "Morgens und abends",
+          "Dreimal am Tag",
+          "Nur am Wochenende"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": "Wohin fahren sie am Wochenende oft?",
+        "options": ["Zu einem See", "In die Berge", "Zu Pablos Eltern", "In die Stadt"],
+        "answer": 0
+      },
+      {
+        "type": "tf",
+        "prompt": "Bruno mag es, wenn Pablo ihn wäscht.",
+        "answer": false,
+        "explanation": "Das mag Bruno gar nicht."
+      }
+    ]
+  },
+  {
+    "id": "a1-13",
+    "level": "A1",
+    "title": "Die vier Jahreszeiten",
+    "topic": "Weather and seasons",
+    "body": "In Deutschland gibt es vier Jahreszeiten: Frühling, Sommer, Herbst und Winter. Jede Jahreszeit ist anders.\n\nIm Frühling wird es langsam warm. Die Blumen blühen und die Bäume werden grün. Oft regnet es, aber dann scheint wieder die Sonne. Viele Leute arbeiten jetzt im Garten.\n\nDer Sommer ist warm und manchmal sehr heiß. Es ist lange hell, oft bis zehn Uhr abends. Die Kinder haben Ferien. Viele Familien fahren in den Urlaub oder gehen schwimmen.\n\nIm Herbst werden die Blätter gelb, rot und braun. Es ist oft windig und neblig. Die Leute tragen wieder Jacken. Man kann jetzt Äpfel und Pilze sammeln.\n\nDer Winter ist kalt. Manchmal schneit es. Es wird schon um fünf Uhr dunkel. Im Dezember feiern die Leute Weihnachten. Kinder bauen gern einen Schneemann.\n\nMeine Lieblingsjahreszeit ist der Herbst. Und deine?",
+    "glossary": [
+      {
+        "german": "die Jahreszeit",
+        "english": "season",
+        "match": "Jahreszeiten"
+      },
+      {
+        "german": "blühen",
+        "english": "to bloom, to flower"
+      },
+      {
+        "german": "hell",
+        "english": "light, bright"
+      },
+      {
+        "german": "das Blatt",
+        "english": "leaf",
+        "match": "Blätter"
+      },
+      {
+        "german": "windig",
+        "english": "windy"
+      },
+      {
+        "german": "neblig",
+        "english": "foggy"
+      },
+      {
+        "german": "der Pilz",
+        "english": "mushroom",
+        "match": "Pilze"
+      },
+      {
+        "german": "sammeln",
+        "english": "to collect, to gather"
+      },
+      {
+        "german": "schneien",
+        "english": "to snow",
+        "match": "schneit"
+      },
+      {
+        "german": "der Schneemann",
+        "english": "snowman"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Wie viele Jahreszeiten gibt es in Deutschland?",
+        "options": ["Zwei", "Drei", "Vier", "Fünf"],
+        "answer": 2
+      },
+      {
+        "type": "tf",
+        "prompt": "Im Frühling werden die Bäume grün.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Was machen viele Leute im Frühling?",
+        "options": [
+          "Sie bauen einen Schneemann.",
+          "Sie arbeiten im Garten.",
+          "Sie sammeln Pilze.",
+          "Sie feiern Weihnachten."
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": "Bis wann ist es im Sommer oft hell?",
+        "options": ["Bis fünf Uhr", "Bis sieben Uhr", "Bis acht Uhr", "Bis zehn Uhr"],
+        "answer": 3
+      },
+      {
+        "type": "tf",
+        "prompt": "Im Sommer haben die Kinder Schule.",
+        "answer": false,
+        "explanation": "Im Sommer haben die Kinder Ferien."
+      },
+      {
+        "type": "mc",
+        "prompt": "Welche Farben haben die Blätter im Herbst?",
+        "options": [
+          "Gelb, rot und braun",
+          "Grün und blau",
+          "Weiß und grau",
+          "Schwarz und rot"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "tf",
+        "prompt": "Im Winter wird es schon um fünf Uhr dunkel.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Welche Jahreszeit mag der Autor am liebsten?",
+        "options": ["Den Frühling", "Den Sommer", "Den Herbst", "Den Winter"],
+        "answer": 2
+      }
+    ]
+  },
+  {
+    "id": "a1-14",
+    "level": "A1",
+    "title": "Neue Schuhe",
+    "topic": "Shopping and clothes",
+    "body": "Frau Nowak braucht neue Schuhe. Ihre alten Schuhe sind kaputt. Am Montag nach der Arbeit geht sie in ein Schuhgeschäft.\n\nEine Verkäuferin fragt: „Kann ich Ihnen helfen?“ Frau Nowak sagt: „Ja, bitte. Ich suche bequeme Schuhe für die Arbeit. Ich gehe viel zu Fuß.“ Die Verkäuferin fragt: „Welche Größe haben Sie?“ – „Größe 39.“\n\nDie Verkäuferin bringt drei Paar Schuhe. Die schwarzen Schuhe sind schön, aber zu klein. Die roten Schuhe gefallen Frau Nowak nicht. Die braunen Schuhe passen gut und sind sehr bequem.\n\nFrau Nowak fragt: „Was kosten die braunen Schuhe?“ – „Sie kosten 89 Euro.“ Das ist ein bisschen teuer. Aber die Schuhe sind gut und Frau Nowak braucht sie jeden Tag. Also kauft sie die Schuhe. Sie bezahlt an der Kasse mit Karte. Am Dienstag trägt sie die neuen Schuhe schon bei der Arbeit.",
+    "glossary": [
+      {
+        "german": "kaputt",
+        "english": "broken, worn out"
+      },
+      {
+        "german": "das Schuhgeschäft",
+        "english": "shoe shop"
+      },
+      {
+        "german": "die Verkäuferin",
+        "english": "sales assistant (female)"
+      },
+      {
+        "german": "bequem",
+        "english": "comfortable",
+        "match": "bequeme"
+      },
+      {
+        "german": "die Größe",
+        "english": "size"
+      },
+      {
+        "german": "das Paar",
+        "english": "pair"
+      },
+      {
+        "german": "gefallen",
+        "english": "to please, to like"
+      },
+      {
+        "german": "passen",
+        "english": "to fit",
+        "match": "passen"
+      },
+      {
+        "german": "die Kasse",
+        "english": "checkout, till"
+      },
+      {
+        "german": "tragen",
+        "english": "to wear",
+        "match": "trägt"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Warum braucht Frau Nowak neue Schuhe?",
+        "options": [
+          "Sie hat Geburtstag.",
+          "Ihre alten Schuhe sind kaputt.",
+          "Sie macht Urlaub.",
+          "Sie hat eine neue Arbeit."
+        ],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Frau Nowak geht am Samstag in das Geschäft.",
+        "answer": false,
+        "explanation": "Sie geht am Montag nach der Arbeit."
+      },
+      {
+        "type": "mc",
+        "prompt": "Welche Größe hat Frau Nowak?",
+        "options": ["37", "38", "39", "40"],
+        "answer": 2
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie viele Paar Schuhe bringt die Verkäuferin?",
+        "options": ["Ein Paar", "Zwei Paar", "Drei Paar", "Vier Paar"],
+        "answer": 2
+      },
+      {
+        "type": "mc",
+        "prompt": "Was ist das Problem mit den schwarzen Schuhen?",
+        "options": [
+          "Sie sind zu klein.",
+          "Sie sind zu groß.",
+          "Sie sind zu teuer.",
+          "Sie sind nicht bequem."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "tf",
+        "prompt": "Die braunen Schuhe passen gut.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Was kosten die braunen Schuhe?",
+        "options": ["39 Euro", "59 Euro", "79 Euro", "89 Euro"],
+        "answer": 3
+      },
+      {
+        "type": "tf",
+        "prompt": "Frau Nowak bezahlt bar.",
+        "answer": false,
+        "explanation": "Sie bezahlt mit Karte."
+      }
+    ]
+  },
+  {
+    "id": "a1-15",
+    "level": "A1",
+    "title": "Omas Geburtstag",
+    "topic": "Family and celebrations",
+    "body": "Heute ist ein besonderer Tag. Oma Hilde hat Geburtstag. Sie wird 80 Jahre alt! Die ganze Familie kommt zu ihr nach Hause. Das sind zwölf Personen.\n\nTante Petra kocht schon am Morgen. Es gibt Kartoffelsalat, Würstchen und Gemüse. Onkel Stefan bringt Getränke mit. Die Enkel Leon und Aylin machen zusammen einen großen Kuchen. Auf dem Kuchen stehen acht Kerzen, eine Kerze für je zehn Jahre.\n\nUm drei Uhr sind alle da. Sie singen „Zum Geburtstag viel Glück“. Oma Hilde lacht und bläst die Kerzen aus. Dann bekommt sie Geschenke: Blumen, ein Buch und eine warme Decke. Das Buch ist von Leon. Oma liest sehr gern.\n\nAm Abend sitzen alle zusammen am Tisch. Sie essen, trinken und erzählen alte Geschichten. Oma Hilde ist sehr glücklich. Sie sagt: „Das ist mein schönster Geburtstag!“",
+    "glossary": [
+      {
+        "german": "besonders",
+        "english": "special",
+        "match": "besonderer"
+      },
+      {
+        "german": "die Tante",
+        "english": "aunt"
+      },
+      {
+        "german": "der Onkel",
+        "english": "uncle"
+      },
+      {
+        "german": "das Würstchen",
+        "english": "sausage",
+        "match": "Würstchen"
+      },
+      {
+        "german": "der Enkel",
+        "english": "grandchild",
+        "match": "Enkel"
+      },
+      {
+        "german": "die Kerze",
+        "english": "candle"
+      },
+      {
+        "german": "ausblasen",
+        "english": "to blow out",
+        "match": "bläst die Kerzen aus"
+      },
+      {
+        "german": "das Geschenk",
+        "english": "present, gift",
+        "match": "Geschenke"
+      },
+      {
+        "german": "die Decke",
+        "english": "blanket"
+      },
+      {
+        "german": "die Geschichte",
+        "english": "story",
+        "match": "Geschichten"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Wie alt wird Oma Hilde?",
+        "options": ["70", "75", "80", "85"],
+        "answer": 2
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie viele Personen kommen?",
+        "options": ["Acht", "Zehn", "Zwölf", "Zwanzig"],
+        "answer": 2
+      },
+      {
+        "type": "tf",
+        "prompt": "Onkel Stefan kocht am Morgen.",
+        "answer": false,
+        "explanation": "Tante Petra kocht. Onkel Stefan bringt Getränke mit."
+      },
+      {
+        "type": "mc",
+        "prompt": "Wer macht den Kuchen?",
+        "options": ["Oma Hilde", "Tante Petra", "Leon und Aylin", "Onkel Stefan"],
+        "answer": 2
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie viele Kerzen stehen auf dem Kuchen?",
+        "options": ["Acht", "Zehn", "Achtzehn", "Achtzig"],
+        "answer": 0
+      },
+      {
+        "type": "tf",
+        "prompt": "Um drei Uhr sind alle da.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Was schenkt Leon?",
+        "options": ["Blumen", "Ein Buch", "Eine Decke", "Einen Kuchen"],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Oma Hilde ist am Abend traurig.",
+        "answer": false,
+        "explanation": "Sie ist sehr glücklich."
+      }
+    ]
+  },
+  {
+    "id": "a1-16",
+    "level": "A1",
+    "title": "Im Deutschkurs",
+    "topic": "School and education",
+    "body": "Mein Name ist Chen. Ich komme aus China und wohne seit drei Monaten in Leipzig. Ich lerne Deutsch in einer Sprachschule. Der Kurs ist von Montag bis Freitag, jeden Tag von neun bis zwölf Uhr.\n\nIn meinem Kurs sind vierzehn Personen. Sie kommen aus vielen Ländern: aus Brasilien, aus der Türkei, aus Syrien, aus der Ukraine und aus Polen. Meine Nachbarin im Kurs heißt Ana. Sie kommt aus Brasilien und ist Ingenieurin.\n\nUnsere Lehrerin heißt Frau Braun. Sie ist sehr nett und spricht langsam. Wir lesen Texte, hören Dialoge und schreiben kleine Briefe. Am Ende von jeder Stunde spielen wir ein Spiel.\n\nDie Grammatik finde ich schwer, aber die Wörter lerne ich schnell. Jeden Abend mache ich eine Stunde Hausaufgaben. In der Pause trinken wir zusammen Kaffee und sprechen nur Deutsch. Das macht Spaß!",
+    "glossary": [
+      {
+        "german": "die Sprachschule",
+        "english": "language school"
+      },
+      {
+        "german": "das Land",
+        "english": "country",
+        "match": "Ländern"
+      },
+      {
+        "german": "die Nachbarin",
+        "english": "neighbour (female); here: the person next to me"
+      },
+      {
+        "german": "die Ingenieurin",
+        "english": "engineer (female)"
+      },
+      {
+        "german": "langsam",
+        "english": "slowly"
+      },
+      {
+        "german": "der Dialog",
+        "english": "dialogue",
+        "match": "Dialoge"
+      },
+      {
+        "german": "das Spiel",
+        "english": "game"
+      },
+      {
+        "german": "die Grammatik",
+        "english": "grammar"
+      },
+      {
+        "german": "die Hausaufgaben",
+        "english": "homework"
+      },
+      {
+        "german": "Das macht Spaß!",
+        "english": "That's fun!",
+        "match": "Das macht Spaß"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Woher kommt Chen?",
+        "options": ["Aus Japan", "Aus China", "Aus Polen", "Aus Brasilien"],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": "Seit wann wohnt Chen in Leipzig?",
+        "options": [
+          "Seit drei Wochen",
+          "Seit drei Monaten",
+          "Seit drei Jahren",
+          "Seit einem Jahr"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Der Kurs ist jeden Tag von neun bis zwölf Uhr.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie viele Personen sind im Kurs?",
+        "options": ["Vier", "Zehn", "Vierzehn", "Vierzig"],
+        "answer": 2
+      },
+      {
+        "type": "mc",
+        "prompt": "Was ist Ana von Beruf?",
+        "options": ["Lehrerin", "Ärztin", "Studentin", "Ingenieurin"],
+        "answer": 3
+      },
+      {
+        "type": "tf",
+        "prompt": "Frau Braun spricht sehr schnell.",
+        "answer": false,
+        "explanation": "Sie spricht langsam."
+      },
+      {
+        "type": "mc",
+        "prompt": "Was findet Chen schwer?",
+        "options": ["Die Wörter", "Die Grammatik", "Das Hören", "Das Schreiben"],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "In der Pause sprechen die Leute nur Deutsch.",
+        "answer": true
+      }
+    ]
+  },
+  {
+    "id": "a1-17",
+    "level": "A1",
+    "title": "Mein Beruf: Friseurin",
+    "topic": "Work",
+    "body": "Ich heiße Jana und ich bin Friseurin. Ich arbeite in einem Friseursalon in Bremen. Der Salon ist klein. Wir sind nur drei Friseurinnen.\n\nMeine Arbeit beginnt um halb neun. Zuerst mache ich Kaffee und sehe die Termine für heute an. Dann kommt die erste Kundin. Sie möchte kurze Haare. Ich wasche ihre Haare und schneide sie. Danach föhne ich die Haare. Die Kundin ist zufrieden.\n\nIch habe jeden Tag acht bis zehn Kunden. Viele Leute möchten nur einen neuen Schnitt. Andere möchten eine neue Haarfarbe, zum Beispiel blond oder rot. Das dauert oft zwei Stunden.\n\nIch mag meinen Beruf, denn ich spreche gern mit Menschen. Aber die Arbeit ist auch anstrengend. Ich stehe den ganzen Tag. Am Samstag arbeite ich auch, aber am Montag habe ich frei.",
+    "glossary": [
+      {
+        "german": "die Friseurin",
+        "english": "hairdresser (female)"
+      },
+      {
+        "german": "der Friseursalon",
+        "english": "hair salon"
+      },
+      {
+        "german": "der Termin",
+        "english": "appointment",
+        "match": "Termine"
+      },
+      {
+        "german": "die Kundin",
+        "english": "customer (female)"
+      },
+      {
+        "german": "schneiden",
+        "english": "to cut",
+        "match": "schneide"
+      },
+      {
+        "german": "föhnen",
+        "english": "to blow-dry",
+        "match": "föhne"
+      },
+      {
+        "german": "zufrieden",
+        "english": "satisfied, happy"
+      },
+      {
+        "german": "der Schnitt",
+        "english": "haircut"
+      },
+      {
+        "german": "anstrengend",
+        "english": "tiring, exhausting"
+      },
+      {
+        "german": "frei haben",
+        "english": "to have the day off",
+        "match": "habe ich frei"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Wo arbeitet Jana?",
+        "options": ["In Hamburg", "In Bremen", "In Berlin", "In Köln"],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Im Salon arbeiten zehn Friseurinnen.",
+        "answer": false,
+        "explanation": "Sie sind nur drei Friseurinnen."
+      },
+      {
+        "type": "mc",
+        "prompt": "Wann beginnt Janas Arbeit?",
+        "options": ["Um acht Uhr", "Um halb neun", "Um neun Uhr", "Um halb zehn"],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": "Was macht Jana zuerst?",
+        "options": [
+          "Sie schneidet Haare.",
+          "Sie telefoniert.",
+          "Sie macht Kaffee und sieht die Termine an.",
+          "Sie putzt den Salon."
+        ],
+        "answer": 2
+      },
+      {
+        "type": "tf",
+        "prompt": "Die erste Kundin möchte kurze Haare.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie viele Kunden hat Jana jeden Tag?",
+        "options": ["Zwei bis drei", "Vier bis fünf", "Acht bis zehn", "Über zwanzig"],
+        "answer": 2
+      },
+      {
+        "type": "mc",
+        "prompt": "Warum mag Jana ihren Beruf?",
+        "options": [
+          "Sie verdient viel Geld.",
+          "Sie spricht gern mit Menschen.",
+          "Sie sitzt den ganzen Tag.",
+          "Sie arbeitet nie am Samstag."
+        ],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Jana hat am Montag frei.",
+        "answer": true
+      }
+    ]
+  },
+  {
+    "id": "a1-18",
+    "level": "A1",
+    "title": "Eine E-Mail an einen Freund",
+    "topic": "Communication",
+    "body": "Hallo Felix,\n\nwie geht es dir? Mir geht es gut. Ich habe jetzt eine neue Wohnung in Dresden. Sie ist klein, aber schön. Sie hat einen Balkon!\n\nKommst du am Wochenende zu mir? Am Samstag mache ich eine kleine Party. Sie beginnt um acht Uhr abends. Meine Kollegen und ein paar Freunde kommen auch. Ich koche Chili und es gibt Musik.\n\nDu kannst hier schlafen, das Sofa ist sehr bequem. Am Sonntag können wir zusammen frühstücken. Danach zeige ich dir die Stadt. Die Altstadt von Dresden ist wirklich schön. Am Nachmittag können wir auch an die Elbe gehen.\n\nDer Zug von Leipzig nach Dresden fährt jede Stunde und braucht nur eine Stunde und zehn Minuten. Ich hole dich am Bahnhof ab.\n\nBitte antworte bald!\n\nViele Grüße\nDein Kofi",
+    "glossary": [
+      {
+        "german": "Wie geht es dir?",
+        "english": "How are you?",
+        "match": "wie geht es dir?"
+      },
+      {
+        "german": "der Balkon",
+        "english": "balcony"
+      },
+      {
+        "german": "der Kollege",
+        "english": "colleague",
+        "match": "Kollegen"
+      },
+      {
+        "german": "bequem",
+        "english": "comfortable"
+      },
+      {
+        "german": "frühstücken",
+        "english": "to have breakfast"
+      },
+      {
+        "german": "zeigen",
+        "english": "to show",
+        "match": "zeige"
+      },
+      {
+        "german": "die Altstadt",
+        "english": "old town"
+      },
+      {
+        "german": "abholen",
+        "english": "to pick up (someone)",
+        "match": "hole dich am Bahnhof ab"
+      },
+      {
+        "german": "antworten",
+        "english": "to answer, to reply",
+        "match": "antworte"
+      },
+      {
+        "german": "bald",
+        "english": "soon"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Wo wohnt Kofi jetzt?",
+        "options": ["In Leipzig", "In Dresden", "In Berlin", "In Felix' Wohnung"],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Kofis Wohnung hat einen Balkon.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Wann beginnt die Party?",
+        "options": [
+          "Am Freitag um acht Uhr",
+          "Am Samstag um acht Uhr",
+          "Am Samstag um sechs Uhr",
+          "Am Sonntag um acht Uhr"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": "Was kocht Kofi?",
+        "options": ["Pizza", "Suppe", "Chili", "Nudeln"],
+        "answer": 2
+      },
+      {
+        "type": "tf",
+        "prompt": "Felix muss im Hotel schlafen.",
+        "answer": false,
+        "explanation": "Er kann bei Kofi auf dem Sofa schlafen."
+      },
+      {
+        "type": "mc",
+        "prompt": "Was machen sie am Sonntag nach dem Frühstück?",
+        "options": [
+          "Kofi zeigt Felix die Stadt.",
+          "Sie fahren nach Leipzig.",
+          "Sie machen eine Party.",
+          "Sie schlafen lange."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie lange fährt der Zug von Leipzig nach Dresden?",
+        "options": [
+          "Zehn Minuten",
+          "Eine Stunde",
+          "Eine Stunde und zehn Minuten",
+          "Zwei Stunden"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "tf",
+        "prompt": "Kofi holt Felix am Bahnhof ab.",
+        "answer": true
+      }
+    ]
+  },
+  {
+    "id": "a1-19",
+    "level": "A1",
+    "title": "Im Hotel",
+    "topic": "Travel",
+    "body": "Herr und Frau Costa sind im Urlaub in Salzburg. Um vier Uhr kommen sie im Hotel an. Sie gehen zur Rezeption.\n\nHerr Costa sagt: „Guten Tag! Wir haben ein Zimmer reserviert. Unser Name ist Costa.“ Die Frau an der Rezeption antwortet: „Herzlich willkommen! Sie haben ein Doppelzimmer für drei Nächte. Ihr Zimmer ist im zweiten Stock, Zimmer 214. Hier ist Ihr Schlüssel.“\n\nFrau Costa fragt: „Wann gibt es Frühstück?“ – „Das Frühstück ist von sieben bis zehn Uhr im Restaurant. Am Sonntag gibt es Frühstück bis elf Uhr.“ Herr Costa fragt: „Gibt es hier WLAN?“ – „Ja, das WLAN ist kostenlos. Das Passwort steht auf der Karte.“\n\nDas Zimmer ist hell und sauber. Es hat ein großes Bett, einen Fernseher und eine Dusche. Vom Fenster sehen sie die Berge. Frau Costa sagt: „Das Zimmer ist perfekt!“",
+    "glossary": [
+      {
+        "german": "ankommen",
+        "english": "to arrive",
+        "match": "kommen sie im Hotel an"
+      },
+      {
+        "german": "die Rezeption",
+        "english": "reception (desk)"
+      },
+      {
+        "german": "reservieren",
+        "english": "to book, to reserve",
+        "match": "reserviert"
+      },
+      {
+        "german": "Herzlich willkommen!",
+        "english": "Welcome!",
+        "match": "Herzlich willkommen"
+      },
+      {
+        "german": "das Doppelzimmer",
+        "english": "double room"
+      },
+      {
+        "german": "der Stock",
+        "english": "floor, storey"
+      },
+      {
+        "german": "der Schlüssel",
+        "english": "key"
+      },
+      {
+        "german": "das WLAN",
+        "english": "Wi-Fi"
+      },
+      {
+        "german": "kostenlos",
+        "english": "free (of charge)"
+      },
+      {
+        "german": "sauber",
+        "english": "clean"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Wo machen Herr und Frau Costa Urlaub?",
+        "options": ["In Wien", "In München", "In Salzburg", "In Zürich"],
+        "answer": 2
+      },
+      {
+        "type": "mc",
+        "prompt": "Wann kommen sie im Hotel an?",
+        "options": ["Um zwei Uhr", "Um drei Uhr", "Um vier Uhr", "Um fünf Uhr"],
+        "answer": 2
+      },
+      {
+        "type": "tf",
+        "prompt": "Sie haben ein Einzelzimmer.",
+        "answer": false,
+        "explanation": "Sie haben ein Doppelzimmer."
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie lange bleiben sie im Hotel?",
+        "options": ["Eine Nacht", "Zwei Nächte", "Drei Nächte", "Eine Woche"],
+        "answer": 2
+      },
+      {
+        "type": "mc",
+        "prompt": "In welchem Stock ist das Zimmer?",
+        "options": [
+          "Im ersten Stock",
+          "Im zweiten Stock",
+          "Im dritten Stock",
+          "Im vierzehnten Stock"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Am Sonntag gibt es Frühstück bis elf Uhr.",
+        "answer": true
+      },
+      {
+        "type": "tf",
+        "prompt": "Das WLAN kostet Geld.",
+        "answer": false,
+        "explanation": "Das WLAN ist kostenlos."
+      },
+      {
+        "type": "mc",
+        "prompt": "Was sehen sie vom Fenster?",
+        "options": ["Einen See", "Die Berge", "Den Bahnhof", "Das Meer"],
+        "answer": 1
+      }
+    ]
+  },
+  {
+    "id": "a1-20",
+    "level": "A1",
+    "title": "Auf dem Markt",
+    "topic": "Shopping",
+    "body": "Jeden Mittwoch und Samstag ist in unserer Stadt Markt. Frau Yıldız geht immer am Samstagmorgen dorthin. Das Obst und das Gemüse sind dort frisch und kommen von Bauern aus der Region.\n\nHeute hat sie eine große Tasche und eine Liste dabei. Zuerst kauft sie Gemüse. Sie nimmt ein Kilo Kartoffeln, drei Paprika und einen Kopf Salat. Der Verkäufer sagt: „Das macht 5,40 Euro.“\n\nDann geht sie zum Obst. Die Erdbeeren sind heute sehr schön. Sie kauft ein Kilo Erdbeeren und sechs Bananen. Die Äpfel sind auch im Angebot: zwei Kilo für drei Euro. Die nimmt sie auch.\n\nZum Schluss kauft sie noch 200 Gramm Käse und zehn Eier. Die Tasche ist jetzt sehr schwer. Zu Hause macht sie mit den Erdbeeren einen Kuchen. Am Nachmittag kommen ihre Kinder und essen den Kuchen.",
+    "glossary": [
+      {
+        "german": "der Markt",
+        "english": "market"
+      },
+      {
+        "german": "frisch",
+        "english": "fresh"
+      },
+      {
+        "german": "der Bauer",
+        "english": "farmer",
+        "match": "Bauern"
+      },
+      {
+        "german": "die Region",
+        "english": "region, local area"
+      },
+      {
+        "german": "die Tasche",
+        "english": "bag"
+      },
+      {
+        "german": "die Paprika",
+        "english": "pepper (vegetable)"
+      },
+      {
+        "german": "ein Kopf Salat",
+        "english": "a head of lettuce",
+        "match": "einen Kopf Salat"
+      },
+      {
+        "german": "die Erdbeere",
+        "english": "strawberry",
+        "match": "Erdbeeren"
+      },
+      {
+        "german": "im Angebot",
+        "english": "on special offer"
+      },
+      {
+        "german": "zum Schluss",
+        "english": "finally, at the end"
+      },
+      {
+        "german": "schwer",
+        "english": "heavy"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Wann ist in der Stadt Markt?",
+        "options": [
+          "Montag und Donnerstag",
+          "Mittwoch und Samstag",
+          "Nur am Sonntag",
+          "Jeden Tag"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Frau Yıldız geht am Mittwochmorgen auf den Markt.",
+        "answer": false,
+        "explanation": "Sie geht immer am Samstagmorgen."
+      },
+      {
+        "type": "mc",
+        "prompt": "Woher kommen Obst und Gemüse?",
+        "options": [
+          "Aus dem Supermarkt",
+          "Von Bauern aus der Region",
+          "Aus Spanien",
+          "Aus dem eigenen Garten"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie viele Paprika kauft sie?",
+        "options": ["Eine", "Zwei", "Drei", "Sechs"],
+        "answer": 2
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie viel kostet das Gemüse zusammen?",
+        "options": ["3,00 Euro", "4,50 Euro", "5,40 Euro", "6,40 Euro"],
+        "answer": 2
+      },
+      {
+        "type": "tf",
+        "prompt": "Die Äpfel sind heute im Angebot.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie viel Käse kauft sie?",
+        "options": ["100 Gramm", "200 Gramm", "500 Gramm", "Ein Kilo"],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": "Was macht sie zu Hause mit den Erdbeeren?",
+        "options": ["Marmelade", "Einen Kuchen", "Einen Obstsalat", "Nichts"],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Am Nachmittag kommen ihre Kinder.",
+        "answer": true
+      }
+    ]
+  },
+  {
+    "id": "a1-21",
+    "level": "A1",
+    "title": "Mein Zimmer",
+    "topic": "Home",
+    "body": "Hallo, ich heiße Finn und bin vierzehn Jahre alt. Ich wohne mit meinen Eltern in einem Haus in Bremen. Mein Zimmer ist im ersten Stock. Es ist nicht sehr groß, aber ich finde es schön.\n\nDie Wände sind blau. Links steht mein Bett. Über dem Bett hängt ein Poster von meiner Lieblingsband. Rechts steht ein Schrank für meine Kleidung. Am Fenster steht mein Schreibtisch. Dort mache ich meine Hausaufgaben. Auf dem Schreibtisch liegen Bücher, Stifte und mein Laptop.\n\nIch habe auch einen Teppich und eine Lampe. Der Teppich ist grün und weich. Am Abend spiele ich dort oft Gitarre.\n\nLeider ist mein Zimmer oft nicht ordentlich. Meine Mutter sagt dann: „Finn, räum bitte dein Zimmer auf!“ Am Samstag mache ich das. Dann ist alles wieder sauber.",
+    "glossary": [
+      {
+        "german": "der Stock",
+        "english": "floor, storey"
+      },
+      {
+        "german": "die Wände",
+        "english": "walls (sg. die Wand)"
+      },
+      {
+        "german": "hängt",
+        "english": "hangs — hängen"
+      },
+      {
+        "german": "die Lieblingsband",
+        "english": "favourite band"
+      },
+      {
+        "german": "der Schrank",
+        "english": "wardrobe, cupboard"
+      },
+      {
+        "german": "der Schreibtisch",
+        "english": "desk"
+      },
+      {
+        "german": "die Hausaufgaben",
+        "english": "homework"
+      },
+      {
+        "german": "die Stifte",
+        "english": "pens, pencils"
+      },
+      {
+        "german": "der Teppich",
+        "english": "carpet, rug"
+      },
+      {
+        "german": "weich",
+        "english": "soft"
+      },
+      {
+        "german": "ordentlich",
+        "english": "tidy"
+      },
+      {
+        "german": "räum … auf",
+        "english": "tidy up! — aufräumen",
+        "match": "räum bitte dein Zimmer auf"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Wie alt ist Finn?",
+        "options": ["Zwölf Jahre", "Dreizehn Jahre", "Vierzehn Jahre", "Fünfzehn Jahre"],
+        "answer": 2
+      },
+      {
+        "type": "tf",
+        "prompt": "Finns Zimmer ist sehr groß.",
+        "answer": false,
+        "explanation": "Es ist nicht sehr groß."
+      },
+      {
+        "type": "mc",
+        "prompt": "Welche Farbe haben die Wände?",
+        "options": ["Blau", "Grün", "Weiß", "Gelb"],
+        "answer": 0
+      },
+      {
+        "type": "mc",
+        "prompt": "Was hängt über dem Bett?",
+        "options": ["Eine Lampe", "Ein Poster", "Eine Uhr", "Ein Bild von der Familie"],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": "Wo steht der Schreibtisch?",
+        "options": ["Neben der Tür", "Links", "Am Fenster", "Rechts neben dem Schrank"],
+        "answer": 2
+      },
+      {
+        "type": "tf",
+        "prompt": "Finn macht am Schreibtisch seine Hausaufgaben.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Welche Farbe hat der Teppich?",
+        "options": ["Rot", "Blau", "Braun", "Grün"],
+        "answer": 3
+      },
+      {
+        "type": "tf",
+        "prompt": "Finns Zimmer ist immer ordentlich.",
+        "answer": false,
+        "explanation": "Sein Zimmer ist oft nicht ordentlich."
+      },
+      {
+        "type": "mc",
+        "prompt": "Wann räumt Finn sein Zimmer auf?",
+        "options": ["Am Montag", "Am Freitag", "Am Samstag", "Jeden Abend"],
+        "answer": 2
+      }
+    ]
+  },
+  {
+    "id": "a1-22",
+    "level": "A1",
+    "title": "Fußball am Samstag",
+    "topic": "Sport",
+    "body": "Heute ist Samstag. Leon ist neun Jahre alt und spielt Fußball in einem Verein. Heute hat seine Mannschaft ein Spiel. Das Spiel beginnt um elf Uhr.\n\nLeons Eltern kommen mit. Sie stehen am Rand und rufen: „Los, Leon!“ Auch Oma Hilde ist da. Sie hat eine Thermoskanne mit Tee dabei, denn es ist kalt.\n\nDie Kinder spielen zweimal zwanzig Minuten. Nach zehn Minuten schießt die andere Mannschaft ein Tor. Leon ist traurig. Aber dann bekommt er den Ball. Er läuft schnell und schießt. Tor! Jetzt steht es eins zu eins.\n\nIn der Pause trinken die Kinder Wasser und essen Äpfel. Der Trainer sagt: „Ihr spielt super!“\n\nKurz vor dem Ende schießt Leons Freund Emil noch ein Tor. Die Mannschaft gewinnt zwei zu eins. Alle sind glücklich. Dann gehen sie zusammen Eis essen.",
+    "glossary": [
+      {
+        "german": "der Verein",
+        "english": "club"
+      },
+      {
+        "german": "die Mannschaft",
+        "english": "team"
+      },
+      {
+        "german": "das Spiel",
+        "english": "match, game"
+      },
+      {
+        "german": "am Rand",
+        "english": "at the side (of the pitch)"
+      },
+      {
+        "german": "die Thermoskanne",
+        "english": "thermos flask"
+      },
+      {
+        "german": "schießt",
+        "english": "shoots — schießen"
+      },
+      {
+        "german": "das Tor",
+        "english": "goal"
+      },
+      {
+        "german": "traurig",
+        "english": "sad"
+      },
+      {
+        "german": "der Trainer",
+        "english": "coach"
+      },
+      {
+        "german": "gewinnt",
+        "english": "wins — gewinnen"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Wie alt ist Leon?",
+        "options": ["Sieben Jahre", "Acht Jahre", "Neun Jahre", "Zehn Jahre"],
+        "answer": 2
+      },
+      {
+        "type": "mc",
+        "prompt": "Wann beginnt das Spiel?",
+        "options": ["Um zehn Uhr", "Um elf Uhr", "Um zwölf Uhr", "Um eins"],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Oma Hilde kommt auch zum Spiel.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Was hat Oma dabei?",
+        "options": [
+          "Kuchen",
+          "Eine Thermoskanne mit Tee",
+          "Einen Ball",
+          "Wasser für die Kinder"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Leons Mannschaft schießt das erste Tor.",
+        "answer": false,
+        "explanation": "Die andere Mannschaft schießt das erste Tor."
+      },
+      {
+        "type": "mc",
+        "prompt": "Was essen die Kinder in der Pause?",
+        "options": ["Bananen", "Brötchen", "Äpfel", "Schokolade"],
+        "answer": 2
+      },
+      {
+        "type": "mc",
+        "prompt": "Wer schießt das letzte Tor?",
+        "options": ["Leon", "Der Trainer", "Die andere Mannschaft", "Emil"],
+        "answer": 3
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie endet das Spiel?",
+        "options": ["Eins zu eins", "Zwei zu eins", "Eins zu zwei", "Null zu null"],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Nach dem Spiel gehen alle nach Hause.",
+        "answer": false,
+        "explanation": "Sie gehen zusammen Eis essen."
+      }
+    ]
+  },
+  {
+    "id": "a1-23",
+    "level": "A1",
+    "title": "Im Zoo",
+    "topic": "Free time",
+    "body": "Am Sonntag fährt Familie Novak in den Zoo. Die Kinder Mila und David freuen sich sehr. Der Zoo öffnet um neun Uhr. Eine Karte kostet für Erwachsene 18 Euro und für Kinder 9 Euro.\n\nZuerst gehen sie zu den Affen. Die Affen springen und spielen. David lacht laut. Dann sehen sie die Elefanten. Ein Elefant ist noch ein Baby. Er ist klein und trinkt Milch von seiner Mutter.\n\nUm zwölf Uhr haben alle Hunger. Sie essen Pommes und Würstchen im Zoo-Restaurant. Danach kaufen die Eltern zwei Eis.\n\nAm Nachmittag besuchen sie die Löwen. Die Löwen schlafen in der Sonne. Mila findet die Pinguine am schönsten. Sie schwimmen sehr schnell. Um drei Uhr bekommen die Pinguine Fisch. Viele Leute schauen zu.\n\nAm Abend sind die Kinder müde. Im Auto schläft David sofort ein.",
+    "glossary": [
+      {
+        "german": "der Zoo",
+        "english": "zoo"
+      },
+      {
+        "german": "freuen sich",
+        "english": "are happy, look forward — sich freuen"
+      },
+      {
+        "german": "die Erwachsenen",
+        "english": "adults",
+        "match": "Erwachsene"
+      },
+      {
+        "german": "die Affen",
+        "english": "monkeys"
+      },
+      {
+        "german": "springen",
+        "english": "jump"
+      },
+      {
+        "german": "die Elefanten",
+        "english": "elephants"
+      },
+      {
+        "german": "die Würstchen",
+        "english": "sausages"
+      },
+      {
+        "german": "die Löwen",
+        "english": "lions"
+      },
+      {
+        "german": "die Pinguine",
+        "english": "penguins"
+      },
+      {
+        "german": "schauen zu",
+        "english": "watch — zuschauen"
+      },
+      {
+        "german": "schläft … ein",
+        "english": "falls asleep — einschlafen",
+        "match": "schläft David sofort ein"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Wann fährt die Familie in den Zoo?",
+        "options": ["Am Samstag", "Am Sonntag", "Am Freitag", "Am Montag"],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie viel kostet eine Karte für Kinder?",
+        "options": ["6 Euro", "8 Euro", "9 Euro", "18 Euro"],
+        "answer": 2
+      },
+      {
+        "type": "tf",
+        "prompt": "Zuerst sehen sie die Löwen.",
+        "answer": false,
+        "explanation": "Zuerst gehen sie zu den Affen."
+      },
+      {
+        "type": "tf",
+        "prompt": "Der Elefant ist noch ein Baby.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Was essen sie zu Mittag?",
+        "options": ["Pizza", "Salat", "Pommes und Würstchen", "Fisch"],
+        "answer": 2
+      },
+      {
+        "type": "mc",
+        "prompt": "Was machen die Löwen?",
+        "options": [
+          "Sie schlafen in der Sonne.",
+          "Sie essen Fleisch.",
+          "Sie spielen.",
+          "Sie schwimmen."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "mc",
+        "prompt": "Welche Tiere findet Mila am schönsten?",
+        "options": ["Die Affen", "Die Elefanten", "Die Löwen", "Die Pinguine"],
+        "answer": 3
+      },
+      {
+        "type": "tf",
+        "prompt": "Um drei Uhr bekommen die Pinguine Fisch.",
+        "answer": true
+      },
+      {
+        "type": "tf",
+        "prompt": "David schläft im Auto ein.",
+        "answer": true
+      }
+    ]
+  },
+  {
+    "id": "a1-24",
+    "level": "A1",
+    "title": "Neue Nachbarn",
+    "topic": "Neighbours",
+    "body": "Frau Kowalski wohnt im zweiten Stock. Seit drei Tagen hat sie neue Nachbarn. Am Freitagabend klingelt es an ihrer Tür.\n\nEin Mann und eine Frau stehen vor der Tür. Der Mann sagt: „Guten Abend! Wir sind Ihre neuen Nachbarn. Ich heiße Samir Haddad und das ist meine Frau Nour.“ Frau Kowalski antwortet: „Herzlich willkommen! Kommen Sie doch herein.“\n\nSie trinken zusammen Tee in der Küche. Samir ist Ingenieur. Nour ist Lehrerin an einer Grundschule. Sie kommen aus Jordanien und wohnen jetzt seit zwei Jahren in Deutschland. Sie haben eine kleine Tochter. Sie heißt Yara und ist drei Jahre alt.\n\nFrau Kowalski erzählt: „Ich wohne schon zwanzig Jahre hier. Das Haus ist ruhig und die Leute sind nett.“ Sie gibt ihnen ihre Telefonnummer. „Brauchen Sie Hilfe? Dann rufen Sie an!“\n\nAm Sonntag bringt Nour ihr einen Kuchen.",
+    "glossary": [
+      {
+        "german": "die Nachbarn",
+        "english": "neighbours"
+      },
+      {
+        "german": "klingelt es",
+        "english": "the doorbell rings",
+        "match": "klingelt es"
+      },
+      {
+        "german": "Herzlich willkommen!",
+        "english": "Welcome!"
+      },
+      {
+        "german": "herein",
+        "english": "in (come in)"
+      },
+      {
+        "german": "der Ingenieur",
+        "english": "engineer"
+      },
+      {
+        "german": "die Grundschule",
+        "english": "primary school"
+      },
+      {
+        "german": "Jordanien",
+        "english": "Jordan"
+      },
+      {
+        "german": "die Tochter",
+        "english": "daughter"
+      },
+      {
+        "german": "ruhig",
+        "english": "quiet"
+      },
+      {
+        "german": "die Hilfe",
+        "english": "help"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "In welchem Stock wohnt Frau Kowalski?",
+        "options": [
+          "Im ersten Stock",
+          "Im zweiten Stock",
+          "Im dritten Stock",
+          "Im Erdgeschoss"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Die Nachbarn klingeln am Freitagabend.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Was ist Samir von Beruf?",
+        "options": ["Lehrer", "Arzt", "Ingenieur", "Koch"],
+        "answer": 2
+      },
+      {
+        "type": "mc",
+        "prompt": "Wo arbeitet Nour?",
+        "options": [
+          "In einem Krankenhaus",
+          "An einer Grundschule",
+          "In einem Büro",
+          "In einem Café"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": "Woher kommen Samir und Nour?",
+        "options": ["Aus Polen", "Aus der Türkei", "Aus Jordanien", "Aus Syrien"],
+        "answer": 2
+      },
+      {
+        "type": "tf",
+        "prompt": "Yara ist fünf Jahre alt.",
+        "answer": false,
+        "explanation": "Yara ist drei Jahre alt."
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie lange wohnt Frau Kowalski schon im Haus?",
+        "options": ["Zwei Jahre", "Drei Tage", "Zehn Jahre", "Zwanzig Jahre"],
+        "answer": 3
+      },
+      {
+        "type": "tf",
+        "prompt": "Frau Kowalski findet das Haus laut.",
+        "answer": false,
+        "explanation": "Sie sagt, das Haus ist ruhig."
+      },
+      {
+        "type": "mc",
+        "prompt": "Was bringt Nour am Sonntag?",
+        "options": ["Blumen", "Einen Kuchen", "Tee", "Ein Buch"],
+        "answer": 1
+      }
+    ]
+  },
+  {
+    "id": "a1-25",
+    "level": "A1",
+    "title": "Im Restaurant",
+    "topic": "Food and drink",
+    "body": "Heute hat Clara Geburtstag. Sie geht mit ihrem Freund Mateo in ein italienisches Restaurant. Sie haben einen Tisch für zwei Leute um acht Uhr.\n\nDer Kellner bringt die Speisekarte. Clara möchte als Vorspeise eine Tomatensuppe. Als Hauptgericht nimmt sie Spaghetti mit Gemüse. Mateo isst kein Fleisch. Er bestellt eine Pizza mit Pilzen. Zum Trinken nehmen sie eine Flasche Wasser und zwei Gläser Wein.\n\nDas Essen ist sehr gut. Zum Nachtisch essen sie zusammen ein Tiramisu.\n\nUm zehn Uhr fragt Mateo: „Die Rechnung, bitte!“ Der Kellner sagt: „Zusammen oder getrennt?“ Mateo antwortet: „Zusammen, bitte. Ich bezahle. Heute ist ihr Geburtstag.“ Alles kostet 56 Euro. Mateo gibt dem Kellner 60 Euro und sagt: „Stimmt so.“ Der Kellner lächelt und sagt: „Vielen Dank und alles Gute zum Geburtstag!“",
+    "glossary": [
+      {
+        "german": "italienisch",
+        "english": "Italian",
+        "match": "italienisches"
+      },
+      {
+        "german": "der Kellner",
+        "english": "waiter"
+      },
+      {
+        "german": "die Speisekarte",
+        "english": "menu"
+      },
+      {
+        "german": "die Vorspeise",
+        "english": "starter"
+      },
+      {
+        "german": "das Hauptgericht",
+        "english": "main course"
+      },
+      {
+        "german": "bestellt",
+        "english": "orders — bestellen"
+      },
+      {
+        "german": "die Pilze",
+        "english": "mushrooms",
+        "match": "Pilzen"
+      },
+      {
+        "german": "der Nachtisch",
+        "english": "dessert"
+      },
+      {
+        "german": "die Rechnung",
+        "english": "bill"
+      },
+      {
+        "german": "getrennt",
+        "english": "separately"
+      },
+      {
+        "german": "Stimmt so.",
+        "english": "Keep the change."
+      },
+      {
+        "german": "lächelt",
+        "english": "smiles — lächeln"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Warum geht Clara ins Restaurant?",
+        "options": [
+          "Sie hat Geburtstag.",
+          "Sie hat keine Zeit zum Kochen.",
+          "Mateo hat Geburtstag.",
+          "Sie hat eine neue Arbeit."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "mc",
+        "prompt": "Um wie viel Uhr haben sie den Tisch?",
+        "options": ["Um sechs Uhr", "Um sieben Uhr", "Um acht Uhr", "Um zehn Uhr"],
+        "answer": 2
+      },
+      {
+        "type": "mc",
+        "prompt": "Was isst Clara als Hauptgericht?",
+        "options": ["Pizza mit Pilzen", "Spaghetti mit Gemüse", "Tomatensuppe", "Fisch"],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Mateo isst kein Fleisch.",
+        "answer": true
+      },
+      {
+        "type": "tf",
+        "prompt": "Sie trinken Bier.",
+        "answer": false,
+        "explanation": "Sie trinken Wein und Wasser."
+      },
+      {
+        "type": "mc",
+        "prompt": "Was essen sie zum Nachtisch?",
+        "options": ["Eis", "Kuchen", "Obst", "Tiramisu"],
+        "answer": 3
+      },
+      {
+        "type": "tf",
+        "prompt": "Sie bezahlen getrennt.",
+        "answer": false,
+        "explanation": "Mateo bezahlt alles zusammen."
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie viel kostet das Essen?",
+        "options": ["50 Euro", "56 Euro", "60 Euro", "65 Euro"],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie viel Trinkgeld gibt Mateo?",
+        "options": ["Kein Trinkgeld", "2 Euro", "4 Euro", "6 Euro"],
+        "answer": 2
+      }
+    ]
+  },
+  {
+    "id": "a1-26",
+    "level": "A1",
+    "title": "In der Bibliothek",
+    "topic": "Services",
+    "body": "Ayşe wohnt seit einem Monat in Münster. Sie lernt Deutsch und liest gern. Heute geht sie zum ersten Mal in die Stadtbibliothek.\n\nAn der Information fragt sie: „Guten Tag, ich möchte Bücher ausleihen. Was brauche ich?“ Die Frau sagt: „Sie brauchen einen Bibliotheksausweis. Haben Sie Ihren Pass dabei?“ Ayşe gibt ihr den Pass. Der Ausweis kostet 20 Euro für ein Jahr.\n\nDann sucht Ayşe Bücher. Im ersten Stock gibt es Bücher auf Deutsch für Anfänger. Sie nimmt drei Bücher und eine DVD. Sie kann die Bücher vier Wochen behalten. Die DVD muss sie nach einer Woche zurückbringen.\n\nDie Bibliothek ist von Montag bis Freitag von zehn bis neunzehn Uhr geöffnet. Am Samstag ist sie nur bis vierzehn Uhr offen. Am Sonntag ist sie geschlossen.\n\nAyşe findet die Bibliothek toll. Sie kommt bald wieder.",
+    "glossary": [
+      {
+        "german": "die Stadtbibliothek",
+        "english": "public library"
+      },
+      {
+        "german": "die Information",
+        "english": "information desk"
+      },
+      {
+        "german": "ausleihen",
+        "english": "to borrow"
+      },
+      {
+        "german": "der Bibliotheksausweis",
+        "english": "library card"
+      },
+      {
+        "german": "der Pass",
+        "english": "passport"
+      },
+      {
+        "german": "die Anfänger",
+        "english": "beginners",
+        "match": "Anfänger"
+      },
+      {
+        "german": "behalten",
+        "english": "to keep"
+      },
+      {
+        "german": "zurückbringen",
+        "english": "to bring back, to return"
+      },
+      {
+        "german": "geöffnet",
+        "english": "open"
+      },
+      {
+        "german": "geschlossen",
+        "english": "closed"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Seit wann wohnt Ayşe in Münster?",
+        "options": [
+          "Seit einer Woche",
+          "Seit einem Monat",
+          "Seit einem Jahr",
+          "Seit zwei Jahren"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Ayşe ist heute zum ersten Mal in der Bibliothek.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Was braucht Ayşe für den Ausweis?",
+        "options": ["Ein Foto", "Ihren Pass", "Ihre Adresse", "Eine Kreditkarte"],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie viel kostet der Ausweis?",
+        "options": ["10 Euro im Jahr", "12 Euro im Jahr", "20 Euro im Jahr", "Nichts"],
+        "answer": 2
+      },
+      {
+        "type": "mc",
+        "prompt": "Was nimmt Ayşe mit?",
+        "options": [
+          "Zwei Bücher",
+          "Drei Bücher und eine DVD",
+          "Vier Bücher",
+          "Zwei DVDs"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Die DVD kann sie vier Wochen behalten.",
+        "answer": false,
+        "explanation": "Sie muss die DVD nach einer Woche zurückbringen."
+      },
+      {
+        "type": "mc",
+        "prompt": "Bis wann ist die Bibliothek am Samstag geöffnet?",
+        "options": [
+          "Bis zwölf Uhr",
+          "Bis vierzehn Uhr",
+          "Bis sechzehn Uhr",
+          "Bis neunzehn Uhr"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Am Sonntag ist die Bibliothek geschlossen.",
+        "answer": true
+      }
+    ]
+  },
+  {
+    "id": "a1-27",
+    "level": "A1",
+    "title": "Auf der Post",
+    "topic": "Services",
+    "body": "Bald hat die Mutter von Tomás Geburtstag. Sie wohnt in Portugal. Tomás möchte ihr ein Paket schicken. Im Paket sind ein Buch, eine Tasse und Schokolade.\n\nAm Dienstag geht Tomás zur Post. Vor ihm stehen schon sechs Leute. Er wartet fünfzehn Minuten. Dann ist er dran.\n\nDer Mann am Schalter fragt: „Wohin möchten Sie das Paket schicken?“ – „Nach Lissabon, in Portugal.“ Der Mann legt das Paket auf die Waage. Es wiegt drei Kilo. „Das kostet 19 Euro. Das Paket ist in fünf bis sieben Tagen da.“\n\nTomás möchte auch zwei Postkarten schicken. Er braucht zwei Briefmarken. Eine Briefmarke für eine Karte nach Portugal kostet 1,10 Euro. Zusammen bezahlt Tomás 21,20 Euro.\n\nDer Mann gibt ihm eine Quittung. Darauf steht eine Nummer. So kann Tomás das Paket im Internet suchen. Er ist zufrieden und geht nach Hause.",
+    "glossary": [
+      {
+        "german": "das Paket",
+        "english": "parcel, package"
+      },
+      {
+        "german": "schicken",
+        "english": "to send"
+      },
+      {
+        "german": "Er ist dran.",
+        "english": "It's his turn.",
+        "match": "ist er dran"
+      },
+      {
+        "german": "der Schalter",
+        "english": "counter"
+      },
+      {
+        "german": "die Waage",
+        "english": "scales"
+      },
+      {
+        "german": "wiegt",
+        "english": "weighs — wiegen"
+      },
+      {
+        "german": "die Postkarten",
+        "english": "postcards"
+      },
+      {
+        "german": "die Briefmarke",
+        "english": "stamp",
+        "match": "Briefmarken"
+      },
+      {
+        "german": "die Quittung",
+        "english": "receipt"
+      },
+      {
+        "german": "zufrieden",
+        "english": "satisfied, happy"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Wo wohnt Tomás' Mutter?",
+        "options": ["In Spanien", "In Portugal", "In Brasilien", "In Deutschland"],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": "Was ist NICHT im Paket?",
+        "options": ["Ein Buch", "Eine Tasse", "Schokolade", "Blumen"],
+        "answer": 3
+      },
+      {
+        "type": "tf",
+        "prompt": "Tomás muss auf der Post nicht warten.",
+        "answer": false,
+        "explanation": "Er wartet fünfzehn Minuten."
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie schwer ist das Paket?",
+        "options": ["Ein Kilo", "Zwei Kilo", "Drei Kilo", "Fünf Kilo"],
+        "answer": 2
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie viel kostet das Paket?",
+        "options": ["19 Euro", "21,20 Euro", "10 Euro", "1,10 Euro"],
+        "answer": 0
+      },
+      {
+        "type": "tf",
+        "prompt": "Das Paket ist in fünf bis sieben Tagen in Portugal.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie viele Briefmarken braucht Tomás?",
+        "options": ["Eine", "Zwei", "Drei", "Keine"],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": "Was kann Tomás mit der Nummer machen?",
+        "options": [
+          "Das Paket im Internet suchen",
+          "Seine Mutter anrufen",
+          "Die Post anrufen",
+          "Geld zurückbekommen"
+        ],
+        "answer": 0
+      }
+    ]
+  },
+  {
+    "id": "a1-28",
+    "level": "A1",
+    "title": "Auf der Bank",
+    "topic": "Banking and money",
+    "body": "Priya kommt aus Indien. Sie arbeitet seit Juni in einer Firma in Frankfurt. Sie braucht ein Bankkonto. Ohne Konto kann sie kein Geld von ihrer Firma bekommen.\n\nSie hat am Mittwoch um zehn Uhr einen Termin bei der Bank. Sie bringt ihren Pass, ihren Arbeitsvertrag und die Anmeldung von ihrer Wohnung mit.\n\nHerr Vogel von der Bank ist sehr freundlich. Er erklärt alles langsam. Das Konto kostet vier Euro im Monat. Priya bekommt auch eine Bankkarte. Damit kann sie im Supermarkt bezahlen und am Automaten Geld abheben.\n\nPriya muss viele Formulare unterschreiben. Nach einer Stunde ist alles fertig. Herr Vogel sagt: „Die Karte kommt in einer Woche mit der Post. Die PIN kommt in einem anderen Brief. Sagen Sie Ihre PIN niemandem!“\n\nNach zehn Tagen hat Priya die Karte und die PIN. Sie geht sofort zum Automaten und hebt fünfzig Euro ab.",
+    "glossary": [
+      {
+        "german": "das Bankkonto",
+        "english": "bank account"
+      },
+      {
+        "german": "der Termin",
+        "english": "appointment"
+      },
+      {
+        "german": "der Arbeitsvertrag",
+        "english": "employment contract"
+      },
+      {
+        "german": "die Anmeldung",
+        "english": "(address) registration"
+      },
+      {
+        "german": "erklärt",
+        "english": "explains — erklären"
+      },
+      {
+        "german": "der Automat",
+        "english": "cash machine, ATM",
+        "match": "Automaten"
+      },
+      {
+        "german": "Geld abheben",
+        "english": "to withdraw money",
+        "match": "Geld abheben"
+      },
+      {
+        "german": "die Formulare",
+        "english": "forms"
+      },
+      {
+        "german": "unterschreiben",
+        "english": "to sign"
+      },
+      {
+        "german": "niemand",
+        "english": "nobody",
+        "match": "niemandem"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Woher kommt Priya?",
+        "options": ["Aus Indien", "Aus China", "Aus Pakistan", "Aus England"],
+        "answer": 0
+      },
+      {
+        "type": "tf",
+        "prompt": "Priya braucht ein Konto für ihr Geld von der Firma.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Wann hat Priya den Termin?",
+        "options": [
+          "Am Montag um neun Uhr",
+          "Am Mittwoch um zehn Uhr",
+          "Am Freitag um zehn Uhr",
+          "Am Mittwoch um zwei Uhr"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": "Was bringt Priya NICHT mit?",
+        "options": ["Ihren Pass", "Ihren Arbeitsvertrag", "Die Anmeldung", "Ein Foto"],
+        "answer": 3
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie viel kostet das Konto?",
+        "options": [
+          "Nichts",
+          "Zwei Euro im Monat",
+          "Vier Euro im Monat",
+          "Vierzig Euro im Jahr"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "tf",
+        "prompt": "Priya bekommt die Karte sofort bei der Bank.",
+        "answer": false,
+        "explanation": "Die Karte kommt mit der Post."
+      },
+      {
+        "type": "tf",
+        "prompt": "Die Karte und die PIN kommen im gleichen Brief.",
+        "answer": false,
+        "explanation": "Die PIN kommt in einem anderen Brief."
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie viel Geld hebt Priya am Automaten ab?",
+        "options": ["Zwanzig Euro", "Fünfzig Euro", "Hundert Euro", "Zehn Euro"],
+        "answer": 1
+      }
+    ]
+  },
+  {
+    "id": "a1-29",
+    "level": "A1",
+    "title": "Ein Termin beim Friseur",
+    "topic": "Services",
+    "body": "Sophie hat am Samstag eine Hochzeit. Ihre Haare sind zu lang. Sie ruft beim Friseur an.\n\n„Salon Haarmonie, guten Tag. Was kann ich für Sie tun?“\n„Guten Tag, hier ist Sophie Lang. Ich möchte einen Termin, bitte. Ich brauche einen Haarschnitt.“\n„Wann möchten Sie kommen?“\n„Haben Sie am Donnerstag Zeit? Vielleicht am Vormittag?“\n„Am Donnerstag haben wir leider keinen Termin frei. Geht es am Freitag um zehn Uhr?“\n„Nein, um zehn Uhr muss ich arbeiten. Geht es auch später?“\n„Ja, am Freitag um halb fünf ist noch frei.“\n„Super, das passt. Wie viel kostet ein Haarschnitt?“\n„Waschen, schneiden und föhnen kostet 45 Euro.“\n„Gut. Vielen Dank!“\n„Gern. Also Freitag, 16:30 Uhr. Bis dann, Frau Lang!“\n\nAm Freitag ist Sophie pünktlich da. Nach dem Termin sehen ihre Haare sehr schön aus.",
+    "glossary": [
+      {
+        "german": "der Friseur",
+        "english": "hairdresser"
+      },
+      {
+        "german": "die Hochzeit",
+        "english": "wedding"
+      },
+      {
+        "german": "der Haarschnitt",
+        "english": "haircut"
+      },
+      {
+        "german": "der Vormittag",
+        "english": "morning (before noon)"
+      },
+      {
+        "german": "frei",
+        "english": "free, available"
+      },
+      {
+        "german": "Geht es …?",
+        "english": "Is … possible?",
+        "match": "Geht es"
+      },
+      {
+        "german": "Das passt.",
+        "english": "That works (for me).",
+        "match": "das passt"
+      },
+      {
+        "german": "schneiden",
+        "english": "to cut"
+      },
+      {
+        "german": "föhnen",
+        "english": "to blow-dry"
+      },
+      {
+        "german": "pünktlich",
+        "english": "on time"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Warum braucht Sophie einen Termin?",
+        "options": [
+          "Sie hat Geburtstag.",
+          "Sie hat am Samstag eine Hochzeit.",
+          "Sie hat eine neue Arbeit.",
+          "Sie macht Urlaub."
+        ],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Sophie geht ohne Termin zum Friseur.",
+        "answer": false,
+        "explanation": "Sie ruft an und macht einen Termin."
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie heißt der Friseursalon?",
+        "options": ["Salon Lang", "Salon Haarmonie", "Salon Sophie", "Salon Schön"],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Am Donnerstag hat der Friseur keinen Termin frei.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Warum kann Sophie nicht um zehn Uhr kommen?",
+        "options": [
+          "Sie muss arbeiten.",
+          "Sie schläft noch.",
+          "Sie hat einen Arzttermin.",
+          "Sie ist auf der Hochzeit."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "mc",
+        "prompt": "Wann ist der Termin?",
+        "options": [
+          "Donnerstag, 10:00 Uhr",
+          "Freitag, 10:00 Uhr",
+          "Freitag, 16:30 Uhr",
+          "Samstag, 16:30 Uhr"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie viel kostet der Haarschnitt?",
+        "options": ["35 Euro", "40 Euro", "45 Euro", "54 Euro"],
+        "answer": 2
+      },
+      {
+        "type": "tf",
+        "prompt": "Sophie kommt am Freitag zu spät.",
+        "answer": false,
+        "explanation": "Sie ist pünktlich da."
+      }
+    ]
+  },
+  {
+    "id": "a1-30",
+    "level": "A1",
+    "title": "Mein Fahrrad ist kaputt",
+    "topic": "Transport",
+    "body": "Jan fährt jeden Tag mit dem Fahrrad zur Arbeit. Aber heute Morgen hat das Fahrrad ein Problem. Der Hinterreifen ist platt, und die Bremse funktioniert nicht gut. Jan muss den Bus nehmen und kommt zu spät.\n\nNach der Arbeit bringt er das Fahrrad in die Fahrradwerkstatt. Sie ist in der Goethestraße, nicht weit von seiner Wohnung. Die Mechanikerin heißt Frau Aydın. Sie ist sehr nett.\n\nFrau Aydın sieht das Fahrrad an. Sie sagt: „Der Reifen ist alt. Sie brauchen einen neuen Reifen. Die Bremse repariere ich auch.“ Jan fragt: „Was kostet das?“ – „Zusammen 48 Euro.“ – „Und wann ist das Fahrrad fertig?“ – „Heute ist Montag. Sie können es am Mittwoch ab 15 Uhr abholen.“\n\nAm Mittwoch holt Jan sein Fahrrad ab. Er bezahlt mit Karte. Das Fahrrad fährt jetzt wieder super. Am Donnerstag kommt Jan pünktlich zur Arbeit.",
+    "glossary": [
+      {
+        "german": "der Hinterreifen",
+        "english": "back tyre"
+      },
+      {
+        "german": "platt",
+        "english": "flat"
+      },
+      {
+        "german": "die Bremse",
+        "english": "brake"
+      },
+      {
+        "german": "funktioniert",
+        "english": "works — funktionieren"
+      },
+      {
+        "german": "die Fahrradwerkstatt",
+        "english": "bike repair shop"
+      },
+      {
+        "german": "die Mechanikerin",
+        "english": "mechanic (female)"
+      },
+      {
+        "german": "sieht … an",
+        "english": "looks at — ansehen",
+        "match": "sieht das Fahrrad an"
+      },
+      {
+        "german": "repariere",
+        "english": "(I) repair — reparieren"
+      },
+      {
+        "german": "fertig",
+        "english": "ready, finished"
+      },
+      {
+        "german": "abholen",
+        "english": "to pick up, to collect"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Wie fährt Jan normalerweise zur Arbeit?",
+        "options": ["Mit dem Bus", "Mit dem Auto", "Mit dem Fahrrad", "Zu Fuß"],
+        "answer": 2
+      },
+      {
+        "type": "mc",
+        "prompt": "Was ist mit dem Fahrrad los?",
+        "options": [
+          "Der Hinterreifen ist platt und die Bremse ist nicht gut.",
+          "Das Licht ist kaputt.",
+          "Der Sattel ist kaputt.",
+          "Das Fahrrad ist weg."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "tf",
+        "prompt": "Heute kommt Jan pünktlich zur Arbeit.",
+        "answer": false,
+        "explanation": "Er muss den Bus nehmen und kommt zu spät."
+      },
+      {
+        "type": "tf",
+        "prompt": "Die Werkstatt ist weit von Jans Wohnung.",
+        "answer": false,
+        "explanation": "Sie ist nicht weit von seiner Wohnung."
+      },
+      {
+        "type": "mc",
+        "prompt": "Wer repariert das Fahrrad?",
+        "options": ["Ein Kollege", "Jan", "Frau Aydın", "Ein Freund"],
+        "answer": 2
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie viel kostet die Reparatur?",
+        "options": ["28 Euro", "38 Euro", "48 Euro", "84 Euro"],
+        "answer": 2
+      },
+      {
+        "type": "mc",
+        "prompt": "Wann kann Jan das Fahrrad abholen?",
+        "options": [
+          "Am Montag ab 15 Uhr",
+          "Am Dienstag ab 15 Uhr",
+          "Am Mittwoch ab 15 Uhr",
+          "Am Donnerstag"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "tf",
+        "prompt": "Jan bezahlt mit Karte.",
+        "answer": true
+      }
+    ]
+  },
+  {
+    "id": "a1-31",
+    "level": "A1",
+    "title": "Pfannkuchen machen",
+    "topic": "Cooking",
+    "body": "Heute ist Samstag. Kemal hat Zeit und möchte mit seiner Tochter Elif Pfannkuchen machen. Elif ist sieben Jahre alt. Sie liebt Pfannkuchen!\n\nSie suchen alles zusammen. Sie brauchen Mehl, Milch, drei Eier, ein bisschen Zucker und Salz. Leider ist keine Milch mehr im Kühlschrank. Kemal geht schnell in den Supermarkt und kauft einen Liter Milch.\n\nDann gibt Elif das Mehl und die Milch in eine Schüssel. Kemal gibt die Eier dazu. Elif rührt alles mit einem Löffel. Das ist schön!\n\nKemal macht die Pfanne heiß. Er gibt ein bisschen Butter in die Pfanne. Dann backt er die Pfannkuchen. Elif darf nicht an den Herd. Er ist zu heiß.\n\nNach zwanzig Minuten sind zehn Pfannkuchen fertig. Elif isst sie mit Apfelmus. Kemal nimmt Zucker und Zimt. Dann kommt die Mutter nach Hause. Sie isst auch zwei.",
+    "glossary": [
+      {
+        "german": "der Pfannkuchen",
+        "english": "pancake"
+      },
+      {
+        "german": "das Mehl",
+        "english": "flour"
+      },
+      {
+        "german": "die Schüssel",
+        "english": "bowl"
+      },
+      {
+        "german": "rühren",
+        "english": "to stir",
+        "match": "rührt"
+      },
+      {
+        "german": "der Löffel",
+        "english": "spoon"
+      },
+      {
+        "german": "die Pfanne",
+        "english": "frying pan"
+      },
+      {
+        "german": "heiß",
+        "english": "hot"
+      },
+      {
+        "german": "backen",
+        "english": "to bake, to fry (pancakes)",
+        "match": "backt"
+      },
+      {
+        "german": "der Herd",
+        "english": "stove, cooker"
+      },
+      {
+        "german": "das Apfelmus",
+        "english": "apple sauce"
+      },
+      {
+        "german": "der Zimt",
+        "english": "cinnamon"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Wie alt ist Elif?",
+        "options": ["Fünf Jahre", "Sechs Jahre", "Sieben Jahre", "Acht Jahre"],
+        "answer": 2
+      },
+      {
+        "type": "tf",
+        "prompt": "Kemal und Elif haben genug Milch zu Hause.",
+        "answer": false,
+        "explanation": "Es ist keine Milch mehr im Kühlschrank."
+      },
+      {
+        "type": "mc",
+        "prompt": "Was kauft Kemal im Supermarkt?",
+        "options": ["Eier", "Mehl", "Butter", "Milch"],
+        "answer": 3
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie viele Eier brauchen sie?",
+        "options": ["Zwei", "Drei", "Vier", "Sechs"],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": "Womit rührt Elif?",
+        "options": [
+          "Mit einem Löffel",
+          "Mit einem Messer",
+          "Mit der Hand",
+          "Mit einer Gabel"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "tf",
+        "prompt": "Elif backt die Pfannkuchen am Herd.",
+        "answer": false,
+        "explanation": "Der Herd ist zu heiß. Kemal backt die Pfannkuchen."
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie viele Pfannkuchen sind fertig?",
+        "options": ["Fünf", "Acht", "Zehn", "Zwölf"],
+        "answer": 2
+      },
+      {
+        "type": "tf",
+        "prompt": "Elif isst die Pfannkuchen mit Apfelmus.",
+        "answer": true
+      }
+    ]
+  },
+  {
+    "id": "a1-32",
+    "level": "A1",
+    "title": "Weihnachten in Deutschland",
+    "topic": "Holidays",
+    "body": "Meera kommt aus Indien und wohnt seit einem Jahr in Leipzig. Ihre Freundin Hanna lädt sie zu Weihnachten ein. Die Familie von Hanna wohnt in einem kleinen Dorf.\n\nAm 24. Dezember fährt Meera mit dem Zug zu Familie Becker. Im Wohnzimmer steht ein großer Weihnachtsbaum mit Kerzen. Das ist sehr schön!\n\nAm Nachmittag gehen alle zusammen in die Kirche. Dann gibt es Abendessen: Kartoffelsalat mit Würstchen. Das essen viele Familien in Deutschland an Weihnachten. Dann singen sie Lieder und bekommen Geschenke. Meera bekommt einen Schal und ein Buch.\n\nDer 25. und der 26. Dezember sind Feiertage. Die Geschäfte sind geschlossen. Die Familie isst viel: Gans und Rotkohl. Am Nachmittag gibt es Kaffee und Plätzchen.\n\nMeera findet Weihnachten in Deutschland sehr schön. Sie sagt: „Nächstes Jahr koche ich für euch indisch!“",
+    "glossary": [
+      {
+        "german": "Weihnachten",
+        "english": "Christmas"
+      },
+      {
+        "german": "einladen",
+        "english": "to invite",
+        "match": "lädt"
+      },
+      {
+        "german": "der Weihnachtsbaum",
+        "english": "Christmas tree"
+      },
+      {
+        "german": "die Kerze",
+        "english": "candle",
+        "match": "Kerzen"
+      },
+      {
+        "german": "das Würstchen",
+        "english": "sausage",
+        "match": "Würstchen"
+      },
+      {
+        "german": "das Lied",
+        "english": "song",
+        "match": "Lieder"
+      },
+      {
+        "german": "der Feiertag",
+        "english": "public holiday",
+        "match": "Feiertage"
+      },
+      {
+        "german": "geschlossen",
+        "english": "closed"
+      },
+      {
+        "german": "die Gans",
+        "english": "goose"
+      },
+      {
+        "german": "der Rotkohl",
+        "english": "red cabbage"
+      },
+      {
+        "german": "die Plätzchen",
+        "english": "(Christmas) biscuits, cookies"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Woher kommt Meera?",
+        "options": ["Aus Indien", "Aus Leipzig", "Aus Polen", "Aus England"],
+        "answer": 0
+      },
+      {
+        "type": "mc",
+        "prompt": "Wo wohnt die Familie von Hanna?",
+        "options": ["In Leipzig", "In einem kleinen Dorf", "In Berlin", "In Indien"],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Meera fährt mit dem Auto zu Familie Becker.",
+        "answer": false,
+        "explanation": "Sie fährt mit dem Zug."
+      },
+      {
+        "type": "mc",
+        "prompt": "Was steht im Wohnzimmer?",
+        "options": [
+          "Ein großes Sofa",
+          "Ein Klavier",
+          "Ein Weihnachtsbaum mit Kerzen",
+          "Ein Tisch mit Geschenken"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "mc",
+        "prompt": "Was gibt es am 24. Dezember zum Abendessen?",
+        "options": [
+          "Gans und Rotkohl",
+          "Kartoffelsalat mit Würstchen",
+          "Fisch mit Reis",
+          "Pizza"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Meera bekommt einen Schal und ein Buch.",
+        "answer": true
+      },
+      {
+        "type": "tf",
+        "prompt": "Am 25. Dezember sind die Geschäfte offen.",
+        "answer": false,
+        "explanation": "Die Geschäfte sind geschlossen."
+      },
+      {
+        "type": "mc",
+        "prompt": "Was möchte Meera nächstes Jahr machen?",
+        "options": [
+          "Nach Indien fahren",
+          "Indisch kochen",
+          "Einen Weihnachtsbaum kaufen",
+          "In der Kirche singen"
+        ],
+        "answer": 1
+      }
+    ]
+  },
+  {
+    "id": "a1-33",
+    "level": "A1",
+    "title": "Im Schwimmbad",
+    "topic": "Leisure",
+    "body": "Es ist Juli und es ist sehr heiß. Herr Bauer fährt mit seinen Söhnen Moritz und Theo ins Schwimmbad. Moritz ist zwölf, Theo ist acht.\n\nAn der Kasse kauft Herr Bauer die Tickets. Ein Ticket für Erwachsene kostet sechs Euro. Kinder bezahlen nur drei Euro. Zusammen kostet das zwölf Euro.\n\nIm Schwimmbad gibt es drei Becken. Das große Becken ist tief. Dort dürfen nur gute Schwimmer schwimmen. Theo kann noch nicht so gut schwimmen. Er bleibt im kleinen Becken. Moritz springt gern vom Sprungbrett.\n\nEs gibt auch Regeln. Man darf am Becken nicht laufen. Man muss vor dem Schwimmen duschen. Und man darf kein Glas mitbringen.\n\nUm zwölf Uhr haben alle Hunger. Sie essen Pommes und trinken Limonade. Am Nachmittag liegen sie in der Sonne. Um fünf Uhr fahren sie müde nach Hause.",
+    "glossary": [
+      {
+        "german": "das Schwimmbad",
+        "english": "swimming pool (the facility)"
+      },
+      {
+        "german": "die Erwachsenen",
+        "english": "adults",
+        "match": "Erwachsene"
+      },
+      {
+        "german": "das Becken",
+        "english": "pool (the water basin)"
+      },
+      {
+        "german": "tief",
+        "english": "deep"
+      },
+      {
+        "german": "der Schwimmer",
+        "english": "swimmer",
+        "match": "Schwimmer"
+      },
+      {
+        "german": "springen",
+        "english": "to jump",
+        "match": "springt"
+      },
+      {
+        "german": "das Sprungbrett",
+        "english": "diving board"
+      },
+      {
+        "german": "die Regel",
+        "english": "rule",
+        "match": "Regeln"
+      },
+      {
+        "german": "laufen",
+        "english": "to run"
+      },
+      {
+        "german": "die Pommes",
+        "english": "chips, French fries"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Wie alt ist Theo?",
+        "options": ["Sechs", "Acht", "Zehn", "Zwölf"],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie viel kostet ein Ticket für Kinder?",
+        "options": ["Drei Euro", "Sechs Euro", "Neun Euro", "Zwölf Euro"],
+        "answer": 0
+      },
+      {
+        "type": "tf",
+        "prompt": "Zusammen bezahlt Herr Bauer zwölf Euro.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Wer darf im großen Becken schwimmen?",
+        "options": ["Nur Kinder", "Nur gute Schwimmer", "Alle Leute", "Nur Erwachsene"],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Theo schwimmt im großen Becken.",
+        "answer": false,
+        "explanation": "Er kann noch nicht so gut schwimmen. Er bleibt im kleinen Becken."
+      },
+      {
+        "type": "mc",
+        "prompt": "Was macht Moritz gern?",
+        "options": [
+          "Er liegt in der Sonne.",
+          "Er isst Eis.",
+          "Er springt vom Sprungbrett.",
+          "Er spielt Fußball."
+        ],
+        "answer": 2
+      },
+      {
+        "type": "mc",
+        "prompt": "Welche Regel steht NICHT im Text?",
+        "options": [
+          "Man darf am Becken nicht laufen.",
+          "Man muss vor dem Schwimmen duschen.",
+          "Man darf kein Glas mitbringen.",
+          "Man darf im Schwimmbad nicht essen."
+        ],
+        "answer": 3
+      },
+      {
+        "type": "tf",
+        "prompt": "Um zwölf Uhr essen sie Pommes.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Wann fahren sie nach Hause?",
+        "options": ["Um zwölf Uhr", "Um drei Uhr", "Um fünf Uhr", "Um sieben Uhr"],
+        "answer": 2
+      }
+    ]
+  },
+  {
+    "id": "a1-34",
+    "level": "A1",
+    "title": "Der Stundenplan",
+    "topic": "School",
+    "body": "Ich heiße Lina und bin neun Jahre alt. Ich gehe in die vierte Klasse. Die Schule beginnt jeden Tag um acht Uhr.\n\nAm Montag habe ich Deutsch, Mathe und Englisch. Mathe ist nicht mein Lieblingsfach. Es ist schwer. Am Dienstag haben wir Sport. Wir spielen oft Basketball in der Turnhalle. Am Mittwoch habe ich nur vier Stunden. Um elf Uhr dreißig ist die Schule schon aus.\n\nMein Lieblingstag ist Donnerstag. Dann haben wir Kunst und Musik. Ich male sehr gern. Unsere Lehrerin, Frau Park, ist sehr nett. Am Freitag schreiben wir oft einen Test. Das mag ich nicht.\n\nIn der Pause esse ich ein Brot und einen Apfel. Dann spiele ich mit meinen Freundinnen auf dem Schulhof. Nach der Schule mache ich meine Hausaufgaben. Am Wochenende habe ich frei.",
+    "glossary": [
+      {
+        "german": "die Klasse",
+        "english": "class, school year"
+      },
+      {
+        "german": "das Lieblingsfach",
+        "english": "favourite subject"
+      },
+      {
+        "german": "die Turnhalle",
+        "english": "gym, sports hall"
+      },
+      {
+        "german": "die Stunde",
+        "english": "lesson, period",
+        "match": "Stunden"
+      },
+      {
+        "german": "aus sein",
+        "english": "to be over",
+        "match": "ist die Schule schon aus"
+      },
+      {
+        "german": "der Lieblingstag",
+        "english": "favourite day"
+      },
+      {
+        "german": "die Kunst",
+        "english": "art"
+      },
+      {
+        "german": "malen",
+        "english": "to paint, to draw",
+        "match": "male"
+      },
+      {
+        "german": "die Pause",
+        "english": "break"
+      },
+      {
+        "german": "der Schulhof",
+        "english": "schoolyard"
+      },
+      {
+        "german": "die Hausaufgaben",
+        "english": "homework"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "In welche Klasse geht Lina?",
+        "options": [
+          "In die erste Klasse",
+          "In die dritte Klasse",
+          "In die vierte Klasse",
+          "In die fünfte Klasse"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "tf",
+        "prompt": "Mathe ist Linas Lieblingsfach.",
+        "answer": false,
+        "explanation": "Mathe ist nicht ihr Lieblingsfach. Es ist schwer."
+      },
+      {
+        "type": "mc",
+        "prompt": "Was spielen die Kinder am Dienstag oft?",
+        "options": ["Fußball", "Basketball", "Tennis", "Volleyball"],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": "Wann ist die Schule am Mittwoch aus?",
+        "options": ["Um 10:30 Uhr", "Um 11:30 Uhr", "Um 12:30 Uhr", "Um 13:00 Uhr"],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": "Welcher Tag ist Linas Lieblingstag?",
+        "options": ["Montag", "Dienstag", "Freitag", "Donnerstag"],
+        "answer": 3
+      },
+      {
+        "type": "tf",
+        "prompt": "Lina malt sehr gern.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Was macht die Klasse am Freitag oft?",
+        "options": [
+          "Sie singt.",
+          "Sie schreibt einen Test.",
+          "Sie macht Sport.",
+          "Sie hat frei."
+        ],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "In der Pause isst Lina ein Brot und einen Apfel.",
+        "answer": true
+      }
+    ]
+  },
+  {
+    "id": "a1-35",
+    "level": "A1",
+    "title": "Mein Lieblingsessen",
+    "topic": "Food and drink",
+    "body": "Ich heiße Rosa und komme aus Spanien. Seit drei Jahren wohne ich in Bremen. Ich arbeite als Krankenschwester. Mein Lieblingsessen ist Tortilla. Das ist ein Omelett mit Kartoffeln. In Spanien isst man es sehr oft.\n\nDas Rezept ist einfach. Man braucht nur fünf Sachen: Kartoffeln, Eier, eine Zwiebel, Öl und Salz. Zuerst schneide ich die Kartoffeln und die Zwiebel klein. Dann brate ich alles in viel Öl. Das dauert zwanzig Minuten. Dann gebe ich die Eier dazu.\n\nMeine Mutter kocht die beste Tortilla. Sie wohnt in Madrid. Ich telefoniere oft mit ihr und frage: „Mama, wie machst du das?“\n\nAm Sonntag koche ich Tortilla für meine deutschen Freunde. Sie finden sie sehr lecker. Mein Freund Henrik isst immer drei Stücke!",
+    "glossary": [
+      {
+        "german": "das Lieblingsessen",
+        "english": "favourite food"
+      },
+      {
+        "german": "die Krankenschwester",
+        "english": "nurse (female)"
+      },
+      {
+        "german": "das Rezept",
+        "english": "recipe"
+      },
+      {
+        "german": "die Sachen",
+        "english": "things"
+      },
+      {
+        "german": "die Zwiebel",
+        "english": "onion"
+      },
+      {
+        "german": "schneiden",
+        "english": "to cut",
+        "match": "schneide"
+      },
+      {
+        "german": "braten",
+        "english": "to fry",
+        "match": "brate"
+      },
+      {
+        "german": "das Öl",
+        "english": "oil"
+      },
+      {
+        "german": "dazugeben",
+        "english": "to add",
+        "match": "gebe ich die Eier dazu"
+      },
+      {
+        "german": "lecker",
+        "english": "tasty, delicious"
+      },
+      {
+        "german": "das Stück",
+        "english": "piece",
+        "match": "Stücke"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Woher kommt Rosa?",
+        "options": ["Aus Mexiko", "Aus Spanien", "Aus Italien", "Aus Portugal"],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": "Was ist Rosa von Beruf?",
+        "options": ["Köchin", "Lehrerin", "Krankenschwester", "Verkäuferin"],
+        "answer": 2
+      },
+      {
+        "type": "tf",
+        "prompt": "Rosa wohnt seit drei Jahren in Bremen.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Was ist eine Tortilla?",
+        "options": [
+          "Eine Suppe mit Fisch",
+          "Ein Omelett mit Kartoffeln",
+          "Ein Kuchen mit Obst",
+          "Ein Salat mit Käse"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie viele Sachen braucht man für das Rezept?",
+        "options": ["Drei", "Vier", "Fünf", "Sechs"],
+        "answer": 2
+      },
+      {
+        "type": "tf",
+        "prompt": "Die Kartoffeln und die Zwiebel braten nur fünf Minuten.",
+        "answer": false,
+        "explanation": "Das dauert zwanzig Minuten."
+      },
+      {
+        "type": "mc",
+        "prompt": "Wo wohnt Rosas Mutter?",
+        "options": ["In Bremen", "In Madrid", "In Barcelona", "In Sevilla"],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie viele Stücke isst Henrik immer?",
+        "options": ["Eins", "Zwei", "Vier", "Drei"],
+        "answer": 3
+      },
+      {
+        "type": "tf",
+        "prompt": "Rosas Freunde finden die Tortilla nicht gut.",
+        "answer": false,
+        "explanation": "Sie finden sie sehr lecker."
+      }
+    ]
+  },
+  {
+    "id": "a1-36",
+    "level": "A1",
+    "title": "Ein Ausflug in die Berge",
+    "topic": "Travel",
+    "body": "Am Sonntag machen Yuki und ihr Freund Tobias einen Ausflug. Sie wohnen in München. Die Berge sind nicht weit. Mit dem Zug fahren sie eine Stunde bis zum Tegernsee.\n\nAm Morgen ist das Wetter schön. Die Sonne scheint und es ist warm. Yuki trägt nur ein T-Shirt. Tobias hat einen Rucksack mit Wasser, Brot und Äpfeln. Er hat auch eine Jacke dabei.\n\nSie wandern drei Stunden auf einen Berg. Der Weg ist steil und Yuki ist müde. Oben machen sie eine Pause. Sie essen und sehen den See. Das ist wunderschön!\n\nAber dann kommen dunkle Wolken. Es wird kalt und windig. Dann regnet es stark. Yuki friert. Tobias gibt ihr seine Jacke. Schnell gehen sie zu einer Hütte. Dort trinken sie heißen Tee und warten. Nach einer Stunde scheint wieder die Sonne.",
+    "glossary": [
+      {
+        "german": "der Ausflug",
+        "english": "trip, excursion"
+      },
+      {
+        "german": "der Berg",
+        "english": "mountain",
+        "match": "Berge"
+      },
+      {
+        "german": "der Rucksack",
+        "english": "backpack"
+      },
+      {
+        "german": "dabeihaben",
+        "english": "to have with you",
+        "match": "dabei"
+      },
+      {
+        "german": "wandern",
+        "english": "to hike"
+      },
+      {
+        "german": "steil",
+        "english": "steep"
+      },
+      {
+        "german": "oben",
+        "english": "at the top, up there"
+      },
+      {
+        "german": "die Wolke",
+        "english": "cloud",
+        "match": "Wolken"
+      },
+      {
+        "german": "windig",
+        "english": "windy"
+      },
+      {
+        "german": "frieren",
+        "english": "to be cold, to freeze",
+        "match": "friert"
+      },
+      {
+        "german": "die Hütte",
+        "english": "hut, mountain hut"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Wo wohnen Yuki und Tobias?",
+        "options": ["In Berlin", "In München", "Am Tegernsee", "In Wien"],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie fahren sie zum Tegernsee?",
+        "options": ["Mit dem Auto", "Mit dem Bus", "Mit dem Zug", "Mit dem Fahrrad"],
+        "answer": 2
+      },
+      {
+        "type": "tf",
+        "prompt": "Am Morgen ist das Wetter schlecht.",
+        "answer": false,
+        "explanation": "Die Sonne scheint und es ist warm."
+      },
+      {
+        "type": "mc",
+        "prompt": "Was hat Tobias im Rucksack?",
+        "options": [
+          "Wasser, Brot und Äpfel",
+          "Kaffee und Kuchen",
+          "Bier und Wurst",
+          "Nur Wasser"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie lange wandern sie auf den Berg?",
+        "options": ["Eine Stunde", "Zwei Stunden", "Drei Stunden", "Vier Stunden"],
+        "answer": 2
+      },
+      {
+        "type": "tf",
+        "prompt": "Oben sehen sie den See.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie ist das Wetter nach der Pause?",
+        "options": [
+          "Warm und sonnig",
+          "Kalt, windig und nass",
+          "Sehr heiß",
+          "Es schneit."
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": "Was macht Tobias?",
+        "options": [
+          "Er gibt Yuki seine Jacke.",
+          "Er ruft ein Taxi.",
+          "Er kauft einen Schirm.",
+          "Er läuft nach Hause."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "tf",
+        "prompt": "In der Hütte trinken sie heißen Tee.",
+        "answer": true
+      }
+    ]
+  },
+  {
+    "id": "a1-37",
+    "level": "A1",
+    "title": "Am Flughafen",
+    "topic": "Travel",
+    "body": "Elena fliegt heute nach Lissabon. Dort wohnt ihre Schwester. Der Flug geht um 14:20 Uhr. Elena ist schon um zwölf Uhr am Flughafen in Frankfurt.\n\nZuerst geht sie zum Check-in. Die Frau am Schalter sagt: „Ihren Pass, bitte.“ Elena gibt ihr den Pass und das Ticket. Ihr Koffer wiegt 21 Kilo. Das ist in Ordnung. Elena bekommt ihre Bordkarte. Sie hat Platz 18A am Fenster.\n\nDann geht sie durch die Sicherheitskontrolle. Das dauert lange. Viele Leute warten. Danach kauft Elena eine Flasche Wasser und eine Zeitschrift.\n\nUm 13:30 Uhr ist sie am Gate B12. Aber auf dem Bildschirm steht: „Verspätung“. Der Flug geht erst um 15:45 Uhr. Elena ruft ihre Schwester an und sagt: „Ich komme später.“ Dann liest sie die Zeitschrift und wartet. Endlich kann sie einsteigen.",
+    "glossary": [
+      {
+        "german": "der Flug",
+        "english": "flight"
+      },
+      {
+        "german": "der Flughafen",
+        "english": "airport"
+      },
+      {
+        "german": "der Schalter",
+        "english": "counter, desk"
+      },
+      {
+        "german": "der Koffer",
+        "english": "suitcase"
+      },
+      {
+        "german": "wiegen",
+        "english": "to weigh",
+        "match": "wiegt"
+      },
+      {
+        "german": "in Ordnung",
+        "english": "okay, fine"
+      },
+      {
+        "german": "die Bordkarte",
+        "english": "boarding pass"
+      },
+      {
+        "german": "die Sicherheitskontrolle",
+        "english": "security check"
+      },
+      {
+        "german": "die Zeitschrift",
+        "english": "magazine"
+      },
+      {
+        "german": "die Verspätung",
+        "english": "delay"
+      },
+      {
+        "german": "einsteigen",
+        "english": "to board, to get on"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Wohin fliegt Elena?",
+        "options": ["Nach Frankfurt", "Nach Lissabon", "Nach Madrid", "Nach Rom"],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": "Wer wohnt in Lissabon?",
+        "options": ["Ihre Mutter", "Ihre Freundin", "Ihre Schwester", "Ihr Bruder"],
+        "answer": 2
+      },
+      {
+        "type": "tf",
+        "prompt": "Elena ist um zwölf Uhr am Flughafen.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie viel wiegt Elenas Koffer?",
+        "options": ["12 Kilo", "18 Kilo", "21 Kilo", "25 Kilo"],
+        "answer": 2
+      },
+      {
+        "type": "mc",
+        "prompt": "Wo sitzt Elena im Flugzeug?",
+        "options": ["Am Fenster", "In der Mitte", "Am Gang", "Ganz hinten"],
+        "answer": 0
+      },
+      {
+        "type": "tf",
+        "prompt": "Die Sicherheitskontrolle geht sehr schnell.",
+        "answer": false,
+        "explanation": "Das dauert lange. Viele Leute warten."
+      },
+      {
+        "type": "mc",
+        "prompt": "Was kauft Elena nach der Sicherheitskontrolle?",
+        "options": [
+          "Kaffee und Kuchen",
+          "Wasser und eine Zeitschrift",
+          "Ein Buch",
+          "Schokolade"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": "Wann geht der Flug jetzt?",
+        "options": ["Um 13:30 Uhr", "Um 14:20 Uhr", "Um 16:15 Uhr", "Um 15:45 Uhr"],
+        "answer": 3
+      },
+      {
+        "type": "tf",
+        "prompt": "Elena ruft ihre Schwester an.",
+        "answer": true
+      }
+    ]
+  },
+  {
+    "id": "a1-38",
+    "level": "A1",
+    "title": "Ein Geschenk für Papa",
+    "topic": "Shopping",
+    "body": "Am Sonntag hat Papa Geburtstag. Er wird fünfzig. Jule und ihr Bruder Noah suchen ein Geschenk. Am Samstag gehen sie ins Kaufhaus.\n\nDas Kaufhaus hat fünf Etagen. Im Erdgeschoss gibt es Taschen und Uhren. Noah sagt: „Papa braucht ein neues Hemd.“ Aber Jule findet das langweilig.\n\nIm zweiten Stock gibt es Bücher und Spiele. Papa liest gern Krimis. Jule findet einen neuen Krimi. Er kostet 22 Euro. Aber hat Papa das Buch schon? Sie wissen es nicht.\n\nIm dritten Stock gibt es Sportsachen. Papa fährt jeden Tag Fahrrad. Noah sieht einen Fahrradhelm. Er ist blau, Papas Lieblingsfarbe. Er kostet 45 Euro. Das ist teuer, aber sie bezahlen zusammen.\n\nDie Verkäuferin packt das Geschenk schön ein. Am Sonntag freut sich Papa sehr über den Helm.",
+    "glossary": [
+      {
+        "german": "das Geschenk",
+        "english": "present, gift"
+      },
+      {
+        "german": "Er wird fünfzig.",
+        "english": "He turns fifty.",
+        "match": "wird fünfzig"
+      },
+      {
+        "german": "das Kaufhaus",
+        "english": "department store"
+      },
+      {
+        "german": "die Etage",
+        "english": "floor, storey",
+        "match": "Etagen"
+      },
+      {
+        "german": "das Erdgeschoss",
+        "english": "ground floor"
+      },
+      {
+        "german": "das Hemd",
+        "english": "shirt"
+      },
+      {
+        "german": "langweilig",
+        "english": "boring"
+      },
+      {
+        "german": "der Krimi",
+        "english": "crime novel, detective story"
+      },
+      {
+        "german": "der Fahrradhelm",
+        "english": "bicycle helmet"
+      },
+      {
+        "german": "die Lieblingsfarbe",
+        "english": "favourite colour"
+      },
+      {
+        "german": "einpacken",
+        "english": "to wrap",
+        "match": "packt das Geschenk schön ein"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Wie alt wird Papa?",
+        "options": ["Vierzig", "Fünfundvierzig", "Fünfzig", "Fünfundfünfzig"],
+        "answer": 2
+      },
+      {
+        "type": "mc",
+        "prompt": "Wann gehen Jule und Noah ins Kaufhaus?",
+        "options": ["Am Freitag", "Am Samstag", "Am Sonntag", "Am Montag"],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Jule findet ein Hemd langweilig.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Was gibt es im zweiten Stock?",
+        "options": ["Taschen und Uhren", "Bücher und Spiele", "Sportsachen", "Kleidung"],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie viel kostet der Krimi?",
+        "options": ["12 Euro", "22 Euro", "42 Euro", "45 Euro"],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Sie kaufen den Krimi für Papa.",
+        "answer": false,
+        "explanation": "Sie kaufen einen Fahrradhelm."
+      },
+      {
+        "type": "mc",
+        "prompt": "Welche Farbe hat der Helm?",
+        "options": ["Rot", "Schwarz", "Grün", "Blau"],
+        "answer": 3
+      },
+      {
+        "type": "mc",
+        "prompt": "Wer bezahlt den Helm?",
+        "options": ["Jule allein", "Noah allein", "Jule und Noah zusammen", "Mama"],
+        "answer": 2
+      },
+      {
+        "type": "tf",
+        "prompt": "Papa freut sich über das Geschenk.",
+        "answer": true
+      }
+    ]
+  },
+  {
+    "id": "a1-39",
+    "level": "A1",
+    "title": "Zu spät!",
+    "topic": "Daily routine",
+    "body": "Heute ist Montag. Tariq hat um neun Uhr ein wichtiges Meeting im Büro. Aber heute geht alles schief.\n\nSein Wecker klingelt nicht. Das Handy ist leer. Tariq wacht erst um acht Uhr auf. Er springt aus dem Bett. Er hat keine Zeit zum Duschen. Er trinkt schnell einen Kaffee. Der Kaffee ist zu heiß und Tariq macht sein Hemd schmutzig. Also muss er ein neues Hemd anziehen.\n\nUm halb neun läuft er zur Bushaltestelle. Da fährt der Bus gerade ab! Der nächste Bus kommt erst in fünfzehn Minuten. Tariq nimmt ein Taxi. Aber auf der Straße ist Stau.\n\nUm zwanzig nach neun ist Tariq endlich im Büro. Er ist sehr nervös. Aber seine Chefin lacht und sagt: „Kein Problem. Das Meeting beginnt heute erst um zehn!“",
+    "glossary": [
+      {
+        "german": "wichtig",
+        "english": "important",
+        "match": "wichtiges"
+      },
+      {
+        "german": "schiefgehen",
+        "english": "to go wrong",
+        "match": "geht alles schief"
+      },
+      {
+        "german": "aufwachen",
+        "english": "to wake up",
+        "match": "wacht"
+      },
+      {
+        "german": "springen",
+        "english": "to jump",
+        "match": "springt"
+      },
+      {
+        "german": "schmutzig",
+        "english": "dirty"
+      },
+      {
+        "german": "anziehen",
+        "english": "to put on (clothes)"
+      },
+      {
+        "german": "die Bushaltestelle",
+        "english": "bus stop"
+      },
+      {
+        "german": "abfahren",
+        "english": "to leave, to depart",
+        "match": "fährt der Bus gerade ab"
+      },
+      {
+        "german": "der Stau",
+        "english": "traffic jam"
+      },
+      {
+        "german": "nervös",
+        "english": "nervous"
+      },
+      {
+        "german": "die Chefin",
+        "english": "boss (female)"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Wann hat Tariq das Meeting?",
+        "options": ["Um acht Uhr", "Um halb neun", "Um neun Uhr", "Um elf Uhr"],
+        "answer": 2
+      },
+      {
+        "type": "mc",
+        "prompt": "Warum klingelt der Wecker nicht?",
+        "options": [
+          "Der Wecker ist kaputt.",
+          "Das Handy ist leer.",
+          "Tariq hat ihn vergessen.",
+          "Es ist Sonntag."
+        ],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Tariq duscht am Morgen.",
+        "answer": false,
+        "explanation": "Er hat keine Zeit zum Duschen."
+      },
+      {
+        "type": "mc",
+        "prompt": "Warum muss Tariq ein neues Hemd anziehen?",
+        "options": [
+          "Das Hemd ist zu klein.",
+          "Der Kaffee macht das Hemd schmutzig.",
+          "Es regnet.",
+          "Die Chefin möchte das."
+        ],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Tariq nimmt den Bus um halb neun.",
+        "answer": false,
+        "explanation": "Der Bus fährt gerade ab. Tariq nimmt ein Taxi."
+      },
+      {
+        "type": "mc",
+        "prompt": "Wann kommt der nächste Bus?",
+        "options": [
+          "In fünf Minuten",
+          "In zehn Minuten",
+          "In fünfzehn Minuten",
+          "In einer Stunde"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "mc",
+        "prompt": "Was ist das Problem mit dem Taxi?",
+        "options": [
+          "Es kommt nicht.",
+          "Auf der Straße ist Stau.",
+          "Es ist zu teuer.",
+          "Der Fahrer kennt den Weg nicht."
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": "Wann ist Tariq im Büro?",
+        "options": ["Um 9:00 Uhr", "Um 9:10 Uhr", "Um 9:20 Uhr", "Um 10:00 Uhr"],
+        "answer": 2
+      },
+      {
+        "type": "tf",
+        "prompt": "Das Meeting beginnt heute erst um zehn Uhr.",
+        "answer": true
+      }
+    ]
+  },
+  {
+    "id": "a1-40",
+    "level": "A1",
+    "title": "Ein Konzert",
+    "topic": "Free time",
+    "body": "Zeynep hört sehr gern Musik. Ihre Lieblingsband spielt im Mai in Köln. Zeynep möchte unbedingt zum Konzert gehen. Sie fragt ihre Freundin Merve: „Kommst du mit?“ Merve sagt sofort ja.\n\nSie kauft die Karten im Internet. Eine Karte kostet 39 Euro. Das ist teuer, aber sie spart schon lange.\n\nAm Tag vom Konzert fahren die zwei Freundinnen mit der S-Bahn zur Halle. Vor der Halle stehen viele Leute. Sie warten eine halbe Stunde am Eingang. Dann zeigen sie ihre Karten auf dem Handy.\n\nUm acht Uhr beginnt das Konzert. Die Halle ist voll und sehr laut. Die zwei singen alle Lieder mit und tanzen. Das Konzert dauert zwei Stunden.\n\nNach dem Konzert kaufen sie noch ein T-Shirt von der Band. Um Mitternacht sind sie zu Hause. Zeynep ist müde, aber sehr glücklich.",
+    "glossary": [
+      {
+        "german": "die Lieblingsband",
+        "english": "favourite band"
+      },
+      {
+        "german": "unbedingt",
+        "english": "really, absolutely"
+      },
+      {
+        "german": "sparen",
+        "english": "to save (money)",
+        "match": "spart"
+      },
+      {
+        "german": "die Halle",
+        "english": "hall, arena"
+      },
+      {
+        "german": "der Eingang",
+        "english": "entrance"
+      },
+      {
+        "german": "zeigen",
+        "english": "to show",
+        "match": "zeigen"
+      },
+      {
+        "german": "voll",
+        "english": "full"
+      },
+      {
+        "german": "laut",
+        "english": "loud"
+      },
+      {
+        "german": "mitsingen",
+        "english": "to sing along",
+        "match": "singen alle Lieder mit"
+      },
+      {
+        "german": "tanzen",
+        "english": "to dance"
+      },
+      {
+        "german": "die Mitternacht",
+        "english": "midnight"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Wann spielt die Band in Köln?",
+        "options": ["Im März", "Im April", "Im Mai", "Im Juni"],
+        "answer": 2
+      },
+      {
+        "type": "tf",
+        "prompt": "Merve möchte nicht mitkommen.",
+        "answer": false,
+        "explanation": "Merve sagt sofort ja."
+      },
+      {
+        "type": "mc",
+        "prompt": "Wo kauft Zeynep die Karten?",
+        "options": ["An der Kasse", "Im Internet", "Im Supermarkt", "Bei Merve"],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie viel kostet eine Karte?",
+        "options": ["19 Euro", "29 Euro", "39 Euro", "49 Euro"],
+        "answer": 2
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie fahren die Freundinnen zur Halle?",
+        "options": ["Mit der S-Bahn", "Mit dem Bus", "Mit dem Auto", "Mit dem Taxi"],
+        "answer": 0
+      },
+      {
+        "type": "tf",
+        "prompt": "Am Eingang warten sie eine halbe Stunde.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Wann beginnt das Konzert?",
+        "options": ["Um sieben Uhr", "Um halb acht", "Um acht Uhr", "Um neun Uhr"],
+        "answer": 2
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie lange dauert das Konzert?",
+        "options": ["Eine Stunde", "Zwei Stunden", "Drei Stunden", "Vier Stunden"],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Nach dem Konzert kaufen sie ein T-Shirt.",
+        "answer": true
+      }
+    ]
+  },
+  {
+    "id": "a1-41",
+    "level": "A1",
+    "title": "Meine beste Freundin",
+    "topic": "Relationships",
+    "body": "Meine beste Freundin heißt Amira. Sie ist 27 Jahre alt und kommt aus Ägypten. Jetzt wohnt sie in Frankfurt, nicht weit von mir.\n\nAmira ist groß und schlank. Sie hat lange, schwarze Haare und braune Augen. Sie trägt gern bunte Kleider und eine Brille. Amira ist sehr freundlich und immer lustig. Sie lacht viel. Manchmal ist sie ein bisschen chaotisch. Sie kommt oft zu spät!\n\nAmira ist Ingenieurin. Sie arbeitet bei einer Firma am Flughafen. In ihrer Freizeit malt sie Bilder und tanzt Salsa. Am Sonntag gehen wir oft zusammen joggen. Danach trinken wir Kaffee und reden über alles.\n\nIch kenne Amira seit fünf Jahren. Wir haben zusammen einen Deutschkurs gemacht. Sie hilft mir immer, und ich helfe ihr. Eine gute Freundin ist sehr wichtig!",
+    "glossary": [
+      {
+        "german": "Ägypten",
+        "english": "Egypt"
+      },
+      {
+        "german": "schlank",
+        "english": "slim"
+      },
+      {
+        "german": "bunt",
+        "english": "colourful",
+        "match": "bunte"
+      },
+      {
+        "german": "die Brille",
+        "english": "glasses"
+      },
+      {
+        "german": "lacht",
+        "english": "laughs — lachen"
+      },
+      {
+        "german": "chaotisch",
+        "english": "chaotic, disorganised"
+      },
+      {
+        "german": "die Ingenieurin",
+        "english": "engineer (female)"
+      },
+      {
+        "german": "malt",
+        "english": "paints — malen"
+      },
+      {
+        "german": "tanzt",
+        "english": "dances — tanzen"
+      },
+      {
+        "german": "reden",
+        "english": "to talk"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Woher kommt Amira?",
+        "options": ["Aus Frankfurt", "Aus der Türkei", "Aus Ägypten", "Aus Spanien"],
+        "answer": 2
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie sieht Amira aus?",
+        "options": [
+          "Klein, mit kurzen Haaren",
+          "Groß und schlank, mit langen schwarzen Haaren",
+          "Groß, mit blonden Haaren",
+          "Klein, mit blauen Augen"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Amira trägt eine Brille.",
+        "answer": true
+      },
+      {
+        "type": "tf",
+        "prompt": "Amira kommt immer pünktlich.",
+        "answer": false,
+        "explanation": "Sie kommt oft zu spät."
+      },
+      {
+        "type": "mc",
+        "prompt": "Was ist Amira von Beruf?",
+        "options": ["Ingenieurin", "Lehrerin", "Ärztin", "Malerin"],
+        "answer": 0
+      },
+      {
+        "type": "mc",
+        "prompt": "Was machen die Freundinnen am Sonntag?",
+        "options": [
+          "Sie tanzen Salsa.",
+          "Sie gehen joggen.",
+          "Sie malen Bilder.",
+          "Sie gehen ins Kino."
+        ],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Die Freundinnen kennen sich seit zehn Jahren.",
+        "answer": false,
+        "explanation": "Sie kennen sich seit fünf Jahren."
+      },
+      {
+        "type": "mc",
+        "prompt": "Wo haben sie sich kennengelernt?",
+        "options": ["Bei der Arbeit", "Beim Joggen", "Im Café", "In einem Deutschkurs"],
+        "answer": 3
+      }
+    ]
+  },
+  {
+    "id": "a1-42",
+    "level": "A1",
+    "title": "Hausarbeit",
+    "topic": "Home",
+    "body": "Familie Horvat hat vier Personen: Mutter Vesna, Vater Milan und die Kinder Luka und Ema. Alle arbeiten viel. Deshalb machen sie einen Plan für die Hausarbeit.\n\nDie Mutter kocht am Montag, Mittwoch und Freitag. Der Vater kocht an den anderen Tagen. Er kocht gern Suppe und Fisch. Nach dem Essen spült Luka das Geschirr. Er ist vierzehn und findet das langweilig, aber er macht es.\n\nEma ist zehn Jahre alt. Sie deckt den Tisch und füttert die Katze. Am Samstag räumt sie ihr Zimmer auf. Der Vater putzt das Bad und bringt den Müll raus. Die Mutter wäscht die Wäsche und kauft ein.\n\nAm Sonntag macht niemand Hausarbeit. Dann spielen alle zusammen oder machen einen Ausflug. Der Plan hängt an der Tür in der Küche. So weiß jeder, was er tun muss.",
+    "glossary": [
+      {
+        "german": "die Hausarbeit",
+        "english": "housework"
+      },
+      {
+        "german": "deshalb",
+        "english": "therefore, that's why"
+      },
+      {
+        "german": "spült",
+        "english": "washes up — spülen"
+      },
+      {
+        "german": "das Geschirr",
+        "english": "dishes"
+      },
+      {
+        "german": "deckt den Tisch",
+        "english": "sets the table"
+      },
+      {
+        "german": "füttert",
+        "english": "feeds — füttern"
+      },
+      {
+        "german": "räumt … auf",
+        "english": "tidies up — aufräumen",
+        "match": "räumt"
+      },
+      {
+        "german": "putzt",
+        "english": "cleans — putzen"
+      },
+      {
+        "german": "der Müll",
+        "english": "rubbish, trash"
+      },
+      {
+        "german": "die Wäsche",
+        "english": "laundry"
+      },
+      {
+        "german": "hängt",
+        "english": "hangs — hängen"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Wie viele Personen hat Familie Horvat?",
+        "options": ["Drei", "Vier", "Fünf", "Sechs"],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": "Wann kocht die Mutter?",
+        "options": [
+          "Am Montag, Mittwoch und Freitag",
+          "Jeden Tag",
+          "Nur am Wochenende",
+          "Am Dienstag und Donnerstag"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "tf",
+        "prompt": "Luka spült gern das Geschirr.",
+        "answer": false,
+        "explanation": "Er findet das langweilig, aber er macht es."
+      },
+      {
+        "type": "mc",
+        "prompt": "Was macht Ema?",
+        "options": [
+          "Sie putzt das Bad.",
+          "Sie kocht Suppe.",
+          "Sie deckt den Tisch und füttert die Katze.",
+          "Sie kauft ein."
+        ],
+        "answer": 2
+      },
+      {
+        "type": "mc",
+        "prompt": "Wer bringt den Müll raus?",
+        "options": ["Die Mutter", "Luka", "Ema", "Der Vater"],
+        "answer": 3
+      },
+      {
+        "type": "tf",
+        "prompt": "Die Mutter wäscht die Wäsche.",
+        "answer": true
+      },
+      {
+        "type": "tf",
+        "prompt": "Am Sonntag putzt die Familie das ganze Haus.",
+        "answer": false,
+        "explanation": "Am Sonntag macht niemand Hausarbeit."
+      },
+      {
+        "type": "mc",
+        "prompt": "Wo hängt der Plan?",
+        "options": ["Im Bad", "An der Tür in der Küche", "Im Wohnzimmer", "An Emas Tür"],
+        "answer": 1
+      }
+    ]
+  },
+  {
+    "id": "a1-43",
+    "level": "A1",
+    "title": "Mit dem Taxi",
+    "topic": "Transport",
+    "body": "Herr Okafor hat heute einen Termin in Köln. Sein Zug fährt um 7:40 Uhr. Aber es regnet stark und der Bus kommt nicht. Er ruft ein Taxi.\n\nNach zehn Minuten ist das Taxi da. Der Taxifahrer ist freundlich. Er fragt: „Wohin möchten Sie?“ Herr Okafor antwortet: „Zum Hauptbahnhof, bitte. Ich habe nicht viel Zeit.“ Der Fahrer sagt: „Kein Problem. Das sind nur fünfzehn Minuten.“\n\nAber auf der Straße sind viele Autos. Herr Okafor ist nervös. Er sieht immer auf die Uhr. Der Fahrer nimmt eine andere Straße. Um 7:30 Uhr sind sie am Bahnhof.\n\nDie Fahrt kostet 18,60 Euro. Herr Okafor gibt dem Fahrer zwanzig Euro und sagt: „Stimmt so. Vielen Dank!“ Dann läuft er schnell zum Gleis. Er bekommt den Zug.",
+    "glossary": [
+      {
+        "german": "der Termin",
+        "english": "appointment"
+      },
+      {
+        "german": "stark",
+        "english": "heavily, strong"
+      },
+      {
+        "german": "der Taxifahrer",
+        "english": "taxi driver"
+      },
+      {
+        "german": "Wohin?",
+        "english": "Where to?",
+        "match": "Wohin"
+      },
+      {
+        "german": "der Hauptbahnhof",
+        "english": "main station"
+      },
+      {
+        "german": "nervös",
+        "english": "nervous"
+      },
+      {
+        "german": "die Fahrt",
+        "english": "ride, journey"
+      },
+      {
+        "german": "Stimmt so.",
+        "english": "Keep the change.",
+        "match": "Stimmt so"
+      },
+      {
+        "german": "läuft",
+        "english": "runs — laufen"
+      },
+      {
+        "german": "das Gleis",
+        "english": "platform, track"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Wann fährt der Zug?",
+        "options": ["Um 7:15 Uhr", "Um 7:30 Uhr", "Um 7:40 Uhr", "Um 8:00 Uhr"],
+        "answer": 2
+      },
+      {
+        "type": "mc",
+        "prompt": "Warum ruft Herr Okafor ein Taxi?",
+        "options": [
+          "Er hat kein Auto.",
+          "Es regnet und der Bus kommt nicht.",
+          "Er hat viel Gepäck.",
+          "Er ist krank."
+        ],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Das Taxi kommt nach zehn Minuten.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Wohin möchte Herr Okafor?",
+        "options": ["Zum Flughafen", "Nach Hause", "Zum Hauptbahnhof", "Zu seiner Firma"],
+        "answer": 2
+      },
+      {
+        "type": "tf",
+        "prompt": "Auf der Straße sind wenige Autos.",
+        "answer": false,
+        "explanation": "Auf der Straße sind viele Autos."
+      },
+      {
+        "type": "mc",
+        "prompt": "Was macht der Fahrer?",
+        "options": [
+          "Er fährt sehr langsam.",
+          "Er nimmt eine andere Straße.",
+          "Er hält an einem Café.",
+          "Er ruft die Polizei."
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie viel kostet die Fahrt?",
+        "options": ["15,00 Euro", "18,60 Euro", "20,00 Euro", "16,80 Euro"],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Herr Okafor verpasst den Zug.",
+        "answer": false,
+        "explanation": "Er bekommt den Zug."
+      }
+    ]
+  },
+  {
+    "id": "a1-44",
+    "level": "A1",
+    "title": "Das Formular",
+    "topic": "Bureaucracy",
+    "body": "Carlos Mendes kommt aus Brasilien. Er wohnt seit einer Woche in Leipzig. Heute muss er zum Bürgeramt. Er hat um neun Uhr einen Termin.\n\nIm Bürgeramt bekommt er ein Formular. Er muss viele Fragen beantworten. Zuerst schreibt er seinen Familiennamen: Mendes. Sein Vorname ist Carlos. Dann schreibt er sein Geburtsdatum: 14. März 1995. Sein Geburtsort ist Salvador. Seine Staatsangehörigkeit ist brasilianisch.\n\nDann kommt die Adresse. Carlos wohnt in der Gartenstraße 12, im zweiten Stock. Die Postleitzahl weiß er nicht. Er fragt die Frau am Schalter. Sie sagt: „04107.“ Er ist ledig und hat keine Kinder.\n\nZum Schluss unterschreibt Carlos das Formular. Die Frau braucht noch seinen Pass und den Mietvertrag. Alles ist richtig. Nach zwanzig Minuten ist Carlos fertig. Er ist froh.",
+    "glossary": [
+      {
+        "german": "das Bürgeramt",
+        "english": "citizens' office"
+      },
+      {
+        "german": "das Formular",
+        "english": "form"
+      },
+      {
+        "german": "beantworten",
+        "english": "to answer"
+      },
+      {
+        "german": "das Geburtsdatum",
+        "english": "date of birth"
+      },
+      {
+        "german": "der Geburtsort",
+        "english": "place of birth"
+      },
+      {
+        "german": "die Staatsangehörigkeit",
+        "english": "nationality"
+      },
+      {
+        "german": "die Postleitzahl",
+        "english": "postcode, ZIP code"
+      },
+      {
+        "german": "der Schalter",
+        "english": "counter (at an office)"
+      },
+      {
+        "german": "ledig",
+        "english": "single, unmarried"
+      },
+      {
+        "german": "unterschreibt",
+        "english": "signs — unterschreiben"
+      },
+      {
+        "german": "der Mietvertrag",
+        "english": "rental contract"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Woher kommt Carlos?",
+        "options": ["Aus Portugal", "Aus Spanien", "Aus Mexiko", "Aus Brasilien"],
+        "answer": 3
+      },
+      {
+        "type": "mc",
+        "prompt": "Seit wann wohnt Carlos in Leipzig?",
+        "options": [
+          "Seit einer Woche",
+          "Seit einem Monat",
+          "Seit einem Jahr",
+          "Seit gestern"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "tf",
+        "prompt": "Carlos hat um neun Uhr einen Termin.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Wann ist Carlos geboren?",
+        "options": [
+          "Am 4. März 1995",
+          "Am 14. März 1995",
+          "Am 14. Mai 1995",
+          "Am 14. März 1959"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": "Wo wohnt Carlos?",
+        "options": [
+          "In der Gartenstraße 2",
+          "In der Bahnhofstraße 12",
+          "In der Gartenstraße 12",
+          "In der Parkstraße 21"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "tf",
+        "prompt": "Carlos weiß seine Postleitzahl.",
+        "answer": false,
+        "explanation": "Er fragt die Frau am Schalter."
+      },
+      {
+        "type": "tf",
+        "prompt": "Carlos ist verheiratet und hat zwei Kinder.",
+        "answer": false,
+        "explanation": "Er ist ledig und hat keine Kinder."
+      },
+      {
+        "type": "mc",
+        "prompt": "Was braucht die Frau noch?",
+        "options": [
+          "Ein Foto",
+          "Den Pass und den Mietvertrag",
+          "Die Telefonnummer",
+          "Geld"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie lange dauert alles?",
+        "options": ["Zehn Minuten", "Zwanzig Minuten", "Eine Stunde", "Zwei Stunden"],
+        "answer": 1
+      }
+    ]
+  },
+  {
+    "id": "a1-45",
+    "level": "A1",
+    "title": "Yoga am Morgen",
+    "topic": "Health",
+    "body": "Frau Tanaka ist 52 Jahre alt. Sie arbeitet im Büro und sitzt viel. Früher hatte sie oft Rückenschmerzen. Jetzt macht sie jeden Morgen Yoga.\n\nIhr Wecker klingelt um sechs Uhr. Sie trinkt zuerst ein Glas Wasser. Dann legt sie eine Matte ins Wohnzimmer und öffnet das Fenster. Die Luft ist frisch und kühl.\n\nFrau Tanaka macht zwanzig Minuten Yoga. Sie atmet langsam und tief. Sie streckt die Arme und die Beine. Am Ende liegt sie fünf Minuten still auf der Matte. Das findet sie sehr schön.\n\nDann duscht sie und frühstückt. Sie isst Obst und Joghurt und trinkt grünen Tee. Um halb acht fährt sie mit dem Fahrrad zur Arbeit.\n\nFrau Tanaka sagt: „Mein Rücken tut nicht mehr weh. Ich schlafe gut. Yoga ist gesund!“",
+    "glossary": [
+      {
+        "german": "die Rückenschmerzen",
+        "english": "back pain"
+      },
+      {
+        "german": "der Wecker",
+        "english": "alarm clock"
+      },
+      {
+        "german": "klingelt",
+        "english": "rings — klingeln"
+      },
+      {
+        "german": "die Matte",
+        "english": "mat"
+      },
+      {
+        "german": "die Luft",
+        "english": "air"
+      },
+      {
+        "german": "kühl",
+        "english": "cool"
+      },
+      {
+        "german": "atmet",
+        "english": "breathes — atmen"
+      },
+      {
+        "german": "tief",
+        "english": "deep(ly)"
+      },
+      {
+        "german": "streckt",
+        "english": "stretches — strecken"
+      },
+      {
+        "german": "still",
+        "english": "still, quiet"
+      },
+      {
+        "german": "tut weh",
+        "english": "hurts — wehtun",
+        "match": "tut nicht mehr weh"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Warum macht Frau Tanaka Yoga?",
+        "options": [
+          "Sie hatte oft Rückenschmerzen.",
+          "Sie möchte Lehrerin werden.",
+          "Ihre Freundin macht auch Yoga.",
+          "Sie kann nicht schlafen."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "mc",
+        "prompt": "Wann klingelt ihr Wecker?",
+        "options": ["Um fünf Uhr", "Um sechs Uhr", "Um sieben Uhr", "Um halb acht"],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Frau Tanaka trinkt zuerst einen Kaffee.",
+        "answer": false,
+        "explanation": "Sie trinkt zuerst ein Glas Wasser."
+      },
+      {
+        "type": "mc",
+        "prompt": "Wo macht sie Yoga?",
+        "options": ["Im Park", "Im Schlafzimmer", "Im Wohnzimmer", "Im Büro"],
+        "answer": 2
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie lange macht sie Yoga?",
+        "options": ["Zehn Minuten", "Fünfzehn Minuten", "Zwanzig Minuten", "Eine Stunde"],
+        "answer": 2
+      },
+      {
+        "type": "tf",
+        "prompt": "Am Ende liegt sie fünf Minuten still auf der Matte.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Was trinkt sie zum Frühstück?",
+        "options": ["Kaffee", "Grünen Tee", "Orangensaft", "Milch"],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Frau Tanaka fährt mit dem Bus zur Arbeit.",
+        "answer": false,
+        "explanation": "Sie fährt mit dem Fahrrad."
+      }
+    ]
+  },
+  {
+    "id": "a1-46",
+    "level": "A1",
+    "title": "Der erste Schultag",
+    "topic": "School and education",
+    "body": "Heute ist ein wichtiger Tag für Mats. Er ist sechs Jahre alt und geht zum ersten Mal in die Schule. Er ist sehr aufgeregt.\n\nMats trägt eine neue Hose und ein blaues Hemd. Auf dem Rücken hat er einen roten Schulranzen. In der Hand hat er eine große Schultüte. Die Schultüte ist ein Geschenk von seinen Eltern. Darin sind Süßigkeiten, Stifte und ein kleines Buch.\n\nDie Eltern und die Oma kommen mit. Zuerst gibt es ein Fest in der Aula. Die Kinder singen ein Lied. Dann kommt die Lehrerin. Sie heißt Frau Demir. Sie ist jung und sehr nett.\n\nIn der Klasse sind 22 Kinder. Mats sitzt neben einem Mädchen. Sie heißt Hana. Die Kinder malen ein Bild und lernen den Buchstaben A. Nach zwei Stunden ist die Schule aus. Mats sagt: „Morgen komme ich wieder!“",
+    "glossary": [
+      {
+        "german": "zum ersten Mal",
+        "english": "for the first time"
+      },
+      {
+        "german": "aufgeregt",
+        "english": "excited"
+      },
+      {
+        "german": "das Hemd",
+        "english": "shirt"
+      },
+      {
+        "german": "der Schulranzen",
+        "english": "school bag, satchel"
+      },
+      {
+        "german": "die Schultüte",
+        "english": "school cone (gift for the first school day)"
+      },
+      {
+        "german": "die Süßigkeiten",
+        "english": "sweets, candy"
+      },
+      {
+        "german": "die Stifte",
+        "english": "pens, pencils"
+      },
+      {
+        "german": "die Aula",
+        "english": "school hall"
+      },
+      {
+        "german": "das Lied",
+        "english": "song"
+      },
+      {
+        "german": "der Buchstabe",
+        "english": "letter (of the alphabet)",
+        "match": "Buchstaben"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Wie alt ist Mats?",
+        "options": ["Fünf", "Sechs", "Sieben", "Acht"],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Mats ist heute sehr müde.",
+        "answer": false,
+        "explanation": "Er ist sehr aufgeregt."
+      },
+      {
+        "type": "mc",
+        "prompt": "Welche Farbe hat der Schulranzen?",
+        "options": ["Blau", "Grün", "Rot", "Gelb"],
+        "answer": 2
+      },
+      {
+        "type": "mc",
+        "prompt": "Was ist in der Schultüte?",
+        "options": [
+          "Obst und Brot",
+          "Süßigkeiten, Stifte und ein Buch",
+          "Ein Handy",
+          "Spielzeugautos"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Die Oma kommt auch mit.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie ist die Lehrerin?",
+        "options": [
+          "Alt und streng",
+          "Jung und sehr nett",
+          "Groß und lustig",
+          "Jung und müde"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie viele Kinder sind in der Klasse?",
+        "options": ["12", "20", "22", "32"],
+        "answer": 2
+      },
+      {
+        "type": "tf",
+        "prompt": "Die Kinder lernen heute den Buchstaben B.",
+        "answer": false,
+        "explanation": "Sie lernen den Buchstaben A."
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie lange dauert der erste Schultag?",
+        "options": ["Eine Stunde", "Zwei Stunden", "Vier Stunden", "Den ganzen Tag"],
+        "answer": 1
+      }
+    ]
+  },
+  {
+    "id": "a1-47",
+    "level": "A1",
+    "title": "Eine Wohnung suchen",
+    "topic": "Housing",
+    "body": "Olivia und Kwame sind ein Paar. Sie wohnen in einer kleinen Wohnung mit einem Zimmer. Bald kommt ihr Baby. Sie brauchen eine größere Wohnung.\n\nJeden Abend lesen sie Anzeigen im Internet. Viele Wohnungen sind zu teuer. Dann finden sie eine gute Anzeige: „3 Zimmer, Küche, Bad, Balkon, 78 Quadratmeter, 890 Euro warm. Ruhige Lage, nahe am Park.“\n\nKwame ruft sofort an. Der Vermieter heißt Herr Scholz. Kwame fragt: „Ist die Wohnung noch frei?“ Herr Scholz sagt: „Ja. Sie können am Samstag um elf Uhr kommen.“\n\nAm Samstag sehen sie die Wohnung. Sie ist hell und sauber. Die Küche ist neu. Das Kinderzimmer ist klein, aber schön. Vom Balkon sieht man den Park. Olivia und Kwame finden die Wohnung super. Sie möchten sie mieten. Hoffentlich sagt Herr Scholz ja!",
+    "glossary": [
+      {
+        "german": "das Paar",
+        "english": "couple"
+      },
+      {
+        "german": "größer",
+        "english": "bigger",
+        "match": "größere"
+      },
+      {
+        "german": "die Anzeige",
+        "english": "advert, listing",
+        "match": "Anzeigen"
+      },
+      {
+        "german": "der Quadratmeter",
+        "english": "square metre",
+        "match": "Quadratmeter"
+      },
+      {
+        "german": "warm",
+        "english": "including heating costs (of rent)"
+      },
+      {
+        "german": "die Lage",
+        "english": "location"
+      },
+      {
+        "german": "der Vermieter",
+        "english": "landlord"
+      },
+      {
+        "german": "frei",
+        "english": "available, free"
+      },
+      {
+        "german": "hell",
+        "english": "bright, light"
+      },
+      {
+        "german": "mieten",
+        "english": "to rent"
+      },
+      {
+        "german": "hoffentlich",
+        "english": "hopefully"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Warum brauchen Olivia und Kwame eine neue Wohnung?",
+        "options": [
+          "Die Wohnung ist zu teuer.",
+          "Bald kommt ihr Baby.",
+          "Sie haben einen neuen Job.",
+          "Die Nachbarn sind laut."
+        ],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Ihre jetzige Wohnung hat drei Zimmer.",
+        "answer": false,
+        "explanation": "Sie hat nur ein Zimmer."
+      },
+      {
+        "type": "mc",
+        "prompt": "Wo lesen sie die Anzeigen?",
+        "options": ["In der Zeitung", "Im Internet", "Im Supermarkt", "An der Uni"],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie viel kostet die Wohnung warm?",
+        "options": ["780 Euro", "809 Euro", "890 Euro", "980 Euro"],
+        "answer": 2
+      },
+      {
+        "type": "tf",
+        "prompt": "Die Wohnung ist nahe am Park.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Wer ruft den Vermieter an?",
+        "options": ["Olivia", "Kwame", "Herr Scholz", "Ein Freund"],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": "Wann sehen sie die Wohnung?",
+        "options": [
+          "Am Freitag um elf Uhr",
+          "Am Samstag um elf Uhr",
+          "Am Samstag um zehn Uhr",
+          "Am Sonntag um elf Uhr"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Die Küche ist alt.",
+        "answer": false,
+        "explanation": "Die Küche ist neu."
+      },
+      {
+        "type": "mc",
+        "prompt": "Was sieht man vom Balkon?",
+        "options": ["Den Bahnhof", "Eine Kirche", "Den Park", "Einen See"],
+        "answer": 2
+      }
+    ]
+  },
+  {
+    "id": "a1-48",
+    "level": "A1",
+    "title": "Im Garten",
+    "topic": "Home",
+    "body": "Es ist April. Die Sonne scheint und es ist warm. Herr und Frau Lindner arbeiten heute im Garten. Sie haben einen kleinen Garten hinter dem Haus.\n\nFrau Lindner pflanzt Blumen. Sie mag gelbe und rote Blumen. Herr Lindner macht ein Beet für Gemüse. Dort pflanzen sie Tomaten, Salat und Karotten. Ihr Enkel Elias hilft auch. Er ist acht Jahre alt. Er trägt die Erde und spielt mit dem Hund.\n\nAm Nachmittag machen sie eine Pause. Sie sitzen auf der Terrasse und trinken Limonade. Frau Lindner hat einen Kuchen gebacken.\n\nAm Abend gießt Elias die Blumen und das Gemüse. Das macht ihm viel Spaß. Im Sommer können sie dann Tomaten und Salat essen. Herr Lindner sagt: „Gemüse aus dem Garten schmeckt am besten!“",
+    "glossary": [
+      {
+        "german": "hinter",
+        "english": "behind"
+      },
+      {
+        "german": "pflanzt",
+        "english": "plants — pflanzen"
+      },
+      {
+        "german": "das Beet",
+        "english": "(garden) bed"
+      },
+      {
+        "german": "die Karotten",
+        "english": "carrots"
+      },
+      {
+        "german": "der Enkel",
+        "english": "grandson"
+      },
+      {
+        "german": "die Erde",
+        "english": "soil, earth"
+      },
+      {
+        "german": "die Terrasse",
+        "english": "terrace, patio"
+      },
+      {
+        "german": "hat … gebacken",
+        "english": "has baked — backen",
+        "match": "gebacken"
+      },
+      {
+        "german": "gießt",
+        "english": "waters — gießen"
+      },
+      {
+        "german": "schmeckt",
+        "english": "tastes — schmecken"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "In welchem Monat spielt der Text?",
+        "options": ["Im März", "Im April", "Im Mai", "Im Juni"],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Der Garten ist vor dem Haus.",
+        "answer": false,
+        "explanation": "Der Garten ist hinter dem Haus."
+      },
+      {
+        "type": "mc",
+        "prompt": "Was macht Frau Lindner?",
+        "options": [
+          "Sie pflanzt Blumen.",
+          "Sie gießt das Gemüse.",
+          "Sie spielt mit dem Hund.",
+          "Sie macht ein Beet."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "mc",
+        "prompt": "Welches Gemüse pflanzen sie?",
+        "options": [
+          "Kartoffeln und Zwiebeln",
+          "Tomaten, Salat und Karotten",
+          "Gurken und Paprika",
+          "Nur Tomaten"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": "Wer ist Elias?",
+        "options": ["Der Sohn", "Der Nachbar", "Der Enkel", "Der Hund"],
+        "answer": 2
+      },
+      {
+        "type": "tf",
+        "prompt": "Am Nachmittag trinken sie Limonade auf der Terrasse.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Was macht Elias am Abend?",
+        "options": [
+          "Er backt einen Kuchen.",
+          "Er gießt die Blumen und das Gemüse.",
+          "Er schläft.",
+          "Er geht mit dem Hund spazieren."
+        ],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Herr Lindner findet Gemüse aus dem Supermarkt am besten.",
+        "answer": false,
+        "explanation": "Er sagt: Gemüse aus dem Garten schmeckt am besten."
+      }
+    ]
+  },
+  {
+    "id": "a1-49",
+    "level": "A1",
+    "title": "Deutsch mit dem Handy",
+    "topic": "School and education",
+    "body": "Anjali kommt aus Indien. Sie wohnt seit drei Monaten in München und arbeitet als Programmiererin. Bei der Arbeit spricht sie Englisch. Aber sie möchte auch Deutsch lernen.\n\nAm Abend hat Anjali wenig Zeit. Deshalb lernt sie mit einer App auf dem Handy. Jeden Tag lernt sie fünfzehn Minuten: morgens in der U-Bahn und abends im Bett. Die App ist einfach und macht Spaß.\n\nJeden Tag lernt Anjali zehn neue Wörter. Sie hört die Wörter und spricht sie nach. Dann schreibt sie kleine Sätze. Die Artikel „der“, „die“ und „das“ findet sie schwer. Die Zahlen findet sie leicht.\n\nAm Wochenende übt Anjali mit ihrer Nachbarin Frau Huber. Sie trinken zusammen Tee und sprechen nur Deutsch. Anjali macht noch viele Fehler. Aber Frau Huber ist geduldig. Anjali ist stolz: Sie kann schon im Café bestellen!",
+    "glossary": [
+      {
+        "german": "Indien",
+        "english": "India"
+      },
+      {
+        "german": "die Programmiererin",
+        "english": "programmer (female)"
+      },
+      {
+        "german": "deshalb",
+        "english": "therefore, that's why"
+      },
+      {
+        "german": "die App",
+        "english": "app"
+      },
+      {
+        "german": "spricht … nach",
+        "english": "repeats — nachsprechen",
+        "match": "spricht sie nach"
+      },
+      {
+        "german": "die Sätze",
+        "english": "sentences (sg. der Satz)"
+      },
+      {
+        "german": "übt",
+        "english": "practises — üben"
+      },
+      {
+        "german": "die Fehler",
+        "english": "mistakes (sg. der Fehler)"
+      },
+      {
+        "german": "geduldig",
+        "english": "patient"
+      },
+      {
+        "german": "stolz",
+        "english": "proud"
+      },
+      {
+        "german": "bestellen",
+        "english": "to order"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Woher kommt Anjali?",
+        "options": ["Aus England", "Aus Indien", "Aus Pakistan", "Aus München"],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": "Was ist Anjali von Beruf?",
+        "options": ["Lehrerin", "Ärztin", "Programmiererin", "Verkäuferin"],
+        "answer": 2
+      },
+      {
+        "type": "tf",
+        "prompt": "Bei der Arbeit spricht Anjali Deutsch.",
+        "answer": false,
+        "explanation": "Bei der Arbeit spricht sie Englisch."
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie lange lernt Anjali jeden Tag?",
+        "options": ["Fünf Minuten", "Zehn Minuten", "Fünfzehn Minuten", "Eine Stunde"],
+        "answer": 2
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie viele neue Wörter lernt sie jeden Tag?",
+        "options": ["Fünf", "Zehn", "Fünfzehn", "Zwanzig"],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Anjali findet die Artikel schwer.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Mit wem übt Anjali am Wochenende?",
+        "options": [
+          "Mit ihrer Nachbarin",
+          "Mit ihrem Chef",
+          "Mit einer Lehrerin",
+          "Mit ihrer Schwester"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "tf",
+        "prompt": "Anjali macht keine Fehler mehr.",
+        "answer": false,
+        "explanation": "Sie macht noch viele Fehler."
+      },
+      {
+        "type": "mc",
+        "prompt": "Was kann Anjali schon?",
+        "options": [
+          "Einen Brief schreiben",
+          "Im Café bestellen",
+          "Die Zeitung lesen",
+          "Telefonieren"
+        ],
+        "answer": 1
+      }
+    ]
+  },
+  {
+    "id": "a1-50",
+    "level": "A1",
+    "title": "Eine Postkarte aus Italien",
+    "topic": "Travel",
+    "body": "Liebe Marta,\n\nviele Grüße aus Italien! Ich bin seit Montag mit meiner Familie in Rimini. Unser Hotel ist sehr schön und nur fünf Minuten vom Strand entfernt. Wir haben ein Zimmer mit Balkon und Blick auf das Meer.\n\nDas Wetter ist fantastisch. Jeden Tag scheint die Sonne und es ist 30 Grad warm. Am Vormittag gehen wir an den Strand. Die Kinder schwimmen im Meer und spielen im Sand. Ich lese ein Buch.\n\nDas Essen ist super! Mittags essen wir Pizza oder Pasta. Am Abend essen wir oft Fisch in einem kleinen Restaurant am Hafen. Und jeden Tag gibt es Eis!\n\nMorgen fahren wir mit dem Zug nach Bologna. Am Samstag fliegen wir wieder nach Hause. Ich rufe dich dann an.\n\nBis bald!\nDeine Irina",
+    "glossary": [
+      {
+        "german": "viele Grüße",
+        "english": "best wishes, greetings"
+      },
+      {
+        "german": "der Strand",
+        "english": "beach"
+      },
+      {
+        "german": "entfernt",
+        "english": "away, at a distance"
+      },
+      {
+        "german": "der Blick",
+        "english": "view"
+      },
+      {
+        "german": "das Meer",
+        "english": "sea"
+      },
+      {
+        "german": "fantastisch",
+        "english": "fantastic"
+      },
+      {
+        "german": "der Sand",
+        "english": "sand"
+      },
+      {
+        "german": "der Hafen",
+        "english": "harbour, port"
+      },
+      {
+        "german": "fliegen",
+        "english": "to fly"
+      },
+      {
+        "german": "Bis bald!",
+        "english": "See you soon!",
+        "match": "Bis bald"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Wo ist Irina?",
+        "options": ["In Rom", "In Rimini", "In Bologna", "In Spanien"],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": "Seit wann ist sie dort?",
+        "options": ["Seit Sonntag", "Seit Montag", "Seit Mittwoch", "Seit zwei Wochen"],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Das Hotel ist weit vom Strand entfernt.",
+        "answer": false,
+        "explanation": "Es ist nur fünf Minuten vom Strand entfernt."
+      },
+      {
+        "type": "tf",
+        "prompt": "Das Zimmer hat einen Balkon mit Blick auf das Meer.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie ist das Wetter?",
+        "options": [
+          "Es regnet oft.",
+          "Es ist kalt und windig.",
+          "Die Sonne scheint und es ist 30 Grad.",
+          "Es ist bewölkt."
+        ],
+        "answer": 2
+      },
+      {
+        "type": "mc",
+        "prompt": "Was macht Irina am Strand?",
+        "options": [
+          "Sie schwimmt.",
+          "Sie spielt im Sand.",
+          "Sie liest ein Buch.",
+          "Sie schläft."
+        ],
+        "answer": 2
+      },
+      {
+        "type": "mc",
+        "prompt": "Wo essen sie am Abend oft Fisch?",
+        "options": ["Im Hotel", "In einem Restaurant am Hafen", "Am Strand", "Zu Hause"],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Morgen fährt die Familie mit dem Zug nach Bologna.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Wann fliegen sie nach Hause?",
+        "options": ["Am Freitag", "Am Samstag", "Am Sonntag", "Am Montag"],
+        "answer": 1
+      }
+    ]
   }
 ]
