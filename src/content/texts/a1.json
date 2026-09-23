@@ -57,12 +57,6 @@
         "answer": 2
       },
       {
-        "type": "tf",
-        "prompt": "Lena wohnt in Wien.",
-        "answer": false,
-        "explanation": "Sie wohnt jetzt in Berlin."
-      },
-      {
         "type": "mc",
         "prompt": "Was studiert Lena?",
         "options": ["Musik", "Medizin", "Englisch", "Kunst"],
@@ -72,12 +66,6 @@
         "type": "tf",
         "prompt": "Am Wochenende arbeitet Lena in einem Café.",
         "answer": true
-      },
-      {
-        "type": "tf",
-        "prompt": "Lena spricht sehr gut Spanisch.",
-        "answer": false,
-        "explanation": "Sie lernt Spanisch, und das ist nicht so einfach."
       },
       {
         "type": "mc",
@@ -157,11 +145,6 @@
       },
       {
         "type": "tf",
-        "prompt": "Die Mutter arbeitet im Krankenhaus.",
-        "answer": true
-      },
-      {
-        "type": "tf",
         "prompt": "Die Mutter arbeitet nie am Wochenende.",
         "answer": false,
         "explanation": "Sie arbeitet viel, auch am Wochenende."
@@ -171,12 +154,6 @@
         "prompt": "Wie alt ist Mia?",
         "options": ["Drei", "Zehn", "Sechs", "Sechzehn"],
         "answer": 3
-      },
-      {
-        "type": "tf",
-        "prompt": "Tim ist der jüngste in der Familie.",
-        "answer": true,
-        "explanation": "Tim ist erst drei Jahre alt."
       },
       {
         "type": "mc",
@@ -257,12 +234,6 @@
       },
       {
         "type": "mc",
-        "prompt": "Wer deckt den Tisch?",
-        "options": ["Herr Schmidt", "Frau Schmidt", "Anna", "Der Bäcker"],
-        "answer": 2
-      },
-      {
-        "type": "mc",
         "prompt": "Was isst Frau Schmidt?",
         "options": [
           "Brötchen mit Käse",
@@ -277,12 +248,6 @@
         "prompt": "Anna trinkt Kaffee.",
         "answer": false,
         "explanation": "Sie trinkt keinen Kaffee, sie trinkt Orangensaft."
-      },
-      {
-        "type": "mc",
-        "prompt": "Was isst Anna gern?",
-        "options": ["Brötchen mit Marmelade", "Käse", "Eier", "Wurst"],
-        "answer": 0
       },
       {
         "type": "tf",
@@ -358,12 +323,6 @@
         "answer": true
       },
       {
-        "type": "mc",
-        "prompt": "Wie viel kostet ein Paket Nudeln?",
-        "options": ["1,20 Euro", "1,99 Euro", "2,40 Euro", "23,50 Euro"],
-        "answer": 0
-      },
-      {
         "type": "tf",
         "prompt": "Die Tomaten sind heute sehr teuer.",
         "answer": false,
@@ -378,12 +337,6 @@
           "Links neben der Milch",
           "Rechts neben dem Wein"
         ],
-        "answer": 2
-      },
-      {
-        "type": "mc",
-        "prompt": "Wie lange wartet Tom an der Kasse?",
-        "options": ["Zwei Minuten", "Fünf Minuten", "Zehn Minuten", "Zwanzig Minuten"],
         "answer": 2
       },
       {
@@ -472,17 +425,6 @@
       },
       {
         "type": "mc",
-        "prompt": "Wie ist das Wohnzimmer?",
-        "options": [
-          "Klein und dunkel",
-          "Groß und hell",
-          "Klein und gemütlich",
-          "Alt und kalt"
-        ],
-        "answer": 1
-      },
-      {
-        "type": "mc",
         "prompt": "Wo steht Saras Bett?",
         "options": ["Am Fenster", "In der Küche", "Neben dem Sofa", "An der Tür"],
         "answer": 0
@@ -492,12 +434,6 @@
         "prompt": "Im Bad gibt es eine Badewanne.",
         "answer": false,
         "explanation": "Es gibt keine Badewanne, nur eine Dusche."
-      },
-      {
-        "type": "mc",
-        "prompt": "Wie viel kostet die Miete?",
-        "options": ["570 Euro", "700 Euro", "750 Euro", "800 Euro"],
-        "answer": 2
       },
       {
         "type": "tf",
@@ -581,12 +517,6 @@
         "answer": 0
       },
       {
-        "type": "tf",
-        "prompt": "Herr Weber frühstückt morgens viel.",
-        "answer": false,
-        "explanation": "Er trinkt nur einen Kaffee, er hat morgens keinen Hunger."
-      },
-      {
         "type": "mc",
         "prompt": "Wie fährt er zur Arbeit?",
         "options": ["Mit dem Bus", "Mit dem Auto", "Mit dem Fahrrad", "Mit der U-Bahn"],
@@ -596,12 +526,6 @@
         "type": "tf",
         "prompt": "Um zehn Uhr isst Herr Weber ein Brot mit Käse.",
         "answer": true
-      },
-      {
-        "type": "mc",
-        "prompt": "Wann ist die Arbeit zu Ende?",
-        "options": ["Um 12 Uhr", "Um 14 Uhr", "Um 16 Uhr", "Um 18 Uhr"],
-        "answer": 1
       },
       {
         "type": "tf",
@@ -668,12 +592,6 @@
         "answer": 1
       },
       {
-        "type": "tf",
-        "prompt": "Maria kennt die Stadt gut.",
-        "answer": false,
-        "explanation": "Sie ist zum ersten Mal in München."
-      },
-      {
         "type": "mc",
         "prompt": "Warum fragt Maria einen Mann?",
         "options": [
@@ -700,17 +618,6 @@
         "prompt": "Das Museum ist auf der rechten Seite.",
         "answer": false,
         "explanation": "Es ist auf der linken Seite."
-      },
-      {
-        "type": "mc",
-        "prompt": "Wie lange braucht man zu Fuß?",
-        "options": [
-          "Fünf Minuten",
-          "Zehn Minuten",
-          "Ungefähr zwanzig Minuten",
-          "Eine Stunde"
-        ],
-        "answer": 2
       },
       {
         "type": "tf",
@@ -786,12 +693,6 @@
         "answer": 1
       },
       {
-        "type": "tf",
-        "prompt": "Ali und Julia treffen sich im Restaurant.",
-        "answer": false,
-        "explanation": "Sie treffen sich vor dem Kino."
-      },
-      {
         "type": "mc",
         "prompt": "Wie viel kostet eine Karte?",
         "options": ["Sechs Euro", "Acht Euro", "Neun Euro", "Zehn Euro"],
@@ -802,12 +703,6 @@
         "prompt": "Was isst Ali im Restaurant?",
         "options": ["Eine Pizza", "Einen Salat", "Eine Suppe", "Nichts"],
         "answer": 1
-      },
-      {
-        "type": "tf",
-        "prompt": "Am Sonntag scheint die Sonne.",
-        "answer": false,
-        "explanation": "Am Sonntag regnet es."
       },
       {
         "type": "tf",
@@ -898,12 +793,6 @@
         "answer": 1
       },
       {
-        "type": "tf",
-        "prompt": "Paul muss im Wartezimmer nicht warten.",
-        "answer": false,
-        "explanation": "Er wartet dreißig Minuten."
-      },
-      {
         "type": "mc",
         "prompt": "Was sagt die Ärztin?",
         "options": [
@@ -924,11 +813,6 @@
           "Viermal am Tag"
         ],
         "answer": 2
-      },
-      {
-        "type": "tf",
-        "prompt": "Paul ist fünf Tage krankgeschrieben.",
-        "answer": true
       },
       {
         "type": "tf",
@@ -1004,12 +888,6 @@
       },
       {
         "type": "mc",
-        "prompt": "Wie viel kostet die Fahrkarte hin und zurück?",
-        "options": ["19 Euro", "49 Euro", "89 Euro", "98 Euro"],
-        "answer": 2
-      },
-      {
-        "type": "mc",
         "prompt": "Wie viel Verspätung hat der Zug?",
         "options": ["Fünf Minuten", "Zehn Minuten", "Zwanzig Minuten", "Eine Stunde"],
         "answer": 2
@@ -1018,12 +896,6 @@
         "type": "tf",
         "prompt": "Emma sitzt am Fenster.",
         "answer": true
-      },
-      {
-        "type": "mc",
-        "prompt": "Wie lange dauert die Fahrt?",
-        "options": ["Zwei Stunden", "Drei Stunden", "Vier Stunden", "Fünf Stunden"],
-        "answer": 2
       },
       {
         "type": "tf",
@@ -1108,12 +980,6 @@
       },
       {
         "type": "mc",
-        "prompt": "Wo sitzen sie?",
-        "options": ["An der Tür", "Draußen", "Am Fenster", "An der Bar"],
-        "answer": 2
-      },
-      {
-        "type": "mc",
         "prompt": "Was trinkt Karim?",
         "options": ["Einen Kaffee mit Milch", "Tee", "Wasser", "Eine heiße Schokolade"],
         "answer": 3
@@ -1122,17 +988,6 @@
         "type": "tf",
         "prompt": "Nadia isst Apfelkuchen.",
         "answer": true
-      },
-      {
-        "type": "mc",
-        "prompt": "Worüber sprechen sie?",
-        "options": [
-          "Über den Urlaub",
-          "Über die Arbeit und die Eltern",
-          "Über Fußball",
-          "Über das Wetter"
-        ],
-        "answer": 1
       },
       {
         "type": "mc",
@@ -1214,17 +1069,6 @@
       },
       {
         "type": "mc",
-        "prompt": "Wie oft geht Pablo mit Bruno spazieren?",
-        "options": [
-          "Einmal am Tag",
-          "Zweimal am Tag",
-          "Dreimal am Tag",
-          "Viermal am Tag"
-        ],
-        "answer": 2
-      },
-      {
-        "type": "mc",
         "prompt": "Warum ist der Spaziergang am Morgen kurz?",
         "options": [
           "Bruno ist müde.",
@@ -1238,17 +1082,6 @@
         "type": "tf",
         "prompt": "Im Park spielt Bruno mit anderen Hunden.",
         "answer": true
-      },
-      {
-        "type": "mc",
-        "prompt": "Wann bekommt Bruno Futter?",
-        "options": [
-          "Nur am Mittag",
-          "Morgens und abends",
-          "Dreimal am Tag",
-          "Nur am Wochenende"
-        ],
-        "answer": 1
       },
       {
         "type": "mc",
@@ -1330,17 +1163,6 @@
       },
       {
         "type": "mc",
-        "prompt": "Was machen viele Leute im Frühling?",
-        "options": [
-          "Sie bauen einen Schneemann.",
-          "Sie arbeiten im Garten.",
-          "Sie sammeln Pilze.",
-          "Sie feiern Weihnachten."
-        ],
-        "answer": 1
-      },
-      {
-        "type": "mc",
         "prompt": "Bis wann ist es im Sommer oft hell?",
         "options": ["Bis fünf Uhr", "Bis sieben Uhr", "Bis acht Uhr", "Bis zehn Uhr"],
         "answer": 3
@@ -1350,17 +1172,6 @@
         "prompt": "Im Sommer haben die Kinder Schule.",
         "answer": false,
         "explanation": "Im Sommer haben die Kinder Ferien."
-      },
-      {
-        "type": "mc",
-        "prompt": "Welche Farben haben die Blätter im Herbst?",
-        "options": [
-          "Gelb, rot und braun",
-          "Grün und blau",
-          "Weiß und grau",
-          "Schwarz und rot"
-        ],
-        "answer": 0
       },
       {
         "type": "tf",
@@ -1446,12 +1257,6 @@
       },
       {
         "type": "mc",
-        "prompt": "Welche Größe hat Frau Nowak?",
-        "options": ["37", "38", "39", "40"],
-        "answer": 2
-      },
-      {
-        "type": "mc",
         "prompt": "Wie viele Paar Schuhe bringt die Verkäuferin?",
         "options": ["Ein Paar", "Zwei Paar", "Drei Paar", "Vier Paar"],
         "answer": 2
@@ -1466,11 +1271,6 @@
           "Sie sind nicht bequem."
         ],
         "answer": 0
-      },
-      {
-        "type": "tf",
-        "prompt": "Die braunen Schuhe passen gut.",
-        "answer": true
       },
       {
         "type": "mc",
@@ -1554,12 +1354,6 @@
         "answer": 2
       },
       {
-        "type": "tf",
-        "prompt": "Onkel Stefan kocht am Morgen.",
-        "answer": false,
-        "explanation": "Tante Petra kocht. Onkel Stefan bringt Getränke mit."
-      },
-      {
         "type": "mc",
         "prompt": "Wer macht den Kuchen?",
         "options": ["Oma Hilde", "Tante Petra", "Leon und Aylin", "Onkel Stefan"],
@@ -1570,11 +1364,6 @@
         "prompt": "Wie viele Kerzen stehen auf dem Kuchen?",
         "options": ["Acht", "Zehn", "Achtzehn", "Achtzig"],
         "answer": 0
-      },
-      {
-        "type": "tf",
-        "prompt": "Um drei Uhr sind alle da.",
-        "answer": true
       },
       {
         "type": "mc",
@@ -1660,11 +1449,6 @@
         "answer": 1
       },
       {
-        "type": "tf",
-        "prompt": "Der Kurs ist jeden Tag von neun bis zwölf Uhr.",
-        "answer": true
-      },
-      {
         "type": "mc",
         "prompt": "Wie viele Personen sind im Kurs?",
         "options": ["Vier", "Zehn", "Vierzehn", "Vierzig"],
@@ -1675,12 +1459,6 @@
         "prompt": "Was ist Ana von Beruf?",
         "options": ["Lehrerin", "Ärztin", "Studentin", "Ingenieurin"],
         "answer": 3
-      },
-      {
-        "type": "tf",
-        "prompt": "Frau Braun spricht sehr schnell.",
-        "answer": false,
-        "explanation": "Sie spricht langsam."
       },
       {
         "type": "mc",
@@ -1762,12 +1540,6 @@
       },
       {
         "type": "mc",
-        "prompt": "Wann beginnt Janas Arbeit?",
-        "options": ["Um acht Uhr", "Um halb neun", "Um neun Uhr", "Um halb zehn"],
-        "answer": 1
-      },
-      {
-        "type": "mc",
         "prompt": "Was macht Jana zuerst?",
         "options": [
           "Sie schneidet Haare.",
@@ -1781,12 +1553,6 @@
         "type": "tf",
         "prompt": "Die erste Kundin möchte kurze Haare.",
         "answer": true
-      },
-      {
-        "type": "mc",
-        "prompt": "Wie viele Kunden hat Jana jeden Tag?",
-        "options": ["Zwei bis drei", "Vier bis fünf", "Acht bis zehn", "Über zwanzig"],
-        "answer": 2
       },
       {
         "type": "mc",
@@ -1873,17 +1639,6 @@
       },
       {
         "type": "mc",
-        "prompt": "Wann beginnt die Party?",
-        "options": [
-          "Am Freitag um acht Uhr",
-          "Am Samstag um acht Uhr",
-          "Am Samstag um sechs Uhr",
-          "Am Sonntag um acht Uhr"
-        ],
-        "answer": 1
-      },
-      {
-        "type": "mc",
         "prompt": "Was kocht Kofi?",
         "options": ["Pizza", "Suppe", "Chili", "Nudeln"],
         "answer": 2
@@ -1893,17 +1648,6 @@
         "prompt": "Felix muss im Hotel schlafen.",
         "answer": false,
         "explanation": "Er kann bei Kofi auf dem Sofa schlafen."
-      },
-      {
-        "type": "mc",
-        "prompt": "Was machen sie am Sonntag nach dem Frühstück?",
-        "options": [
-          "Kofi zeigt Felix die Stadt.",
-          "Sie fahren nach Leipzig.",
-          "Sie machen eine Party.",
-          "Sie schlafen lange."
-        ],
-        "answer": 0
       },
       {
         "type": "mc",
@@ -1988,12 +1732,6 @@
         "answer": 2
       },
       {
-        "type": "tf",
-        "prompt": "Sie haben ein Einzelzimmer.",
-        "answer": false,
-        "explanation": "Sie haben ein Doppelzimmer."
-      },
-      {
         "type": "mc",
         "prompt": "Wie lange bleiben sie im Hotel?",
         "options": ["Eine Nacht", "Zwei Nächte", "Drei Nächte", "Eine Woche"],
@@ -2009,11 +1747,6 @@
           "Im vierzehnten Stock"
         ],
         "answer": 1
-      },
-      {
-        "type": "tf",
-        "prompt": "Am Sonntag gibt es Frühstück bis elf Uhr.",
-        "answer": true
       },
       {
         "type": "tf",
@@ -2097,12 +1830,6 @@
         "answer": 1
       },
       {
-        "type": "tf",
-        "prompt": "Frau Yıldız geht am Mittwochmorgen auf den Markt.",
-        "answer": false,
-        "explanation": "Sie geht immer am Samstagmorgen."
-      },
-      {
         "type": "mc",
         "prompt": "Woher kommen Obst und Gemüse?",
         "options": [
@@ -2120,12 +1847,6 @@
         "answer": 2
       },
       {
-        "type": "mc",
-        "prompt": "Wie viel kostet das Gemüse zusammen?",
-        "options": ["3,00 Euro", "4,50 Euro", "5,40 Euro", "6,40 Euro"],
-        "answer": 2
-      },
-      {
         "type": "tf",
         "prompt": "Die Äpfel sind heute im Angebot.",
         "answer": true
@@ -2134,12 +1855,6 @@
         "type": "mc",
         "prompt": "Wie viel Käse kauft sie?",
         "options": ["100 Gramm", "200 Gramm", "500 Gramm", "Ein Kilo"],
-        "answer": 1
-      },
-      {
-        "type": "mc",
-        "prompt": "Was macht sie zu Hause mit den Erdbeeren?",
-        "options": ["Marmelade", "Einen Kuchen", "Einen Obstsalat", "Nichts"],
         "answer": 1
       },
       {
@@ -2214,12 +1929,6 @@
         "answer": 2
       },
       {
-        "type": "tf",
-        "prompt": "Finns Zimmer ist sehr groß.",
-        "answer": false,
-        "explanation": "Es ist nicht sehr groß."
-      },
-      {
         "type": "mc",
         "prompt": "Welche Farbe haben die Wände?",
         "options": ["Blau", "Grün", "Weiß", "Gelb"],
@@ -2232,12 +1941,6 @@
         "answer": 1
       },
       {
-        "type": "mc",
-        "prompt": "Wo steht der Schreibtisch?",
-        "options": ["Neben der Tür", "Links", "Am Fenster", "Rechts neben dem Schrank"],
-        "answer": 2
-      },
-      {
         "type": "tf",
         "prompt": "Finn macht am Schreibtisch seine Hausaufgaben.",
         "answer": true
@@ -2247,12 +1950,6 @@
         "prompt": "Welche Farbe hat der Teppich?",
         "options": ["Rot", "Blau", "Braun", "Grün"],
         "answer": 3
-      },
-      {
-        "type": "tf",
-        "prompt": "Finns Zimmer ist immer ordentlich.",
-        "answer": false,
-        "explanation": "Sein Zimmer ist oft nicht ordentlich."
       },
       {
         "type": "mc",
@@ -2318,12 +2015,6 @@
         "answer": 2
       },
       {
-        "type": "mc",
-        "prompt": "Wann beginnt das Spiel?",
-        "options": ["Um zehn Uhr", "Um elf Uhr", "Um zwölf Uhr", "Um eins"],
-        "answer": 1
-      },
-      {
         "type": "tf",
         "prompt": "Oma Hilde kommt auch zum Spiel.",
         "answer": true
@@ -2340,12 +2031,6 @@
         "answer": 1
       },
       {
-        "type": "tf",
-        "prompt": "Leons Mannschaft schießt das erste Tor.",
-        "answer": false,
-        "explanation": "Die andere Mannschaft schießt das erste Tor."
-      },
-      {
         "type": "mc",
         "prompt": "Was essen die Kinder in der Pause?",
         "options": ["Bananen", "Brötchen", "Äpfel", "Schokolade"],
@@ -2356,12 +2041,6 @@
         "prompt": "Wer schießt das letzte Tor?",
         "options": ["Leon", "Der Trainer", "Die andere Mannschaft", "Emil"],
         "answer": 3
-      },
-      {
-        "type": "mc",
-        "prompt": "Wie endet das Spiel?",
-        "options": ["Eins zu eins", "Zwei zu eins", "Eins zu zwei", "Null zu null"],
-        "answer": 1
       },
       {
         "type": "tf",
@@ -2433,12 +2112,6 @@
         "answer": 1
       },
       {
-        "type": "mc",
-        "prompt": "Wie viel kostet eine Karte für Kinder?",
-        "options": ["6 Euro", "8 Euro", "9 Euro", "18 Euro"],
-        "answer": 2
-      },
-      {
         "type": "tf",
         "prompt": "Zuerst sehen sie die Löwen.",
         "answer": false,
@@ -2448,12 +2121,6 @@
         "type": "tf",
         "prompt": "Der Elefant ist noch ein Baby.",
         "answer": true
-      },
-      {
-        "type": "mc",
-        "prompt": "Was essen sie zu Mittag?",
-        "options": ["Pizza", "Salat", "Pommes und Würstchen", "Fisch"],
-        "answer": 2
       },
       {
         "type": "mc",
@@ -2471,11 +2138,6 @@
         "prompt": "Welche Tiere findet Mila am schönsten?",
         "options": ["Die Affen", "Die Elefanten", "Die Löwen", "Die Pinguine"],
         "answer": 3
-      },
-      {
-        "type": "tf",
-        "prompt": "Um drei Uhr bekommen die Pinguine Fisch.",
-        "answer": true
       },
       {
         "type": "tf",
@@ -2546,11 +2208,6 @@
         "answer": 1
       },
       {
-        "type": "tf",
-        "prompt": "Die Nachbarn klingeln am Freitagabend.",
-        "answer": true
-      },
-      {
         "type": "mc",
         "prompt": "Was ist Samir von Beruf?",
         "options": ["Lehrer", "Arzt", "Ingenieur", "Koch"],
@@ -2568,12 +2225,6 @@
         "answer": 1
       },
       {
-        "type": "mc",
-        "prompt": "Woher kommen Samir und Nour?",
-        "options": ["Aus Polen", "Aus der Türkei", "Aus Jordanien", "Aus Syrien"],
-        "answer": 2
-      },
-      {
         "type": "tf",
         "prompt": "Yara ist fünf Jahre alt.",
         "answer": false,
@@ -2584,12 +2235,6 @@
         "prompt": "Wie lange wohnt Frau Kowalski schon im Haus?",
         "options": ["Zwei Jahre", "Drei Tage", "Zehn Jahre", "Zwanzig Jahre"],
         "answer": 3
-      },
-      {
-        "type": "tf",
-        "prompt": "Frau Kowalski findet das Haus laut.",
-        "answer": false,
-        "explanation": "Sie sagt, das Haus ist ruhig."
       },
       {
         "type": "mc",
@@ -2671,12 +2316,6 @@
       },
       {
         "type": "mc",
-        "prompt": "Um wie viel Uhr haben sie den Tisch?",
-        "options": ["Um sechs Uhr", "Um sieben Uhr", "Um acht Uhr", "Um zehn Uhr"],
-        "answer": 2
-      },
-      {
-        "type": "mc",
         "prompt": "Was isst Clara als Hauptgericht?",
         "options": ["Pizza mit Pilzen", "Spaghetti mit Gemüse", "Tomatensuppe", "Fisch"],
         "answer": 1
@@ -2685,12 +2324,6 @@
         "type": "tf",
         "prompt": "Mateo isst kein Fleisch.",
         "answer": true
-      },
-      {
-        "type": "tf",
-        "prompt": "Sie trinken Bier.",
-        "answer": false,
-        "explanation": "Sie trinken Wein und Wasser."
       },
       {
         "type": "mc",
@@ -2703,12 +2336,6 @@
         "prompt": "Sie bezahlen getrennt.",
         "answer": false,
         "explanation": "Mateo bezahlt alles zusammen."
-      },
-      {
-        "type": "mc",
-        "prompt": "Wie viel kostet das Essen?",
-        "options": ["50 Euro", "56 Euro", "60 Euro", "65 Euro"],
-        "answer": 1
       },
       {
         "type": "mc",
@@ -2786,12 +2413,6 @@
       },
       {
         "type": "mc",
-        "prompt": "Was braucht Ayşe für den Ausweis?",
-        "options": ["Ein Foto", "Ihren Pass", "Ihre Adresse", "Eine Kreditkarte"],
-        "answer": 1
-      },
-      {
-        "type": "mc",
         "prompt": "Wie viel kostet der Ausweis?",
         "options": ["10 Euro im Jahr", "12 Euro im Jahr", "20 Euro im Jahr", "Nichts"],
         "answer": 2
@@ -2806,12 +2427,6 @@
           "Zwei DVDs"
         ],
         "answer": 1
-      },
-      {
-        "type": "tf",
-        "prompt": "Die DVD kann sie vier Wochen behalten.",
-        "answer": false,
-        "explanation": "Sie muss die DVD nach einer Woche zurückbringen."
       },
       {
         "type": "mc",
@@ -2908,17 +2523,6 @@
       },
       {
         "type": "mc",
-        "prompt": "Wie viel kostet das Paket?",
-        "options": ["19 Euro", "21,20 Euro", "10 Euro", "1,10 Euro"],
-        "answer": 0
-      },
-      {
-        "type": "tf",
-        "prompt": "Das Paket ist in fünf bis sieben Tagen in Portugal.",
-        "answer": true
-      },
-      {
-        "type": "mc",
         "prompt": "Wie viele Briefmarken braucht Tomás?",
         "options": ["Eine", "Zwei", "Drei", "Keine"],
         "answer": 1
@@ -3001,17 +2605,6 @@
       },
       {
         "type": "mc",
-        "prompt": "Wann hat Priya den Termin?",
-        "options": [
-          "Am Montag um neun Uhr",
-          "Am Mittwoch um zehn Uhr",
-          "Am Freitag um zehn Uhr",
-          "Am Mittwoch um zwei Uhr"
-        ],
-        "answer": 1
-      },
-      {
-        "type": "mc",
         "prompt": "Was bringt Priya NICHT mit?",
         "options": ["Ihren Pass", "Ihren Arbeitsvertrag", "Die Anmeldung", "Ein Foto"],
         "answer": 3
@@ -3026,12 +2619,6 @@
           "Vierzig Euro im Jahr"
         ],
         "answer": 2
-      },
-      {
-        "type": "tf",
-        "prompt": "Priya bekommt die Karte sofort bei der Bank.",
-        "answer": false,
-        "explanation": "Die Karte kommt mit der Post."
       },
       {
         "type": "tf",
@@ -3116,12 +2703,6 @@
         "explanation": "Sie ruft an und macht einen Termin."
       },
       {
-        "type": "mc",
-        "prompt": "Wie heißt der Friseursalon?",
-        "options": ["Salon Lang", "Salon Haarmonie", "Salon Sophie", "Salon Schön"],
-        "answer": 1
-      },
-      {
         "type": "tf",
         "prompt": "Am Donnerstag hat der Friseur keinen Termin frei.",
         "answer": true
@@ -3136,17 +2717,6 @@
           "Sie ist auf der Hochzeit."
         ],
         "answer": 0
-      },
-      {
-        "type": "mc",
-        "prompt": "Wann ist der Termin?",
-        "options": [
-          "Donnerstag, 10:00 Uhr",
-          "Freitag, 10:00 Uhr",
-          "Freitag, 16:30 Uhr",
-          "Samstag, 16:30 Uhr"
-        ],
-        "answer": 2
       },
       {
         "type": "mc",
@@ -3231,12 +2801,6 @@
       },
       {
         "type": "tf",
-        "prompt": "Heute kommt Jan pünktlich zur Arbeit.",
-        "answer": false,
-        "explanation": "Er muss den Bus nehmen und kommt zu spät."
-      },
-      {
-        "type": "tf",
         "prompt": "Die Werkstatt ist weit von Jans Wohnung.",
         "answer": false,
         "explanation": "Sie ist nicht weit von seiner Wohnung."
@@ -3245,12 +2809,6 @@
         "type": "mc",
         "prompt": "Wer repariert das Fahrrad?",
         "options": ["Ein Kollege", "Jan", "Frau Aydın", "Ein Freund"],
-        "answer": 2
-      },
-      {
-        "type": "mc",
-        "prompt": "Wie viel kostet die Reparatur?",
-        "options": ["28 Euro", "38 Euro", "48 Euro", "84 Euro"],
         "answer": 2
       },
       {
@@ -3340,12 +2898,6 @@
       },
       {
         "type": "mc",
-        "prompt": "Was kauft Kemal im Supermarkt?",
-        "options": ["Eier", "Mehl", "Butter", "Milch"],
-        "answer": 3
-      },
-      {
-        "type": "mc",
         "prompt": "Wie viele Eier brauchen sie?",
         "options": ["Zwei", "Drei", "Vier", "Sechs"],
         "answer": 1
@@ -3360,12 +2912,6 @@
           "Mit einer Gabel"
         ],
         "answer": 0
-      },
-      {
-        "type": "tf",
-        "prompt": "Elif backt die Pfannkuchen am Herd.",
-        "answer": false,
-        "explanation": "Der Herd ist zu heiß. Kemal backt die Pfannkuchen."
       },
       {
         "type": "mc",
@@ -3451,12 +2997,6 @@
         "answer": 1
       },
       {
-        "type": "tf",
-        "prompt": "Meera fährt mit dem Auto zu Familie Becker.",
-        "answer": false,
-        "explanation": "Sie fährt mit dem Zug."
-      },
-      {
         "type": "mc",
         "prompt": "Was steht im Wohnzimmer?",
         "options": [
@@ -3477,11 +3017,6 @@
           "Pizza"
         ],
         "answer": 1
-      },
-      {
-        "type": "tf",
-        "prompt": "Meera bekommt einen Schal und ein Buch.",
-        "answer": true
       },
       {
         "type": "tf",
@@ -3562,12 +3097,6 @@
         "answer": 1
       },
       {
-        "type": "mc",
-        "prompt": "Wie viel kostet ein Ticket für Kinder?",
-        "options": ["Drei Euro", "Sechs Euro", "Neun Euro", "Zwölf Euro"],
-        "answer": 0
-      },
-      {
         "type": "tf",
         "prompt": "Zusammen bezahlt Herr Bauer zwölf Euro.",
         "answer": true
@@ -3577,12 +3106,6 @@
         "prompt": "Wer darf im großen Becken schwimmen?",
         "options": ["Nur Kinder", "Nur gute Schwimmer", "Alle Leute", "Nur Erwachsene"],
         "answer": 1
-      },
-      {
-        "type": "tf",
-        "prompt": "Theo schwimmt im großen Becken.",
-        "answer": false,
-        "explanation": "Er kann noch nicht so gut schwimmen. Er bleibt im kleinen Becken."
       },
       {
         "type": "mc",
@@ -3605,11 +3128,6 @@
           "Man darf im Schwimmbad nicht essen."
         ],
         "answer": 3
-      },
-      {
-        "type": "tf",
-        "prompt": "Um zwölf Uhr essen sie Pommes.",
-        "answer": true
       },
       {
         "type": "mc",
@@ -3694,12 +3212,6 @@
       },
       {
         "type": "mc",
-        "prompt": "Was spielen die Kinder am Dienstag oft?",
-        "options": ["Fußball", "Basketball", "Tennis", "Volleyball"],
-        "answer": 1
-      },
-      {
-        "type": "mc",
         "prompt": "Wann ist die Schule am Mittwoch aus?",
         "options": ["Um 10:30 Uhr", "Um 11:30 Uhr", "Um 12:30 Uhr", "Um 13:00 Uhr"],
         "answer": 1
@@ -3709,11 +3221,6 @@
         "prompt": "Welcher Tag ist Linas Lieblingstag?",
         "options": ["Montag", "Dienstag", "Freitag", "Donnerstag"],
         "answer": 3
-      },
-      {
-        "type": "tf",
-        "prompt": "Lina malt sehr gern.",
-        "answer": true
       },
       {
         "type": "mc",
@@ -3797,12 +3304,6 @@
         "answer": 1
       },
       {
-        "type": "mc",
-        "prompt": "Was ist Rosa von Beruf?",
-        "options": ["Köchin", "Lehrerin", "Krankenschwester", "Verkäuferin"],
-        "answer": 2
-      },
-      {
         "type": "tf",
         "prompt": "Rosa wohnt seit drei Jahren in Bremen.",
         "answer": true
@@ -3819,12 +3320,6 @@
         "answer": 1
       },
       {
-        "type": "mc",
-        "prompt": "Wie viele Sachen braucht man für das Rezept?",
-        "options": ["Drei", "Vier", "Fünf", "Sechs"],
-        "answer": 2
-      },
-      {
         "type": "tf",
         "prompt": "Die Kartoffeln und die Zwiebel braten nur fünf Minuten.",
         "answer": false,
@@ -3835,12 +3330,6 @@
         "prompt": "Wo wohnt Rosas Mutter?",
         "options": ["In Bremen", "In Madrid", "In Barcelona", "In Sevilla"],
         "answer": 1
-      },
-      {
-        "type": "mc",
-        "prompt": "Wie viele Stücke isst Henrik immer?",
-        "options": ["Eins", "Zwei", "Vier", "Drei"],
-        "answer": 3
       },
       {
         "type": "tf",
@@ -3914,12 +3403,6 @@
         "answer": 1
       },
       {
-        "type": "mc",
-        "prompt": "Wie fahren sie zum Tegernsee?",
-        "options": ["Mit dem Auto", "Mit dem Bus", "Mit dem Zug", "Mit dem Fahrrad"],
-        "answer": 2
-      },
-      {
         "type": "tf",
         "prompt": "Am Morgen ist das Wetter schlecht.",
         "answer": false,
@@ -3937,12 +3420,6 @@
         "answer": 0
       },
       {
-        "type": "mc",
-        "prompt": "Wie lange wandern sie auf den Berg?",
-        "options": ["Eine Stunde", "Zwei Stunden", "Drei Stunden", "Vier Stunden"],
-        "answer": 2
-      },
-      {
         "type": "tf",
         "prompt": "Oben sehen sie den See.",
         "answer": true
@@ -3957,17 +3434,6 @@
           "Es schneit."
         ],
         "answer": 1
-      },
-      {
-        "type": "mc",
-        "prompt": "Was macht Tobias?",
-        "options": [
-          "Er gibt Yuki seine Jacke.",
-          "Er ruft ein Taxi.",
-          "Er kauft einen Schirm.",
-          "Er läuft nach Hause."
-        ],
-        "answer": 0
       },
       {
         "type": "tf",
@@ -4037,12 +3503,6 @@
         "answer": 1
       },
       {
-        "type": "mc",
-        "prompt": "Wer wohnt in Lissabon?",
-        "options": ["Ihre Mutter", "Ihre Freundin", "Ihre Schwester", "Ihr Bruder"],
-        "answer": 2
-      },
-      {
         "type": "tf",
         "prompt": "Elena ist um zwölf Uhr am Flughafen.",
         "answer": true
@@ -4052,12 +3512,6 @@
         "prompt": "Wie viel wiegt Elenas Koffer?",
         "options": ["12 Kilo", "18 Kilo", "21 Kilo", "25 Kilo"],
         "answer": 2
-      },
-      {
-        "type": "mc",
-        "prompt": "Wo sitzt Elena im Flugzeug?",
-        "options": ["Am Fenster", "In der Mitte", "Am Gang", "Ganz hinten"],
-        "answer": 0
       },
       {
         "type": "tf",
@@ -4075,12 +3529,6 @@
           "Schokolade"
         ],
         "answer": 1
-      },
-      {
-        "type": "mc",
-        "prompt": "Wann geht der Flug jetzt?",
-        "options": ["Um 13:30 Uhr", "Um 14:20 Uhr", "Um 16:15 Uhr", "Um 15:45 Uhr"],
-        "answer": 3
       },
       {
         "type": "tf",
@@ -4152,12 +3600,6 @@
         "answer": 2
       },
       {
-        "type": "mc",
-        "prompt": "Wann gehen Jule und Noah ins Kaufhaus?",
-        "options": ["Am Freitag", "Am Samstag", "Am Sonntag", "Am Montag"],
-        "answer": 1
-      },
-      {
         "type": "tf",
         "prompt": "Jule findet ein Hemd langweilig.",
         "answer": true
@@ -4166,12 +3608,6 @@
         "type": "mc",
         "prompt": "Was gibt es im zweiten Stock?",
         "options": ["Taschen und Uhren", "Bücher und Spiele", "Sportsachen", "Kleidung"],
-        "answer": 1
-      },
-      {
-        "type": "mc",
-        "prompt": "Wie viel kostet der Krimi?",
-        "options": ["12 Euro", "22 Euro", "42 Euro", "45 Euro"],
         "answer": 1
       },
       {
@@ -4185,12 +3621,6 @@
         "prompt": "Welche Farbe hat der Helm?",
         "options": ["Rot", "Schwarz", "Grün", "Blau"],
         "answer": 3
-      },
-      {
-        "type": "mc",
-        "prompt": "Wer bezahlt den Helm?",
-        "options": ["Jule allein", "Noah allein", "Jule und Noah zusammen", "Mama"],
-        "answer": 2
       },
       {
         "type": "tf",
@@ -4264,17 +3694,6 @@
         "answer": 2
       },
       {
-        "type": "mc",
-        "prompt": "Warum klingelt der Wecker nicht?",
-        "options": [
-          "Der Wecker ist kaputt.",
-          "Das Handy ist leer.",
-          "Tariq hat ihn vergessen.",
-          "Es ist Sonntag."
-        ],
-        "answer": 1
-      },
-      {
         "type": "tf",
         "prompt": "Tariq duscht am Morgen.",
         "answer": false,
@@ -4290,12 +3709,6 @@
           "Die Chefin möchte das."
         ],
         "answer": 1
-      },
-      {
-        "type": "tf",
-        "prompt": "Tariq nimmt den Bus um halb neun.",
-        "answer": false,
-        "explanation": "Der Bus fährt gerade ab. Tariq nimmt ein Taxi."
       },
       {
         "type": "mc",
@@ -4318,12 +3731,6 @@
           "Der Fahrer kennt den Weg nicht."
         ],
         "answer": 1
-      },
-      {
-        "type": "mc",
-        "prompt": "Wann ist Tariq im Büro?",
-        "options": ["Um 9:00 Uhr", "Um 9:10 Uhr", "Um 9:20 Uhr", "Um 10:00 Uhr"],
-        "answer": 2
       },
       {
         "type": "tf",
@@ -4395,12 +3802,6 @@
         "answer": 2
       },
       {
-        "type": "tf",
-        "prompt": "Merve möchte nicht mitkommen.",
-        "answer": false,
-        "explanation": "Merve sagt sofort ja."
-      },
-      {
         "type": "mc",
         "prompt": "Wo kauft Zeynep die Karten?",
         "options": ["An der Kasse", "Im Internet", "Im Supermarkt", "Bei Merve"],
@@ -4413,12 +3814,6 @@
         "answer": 2
       },
       {
-        "type": "mc",
-        "prompt": "Wie fahren die Freundinnen zur Halle?",
-        "options": ["Mit der S-Bahn", "Mit dem Bus", "Mit dem Auto", "Mit dem Taxi"],
-        "answer": 0
-      },
-      {
         "type": "tf",
         "prompt": "Am Eingang warten sie eine halbe Stunde.",
         "answer": true
@@ -4428,12 +3823,6 @@
         "prompt": "Wann beginnt das Konzert?",
         "options": ["Um sieben Uhr", "Um halb acht", "Um acht Uhr", "Um neun Uhr"],
         "answer": 2
-      },
-      {
-        "type": "mc",
-        "prompt": "Wie lange dauert das Konzert?",
-        "options": ["Eine Stunde", "Zwei Stunden", "Drei Stunden", "Vier Stunden"],
-        "answer": 1
       },
       {
         "type": "tf",
@@ -4511,11 +3900,6 @@
       },
       {
         "type": "tf",
-        "prompt": "Amira trägt eine Brille.",
-        "answer": true
-      },
-      {
-        "type": "tf",
         "prompt": "Amira kommt immer pünktlich.",
         "answer": false,
         "explanation": "Sie kommt oft zu spät."
@@ -4525,17 +3909,6 @@
         "prompt": "Was ist Amira von Beruf?",
         "options": ["Ingenieurin", "Lehrerin", "Ärztin", "Malerin"],
         "answer": 0
-      },
-      {
-        "type": "mc",
-        "prompt": "Was machen die Freundinnen am Sonntag?",
-        "options": [
-          "Sie tanzen Salsa.",
-          "Sie gehen joggen.",
-          "Sie malen Bilder.",
-          "Sie gehen ins Kino."
-        ],
-        "answer": 1
       },
       {
         "type": "tf",
@@ -4623,12 +3996,6 @@
         "answer": 0
       },
       {
-        "type": "tf",
-        "prompt": "Luka spült gern das Geschirr.",
-        "answer": false,
-        "explanation": "Er findet das langweilig, aber er macht es."
-      },
-      {
         "type": "mc",
         "prompt": "Was macht Ema?",
         "options": [
@@ -4644,11 +4011,6 @@
         "prompt": "Wer bringt den Müll raus?",
         "options": ["Die Mutter", "Luka", "Ema", "Der Vater"],
         "answer": 3
-      },
-      {
-        "type": "tf",
-        "prompt": "Die Mutter wäscht die Wäsche.",
-        "answer": true
       },
       {
         "type": "tf",
@@ -4733,11 +4095,6 @@
         "answer": 1
       },
       {
-        "type": "tf",
-        "prompt": "Das Taxi kommt nach zehn Minuten.",
-        "answer": true
-      },
-      {
         "type": "mc",
         "prompt": "Wohin möchte Herr Okafor?",
         "options": ["Zum Flughafen", "Nach Hause", "Zum Hauptbahnhof", "Zu seiner Firma"],
@@ -4748,17 +4105,6 @@
         "prompt": "Auf der Straße sind wenige Autos.",
         "answer": false,
         "explanation": "Auf der Straße sind viele Autos."
-      },
-      {
-        "type": "mc",
-        "prompt": "Was macht der Fahrer?",
-        "options": [
-          "Er fährt sehr langsam.",
-          "Er nimmt eine andere Straße.",
-          "Er hält an einem Café.",
-          "Er ruft die Polizei."
-        ],
-        "answer": 1
       },
       {
         "type": "mc",
@@ -4834,17 +4180,6 @@
         "answer": 3
       },
       {
-        "type": "mc",
-        "prompt": "Seit wann wohnt Carlos in Leipzig?",
-        "options": [
-          "Seit einer Woche",
-          "Seit einem Monat",
-          "Seit einem Jahr",
-          "Seit gestern"
-        ],
-        "answer": 0
-      },
-      {
         "type": "tf",
         "prompt": "Carlos hat um neun Uhr einen Termin.",
         "answer": true
@@ -4861,17 +4196,6 @@
         "answer": 1
       },
       {
-        "type": "mc",
-        "prompt": "Wo wohnt Carlos?",
-        "options": [
-          "In der Gartenstraße 2",
-          "In der Bahnhofstraße 12",
-          "In der Gartenstraße 12",
-          "In der Parkstraße 21"
-        ],
-        "answer": 2
-      },
-      {
         "type": "tf",
         "prompt": "Carlos weiß seine Postleitzahl.",
         "answer": false,
@@ -4882,17 +4206,6 @@
         "prompt": "Carlos ist verheiratet und hat zwei Kinder.",
         "answer": false,
         "explanation": "Er ist ledig und hat keine Kinder."
-      },
-      {
-        "type": "mc",
-        "prompt": "Was braucht die Frau noch?",
-        "options": [
-          "Ein Foto",
-          "Den Pass und den Mietvertrag",
-          "Die Telefonnummer",
-          "Geld"
-        ],
-        "answer": 1
       },
       {
         "type": "mc",
@@ -4974,12 +4287,6 @@
         "answer": 1
       },
       {
-        "type": "tf",
-        "prompt": "Frau Tanaka trinkt zuerst einen Kaffee.",
-        "answer": false,
-        "explanation": "Sie trinkt zuerst ein Glas Wasser."
-      },
-      {
         "type": "mc",
         "prompt": "Wo macht sie Yoga?",
         "options": ["Im Park", "Im Schlafzimmer", "Im Wohnzimmer", "Im Büro"],
@@ -4990,11 +4297,6 @@
         "prompt": "Wie lange macht sie Yoga?",
         "options": ["Zehn Minuten", "Fünfzehn Minuten", "Zwanzig Minuten", "Eine Stunde"],
         "answer": 2
-      },
-      {
-        "type": "tf",
-        "prompt": "Am Ende liegt sie fünf Minuten still auf der Matte.",
-        "answer": true
       },
       {
         "type": "mc",
@@ -5090,32 +4392,10 @@
         "answer": 1
       },
       {
-        "type": "tf",
-        "prompt": "Die Oma kommt auch mit.",
-        "answer": true
-      },
-      {
-        "type": "mc",
-        "prompt": "Wie ist die Lehrerin?",
-        "options": [
-          "Alt und streng",
-          "Jung und sehr nett",
-          "Groß und lustig",
-          "Jung und müde"
-        ],
-        "answer": 1
-      },
-      {
         "type": "mc",
         "prompt": "Wie viele Kinder sind in der Klasse?",
         "options": ["12", "20", "22", "32"],
         "answer": 2
-      },
-      {
-        "type": "tf",
-        "prompt": "Die Kinder lernen heute den Buchstaben B.",
-        "answer": false,
-        "explanation": "Sie lernen den Buchstaben A."
       },
       {
         "type": "mc",
@@ -5211,17 +4491,6 @@
         "answer": 2
       },
       {
-        "type": "tf",
-        "prompt": "Die Wohnung ist nahe am Park.",
-        "answer": true
-      },
-      {
-        "type": "mc",
-        "prompt": "Wer ruft den Vermieter an?",
-        "options": ["Olivia", "Kwame", "Herr Scholz", "Ein Freund"],
-        "answer": 1
-      },
-      {
         "type": "mc",
         "prompt": "Wann sehen sie die Wohnung?",
         "options": [
@@ -5231,12 +4500,6 @@
           "Am Sonntag um elf Uhr"
         ],
         "answer": 1
-      },
-      {
-        "type": "tf",
-        "prompt": "Die Küche ist alt.",
-        "answer": false,
-        "explanation": "Die Küche ist neu."
       },
       {
         "type": "mc",
@@ -5310,17 +4573,6 @@
       },
       {
         "type": "mc",
-        "prompt": "Was macht Frau Lindner?",
-        "options": [
-          "Sie pflanzt Blumen.",
-          "Sie gießt das Gemüse.",
-          "Sie spielt mit dem Hund.",
-          "Sie macht ein Beet."
-        ],
-        "answer": 0
-      },
-      {
-        "type": "mc",
         "prompt": "Welches Gemüse pflanzen sie?",
         "options": [
           "Kartoffeln und Zwiebeln",
@@ -5335,11 +4587,6 @@
         "prompt": "Wer ist Elias?",
         "options": ["Der Sohn", "Der Nachbar", "Der Enkel", "Der Hund"],
         "answer": 2
-      },
-      {
-        "type": "tf",
-        "prompt": "Am Nachmittag trinken sie Limonade auf der Terrasse.",
-        "answer": true
       },
       {
         "type": "mc",
@@ -5421,12 +4668,6 @@
         "answer": 1
       },
       {
-        "type": "mc",
-        "prompt": "Was ist Anjali von Beruf?",
-        "options": ["Lehrerin", "Ärztin", "Programmiererin", "Verkäuferin"],
-        "answer": 2
-      },
-      {
         "type": "tf",
         "prompt": "Bei der Arbeit spricht Anjali Deutsch.",
         "answer": false,
@@ -5437,12 +4678,6 @@
         "prompt": "Wie lange lernt Anjali jeden Tag?",
         "options": ["Fünf Minuten", "Zehn Minuten", "Fünfzehn Minuten", "Eine Stunde"],
         "answer": 2
-      },
-      {
-        "type": "mc",
-        "prompt": "Wie viele neue Wörter lernt sie jeden Tag?",
-        "options": ["Fünf", "Zehn", "Fünfzehn", "Zwanzig"],
-        "answer": 1
       },
       {
         "type": "tf",
@@ -5459,12 +4694,6 @@
           "Mit ihrer Schwester"
         ],
         "answer": 0
-      },
-      {
-        "type": "tf",
-        "prompt": "Anjali macht keine Fehler mehr.",
-        "answer": false,
-        "explanation": "Sie macht noch viele Fehler."
       },
       {
         "type": "mc",
@@ -5536,12 +4765,6 @@
         "answer": 1
       },
       {
-        "type": "mc",
-        "prompt": "Seit wann ist sie dort?",
-        "options": ["Seit Sonntag", "Seit Montag", "Seit Mittwoch", "Seit zwei Wochen"],
-        "answer": 1
-      },
-      {
         "type": "tf",
         "prompt": "Das Hotel ist weit vom Strand entfernt.",
         "answer": false,
@@ -5551,17 +4774,6 @@
         "type": "tf",
         "prompt": "Das Zimmer hat einen Balkon mit Blick auf das Meer.",
         "answer": true
-      },
-      {
-        "type": "mc",
-        "prompt": "Wie ist das Wetter?",
-        "options": [
-          "Es regnet oft.",
-          "Es ist kalt und windig.",
-          "Die Sonne scheint und es ist 30 Grad.",
-          "Es ist bewölkt."
-        ],
-        "answer": 2
       },
       {
         "type": "mc",
@@ -5579,11 +4791,6 @@
         "prompt": "Wo essen sie am Abend oft Fisch?",
         "options": ["Im Hotel", "In einem Restaurant am Hafen", "Am Strand", "Zu Hause"],
         "answer": 1
-      },
-      {
-        "type": "tf",
-        "prompt": "Morgen fährt die Familie mit dem Zug nach Bologna.",
-        "answer": true
       },
       {
         "type": "mc",

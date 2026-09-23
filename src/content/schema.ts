@@ -42,7 +42,7 @@ export const textSchema = z.object({
       }),
     )
     .min(1),
-  questions: z.array(question).min(6).max(12),
+  questions: z.array(question).min(5).max(8),
 });
 
 export type Question = z.infer<typeof question>;

@@ -79,12 +79,6 @@
         "answer": 1
       },
       {
-        "type": "tf",
-        "prompt": "Katrin hat sehr schnell eine Wohnung gefunden.",
-        "answer": false,
-        "explanation": "Sie hat drei Wochen gesucht."
-      },
-      {
         "type": "mc",
         "prompt": "Warum war die Suche schwer?",
         "options": [
@@ -112,32 +106,10 @@
         "answer": true
       },
       {
-        "type": "mc",
-        "prompt": "Wer hat beim Umzug geholfen?",
-        "options": [
-          "Ihre Eltern",
-          "Ihre Kollegen",
-          "Ihr Bruder und zwei Freunde",
-          "Der Vermieter"
-        ],
-        "answer": 2
-      },
-      {
         "type": "tf",
         "prompt": "Am Abend hat Katrin für alle gekocht.",
         "answer": false,
         "explanation": "Sie hat Pizza bestellt."
-      },
-      {
-        "type": "mc",
-        "prompt": "Was hat Katrin in der ersten Woche NICHT gemacht?",
-        "options": [
-          "Sie hat sich angemeldet.",
-          "Sie hat ein Konto eröffnet.",
-          "Sie hat Lampen gekauft.",
-          "Sie hat ein Auto gekauft."
-        ],
-        "answer": 3
       },
       {
         "type": "tf",
@@ -220,12 +192,6 @@
         "answer": 1
       },
       {
-        "type": "tf",
-        "prompt": "Mehmet ist zu spät gekommen.",
-        "answer": false,
-        "explanation": "Er war eine halbe Stunde zu früh."
-      },
-      {
         "type": "mc",
         "prompt": "Wer hat Mehmet die Werkstatt gezeigt?",
         "options": ["Frau Yilmaz", "Seine Mutter", "Herr Hoffmann", "Ein Kunde"],
@@ -238,11 +204,6 @@
         "answer": 2
       },
       {
-        "type": "tf",
-        "prompt": "Im Team arbeiten sechs Kollegen.",
-        "answer": true
-      },
-      {
         "type": "mc",
         "prompt": "Wie lange arbeitet Frau Yilmaz schon in der Firma?",
         "options": ["Zwei Jahre", "Zehn Jahre", "Zwölf Jahre", "Zwanzig Jahre"],
@@ -253,17 +214,6 @@
         "prompt": "In der Mittagspause hat Mehmet allein gegessen.",
         "answer": false,
         "explanation": "Alle haben zusammen in der Kantine gegessen."
-      },
-      {
-        "type": "mc",
-        "prompt": "Was durfte Mehmet am Nachmittag machen?",
-        "options": [
-          "Nach Hause gehen",
-          "Ein kleines Teil reparieren",
-          "Mit Kunden telefonieren",
-          "Die Werkstatt putzen"
-        ],
-        "answer": 1
       },
       {
         "type": "tf",
@@ -338,17 +288,6 @@
         "answer": 2
       },
       {
-        "type": "mc",
-        "prompt": "Warum wollte Nina keine Party in einer Bar?",
-        "options": [
-          "Sie mag keine Bars.",
-          "Das ist zu teuer.",
-          "Die Bar war geschlossen.",
-          "Ihre Freunde wollten nicht."
-        ],
-        "answer": 1
-      },
-      {
         "type": "tf",
         "prompt": "Nina hat ihre Freunde per Nachricht eingeladen.",
         "answer": true
@@ -363,12 +302,6 @@
           "Auf dem Spielplatz"
         ],
         "answer": 1
-      },
-      {
-        "type": "tf",
-        "prompt": "Am Samstag hat es geregnet.",
-        "answer": false,
-        "explanation": "Es war warm und sonnig."
       },
       {
         "type": "mc",
@@ -386,12 +319,6 @@
           "Über die Gitarre"
         ],
         "answer": 2
-      },
-      {
-        "type": "tf",
-        "prompt": "Einige Freunde haben Fußball gespielt.",
-        "answer": false,
-        "explanation": "Sie haben Volleyball gespielt."
       },
       {
         "type": "tf",
@@ -476,17 +403,6 @@
         "answer": 1
       },
       {
-        "type": "mc",
-        "prompt": "Mit wem ist Fatima in die Stadt gefahren?",
-        "options": [
-          "Mit ihrer Oma",
-          "Mit ihrer Mutter",
-          "Mit ihrer Schwester",
-          "Mit einer Freundin"
-        ],
-        "answer": 2
-      },
-      {
         "type": "tf",
         "prompt": "Im ersten Geschäft hat Fatima eine Jacke gekauft.",
         "answer": false,
@@ -496,12 +412,6 @@
         "type": "mc",
         "prompt": "Welche Farbe hat die Jacke?",
         "options": ["Dunkelblau", "Schwarz", "Dunkelgrün", "Hellgrau"],
-        "answer": 2
-      },
-      {
-        "type": "mc",
-        "prompt": "Welche Größe braucht Fatima?",
-        "options": ["34", "36", "38", "40"],
         "answer": 2
       },
       {
@@ -515,11 +425,6 @@
         "prompt": "Wie viel hat die Jacke zuerst gekostet?",
         "options": ["132 Euro", "150 Euro", "189 Euro", "198 Euro"],
         "answer": 2
-      },
-      {
-        "type": "tf",
-        "prompt": "Beim Sonderverkauf kostet die Jacke dreißig Prozent weniger.",
-        "answer": true
       },
       {
         "type": "mc",
@@ -605,11 +510,6 @@
         "answer": 1
       },
       {
-        "type": "tf",
-        "prompt": "Lukas findet Joggen langweilig.",
-        "answer": true
-      },
-      {
         "type": "mc",
         "prompt": "Wer hat Lukas von dem Verein erzählt?",
         "options": ["Sein Arzt", "Ein Kollege", "Sein Bruder", "Der Trainer"],
@@ -627,12 +527,6 @@
         "answer": 1
       },
       {
-        "type": "mc",
-        "prompt": "Wie viel kostet der Verein im Monat?",
-        "options": ["5 Euro", "15 Euro", "50 Euro", "Nichts"],
-        "answer": 1
-      },
-      {
         "type": "tf",
         "prompt": "Beim Probetraining war Lukas sehr ruhig und entspannt.",
         "answer": false,
@@ -642,17 +536,6 @@
         "type": "tf",
         "prompt": "Lukas ist nach dem Probetraining Mitglied geworden.",
         "answer": true
-      },
-      {
-        "type": "mc",
-        "prompt": "Wie geht es Lukas' Rücken jetzt?",
-        "options": [
-          "Er tut mehr weh.",
-          "Er tut nicht mehr weh.",
-          "Er tut nur am Morgen weh.",
-          "Das steht nicht im Text."
-        ],
-        "answer": 1
       },
       {
         "type": "mc",
@@ -739,12 +622,6 @@
         "answer": 1
       },
       {
-        "type": "tf",
-        "prompt": "Am Montag ist Claudia zu Hause geblieben.",
-        "answer": false,
-        "explanation": "Sie ist trotzdem zur Arbeit gegangen."
-      },
-      {
         "type": "mc",
         "prompt": "Was hat die Chefin gesagt?",
         "options": [
@@ -769,12 +646,6 @@
       },
       {
         "type": "mc",
-        "prompt": "Was braucht Claudia laut Arzt vor allem?",
-        "options": ["Sport", "Ruhe", "Frische Luft", "Vitamine"],
-        "answer": 1
-      },
-      {
-        "type": "mc",
         "prompt": "Was hat Claudias Mann jeden Tag gemacht?",
         "options": [
           "Er hat Hühnersuppe gekocht.",
@@ -783,11 +654,6 @@
           "Er hat Blumen gebracht."
         ],
         "answer": 0
-      },
-      {
-        "type": "tf",
-        "prompt": "Eine Kollegin hat Claudia Blumen und eine Karte geschickt.",
-        "answer": true
       },
       {
         "type": "mc",
@@ -872,17 +738,6 @@
         "answer": 1
       },
       {
-        "type": "mc",
-        "prompt": "Warum hat die Fahrt sieben Stunden gedauert?",
-        "options": [
-          "Das Auto war kaputt.",
-          "Es gab einen langen Stau.",
-          "Sie haben viele Pausen gemacht.",
-          "Sie haben sich verfahren."
-        ],
-        "answer": 1
-      },
-      {
         "type": "tf",
         "prompt": "Die Ferienwohnung war weit vom Strand entfernt.",
         "answer": false,
@@ -892,12 +747,6 @@
         "type": "tf",
         "prompt": "Die Eltern haben am Abend oft auf der Terrasse gegrillt.",
         "answer": true
-      },
-      {
-        "type": "mc",
-        "prompt": "Wie war das Wetter in der ersten Woche?",
-        "options": ["Windig und kalt", "Regnerisch", "Sonnig und warm", "Neblig"],
-        "answer": 2
       },
       {
         "type": "mc",
@@ -914,17 +763,6 @@
         "type": "tf",
         "prompt": "In der zweiten Woche war es windig und hat oft geregnet.",
         "answer": true
-      },
-      {
-        "type": "mc",
-        "prompt": "Was hat die Familie bei schlechtem Wetter NICHT gemacht?",
-        "options": [
-          "Eine Insel besucht",
-          "Ein Museum besucht",
-          "Fahrradtouren gemacht",
-          "Im Meer gebadet"
-        ],
-        "answer": 3
       },
       {
         "type": "tf",
@@ -1002,12 +840,6 @@
         "answer": 1
       },
       {
-        "type": "tf",
-        "prompt": "Nach dem Unfall hat das Handy noch funktioniert.",
-        "answer": false,
-        "explanation": "Das Handy hat nicht mehr funktioniert."
-      },
-      {
         "type": "mc",
         "prompt": "Wie viel kostet die Reparatur ungefähr?",
         "options": ["50 Euro", "100 Euro", "150 Euro", "250 Euro"],
@@ -1020,17 +852,6 @@
         "explanation": "Das war leider nicht möglich."
       },
       {
-        "type": "mc",
-        "prompt": "Warum wusste Ben nicht, wie spät es war?",
-        "options": [
-          "Er hat keine Uhr.",
-          "Seine Uhr war kaputt.",
-          "Er hat nicht gefragt.",
-          "Er hat verschlafen."
-        ],
-        "answer": 0
-      },
-      {
         "type": "tf",
         "prompt": "Ben hat eine Verabredung verpasst.",
         "answer": true
@@ -1039,17 +860,6 @@
         "type": "mc",
         "prompt": "Was hat Ben in der U-Bahn wieder gemacht?",
         "options": ["Musik gehört", "Bücher gelesen", "Geschlafen", "Zeitung gelesen"],
-        "answer": 1
-      },
-      {
-        "type": "mc",
-        "prompt": "Welchen Vorteil hatte die Woche ohne Handy?",
-        "options": [
-          "Ben hat Geld gespart.",
-          "Ben war entspannter und hat besser geschlafen.",
-          "Ben hat neue Freunde gefunden.",
-          "Ben hat mehr Sport gemacht."
-        ],
         "answer": 1
       },
       {
@@ -1131,17 +941,6 @@
         "answer": 1
       },
       {
-        "type": "mc",
-        "prompt": "Warum hat Olga den Kurs gebucht?",
-        "options": [
-          "Sie möchte Köchin werden.",
-          "Sie konnte bisher nur einfache Gerichte kochen.",
-          "Ihre Freundin hat ihn empfohlen.",
-          "Sie fährt bald nach Italien."
-        ],
-        "answer": 1
-      },
-      {
         "type": "tf",
         "prompt": "Im Kurs sind zwanzig Teilnehmer.",
         "answer": false,
@@ -1159,27 +958,10 @@
         "answer": true
       },
       {
-        "type": "mc",
-        "prompt": "Was braucht man für frische Nudeln?",
-        "options": [
-          "Mehl, Eier und Salz",
-          "Mehl, Milch und Zucker",
-          "Reis und Wasser",
-          "Kartoffeln und Eier"
-        ],
-        "answer": 0
-      },
-      {
         "type": "tf",
         "prompt": "Olgas Teig war zuerst zu nass.",
         "answer": false,
         "explanation": "Er war viel zu trocken."
-      },
-      {
-        "type": "mc",
-        "prompt": "Was haben sie letzte Woche als Nachtisch gemacht?",
-        "options": ["Eis", "Kuchen", "Tiramisu", "Obstsalat"],
-        "answer": 2
       },
       {
         "type": "tf",
@@ -1273,12 +1055,6 @@
         "answer": 1
       },
       {
-        "type": "tf",
-        "prompt": "Hannah hat alle Kekse allein gegessen.",
-        "answer": false,
-        "explanation": "Ihre Mitbewohnerin hat ihr geholfen."
-      },
-      {
         "type": "mc",
         "prompt": "Wo studiert Hannah?",
         "options": ["In Freiburg", "In Hamburg", "Im Schwarzwald", "In Berlin"],
@@ -1297,17 +1073,6 @@
       },
       {
         "type": "mc",
-        "prompt": "Wo arbeitet Hannah?",
-        "options": [
-          "In einem Café",
-          "In einer Buchhandlung",
-          "In der Universität",
-          "In einer Bäckerei"
-        ],
-        "answer": 1
-      },
-      {
-        "type": "mc",
         "prompt": "Warum arbeitet Hannah?",
         "options": [
           "Sie braucht Geld für die Miete.",
@@ -1316,11 +1081,6 @@
           "Sie hat zu viel Freizeit."
         ],
         "answer": 0
-      },
-      {
-        "type": "tf",
-        "prompt": "Die Wanderung im Schwarzwald hat sechs Stunden gedauert.",
-        "answer": true
       },
       {
         "type": "mc",
@@ -1418,12 +1178,6 @@
         "answer": 1
       },
       {
-        "type": "tf",
-        "prompt": "Tobias hat ein neues Auto gekauft.",
-        "answer": false,
-        "explanation": "Er hat einen Gebrauchtwagen gekauft."
-      },
-      {
         "type": "mc",
         "prompt": "Wie alt war der Kombi?",
         "options": ["Zehn Jahre", "Drei Jahre", "Acht Jahre", "Sechs Jahre"],
@@ -1433,12 +1187,6 @@
         "type": "tf",
         "prompt": "Für die Probefahrt wollte Herr Brandt den Führerschein sehen.",
         "answer": true
-      },
-      {
-        "type": "mc",
-        "prompt": "Was hat bei der Probefahrt nicht funktioniert?",
-        "options": ["Die Bremsen", "Der Motor", "Das Radio", "Die Heizung"],
-        "answer": 2
       },
       {
         "type": "tf",
@@ -1451,17 +1199,6 @@
         "prompt": "Wie viel sollte das Auto zuerst kosten?",
         "options": ["9.500 Euro", "9.000 Euro", "9.200 Euro", "8.000 Euro"],
         "answer": 0
-      },
-      {
-        "type": "mc",
-        "prompt": "Was bekommt Tobias für 9.200 Euro?",
-        "options": [
-          "Nur das Auto",
-          "Das Auto mit Winterreifen",
-          "Das Auto und eine Garage",
-          "Das Auto mit einem Navi"
-        ],
-        "answer": 1
       },
       {
         "type": "tf",
@@ -1552,11 +1289,6 @@
         "answer": 1
       },
       {
-        "type": "tf",
-        "prompt": "Der Salon ist in der Altstadt.",
-        "answer": true
-      },
-      {
         "type": "mc",
         "prompt": "Wie kurz sollten die Haare sein?",
         "options": [
@@ -1575,17 +1307,6 @@
       },
       {
         "type": "mc",
-        "prompt": "Was hat Aylin zuerst gemacht?",
-        "options": [
-          "Sie hat die Haare gewaschen.",
-          "Sie hat die Haare geschnitten.",
-          "Sie hat die Haare gefärbt.",
-          "Sie hat die Haare geföhnt."
-        ],
-        "answer": 0
-      },
-      {
-        "type": "mc",
         "prompt": "Worüber haben die beiden NICHT gesprochen?",
         "options": [
           "Über das Wetter",
@@ -1600,11 +1321,6 @@
         "prompt": "Lena wollte eine neue Haarfarbe.",
         "answer": false,
         "explanation": "Sie wollte ihre braune Farbe behalten."
-      },
-      {
-        "type": "tf",
-        "prompt": "Die neue Frisur hat Lena gut gefallen.",
-        "answer": true
       },
       {
         "type": "mc",
@@ -1694,12 +1410,6 @@
         "answer": 1
       },
       {
-        "type": "tf",
-        "prompt": "Peter hat die Karten an der Abendkasse gekauft.",
-        "answer": false,
-        "explanation": "Er hat sie vor zwei Monaten online gekauft."
-      },
-      {
         "type": "mc",
         "prompt": "Wann hat die Vorstellung angefangen?",
         "options": ["Um sieben Uhr", "Um acht Uhr", "Um halb acht", "Um halb sieben"],
@@ -1710,12 +1420,6 @@
         "prompt": "Was haben sie an der Garderobe bekommen?",
         "options": ["Eine Nummer", "Ein Programm", "Ein Glas Sekt", "Ihre Karten"],
         "answer": 0
-      },
-      {
-        "type": "tf",
-        "prompt": "Von ihren Plätzen konnten sie die Bühne schlecht sehen.",
-        "answer": false,
-        "explanation": "Sie konnten die Bühne sehr gut sehen."
       },
       {
         "type": "mc",
@@ -1732,17 +1436,6 @@
         "type": "tf",
         "prompt": "Das Publikum hat viel gelacht.",
         "answer": true
-      },
-      {
-        "type": "mc",
-        "prompt": "Was haben sie in der Pause gemacht?",
-        "options": [
-          "Sie sind nach Hause gegangen.",
-          "Sie haben Sekt getrunken und eine Brezel gegessen.",
-          "Sie haben mit den Schauspielern gesprochen.",
-          "Sie haben neue Karten gekauft."
-        ],
-        "answer": 1
       },
       {
         "type": "tf",
@@ -1833,12 +1526,6 @@
         "answer": 1
       },
       {
-        "type": "tf",
-        "prompt": "Mia war allein auf dem Konzert.",
-        "answer": false,
-        "explanation": "Sie war mit Felix und Sophie da."
-      },
-      {
         "type": "mc",
         "prompt": "Warum sind sie so früh hingefahren?",
         "options": [
@@ -1861,11 +1548,6 @@
         "answer": 2
       },
       {
-        "type": "tf",
-        "prompt": "Man durfte keine Getränke mitbringen.",
-        "answer": true
-      },
-      {
         "type": "mc",
         "prompt": "Wann hat die Hauptband angefangen?",
         "options": ["Um vier Uhr", "Um sieben Uhr", "Um acht Uhr", "Um halb neun"],
@@ -1876,17 +1558,6 @@
         "prompt": "Wegen des Regens hat die Band aufgehört.",
         "answer": false,
         "explanation": "Die Band hat einfach weitergespielt."
-      },
-      {
-        "type": "mc",
-        "prompt": "Wie geht es Mia jetzt?",
-        "options": [
-          "Sie ist müde.",
-          "Sie ist erkältet.",
-          "Sie ist traurig.",
-          "Sie hat Kopfschmerzen."
-        ],
-        "answer": 1
       },
       {
         "type": "tf",
@@ -1976,12 +1647,6 @@
         "answer": 1
       },
       {
-        "type": "mc",
-        "prompt": "Wohin möchte Ahmed im Sommer fliegen?",
-        "options": ["Nach Kanada", "Nach Amerika", "In die Türkei", "Nach Spanien"],
-        "answer": 0
-      },
-      {
         "type": "tf",
         "prompt": "Ahmed ist ohne Termin zum Bürgeramt gegangen.",
         "answer": false,
@@ -1999,12 +1664,6 @@
         "answer": 3
       },
       {
-        "type": "tf",
-        "prompt": "Ahmed musste im Bürgeramt zwei Stunden warten.",
-        "answer": false,
-        "explanation": "Er hat zwanzig Minuten gewartet."
-      },
-      {
         "type": "mc",
         "prompt": "Was war das Problem mit dem Foto?",
         "options": [
@@ -2019,17 +1678,6 @@
         "type": "tf",
         "prompt": "Ahmed hat im Gebäude ein neues Foto gemacht.",
         "answer": true
-      },
-      {
-        "type": "mc",
-        "prompt": "Wann ist der neue Pass fertig?",
-        "options": [
-          "Morgen",
-          "In etwa einer Woche",
-          "In etwa zwei Monaten",
-          "In etwa vier Wochen"
-        ],
-        "answer": 3
       },
       {
         "type": "tf",
@@ -2123,11 +1771,6 @@
         "answer": 1
       },
       {
-        "type": "tf",
-        "prompt": "Julia und Sandra waren in der Schule beste Freundinnen.",
-        "answer": true
-      },
-      {
         "type": "mc",
         "prompt": "Wohin ist Julia nach dem Abitur gezogen?",
         "options": ["Nach Hamburg", "Nach Berlin", "Nach München", "Nach Köln"],
@@ -2146,12 +1789,6 @@
       },
       {
         "type": "tf",
-        "prompt": "Emil ist Julias Bruder.",
-        "answer": false,
-        "explanation": "Emil ist Julias Sohn."
-      },
-      {
-        "type": "tf",
         "prompt": "Sandra arbeitet noch als Lehrerin.",
         "answer": false,
         "explanation": "Sie arbeitet jetzt in einem Reisebüro."
@@ -2166,17 +1803,6 @@
           "Über alte Lehrer und Klassenfahrten"
         ],
         "answer": 3
-      },
-      {
-        "type": "mc",
-        "prompt": "Warum musste Julia gehen?",
-        "options": [
-          "Sie hatte einen Termin.",
-          "Emil hatte Hunger.",
-          "Es hat geregnet.",
-          "Ihr Mann hat angerufen."
-        ],
-        "answer": 1
       },
       {
         "type": "tf",
@@ -2259,17 +1885,6 @@
         "answer": 1
       },
       {
-        "type": "mc",
-        "prompt": "Warum konnte Marco keine Karte auf dem Handy benutzen?",
-        "options": [
-          "Er hatte kein Internet.",
-          "Das Handy war kaputt.",
-          "Der Akku war leer.",
-          "Er hatte das Handy im Hotel vergessen."
-        ],
-        "answer": 2
-      },
-      {
         "type": "tf",
         "prompt": "Der ältere Herr hat gesagt, dass Marco am Dom rechts gehen soll.",
         "answer": true
@@ -2279,17 +1894,6 @@
         "prompt": "Die junge Frau hat genau dasselbe gesagt wie der Herr.",
         "answer": false,
         "explanation": "Sie hat gesagt, dass er nach links gehen muss."
-      },
-      {
-        "type": "mc",
-        "prompt": "Wen hat Marco als dritte Person gefragt?",
-        "options": [
-          "Einen Polizisten",
-          "Einen Busfahrer",
-          "Einen Touristen",
-          "Einen Verkäufer an einem Kiosk"
-        ],
-        "answer": 3
       },
       {
         "type": "mc",
@@ -2307,12 +1911,6 @@
         "prompt": "Zu Fuß dauert der Weg ungefähr eine Stunde.",
         "answer": false,
         "explanation": "Es dauert ungefähr fünfzehn Minuten."
-      },
-      {
-        "type": "mc",
-        "prompt": "Was hat Marco am Rhein gesehen?",
-        "options": ["Viele Fahrräder", "Viele Schiffe", "Einen Markt", "Ein Konzert"],
-        "answer": 1
       },
       {
         "type": "tf",
@@ -2396,11 +1994,6 @@
         "answer": 2
       },
       {
-        "type": "tf",
-        "prompt": "Am Anfang war Daniel mit dem Klang zufrieden.",
-        "answer": true
-      },
-      {
         "type": "mc",
         "prompt": "Was ist das Problem?",
         "options": [
@@ -2423,12 +2016,6 @@
         "answer": 0
       },
       {
-        "type": "tf",
-        "prompt": "Die Verkäuferin wollte den Kassenbon nicht sehen.",
-        "answer": false,
-        "explanation": "Sie hat nach dem Kassenbon gefragt."
-      },
-      {
         "type": "mc",
         "prompt": "Was hat die Verkäuferin zuerst angeboten?",
         "options": [
@@ -2444,17 +2031,6 @@
         "prompt": "Die neuen Kopfhörer waren billiger.",
         "answer": false,
         "explanation": "Sie waren zehn Euro teurer."
-      },
-      {
-        "type": "mc",
-        "prompt": "Warum sind die neuen Kopfhörer besser?",
-        "options": [
-          "Sie sind kleiner.",
-          "Sie haben eine schönere Farbe.",
-          "Sie kosten weniger.",
-          "Sie haben eine längere Akkulaufzeit."
-        ],
-        "answer": 3
       },
       {
         "type": "mc",
@@ -2545,12 +2121,6 @@
         "answer": 3
       },
       {
-        "type": "tf",
-        "prompt": "Frau Schulte findet, dass im Supermarkt alles frischer ist.",
-        "answer": false,
-        "explanation": "Sie findet, dass auf dem Markt alles frischer ist."
-      },
-      {
         "type": "mc",
         "prompt": "Wer ist Paula?",
         "options": [
@@ -2568,11 +2138,6 @@
         "answer": 0
       },
       {
-        "type": "tf",
-        "prompt": "Paula hat eine Tomate probiert.",
-        "answer": true
-      },
-      {
         "type": "mc",
         "prompt": "Was hat Frau Schulte beim Warten gemacht?",
         "options": [
@@ -2587,12 +2152,6 @@
         "type": "tf",
         "prompt": "Paula hat am Käsestand ein Stück Käse geschenkt bekommen.",
         "answer": true
-      },
-      {
-        "type": "mc",
-        "prompt": "Wie viel haben sie für die Erdbeeren bezahlt?",
-        "options": ["Fünf Euro", "Drei Euro", "Vier Euro", "Sechs Euro"],
-        "answer": 2
       },
       {
         "type": "tf",
@@ -2682,12 +2241,6 @@
         "answer": 1
       },
       {
-        "type": "tf",
-        "prompt": "Markus hat Fieber.",
-        "answer": false,
-        "explanation": "Er hat kein Fieber."
-      },
-      {
         "type": "mc",
         "prompt": "Warum geht Markus nicht zum Arzt?",
         "options": [
@@ -2710,11 +2263,6 @@
         "answer": 0
       },
       {
-        "type": "tf",
-        "prompt": "Die Apothekerin hat gefragt, ob Markus Allergien hat.",
-        "answer": true
-      },
-      {
         "type": "mc",
         "prompt": "Wie viele Lutschtabletten darf Markus höchstens am Tag nehmen?",
         "options": ["Drei", "Vier", "Acht", "Sechs"],
@@ -2725,17 +2273,6 @@
         "prompt": "Das Nasenspray darf er einen Monat lang nehmen.",
         "answer": false,
         "explanation": "Er darf es höchstens eine Woche lang nehmen."
-      },
-      {
-        "type": "mc",
-        "prompt": "Was soll Markus tun, wenn es nicht besser wird?",
-        "options": [
-          "Mehr Tabletten nehmen",
-          "Zum Arzt gehen",
-          "Wieder in die Apotheke kommen",
-          "Mehr Sport machen"
-        ],
-        "answer": 1
       },
       {
         "type": "tf",
@@ -2822,12 +2359,6 @@
         "answer": 1
       },
       {
-        "type": "tf",
-        "prompt": "Jonas hat in der Nacht gut geschlafen.",
-        "answer": false,
-        "explanation": "Er konnte kaum schlafen."
-      },
-      {
         "type": "mc",
         "prompt": "Warum hat Jonas trotzdem einen Termin bekommen?",
         "options": [
@@ -2855,32 +2386,10 @@
         "answer": 3
       },
       {
-        "type": "mc",
-        "prompt": "Was war das Problem?",
-        "options": [
-          "Ein Loch in einem Backenzahn",
-          "Ein kaputter Vorderzahn",
-          "Eine alte Füllung",
-          "Ein Problem mit dem Zahnfleisch"
-        ],
-        "answer": 0
-      },
-      {
         "type": "tf",
         "prompt": "Die Behandlung hat sehr wehgetan.",
         "answer": false,
         "explanation": "Er hat eine Spritze bekommen, deshalb hat es nicht wehgetan."
-      },
-      {
-        "type": "mc",
-        "prompt": "Wie lange hat die Behandlung gedauert?",
-        "options": [
-          "Zehn Minuten",
-          "Zwei Stunden",
-          "Ungefähr eine halbe Stunde",
-          "Zwanzig Minuten"
-        ],
-        "answer": 2
       },
       {
         "type": "tf",
@@ -2978,12 +2487,6 @@
         "answer": 0
       },
       {
-        "type": "tf",
-        "prompt": "Ana wohnt in Zürich.",
-        "answer": false,
-        "explanation": "Ana wohnt in Graz. Ihre Schwester wohnt in Zürich."
-      },
-      {
         "type": "mc",
         "prompt": "Was ist NICHT im Paket?",
         "options": ["Ein Pullover", "Ein Buch", "Schokolade", "Ein Kalender"],
@@ -3001,32 +2504,10 @@
         "answer": 1
       },
       {
-        "type": "mc",
-        "prompt": "Warum nimmt Ana Express?",
-        "options": [
-          "Express ist billiger.",
-          "Die Mitarbeiterin empfiehlt es.",
-          "Das Paket muss bis Samstag da sein.",
-          "Das Paket ist sehr schwer."
-        ],
-        "answer": 2
-      },
-      {
         "type": "tf",
         "prompt": "Das normale Paket kostet 45 Euro.",
         "answer": false,
         "explanation": "Das normale Paket kostet 22 Euro. Express kostet 45 Euro."
-      },
-      {
-        "type": "mc",
-        "prompt": "Warum braucht Ana ein Zollformular?",
-        "options": [
-          "Das Paket ist zu groß.",
-          "Die Schweiz ist nicht in der EU.",
-          "Im Paket ist Schokolade.",
-          "Sie bezahlt mit Karte."
-        ],
-        "answer": 1
       },
       {
         "type": "mc",
@@ -3120,12 +2601,6 @@
         "answer": 1
       },
       {
-        "type": "tf",
-        "prompt": "Mehmet hat die Karte im Auto gefunden.",
-        "answer": false,
-        "explanation": "Er hat im Auto gesucht, aber die Karte war nicht dort."
-      },
-      {
         "type": "mc",
         "prompt": "Warum hat Mehmet sich Sorgen gemacht?",
         "options": [
@@ -3153,27 +2628,10 @@
         "answer": 3
       },
       {
-        "type": "mc",
-        "prompt": "Was hat der Mitarbeiter mit der Karte gemacht?",
-        "options": [
-          "Er hat sie gesperrt.",
-          "Er hat sie gefunden.",
-          "Er hat sie zu Mehmet geschickt.",
-          "Er hat nichts gemacht."
-        ],
-        "answer": 0
-      },
-      {
         "type": "tf",
         "prompt": "Jemand hat mit Mehmets Karte bezahlt.",
         "answer": false,
         "explanation": "Zum Glück gab es keine fremden Zahlungen."
-      },
-      {
-        "type": "mc",
-        "prompt": "Wie lange hat die neue Karte gebraucht?",
-        "options": ["Einen Tag", "Ungefähr eine Woche", "Zwei Wochen", "Einen Monat"],
-        "answer": 1
       },
       {
         "type": "tf",
@@ -3266,12 +2724,6 @@
         "answer": 1
       },
       {
-        "type": "tf",
-        "prompt": "Leonie hat an der Haltestelle gemerkt, dass die Tasche weg war.",
-        "answer": false,
-        "explanation": "Sie hat es erst zu Hause gemerkt."
-      },
-      {
         "type": "mc",
         "prompt": "Wen hat Leonie heute Morgen angerufen?",
         "options": [
@@ -3299,27 +2751,10 @@
         "answer": true
       },
       {
-        "type": "mc",
-        "prompt": "Was war NICHT in der Tasche?",
-        "options": ["Der Geldbeutel", "Ein Kalender", "Eine Brille", "Ein Schlüssel"],
-        "answer": 0
-      },
-      {
         "type": "tf",
         "prompt": "Im Fundbüro muss Leonie nichts bezahlen.",
         "answer": false,
         "explanation": "Sie muss eine Gebühr von fünf Euro bezahlen."
-      },
-      {
-        "type": "mc",
-        "prompt": "Was muss Leonie zeigen?",
-        "options": [
-          "Ihr Ticket",
-          "Ihren Ausweis",
-          "Ihre Bankkarte",
-          "Ein Foto der Tasche"
-        ],
-        "answer": 1
       },
       {
         "type": "tf",
@@ -3416,12 +2851,6 @@
         "answer": 2
       },
       {
-        "type": "tf",
-        "prompt": "Paul hat sein Fahrrad nicht abgeschlossen.",
-        "answer": false,
-        "explanation": "Er hat es abgeschlossen, aber jemand hat das Schloss kaputt gemacht."
-      },
-      {
         "type": "mc",
         "prompt": "Warum ist Paul zur Polizei gegangen?",
         "options": [
@@ -3450,17 +2879,6 @@
       },
       {
         "type": "mc",
-        "prompt": "Was hat die Polizistin in den Computer eingegeben?",
-        "options": [
-          "Nur Pauls Namen",
-          "Die Adresse der Universität",
-          "Pauls Telefonnummer",
-          "Die Rahmennummer und das Foto"
-        ],
-        "answer": 3
-      },
-      {
-        "type": "mc",
         "prompt": "Wofür braucht Paul die Kopie der Anzeige?",
         "options": [
           "Für die Uni",
@@ -3469,12 +2887,6 @@
           "Für ein neues Schloss"
         ],
         "answer": 1
-      },
-      {
-        "type": "tf",
-        "prompt": "Die Polizei findet gestohlene Fahrräder oft.",
-        "answer": false,
-        "explanation": "Die Polizistin hat gesagt, dass die Polizei sie leider selten findet."
       },
       {
         "type": "tf",
@@ -3577,11 +2989,6 @@
         "answer": 1
       },
       {
-        "type": "tf",
-        "prompt": "Sabines Mann meint, dass das Geräusch gefährlich sein kann.",
-        "answer": true
-      },
-      {
         "type": "mc",
         "prompt": "Seit wann hat Sabine das Problem?",
         "options": [
@@ -3604,12 +3011,6 @@
         "answer": 0
       },
       {
-        "type": "tf",
-        "prompt": "Der Mechaniker ruft am Abend an.",
-        "answer": false,
-        "explanation": "Er ruft um zwölf Uhr an."
-      },
-      {
         "type": "mc",
         "prompt": "Was muss die Werkstatt wechseln?",
         "options": [
@@ -3625,12 +3026,6 @@
         "prompt": "Wie hoch ist der Kostenvoranschlag?",
         "options": ["395 Euro", "420 Euro", "240 Euro", "500 Euro"],
         "answer": 1
-      },
-      {
-        "type": "tf",
-        "prompt": "Die Rechnung ist höher als der Kostenvoranschlag.",
-        "answer": false,
-        "explanation": "Die Rechnung ist niedriger: nur 395 Euro."
       },
       {
         "type": "tf",
@@ -3713,12 +3108,6 @@
         "answer": 2
       },
       {
-        "type": "tf",
-        "prompt": "Die Familie hat das Auto erst am Flughafen reserviert.",
-        "answer": false,
-        "explanation": "Sie haben es schon vor einem Monat online reserviert."
-      },
-      {
         "type": "mc",
         "prompt": "Was braucht die Mitarbeiterin NICHT?",
         "options": [
@@ -3747,17 +3136,6 @@
       },
       {
         "type": "mc",
-        "prompt": "Für wen ist der Kindersitz?",
-        "options": [
-          "Für die Tochter",
-          "Für den Sohn",
-          "Für beide Kinder",
-          "Für die Nichte"
-        ],
-        "answer": 0
-      },
-      {
-        "type": "mc",
         "prompt": "Wie soll die Familie das Auto zurückbringen?",
         "options": [
           "Sauber und gewaschen",
@@ -3766,12 +3144,6 @@
           "Mit der Vignette"
         ],
         "answer": 2
-      },
-      {
-        "type": "tf",
-        "prompt": "Herr Brandt muss die Vignette selbst kaufen.",
-        "answer": false,
-        "explanation": "Die Vignette ist schon im Auto."
       },
       {
         "type": "mc",
@@ -3870,12 +3242,6 @@
         "answer": 2
       },
       {
-        "type": "tf",
-        "prompt": "Herr Novak kann am ersten Abend früh schlafen.",
-        "answer": false,
-        "explanation": "Es ist zu laut wegen der Musik in der Bar."
-      },
-      {
         "type": "mc",
         "prompt": "Wo liegt sein erstes Zimmer?",
         "options": [
@@ -3899,12 +3265,6 @@
       },
       {
         "type": "tf",
-        "prompt": "Herr Novak ruft die Rezeption an.",
-        "answer": false,
-        "explanation": "Er geht selbst zur Rezeption."
-      },
-      {
-        "type": "tf",
         "prompt": "Die Frau an der Rezeption entschuldigt sich sofort.",
         "answer": true
       },
@@ -3918,17 +3278,6 @@
           "Teurer, aber schöner"
         ],
         "answer": 1
-      },
-      {
-        "type": "mc",
-        "prompt": "Was bekommt Herr Novak als Entschuldigung?",
-        "options": [
-          "Ein kostenloses Abendessen",
-          "Eine Nacht gratis",
-          "Ein kostenloses Frühstück",
-          "Einen Gutschein für die Bar"
-        ],
-        "answer": 2
       },
       {
         "type": "tf",
@@ -4018,11 +3367,6 @@
         "answer": 1
       },
       {
-        "type": "tf",
-        "prompt": "Julia isst kein Fleisch.",
-        "answer": true
-      },
-      {
         "type": "mc",
         "prompt": "Was hat Marco bestellt?",
         "options": [
@@ -4041,17 +3385,6 @@
       },
       {
         "type": "mc",
-        "prompt": "Was war das Problem?",
-        "options": [
-          "Julia hat eine Lasagne mit Hackfleisch bekommen.",
-          "Das Essen war kalt.",
-          "Der Wein war falsch.",
-          "Marco hat nichts bekommen."
-        ],
-        "answer": 0
-      },
-      {
-        "type": "mc",
         "prompt": "Was hat der Kellner gesagt?",
         "options": [
           "„Das ist nicht mein Problem.“",
@@ -4066,17 +3399,6 @@
         "prompt": "Marco hat seine Spaghetti sofort gegessen.",
         "answer": false,
         "explanation": "Er hat auf Julia gewartet."
-      },
-      {
-        "type": "mc",
-        "prompt": "Was haben die beiden als Entschuldigung bekommen?",
-        "options": [
-          "Eine Flasche Wein",
-          "Zwei Portionen Tiramisu, und den Wein mussten sie nicht bezahlen",
-          "Einen Gutschein",
-          "Das ganze Essen gratis"
-        ],
-        "answer": 1
       },
       {
         "type": "tf",
@@ -4159,12 +3481,6 @@
         "answer": 2
       },
       {
-        "type": "tf",
-        "prompt": "Timo ist zu spät zum Bahnhof gekommen.",
-        "answer": false,
-        "explanation": "Er war pünktlich am Bahnhof."
-      },
-      {
         "type": "mc",
         "prompt": "Warum ist der ICE ausgefallen?",
         "options": [
@@ -4194,12 +3510,6 @@
       },
       {
         "type": "mc",
-        "prompt": "Wo steigt Timo um?",
-        "options": ["In Köln", "In Nürnberg", "In Frankfurt", "In Würzburg"],
-        "answer": 3
-      },
-      {
-        "type": "mc",
         "prompt": "Warum bekommt Timo einen Teil vom Fahrpreis zurück?",
         "options": [
           "Er hat mehr als eine Stunde Verspätung.",
@@ -4208,11 +3518,6 @@
           "Der Kaffee war zu teuer."
         ],
         "answer": 0
-      },
-      {
-        "type": "tf",
-        "prompt": "Timo kann den Antrag online stellen.",
-        "answer": true
       },
       {
         "type": "tf",
@@ -4309,12 +3614,6 @@
         "answer": 1
       },
       {
-        "type": "tf",
-        "prompt": "Der Flug hatte Verspätung.",
-        "answer": false,
-        "explanation": "Der Flug war pünktlich."
-      },
-      {
         "type": "mc",
         "prompt": "Welche Farbe hat sein Koffer?",
         "options": ["Rot", "Schwarz", "Grün", "Blau"],
@@ -4337,31 +3636,9 @@
         "answer": 1
       },
       {
-        "type": "mc",
-        "prompt": "Wo ist der Koffer?",
-        "options": [
-          "Noch in Lissabon",
-          "In Berlin",
-          "Im Hotel",
-          "In einem Flugzeug nach Wien"
-        ],
-        "answer": 0
-      },
-      {
         "type": "tf",
         "prompt": "Seine Medikamente waren im Koffer.",
         "answer": true
-      },
-      {
-        "type": "mc",
-        "prompt": "Was soll Herr Novak mit den Quittungen machen?",
-        "options": [
-          "Er soll sie wegwerfen.",
-          "Er soll sie der Polizei schicken.",
-          "Er soll sie aufheben.",
-          "Er soll sie dem Fahrer geben."
-        ],
-        "answer": 2
       },
       {
         "type": "tf",
@@ -4457,12 +3734,6 @@
         "answer": 1
       },
       {
-        "type": "tf",
-        "prompt": "Im Möbelhaus waren nur wenige Leute.",
-        "answer": false,
-        "explanation": "Das Möbelhaus war sehr voll."
-      },
-      {
         "type": "mc",
         "prompt": "Was war das Problem mit dem grauen Sofa?",
         "options": [
@@ -4485,27 +3756,10 @@
         "answer": 0
       },
       {
-        "type": "mc",
-        "prompt": "Wann kommt die Lieferung?",
-        "options": ["Am Samstag", "Am Montag", "Am Freitag", "Am Donnerstag"],
-        "answer": 3
-      },
-      {
         "type": "tf",
         "prompt": "Die Lieferung ist kostenlos.",
         "answer": false,
         "explanation": "Die Lieferung kostet 49 Euro."
-      },
-      {
-        "type": "mc",
-        "prompt": "Warum hat Lena gelacht?",
-        "options": [
-          "Tobias hat einen Witz erzählt.",
-          "Sein letztes Regal ist immer noch schief.",
-          "Der Verkäufer war lustig.",
-          "Das Sofa war sehr billig."
-        ],
-        "answer": 1
       },
       {
         "type": "mc",
@@ -4603,11 +3857,6 @@
         "answer": 1
       },
       {
-        "type": "tf",
-        "prompt": "Ahmets Frau hat gesagt, dass er eine Brille braucht.",
-        "answer": true
-      },
-      {
         "type": "mc",
         "prompt": "In welcher Stadt ist der Optiker?",
         "options": ["In Wien", "In Linz", "In Graz", "In Salzburg"],
@@ -4626,32 +3875,10 @@
         "answer": 1
       },
       {
-        "type": "mc",
-        "prompt": "Was hat die Optikerin gesagt?",
-        "options": [
-          "Ahmet ist ein bisschen kurzsichtig.",
-          "Ahmet braucht keine Brille.",
-          "Ahmet muss zum Arzt gehen.",
-          "Ahmet darf nicht mehr Auto fahren."
-        ],
-        "answer": 0
-      },
-      {
         "type": "tf",
         "prompt": "Es gab nur wenige Gestelle.",
         "answer": false,
         "explanation": "Es gab Hunderte."
-      },
-      {
-        "type": "mc",
-        "prompt": "Welches Gestell hat Ahmet genommen?",
-        "options": [
-          "Ein rundes Gestell",
-          "Ein schweres, schwarzes Gestell",
-          "Ein leichtes, braunes Gestell",
-          "Ein rotes Gestell"
-        ],
-        "answer": 2
       },
       {
         "type": "mc",
@@ -4747,11 +3974,6 @@
         "answer": 1
       },
       {
-        "type": "tf",
-        "prompt": "Sie haben den Krimi gesehen, weil die Komödie ausverkauft war.",
-        "answer": true
-      },
-      {
         "type": "mc",
         "prompt": "Wie haben sie die Karten reserviert?",
         "options": ["An der Kasse", "Am Telefon", "Online", "Bei einem Freund"],
@@ -4771,17 +3993,6 @@
       },
       {
         "type": "mc",
-        "prompt": "Wie lange gab es Werbung?",
-        "options": [
-          "Fünf Minuten",
-          "Zehn Minuten",
-          "Fast zwanzig Minuten",
-          "Eine Stunde"
-        ],
-        "answer": 2
-      },
-      {
-        "type": "mc",
         "prompt": "Was hat Sophie gestört?",
         "options": [
           "Der Mann hat geschlafen.",
@@ -4790,12 +4001,6 @@
           "Der Mann hat laut gegessen und mit dem Handy gespielt."
         ],
         "answer": 3
-      },
-      {
-        "type": "tf",
-        "prompt": "Der Mann ist wütend geworden.",
-        "answer": false,
-        "explanation": "Er hat sich entschuldigt und das Handy weggesteckt."
       },
       {
         "type": "mc",
@@ -4890,12 +4095,6 @@
         "answer": 1
       },
       {
-        "type": "tf",
-        "prompt": "Paula findet Museen normalerweise spannend.",
-        "answer": false,
-        "explanation": "Sie findet Museen normalerweise langweilig."
-      },
-      {
         "type": "mc",
         "prompt": "Was hat die Frau bei der Führung gezeigt?",
         "options": [
@@ -4924,26 +4123,9 @@
       },
       {
         "type": "mc",
-        "prompt": "Was war nicht so gut am Audioguide?",
-        "options": [
-          "Er war zu teuer.",
-          "Er war kaputt.",
-          "Die Kopfhörer waren nicht bequem.",
-          "Es gab nur Informationen auf Englisch."
-        ],
-        "answer": 2
-      },
-      {
-        "type": "mc",
         "prompt": "Wie viel hat ein Stück Kuchen gekostet?",
         "options": ["3 Euro", "4 Euro", "5 Euro", "6 Euro"],
         "answer": 2
-      },
-      {
-        "type": "tf",
-        "prompt": "Paula hat für ihren Bruder ein Buch gekauft.",
-        "answer": false,
-        "explanation": "Sie hat ein kleines Flugzeug gekauft."
       },
       {
         "type": "tf",
@@ -5043,12 +4225,6 @@
         "answer": 2
       },
       {
-        "type": "tf",
-        "prompt": "Bruno frisst normalerweise wenig.",
-        "answer": false,
-        "explanation": "Normalerweise frisst er sehr viel."
-      },
-      {
         "type": "mc",
         "prompt": "Was macht Bruno seit gestern?",
         "options": [
@@ -5078,20 +4254,9 @@
       },
       {
         "type": "mc",
-        "prompt": "Was hat die Tierärztin untersucht?",
-        "options": ["Die Ohren", "Die Augen", "Den Bauch", "Die Zähne"],
-        "answer": 2
-      },
-      {
-        "type": "mc",
         "prompt": "Was haben die Kinder Bruno vielleicht gegeben?",
         "options": ["Schokolade", "Käse", "Kuchen", "Knochen"],
         "answer": 3
-      },
-      {
-        "type": "tf",
-        "prompt": "Bruno hat eine Spritze bekommen.",
-        "answer": true
       },
       {
         "type": "mc",
@@ -5182,11 +4347,6 @@
         "answer": 2
       },
       {
-        "type": "tf",
-        "prompt": "Kofi möchte sein Deutsch verbessern.",
-        "answer": true
-      },
-      {
         "type": "mc",
         "prompt": "Was braucht man, um Bücher auszuleihen?",
         "options": [
@@ -5211,26 +4371,9 @@
       },
       {
         "type": "mc",
-        "prompt": "Wann kann man die Frist online verlängern?",
-        "options": [
-          "Immer",
-          "Wenn niemand das Buch reserviert hat",
-          "Nur am Dienstag",
-          "Nie"
-        ],
-        "answer": 1
-      },
-      {
-        "type": "mc",
         "prompt": "Was hat Kofi NICHT ausgeliehen?",
         "options": ["Romane", "Ein Hörbuch", "Einen Film", "Eine Zeitschrift"],
         "answer": 3
-      },
-      {
-        "type": "tf",
-        "prompt": "Kofi hat die Sachen pünktlich zurückgebracht.",
-        "answer": false,
-        "explanation": "Er hat die Frist vergessen und sie nach sechs Wochen zurückgebracht."
       },
       {
         "type": "mc",
@@ -5328,12 +4471,6 @@
         "answer": 1
       },
       {
-        "type": "tf",
-        "prompt": "Das Probetraining kostet 10 Euro.",
-        "answer": false,
-        "explanation": "Das Probetraining ist kostenlos."
-      },
-      {
         "type": "mc",
         "prompt": "Was hat Markus beim Probetraining zuerst gemacht?",
         "options": [
@@ -5357,21 +4494,9 @@
       },
       {
         "type": "mc",
-        "prompt": "Wie muss man kündigen?",
-        "options": ["Am Telefon", "Schriftlich", "Per SMS", "Beim Trainer"],
-        "answer": 1
-      },
-      {
-        "type": "mc",
         "prompt": "Wie lang ist die Kündigungsfrist?",
         "options": ["Ein Monat", "Zwei Monate", "Drei Monate", "Sechs Monate"],
         "answer": 2
-      },
-      {
-        "type": "tf",
-        "prompt": "Markus war vor fünf Jahren sehr oft im Fitnessstudio.",
-        "answer": false,
-        "explanation": "Er war nur dreimal dort."
       },
       {
         "type": "mc",
@@ -5468,17 +4593,6 @@
         "answer": 1
       },
       {
-        "type": "mc",
-        "prompt": "Als was hat sich Elena beworben?",
-        "options": [
-          "Als Köchin",
-          "Als Kellnerin",
-          "Als Rezeptionistin",
-          "Als Reinigungskraft"
-        ],
-        "answer": 2
-      },
-      {
         "type": "tf",
         "prompt": "Elena ist zu spät zum Gespräch gekommen.",
         "answer": false,
@@ -5498,20 +4612,9 @@
       },
       {
         "type": "tf",
-        "prompt": "Elena spricht Italienisch.",
-        "answer": true
-      },
-      {
-        "type": "tf",
         "prompt": "Elena möchte nicht am Wochenende arbeiten.",
         "answer": false,
         "explanation": "Sie sagt, das ist kein Problem."
-      },
-      {
-        "type": "mc",
-        "prompt": "Was bekommen die Mitarbeiter im Hotel kostenlos?",
-        "options": ["Ein Zimmer", "Eine Fahrkarte", "Kleidung", "Ein Mittagessen"],
-        "answer": 3
       },
       {
         "type": "mc",
@@ -5602,12 +4705,6 @@
         "answer": 2
       },
       {
-        "type": "tf",
-        "prompt": "Rahuls Aufenthaltserlaubnis ist noch zwei Jahre gültig.",
-        "answer": false,
-        "explanation": "Sie ist nur noch zwei Monate gültig."
-      },
-      {
         "type": "mc",
         "prompt": "Wo hat Rahul den Termin gebucht?",
         "options": [
@@ -5632,17 +4729,6 @@
       },
       {
         "type": "mc",
-        "prompt": "Wer hat Rahul beim Formular geholfen?",
-        "options": [
-          "Seine Frau",
-          "Sein Chef",
-          "Die Sachbearbeiterin",
-          "Sein Kollege Stefan"
-        ],
-        "answer": 3
-      },
-      {
-        "type": "mc",
         "prompt": "Wie lange hat Rahul im Wartesaal gewartet?",
         "options": [
           "Zehn Minuten",
@@ -5651,11 +4737,6 @@
           "Drei Stunden"
         ],
         "answer": 2
-      },
-      {
-        "type": "tf",
-        "prompt": "Die Sachbearbeiterin hat seine Fingerabdrücke genommen.",
-        "answer": true
       },
       {
         "type": "mc",
@@ -5752,12 +4833,6 @@
         "answer": 1
       },
       {
-        "type": "tf",
-        "prompt": "Tobias hat sofort einen Termin bekommen.",
-        "answer": false,
-        "explanation": "Es gab fast keine freien Termine, aber jemand hat seinen Termin abgesagt."
-      },
-      {
         "type": "mc",
         "prompt": "Wie ist Tobias zur Zulassungsstelle gefahren?",
         "options": ["Mit dem Auto", "Mit dem Fahrrad", "Mit dem Bus", "Zu Fuß"],
@@ -5782,25 +4857,9 @@
       },
       {
         "type": "mc",
-        "prompt": "Was wollte Tobias auf dem Kennzeichen haben?",
-        "options": [
-          "Den Namen seiner Freundin",
-          "Seine Initialen und sein Geburtsjahr",
-          "Die Zahl sieben",
-          "Den Namen von Hannover"
-        ],
-        "answer": 1
-      },
-      {
-        "type": "mc",
         "prompt": "Wie viel hat das Wunschkennzeichen extra gekostet?",
         "options": ["Zwölf Euro", "Zwanzig Euro", "Zehn Euro", "Nichts"],
         "answer": 0
-      },
-      {
-        "type": "tf",
-        "prompt": "Die Nummernschilder hat Tobias in einem Geschäft gegenüber bekommen.",
-        "answer": true
       },
       {
         "type": "tf",
@@ -5899,17 +4958,6 @@
         "answer": 1
       },
       {
-        "type": "mc",
-        "prompt": "Warum möchte Leonie einen neuen Vertrag?",
-        "options": [
-          "Ihr Handy ist kaputt.",
-          "Sie braucht mehr Datenvolumen.",
-          "Sie hat eine neue Nummer.",
-          "Ihr alter Vertrag ist zu teuer."
-        ],
-        "answer": 3
-      },
-      {
         "type": "tf",
         "prompt": "Leonie möchte auch ein neues Handy kaufen.",
         "answer": false,
@@ -5933,11 +4981,6 @@
         "answer": 2
       },
       {
-        "type": "tf",
-        "prompt": "Den Vertrag ohne Laufzeit kann man jeden Monat kündigen.",
-        "answer": true
-      },
-      {
         "type": "mc",
         "prompt": "Warum fragt Leonie nach dem Ausland?",
         "options": [
@@ -5947,12 +4990,6 @@
           "Sie arbeitet oft in Deutschland."
         ],
         "answer": 1
-      },
-      {
-        "type": "tf",
-        "prompt": "In der EU muss Leonie extra bezahlen.",
-        "answer": false,
-        "explanation": "In der EU gibt es keine extra Gebühren."
       },
       {
         "type": "mc",
@@ -6050,12 +5087,6 @@
         "answer": 0
       },
       {
-        "type": "tf",
-        "prompt": "Der Flohmarkt in Basel beginnt am Mittag.",
-        "answer": false,
-        "explanation": "Er beginnt früh, deshalb sind sie um sechs Uhr aufgestanden."
-      },
-      {
         "type": "mc",
         "prompt": "Wie viel hat der Stand gekostet?",
         "options": ["Zehn Franken", "Fünfzehn Franken", "Zwanzig Franken", "Nichts"],
@@ -6080,20 +5111,9 @@
       },
       {
         "type": "tf",
-        "prompt": "Die Bücher haben einen Franken pro Stück gekostet.",
-        "answer": true
-      },
-      {
-        "type": "tf",
         "prompt": "Das Spielzeug hat niemand gekauft.",
         "answer": false,
         "explanation": "Ein junger Vater hat es für seine Tochter mitgenommen."
-      },
-      {
-        "type": "mc",
-        "prompt": "Wie viel Geld haben Jonas und Mia verdient?",
-        "options": ["120 Franken", "210 Franken", "250 Franken", "21 Franken"],
-        "answer": 1
       },
       {
         "type": "mc",
@@ -6191,12 +5211,6 @@
         "answer": 0
       },
       {
-        "type": "tf",
-        "prompt": "Kemal weiß viel über Blumen.",
-        "answer": false,
-        "explanation": "Er weiß nicht viel über Blumen."
-      },
-      {
         "type": "mc",
         "prompt": "Welche Farben mag Julia?",
         "options": ["Rot und Rosa", "Blau und Weiß", "Gelb und Orange", "Grün und Braun"],
@@ -6215,26 +5229,9 @@
       },
       {
         "type": "mc",
-        "prompt": "Was ist im Strauß?",
-        "options": [
-          "Zehn Rosen",
-          "Drei Sonnenblumen und fünf Rosen",
-          "Nur Sonnenblumen",
-          "Fünf Sonnenblumen und drei Rosen"
-        ],
-        "answer": 3
-      },
-      {
-        "type": "mc",
         "prompt": "Wie viel kostet der Strauß?",
         "options": ["18 Euro", "28 Euro", "38 Euro", "25 Euro"],
         "answer": 1
-      },
-      {
-        "type": "tf",
-        "prompt": "Kemal möchte keine Karte.",
-        "answer": false,
-        "explanation": "Er möchte gern eine Karte."
       },
       {
         "type": "mc",
@@ -6326,11 +5323,6 @@
         "answer": 0
       },
       {
-        "type": "tf",
-        "prompt": "Sabine kennt den Mann vom Sehen.",
-        "answer": true
-      },
-      {
         "type": "mc",
         "prompt": "Wo arbeitet Sabine?",
         "options": [
@@ -6360,20 +5352,9 @@
       },
       {
         "type": "mc",
-        "prompt": "Wie alt ist der Enkel?",
-        "options": ["Zwei", "Drei", "Vier", "Sechs"],
-        "answer": 2
-      },
-      {
-        "type": "mc",
         "prompt": "Was war Herr Brandl früher von Beruf?",
         "options": ["Lehrer", "Taxifahrer", "Apotheker", "Busfahrer"],
         "answer": 3
-      },
-      {
-        "type": "tf",
-        "prompt": "Herr Brandl findet, dass die Busse früher pünktlicher waren.",
-        "answer": true
       },
       {
         "type": "mc",
@@ -6471,12 +5452,6 @@
         "answer": 1
       },
       {
-        "type": "mc",
-        "prompt": "Was liebt Luca?",
-        "options": ["Autos", "Pferde", "Dinosaurier", "Fußball"],
-        "answer": 2
-      },
-      {
         "type": "tf",
         "prompt": "Die Torte ist für zwölf Personen.",
         "answer": true
@@ -6499,12 +5474,6 @@
         "answer": 3
       },
       {
-        "type": "tf",
-        "prompt": "Am Samstag um elf Uhr ist die Torte fertig.",
-        "answer": false,
-        "explanation": "Die Konditorei hat die Bestellung für den falschen Samstag eingetragen."
-      },
-      {
         "type": "mc",
         "prompt": "Was war das Problem?",
         "options": [
@@ -6514,11 +5483,6 @@
           "Die Konditorei war geschlossen."
         ],
         "answer": 1
-      },
-      {
-        "type": "tf",
-        "prompt": "Hannah ist zuerst ärgerlich.",
-        "answer": true
       },
       {
         "type": "mc",
@@ -6613,12 +5577,6 @@
         "answer": 1
       },
       {
-        "type": "mc",
-        "prompt": "Welche Farbe wünscht sich Emma?",
-        "options": ["Rosa", "Grün", "Weiß", "Hellblau"],
-        "answer": 3
-      },
-      {
         "type": "tf",
         "prompt": "Paul und Nora finden die Farben sofort.",
         "answer": false,
@@ -6647,21 +5605,10 @@
         "answer": 0
       },
       {
-        "type": "tf",
-        "prompt": "Das Mischen der Farbe dauert nur fünf Minuten.",
-        "answer": true
-      },
-      {
         "type": "mc",
         "prompt": "Wofür ist die Folie?",
         "options": ["Für die Fenster", "Für die Möbel", "Für den Boden", "Für die Hände"],
         "answer": 2
-      },
-      {
-        "type": "mc",
-        "prompt": "Wie viel bezahlen sie an der Kasse?",
-        "options": ["49 Euro", "94 Euro", "104 Euro", "90 Euro"],
-        "answer": 1
       },
       {
         "type": "tf",
@@ -6750,17 +5697,6 @@
       },
       {
         "type": "mc",
-        "prompt": "Warum gehen die Wagners ins Reisebüro?",
-        "options": [
-          "Ihr Internet ist kaputt.",
-          "Ihre Tochter arbeitet dort.",
-          "Das Reisebüro ist billiger.",
-          "Im Internet gibt es zu viele Angebote."
-        ],
-        "answer": 3
-      },
-      {
-        "type": "mc",
         "prompt": "Was wünscht sich Frau Wagner?",
         "options": [
           "Berge und Schnee",
@@ -6783,12 +5719,6 @@
       },
       {
         "type": "mc",
-        "prompt": "Was hat das Hotel auf Kreta?",
-        "options": ["Ein Hallenbad", "Einen Golfplatz", "Ein Kino", "Eine Sauna"],
-        "answer": 0
-      },
-      {
-        "type": "mc",
         "prompt": "Warum möchte Frau Wagner nicht jeden Abend im Hotel essen?",
         "options": [
           "Sie isst nicht gern.",
@@ -6797,17 +5727,6 @@
           "Das Essen im Hotel ist schlecht."
         ],
         "answer": 1
-      },
-      {
-        "type": "mc",
-        "prompt": "Was buchen die Wagners?",
-        "options": [
-          "Kreta für zehn Tage",
-          "Mallorca für eine Woche",
-          "Mallorca für zwei Wochen",
-          "Nichts"
-        ],
-        "answer": 2
       },
       {
         "type": "tf",
@@ -6897,17 +5816,6 @@
         "answer": 2
       },
       {
-        "type": "mc",
-        "prompt": "Warum waren Elena und Marco beim Standesamt?",
-        "options": [
-          "Sie haben ihre Hochzeit angemeldet.",
-          "Sie haben eine neue Wohnung angemeldet.",
-          "Sie brauchten einen Pass.",
-          "Sie haben ein Baby angemeldet."
-        ],
-        "answer": 0
-      },
-      {
         "type": "tf",
         "prompt": "Den Termin haben sie am selben Tag bekommen.",
         "answer": false,
@@ -6926,17 +5834,6 @@
       },
       {
         "type": "mc",
-        "prompt": "Warum heiraten sie nicht im Juni?",
-        "options": [
-          "Marco hat keine Zeit.",
-          "Das Rathaus ist im Juni geschlossen.",
-          "Die Papiere waren nicht fertig.",
-          "Alle Samstage im Juni waren schon besetzt."
-        ],
-        "answer": 3
-      },
-      {
-        "type": "mc",
         "prompt": "Wann ist die Hochzeit?",
         "options": [
           "Am Samstag, dem 12. Juni",
@@ -6945,12 +5842,6 @@
           "Am Freitag, dem 21. Juli"
         ],
         "answer": 1
-      },
-      {
-        "type": "tf",
-        "prompt": "Zur Trauung dürfen hundert Gäste kommen.",
-        "answer": false,
-        "explanation": "Sie dürfen dreißig Gäste mitbringen."
       },
       {
         "type": "mc",
@@ -7059,17 +5950,6 @@
         "answer": 1
       },
       {
-        "type": "mc",
-        "prompt": "Welche Probleme hatte Felix’ Fahrrad zuerst?",
-        "options": [
-          "Einen Platten und schlechte Bremsen",
-          "Nur ein kaputtes Licht",
-          "Einen kaputten Sattel",
-          "Es war gestohlen."
-        ],
-        "answer": 0
-      },
-      {
         "type": "tf",
         "prompt": "Der Mechaniker sagt, dass nur der Reifen kaputt ist.",
         "answer": false,
@@ -7088,11 +5968,6 @@
         "answer": 3
       },
       {
-        "type": "tf",
-        "prompt": "Die E-Bikes im Laden waren sehr teuer.",
-        "answer": true
-      },
-      {
         "type": "mc",
         "prompt": "Welches Fahrrad gefällt Felix?",
         "options": [
@@ -7102,12 +5977,6 @@
           "Ein Kinderfahrrad"
         ],
         "answer": 1
-      },
-      {
-        "type": "tf",
-        "prompt": "Felix darf keine Probefahrt machen.",
-        "answer": false,
-        "explanation": "Er darf eine Runde um den Block fahren."
       },
       {
         "type": "mc",
