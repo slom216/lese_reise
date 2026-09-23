@@ -1,0 +1,1696 @@
+[
+  {
+    "id": "b1-01",
+    "level": "B1",
+    "title": "Ein Jahr ohne Auto",
+    "topic": "Environment and transport",
+    "body": "Als Familie Brandt vor einem Jahr beschloss, ihr Auto zu verkaufen, hielten viele Freunde sie für verrückt. „Wie wollt ihr mit zwei Kindern ohne Auto leben?“, fragten sie. Heute ist die Familie überzeugt, dass es die richtige Entscheidung war.\n\nDer wichtigste Grund war das Geld. Das Auto war alt und musste ständig repariert werden. Dazu kamen die Kosten für Versicherung, Steuer und Benzin. Insgesamt gab die Familie fast 300 Euro im Monat für das Auto aus. Außerdem wollten die Brandts etwas für die Umwelt tun.\n\nDie ersten Wochen waren nicht leicht. Frau Brandt, die als Krankenschwester arbeitet, muss manchmal sehr früh im Krankenhaus sein, wenn noch kaum Busse fahren. Deshalb kaufte sie sich ein Elektrofahrrad. Damit braucht sie für die sieben Kilometer nur zwanzig Minuten, und sie kommt ohne Stress an. Herr Brandt fährt mit der Straßenbahn ins Büro und nutzt die Zeit zum Lesen.\n\nFür den Wocheneinkauf haben die Brandts einen Fahrradanhänger gekauft, in den auch mehrere Getränkekisten passen. Wenn sie doch einmal ein Auto brauchen, zum Beispiel für einen Ausflug oder einen Besuch bei den Großeltern, leihen sie eins über Carsharing. Das passiert ungefähr zweimal im Monat.\n\nDie Kinder, die zwölf und neun Jahre alt sind, fahren inzwischen selbstständig mit dem Rad zur Schule. Früher wurden sie jeden Morgen mit dem Auto gebracht. Ihre Eltern haben den Eindruck, dass sie dadurch selbstbewusster geworden sind.\n\nNatürlich gibt es auch Nachteile. Bei Regen und Kälte ist das Radfahren unangenehm, und spontane Reisen sind schwieriger zu planen. Trotzdem möchte die Familie nicht mehr zurück. „Wenn wir auf dem Land wohnen würden, wäre es wahrscheinlich anders“, sagt Herr Brandt. „Aber in der Stadt vermissen wir das Auto überhaupt nicht.“",
+    "glossary": [
+      {
+        "german": "beschließen",
+        "english": "to decide",
+        "match": "beschloss"
+      },
+      {
+        "german": "verrückt",
+        "english": "crazy"
+      },
+      {
+        "german": "überzeugt",
+        "english": "convinced"
+      },
+      {
+        "german": "die Entscheidung",
+        "english": "decision"
+      },
+      {
+        "german": "ständig",
+        "english": "constantly"
+      },
+      {
+        "german": "die Versicherung",
+        "english": "insurance"
+      },
+      {
+        "german": "ausgeben",
+        "english": "to spend (money)",
+        "match": "gab die Familie fast 300 Euro im Monat für das Auto aus"
+      },
+      {
+        "german": "die Umwelt",
+        "english": "environment"
+      },
+      {
+        "german": "der Fahrradanhänger",
+        "english": "bike trailer"
+      },
+      {
+        "german": "leihen",
+        "english": "to borrow, to hire"
+      },
+      {
+        "german": "inzwischen",
+        "english": "by now, meanwhile"
+      },
+      {
+        "german": "selbstständig",
+        "english": "independently"
+      },
+      {
+        "german": "der Eindruck",
+        "english": "impression"
+      },
+      {
+        "german": "selbstbewusst",
+        "english": "self-confident",
+        "match": "selbstbewusster"
+      },
+      {
+        "german": "der Nachteil",
+        "english": "disadvantage",
+        "match": "Nachteile"
+      },
+      {
+        "german": "unangenehm",
+        "english": "unpleasant"
+      }
+    ],
+    "questions": [
+      {
+        "type": "tf",
+        "prompt": "Die Freunde der Familie fanden die Idee am Anfang gut.",
+        "answer": false,
+        "explanation": "Viele Freunde hielten sie für verrückt."
+      },
+      {
+        "type": "mc",
+        "prompt": "Was war der wichtigste Grund, das Auto zu verkaufen?",
+        "options": [
+          "Die Umwelt",
+          "Das Geld",
+          "Die Gesundheit",
+          "Es gab keinen Parkplatz."
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie viel kostete das Auto ungefähr im Monat?",
+        "options": ["Fast 100 Euro", "Fast 200 Euro", "Fast 300 Euro", "Über 400 Euro"],
+        "answer": 2
+      },
+      {
+        "type": "mc",
+        "prompt": "Warum kaufte Frau Brandt ein Elektrofahrrad?",
+        "options": [
+          "Sie muss manchmal sehr früh arbeiten, wenn kaum Busse fahren.",
+          "Sie wollte abnehmen.",
+          "Das Krankenhaus hat es bezahlt.",
+          "Die Straßenbahn ist zu teuer."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "tf",
+        "prompt": "Frau Brandt braucht mit dem Rad zwanzig Minuten zur Arbeit.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie kommt Herr Brandt ins Büro?",
+        "options": [
+          "Mit dem Fahrrad",
+          "Mit dem Carsharing-Auto",
+          "Mit der Straßenbahn",
+          "Zu Fuß"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie oft leiht die Familie ein Auto?",
+        "options": ["Jede Woche", "Ungefähr zweimal im Monat", "Nur im Urlaub", "Nie"],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Die Kinder werden heute noch jeden Morgen zur Schule gebracht.",
+        "answer": false,
+        "explanation": "Sie fahren inzwischen selbstständig mit dem Rad."
+      },
+      {
+        "type": "mc",
+        "prompt": "Welche Veränderung sehen die Eltern bei den Kindern?",
+        "options": [
+          "Sie sind selbstbewusster geworden.",
+          "Sie sind öfter krank.",
+          "Sie haben bessere Noten.",
+          "Sie sind oft müde."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "mc",
+        "prompt": "Welchen Nachteil nennt der Text?",
+        "options": [
+          "Radfahren bei Regen und Kälte ist unangenehm.",
+          "Carsharing ist sehr teuer.",
+          "Die Kinder haben Angst im Verkehr.",
+          "Der Einkauf ist unmöglich."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "tf",
+        "prompt": "Herr Brandt glaubt, dass ein Leben ohne Auto auf dem Land schwieriger wäre.",
+        "answer": true
+      }
+    ]
+  },
+  {
+    "id": "b1-02",
+    "level": "B1",
+    "title": "Das Vorstellungsgespräch",
+    "topic": "Work",
+    "body": "Sofia Petrova hatte in Bulgarien Grafikdesign studiert und fünf Jahre in einer Werbeagentur gearbeitet, bevor sie mit ihrem Mann nach Nürnberg zog. Nach einem Jahr Deutschkurs fühlte sie sich bereit, eine Stelle zu suchen. Sie schickte über dreißig Bewerbungen ab. Die meisten Firmen antworteten gar nicht, einige schickten eine Absage. Dann bekam sie endlich eine Einladung zu einem Vorstellungsgespräch bei einem Verlag, der Kinderbücher herausgibt.\n\nSofia bereitete sich gründlich vor. Sie informierte sich auf der Webseite über die Firma und übte mit ihrer Nachbarin typische Fragen: „Warum möchten Sie bei uns arbeiten? Was sind Ihre Stärken und Schwächen?“ Am Abend vorher legte sie ihre Kleidung bereit und druckte ihre Arbeitsproben aus.\n\nDas Gespräch fand an einem Montag um zehn Uhr statt. Sofia war eine Viertelstunde zu früh da. Sie wurde von der Abteilungsleiterin, Frau Krüger, und einem Kollegen aus der Personalabteilung empfangen. Nach einer kurzen Vorstellungsrunde sollte Sofia über ihre bisherigen Projekte erzählen. Zuerst war sie so nervös, dass ihr einige Wörter nicht einfielen. Doch als sie ihre Illustrationen zeigte, wurde sie sicherer. Frau Krüger war von den Arbeiten sichtlich beeindruckt.\n\nDann wurde es schwieriger. Der Kollege fragte, ob sie auch mit bestimmten Grafikprogrammen arbeiten könne. Sofia gab ehrlich zu, dass sie ein Programm noch nicht kannte, aber bereit sei, es schnell zu lernen. Zum Schluss durfte sie selbst Fragen stellen. Sie erkundigte sich nach dem Team und nach Weiterbildungsmöglichkeiten.\n\nZwei Tage später klingelte das Telefon. Frau Krüger bot ihr die Stelle an, zunächst mit einem befristeten Vertrag für ein Jahr. Sofia sagte sofort zu. Ihre Ehrlichkeit im Gespräch, sagte Frau Krüger später, habe ihr besonders gut gefallen.",
+    "glossary": [
+      {
+        "german": "die Werbeagentur",
+        "english": "advertising agency"
+      },
+      {
+        "german": "die Bewerbung",
+        "english": "(job) application",
+        "match": "Bewerbungen"
+      },
+      {
+        "german": "die Absage",
+        "english": "rejection"
+      },
+      {
+        "german": "der Verlag",
+        "english": "publisher, publishing house"
+      },
+      {
+        "german": "gründlich",
+        "english": "thoroughly"
+      },
+      {
+        "german": "die Stärken und Schwächen",
+        "english": "strengths and weaknesses",
+        "match": "Stärken und Schwächen"
+      },
+      {
+        "german": "die Arbeitsprobe",
+        "english": "work sample, portfolio piece",
+        "match": "Arbeitsproben"
+      },
+      {
+        "german": "die Abteilungsleiterin",
+        "english": "head of department (female)"
+      },
+      {
+        "german": "die Personalabteilung",
+        "english": "HR department"
+      },
+      {
+        "german": "einfallen",
+        "english": "to come to mind",
+        "match": "einfielen"
+      },
+      {
+        "german": "beeindruckt",
+        "english": "impressed"
+      },
+      {
+        "german": "zugeben",
+        "english": "to admit",
+        "match": "gab ehrlich zu"
+      },
+      {
+        "german": "sich erkundigen nach",
+        "english": "to ask about, to enquire",
+        "match": "erkundigte"
+      },
+      {
+        "german": "befristet",
+        "english": "fixed-term, temporary",
+        "match": "befristeten"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Was hat Sofia in Bulgarien gemacht?",
+        "options": [
+          "Sie hat Deutsch unterrichtet.",
+          "Sie hat in einer Werbeagentur gearbeitet.",
+          "Sie hat Kinderbücher geschrieben.",
+          "Sie war Verkäuferin."
+        ],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Auf die meisten Bewerbungen hat Sofia eine Absage bekommen.",
+        "answer": false,
+        "explanation": "Die meisten Firmen antworteten gar nicht, nur einige schickten eine Absage."
+      },
+      {
+        "type": "mc",
+        "prompt": "Was für eine Firma ist der Verlag?",
+        "options": [
+          "Ein Zeitungsverlag",
+          "Ein Verlag für Kinderbücher",
+          "Eine Werbeagentur",
+          "Ein Softwarehersteller"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": "Mit wem hat Sofia typische Fragen geübt?",
+        "options": [
+          "Mit ihrem Mann",
+          "Mit ihrer Deutschlehrerin",
+          "Mit ihrer Nachbarin",
+          "Mit einer Freundin aus Bulgarien"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "tf",
+        "prompt": "Sofia kam eine Viertelstunde zu spät zum Gespräch.",
+        "answer": false,
+        "explanation": "Sie war eine Viertelstunde zu früh da."
+      },
+      {
+        "type": "mc",
+        "prompt": "Wann wurde Sofia sicherer?",
+        "options": [
+          "Als sie ihre Illustrationen zeigte",
+          "Als sie Kaffee bekam",
+          "Am Ende des Gesprächs",
+          "Als sie über Bulgarien sprach"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "tf",
+        "prompt": "Sofia kannte alle Grafikprogramme, nach denen gefragt wurde.",
+        "answer": false,
+        "explanation": "Ein Programm kannte sie noch nicht."
+      },
+      {
+        "type": "mc",
+        "prompt": "Wonach hat sich Sofia am Ende erkundigt?",
+        "options": [
+          "Nach dem Gehalt und dem Urlaub",
+          "Nach dem Team und Weiterbildungsmöglichkeiten",
+          "Nach den Arbeitszeiten",
+          "Nach einem Parkplatz"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": "Was für einen Vertrag bekommt Sofia?",
+        "options": [
+          "Einen unbefristeten Vertrag",
+          "Einen Vertrag für ein Jahr",
+          "Einen Vertrag für drei Monate",
+          "Einen Praktikumsvertrag"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Frau Krüger hat Sofias Ehrlichkeit besonders gut gefallen.",
+        "answer": true
+      }
+    ]
+  },
+  {
+    "id": "b1-03",
+    "level": "B1",
+    "title": "Ehrenamt im Tierheim",
+    "topic": "Society",
+    "body": "Jeden Samstagmorgen, wenn andere Leute noch schlafen, steht Thomas Richter schon im Tierheim am Stadtrand. Der 58-jährige Ingenieur arbeitet dort seit vier Jahren ehrenamtlich, das heißt, er bekommt kein Geld für seine Arbeit.\n\nAngefangen hat alles nach dem Tod seiner Hündin Bella, mit der er vierzehn Jahre zusammengelebt hatte. „Ich wollte keinen neuen Hund, weil ich beruflich viel unterwegs bin“, erzählt er. „Aber mir fehlte der Kontakt zu Tieren.“ Eine Kollegin, die selbst im Tierheim hilft, nahm ihn eines Tages mit. Seitdem ist er dabei.\n\nIm Tierheim leben zurzeit etwa sechzig Hunde, achtzig Katzen und viele Kleintiere wie Kaninchen und Meerschweinchen. Manche wurden von ihren Besitzern abgegeben, weil diese umziehen mussten oder krank wurden. Andere wurden auf der Straße gefunden. Besonders im Sommer, wenn die Urlaubszeit beginnt, werden leider viele Tiere einfach ausgesetzt.\n\nDie fest angestellten Pfleger haben kaum Zeit, mit den Hunden spazieren zu gehen. Deshalb ist die Hilfe der Ehrenamtlichen so wichtig. Thomas geht jeden Samstag mit drei oder vier Hunden eine Stunde in den Wald. Danach putzt er die Zwinger und hilft beim Füttern.\n\nAm meisten freut er sich, wenn ein Tier ein neues Zuhause findet. Das ist allerdings nicht immer einfach. Bevor jemand ein Tier mitnehmen darf, wird genau geprüft, ob die Person genug Zeit und Platz hat. Alte oder kranke Tiere warten oft jahrelang.\n\nDas Tierheim finanziert sich hauptsächlich durch Spenden. „Wer keine Zeit hat, kann trotzdem helfen“, sagt Thomas, „zum Beispiel mit Futter, alten Decken oder einer kleinen Spende.“ Er selbst würde seine Samstage nicht mehr anders verbringen wollen.",
+    "glossary": [
+      {
+        "german": "das Tierheim",
+        "english": "animal shelter"
+      },
+      {
+        "german": "der Stadtrand",
+        "english": "outskirts of town"
+      },
+      {
+        "german": "ehrenamtlich",
+        "english": "voluntary, as a volunteer"
+      },
+      {
+        "german": "der Tod",
+        "english": "death"
+      },
+      {
+        "german": "die Hündin",
+        "english": "female dog"
+      },
+      {
+        "german": "das Kaninchen",
+        "english": "rabbit"
+      },
+      {
+        "german": "das Meerschweinchen",
+        "english": "guinea pig"
+      },
+      {
+        "german": "der Besitzer",
+        "english": "owner",
+        "match": "Besitzern"
+      },
+      {
+        "german": "aussetzen",
+        "english": "to abandon (an animal)",
+        "match": "ausgesetzt"
+      },
+      {
+        "german": "der Pfleger",
+        "english": "carer, keeper",
+        "match": "Pfleger"
+      },
+      {
+        "german": "der Zwinger",
+        "english": "kennel, dog run",
+        "match": "Zwinger"
+      },
+      {
+        "german": "füttern",
+        "english": "to feed",
+        "match": "Füttern"
+      },
+      {
+        "german": "prüfen",
+        "english": "to check, to examine",
+        "match": "geprüft"
+      },
+      {
+        "german": "hauptsächlich",
+        "english": "mainly"
+      },
+      {
+        "german": "die Spende",
+        "english": "donation",
+        "match": "Spenden"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Was bedeutet „ehrenamtlich“ im Text?",
+        "options": [
+          "Thomas arbeitet nur am Wochenende.",
+          "Thomas bekommt kein Geld für die Arbeit.",
+          "Thomas ist der Chef des Tierheims.",
+          "Thomas arbeitet als Tierarzt."
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": "Was ist Thomas von Beruf?",
+        "options": ["Tierpfleger", "Lehrer", "Ingenieur", "Rentner"],
+        "answer": 2
+      },
+      {
+        "type": "tf",
+        "prompt": "Thomas hat nach Bellas Tod einen neuen Hund gekauft.",
+        "answer": false,
+        "explanation": "Er wollte keinen neuen Hund, weil er beruflich viel unterwegs ist."
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie ist Thomas zum Tierheim gekommen?",
+        "options": [
+          "Durch eine Anzeige in der Zeitung",
+          "Eine Kollegin hat ihn mitgenommen.",
+          "Er hat dort Bella gefunden.",
+          "Sein Arzt hat es empfohlen."
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie viele Katzen leben zurzeit etwa im Tierheim?",
+        "options": ["Sechzehn", "Sechzig", "Achtzig", "Hundert"],
+        "answer": 2
+      },
+      {
+        "type": "tf",
+        "prompt": "In der Urlaubszeit werden besonders viele Tiere ausgesetzt.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Warum sind die Ehrenamtlichen so wichtig?",
+        "options": [
+          "Die Pfleger haben kaum Zeit für Spaziergänge mit den Hunden.",
+          "Es gibt keine fest angestellten Pfleger.",
+          "Sie bezahlen das Futter.",
+          "Sie bringen neue Tiere."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "mc",
+        "prompt": "Was macht Thomas NICHT jeden Samstag?",
+        "options": [
+          "Er geht mit Hunden in den Wald.",
+          "Er putzt die Zwinger.",
+          "Er hilft beim Füttern.",
+          "Er prüft neue Besitzer."
+        ],
+        "answer": 3
+      },
+      {
+        "type": "tf",
+        "prompt": "Jeder kann ohne Prüfung ein Tier mitnehmen.",
+        "answer": false,
+        "explanation": "Es wird genau geprüft, ob die Person genug Zeit und Platz hat."
+      },
+      {
+        "type": "mc",
+        "prompt": "Welche Tiere warten oft jahrelang?",
+        "options": [
+          "Junge Katzen",
+          "Kleintiere",
+          "Alte oder kranke Tiere",
+          "Große Hunde"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "tf",
+        "prompt": "Das Tierheim wird hauptsächlich durch Spenden finanziert.",
+        "answer": true
+      }
+    ]
+  },
+  {
+    "id": "b1-04",
+    "level": "B1",
+    "title": "Nachrichten aus dem Netz",
+    "topic": "Media",
+    "body": "Früher las Familie Wagner jeden Morgen beim Frühstück die Tageszeitung, und um acht Uhr abends sah man gemeinsam die Nachrichten im Fernsehen. Heute ist das anders. Die Zeitung wurde vor drei Jahren abbestellt, und jedes Familienmitglied informiert sich auf seine eigene Weise.\n\nDer Vater, Michael, liest die Nachrichten meistens auf dem Tablet. Er hat ein digitales Abonnement einer großen Zeitung, das deutlich billiger ist als die gedruckte Ausgabe. „Ich kann überall lesen, und die Artikel werden ständig aktualisiert“, sagt er. Nur das Rascheln des Papiers vermisst er manchmal.\n\nSeine Frau Anja hört auf dem Weg zur Arbeit Podcasts. Sie findet es praktisch, dass sie gleichzeitig Auto fahren und sich über Politik oder Wissenschaft informieren kann. Besonders gefallen ihr lange Gespräche mit Experten, in denen Themen ausführlich erklärt werden.\n\nDie siebzehnjährige Tochter Lea bekommt die meisten Informationen über soziale Medien. Kurze Videos erklären ihr in einer Minute, was in der Welt passiert. Ihr Vater sieht das kritisch. „Nicht alles, was im Internet steht, ist wahr“, warnt er. „Manche Meldungen werden absichtlich falsch verbreitet.“\n\nLea gibt zu, dass sie schon einmal auf eine Falschmeldung hereingefallen ist. Ein Video behauptete, dass die Schulferien wegen einer neuen Regelung verkürzt würden. Sie teilte es sofort mit ihren Freunden – bis sich herausstellte, dass es nicht stimmte. Seitdem ist sie vorsichtiger. In der Schule hat sie gelernt, wie man Quellen überprüft: Wer hat die Nachricht veröffentlicht? Berichten auch seriöse Medien darüber?\n\nEinmal pro Woche, am Sonntagabend, diskutiert die Familie beim Abendessen über ein aktuelles Thema. Jeder erzählt, was er gelesen oder gehört hat. „So erfahren wir unterschiedliche Perspektiven“, sagt Anja, „und das ist heute wichtiger denn je.“",
+    "glossary": [
+      {
+        "german": "abbestellen",
+        "english": "to cancel (a subscription)",
+        "match": "abbestellt"
+      },
+      {
+        "german": "das Abonnement",
+        "english": "subscription"
+      },
+      {
+        "german": "die Ausgabe",
+        "english": "edition"
+      },
+      {
+        "german": "aktualisieren",
+        "english": "to update",
+        "match": "aktualisiert"
+      },
+      {
+        "german": "das Rascheln",
+        "english": "rustling"
+      },
+      {
+        "german": "gleichzeitig",
+        "english": "at the same time"
+      },
+      {
+        "german": "ausführlich",
+        "english": "in detail"
+      },
+      {
+        "german": "die Meldung",
+        "english": "report, news item",
+        "match": "Meldungen"
+      },
+      {
+        "german": "absichtlich",
+        "english": "deliberately"
+      },
+      {
+        "german": "verbreiten",
+        "english": "to spread",
+        "match": "verbreitet"
+      },
+      {
+        "german": "hereinfallen auf",
+        "english": "to be fooled by",
+        "match": "hereingefallen"
+      },
+      {
+        "german": "behaupten",
+        "english": "to claim",
+        "match": "behauptete"
+      },
+      {
+        "german": "sich herausstellen",
+        "english": "to turn out",
+        "match": "herausstellte"
+      },
+      {
+        "german": "die Quelle",
+        "english": "source",
+        "match": "Quellen"
+      },
+      {
+        "german": "seriös",
+        "english": "reputable, serious",
+        "match": "seriöse"
+      }
+    ],
+    "questions": [
+      {
+        "type": "tf",
+        "prompt": "Familie Wagner liest heute noch jeden Morgen die gedruckte Zeitung.",
+        "answer": false,
+        "explanation": "Die Zeitung wurde vor drei Jahren abbestellt."
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie liest Michael die Nachrichten?",
+        "options": [
+          "Auf dem Handy in sozialen Medien",
+          "Auf dem Tablet mit einem digitalen Abonnement",
+          "In der gedruckten Zeitung",
+          "Im Fernsehen"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": "Was vermisst Michael manchmal?",
+        "options": [
+          "Die Nachrichten im Fernsehen",
+          "Das Rascheln des Papiers",
+          "Das Frühstück mit der Familie",
+          "Die Kreuzworträtsel"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": "Wann hört Anja Podcasts?",
+        "options": [
+          "Beim Frühstück",
+          "Beim Sport",
+          "Auf dem Weg zur Arbeit",
+          "Vor dem Schlafen"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "tf",
+        "prompt": "Anja mag besonders kurze Nachrichten.",
+        "answer": false,
+        "explanation": "Ihr gefallen lange Gespräche, in denen Themen ausführlich erklärt werden."
+      },
+      {
+        "type": "mc",
+        "prompt": "Woher bekommt Lea die meisten Informationen?",
+        "options": [
+          "Aus Podcasts",
+          "Aus der Schule",
+          "Aus sozialen Medien",
+          "Von ihren Eltern"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "mc",
+        "prompt": "Was behauptete die Falschmeldung?",
+        "options": [
+          "Die Schulferien werden verkürzt.",
+          "Die Schule wird geschlossen.",
+          "Es gibt keine Prüfungen mehr.",
+          "Die Ferien werden verlängert."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "tf",
+        "prompt": "Lea hat das falsche Video mit ihren Freunden geteilt.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Wo hat Lea gelernt, Quellen zu überprüfen?",
+        "options": [
+          "Von ihrem Vater",
+          "In der Schule",
+          "In einem Video",
+          "In einem Podcast"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": "Was macht die Familie jeden Sonntagabend?",
+        "options": [
+          "Sie sieht zusammen die Nachrichten.",
+          "Sie diskutiert über ein aktuelles Thema.",
+          "Sie liest zusammen die Zeitung.",
+          "Sie hört einen Podcast."
+        ],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Anja findet es wichtig, verschiedene Perspektiven zu kennen.",
+        "answer": true
+      }
+    ]
+  },
+  {
+    "id": "b1-05",
+    "level": "B1",
+    "title": "Streit in der WG",
+    "topic": "Living together",
+    "body": "Marie, Jakob und Selin wohnen seit einem Jahr zusammen in einer Wohngemeinschaft in Göttingen. Alle drei studieren, allerdings ganz verschiedene Fächer: Marie Jura, Jakob Informatik und Selin Musik. Am Anfang verstanden sie sich wunderbar. Sie kochten oft zusammen und verbrachten gemütliche Abende auf dem Balkon. Doch in den letzten Monaten gab es immer häufiger Streit – vor allem wegen der Küche.\n\nDas Problem war, dass Jakob sein Geschirr oft tagelang in der Spüle stehen ließ. Er war der Meinung, dass er es später abwaschen würde, wenn er Zeit hätte. Marie, die sehr ordentlich ist, ärgerte sich jedes Mal darüber. Selin störte etwas anderes: Ihre Lebensmittel verschwanden regelmäßig aus dem Kühlschrank, ohne dass jemand fragte.\n\nEines Abends eskalierte die Situation. Marie hatte für ihre Eltern kochen wollen, die zu Besuch kamen, aber in der Küche gab es keinen einzigen sauberen Topf. Sie wurde laut, Jakob fühlte sich ungerecht behandelt, und am Ende knallte jemand die Tür zu.\n\nAm nächsten Tag schlug Selin vor, sich zusammenzusetzen und in Ruhe über die Probleme zu reden. Das Gespräch dauerte fast zwei Stunden. Jakob gab zu, dass er zu wenig auf die anderen geachtet hatte. Er erklärte aber auch, dass er während der Prüfungszeit extrem gestresst gewesen sei.\n\nGemeinsam fanden sie Lösungen. Sie hängten einen Putzplan an den Kühlschrank, auf dem steht, wer in welcher Woche für Küche, Bad und Müll verantwortlich ist. Benutztes Geschirr muss spätestens am nächsten Morgen gespült sein. Außerdem bekam jeder ein eigenes Fach im Kühlschrank. Für Dinge, die alle benutzen, wie Öl, Salz oder Kaffee, gibt es eine gemeinsame Kasse.\n\nSeitdem ist die Stimmung in der WG deutlich besser. „Man hätte schon viel früher miteinander sprechen sollen“, meint Marie heute.",
+    "glossary": [
+      {
+        "german": "die Wohngemeinschaft (WG)",
+        "english": "shared flat",
+        "match": "Wohngemeinschaft"
+      },
+      {
+        "german": "Jura",
+        "english": "law (as a subject)"
+      },
+      {
+        "german": "das Geschirr",
+        "english": "dishes, crockery"
+      },
+      {
+        "german": "die Spüle",
+        "english": "(kitchen) sink"
+      },
+      {
+        "german": "ordentlich",
+        "english": "tidy"
+      },
+      {
+        "german": "sich ärgern über",
+        "english": "to be annoyed about",
+        "match": "ärgerte"
+      },
+      {
+        "german": "verschwinden",
+        "english": "to disappear",
+        "match": "verschwanden"
+      },
+      {
+        "german": "eskalieren",
+        "english": "to escalate",
+        "match": "eskalierte"
+      },
+      {
+        "german": "ungerecht",
+        "english": "unfair(ly)"
+      },
+      {
+        "german": "vorschlagen",
+        "english": "to suggest",
+        "match": "schlug Selin vor"
+      },
+      {
+        "german": "achten auf",
+        "english": "to pay attention to",
+        "match": "geachtet"
+      },
+      {
+        "german": "der Putzplan",
+        "english": "cleaning rota"
+      },
+      {
+        "german": "verantwortlich",
+        "english": "responsible"
+      },
+      {
+        "german": "das Fach",
+        "english": "compartment, shelf"
+      },
+      {
+        "german": "die Stimmung",
+        "english": "mood, atmosphere"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Was studiert Jakob?",
+        "options": ["Jura", "Musik", "Informatik", "Medizin"],
+        "answer": 2
+      },
+      {
+        "type": "tf",
+        "prompt": "Die drei hatten von Anfang an Probleme miteinander.",
+        "answer": false,
+        "explanation": "Am Anfang verstanden sie sich wunderbar."
+      },
+      {
+        "type": "mc",
+        "prompt": "Worüber ärgerte sich Marie?",
+        "options": [
+          "Über laute Musik",
+          "Über Jakobs schmutziges Geschirr",
+          "Über fehlende Lebensmittel",
+          "Über die hohe Miete"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": "Was störte Selin?",
+        "options": [
+          "Ihre Lebensmittel verschwanden aus dem Kühlschrank.",
+          "Marie war zu ordentlich.",
+          "Jakob kochte nie.",
+          "Das Bad war schmutzig."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "mc",
+        "prompt": "Warum wollte Marie an dem Abend kochen?",
+        "options": [
+          "Sie hatte Geburtstag.",
+          "Ihre Eltern kamen zu Besuch.",
+          "Sie hatte eine Prüfung bestanden.",
+          "Selin hatte Hunger."
+        ],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Selin schlug vor, in Ruhe über die Probleme zu sprechen.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie erklärte Jakob sein Verhalten?",
+        "options": [
+          "Er war während der Prüfungszeit sehr gestresst.",
+          "Er war krank.",
+          "Er arbeitete nachts.",
+          "Er fand die Regeln unfair."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "mc",
+        "prompt": "Was steht auf dem Putzplan?",
+        "options": [
+          "Wer wann einkaufen geht",
+          "Wer in welcher Woche für Küche, Bad und Müll verantwortlich ist",
+          "Wann Gäste kommen dürfen",
+          "Wer wie viel Miete bezahlt"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Geschirr muss spätestens am nächsten Morgen gespült sein.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Wofür gibt es eine gemeinsame Kasse?",
+        "options": [
+          "Für die Miete",
+          "Für Partys",
+          "Für Dinge wie Öl, Salz und Kaffee",
+          "Für einen neuen Kühlschrank"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "tf",
+        "prompt": "Marie denkt, sie hätten früher miteinander sprechen sollen.",
+        "answer": true
+      }
+    ]
+  },
+  {
+    "id": "b1-06",
+    "level": "B1",
+    "title": "Ein Termin beim Bürgeramt",
+    "topic": "Public services",
+    "body": "Als Diego aus Spanien nach Deutschland kam, um in Dresden bei einem Forschungsinstitut zu arbeiten, hatte er von der deutschen Bürokratie schon viel gehört. Seine Kollegen hatten ihn gewarnt: „Ohne Termin geht beim Amt gar nichts.“\n\nDas Erste, was er erledigen musste, war die Anmeldung seiner Wohnung. In Deutschland muss man sich innerhalb von zwei Wochen nach dem Einzug beim Bürgeramt anmelden. Ohne diese Anmeldung kann man zum Beispiel kein Bankkonto eröffnen und bekommt keine Steuernummer.\n\nDiego versuchte, online einen Termin zu buchen, aber der nächste freie Termin war erst in fünf Wochen. Ein Kollege gab ihm einen Tipp: Jeden Morgen um sieben Uhr werden kurzfristig abgesagte Termine wieder freigeschaltet. Tatsächlich hatte Diego am dritten Tag Glück und bekam einen Termin für den folgenden Donnerstag.\n\nVorher musste er einige Unterlagen besorgen. Neben seinem Reisepass brauchte er eine Wohnungsgeberbestätigung, also ein Formular, das sein Vermieter unterschreiben musste. Außerdem füllte er das Anmeldeformular aus, das man auf der Webseite der Stadt herunterladen kann. Einige Begriffe verstand er nicht, deshalb half ihm seine Nachbarin.\n\nAm Donnerstag zog Diego am Eingang eine Nummer und wartete etwa zwanzig Minuten. Die Sachbearbeiterin war freundlich, sprach aber sehr schnell. Diego bat sie, etwas langsamer zu sprechen, was sie gern tat. Sie prüfte seine Dokumente, gab alles in den Computer ein und fragte nach seiner Religion, weil davon die Kirchensteuer abhängt. Nach nur zehn Minuten war alles erledigt, und Diego erhielt seine Meldebescheinigung.\n\n„Ich hatte mir das viel schlimmer vorgestellt“, erzählte er abends seinen Kollegen. „Wenn man gut vorbereitet ist, geht es ganz schnell.“ Nur mit dem Formular für das Finanzamt wartet er noch – das möchte er lieber zusammen mit einem Kollegen ausfüllen.",
+    "glossary": [
+      {
+        "german": "das Forschungsinstitut",
+        "english": "research institute"
+      },
+      {
+        "german": "die Bürokratie",
+        "english": "bureaucracy"
+      },
+      {
+        "german": "erledigen",
+        "english": "to take care of, to get done"
+      },
+      {
+        "german": "der Einzug",
+        "english": "moving in"
+      },
+      {
+        "german": "kurzfristig",
+        "english": "at short notice"
+      },
+      {
+        "german": "freischalten",
+        "english": "to release, to make available",
+        "match": "freigeschaltet"
+      },
+      {
+        "german": "die Unterlagen",
+        "english": "documents, paperwork"
+      },
+      {
+        "german": "besorgen",
+        "english": "to get, to obtain"
+      },
+      {
+        "german": "die Wohnungsgeberbestätigung",
+        "english": "landlord's confirmation of residence"
+      },
+      {
+        "german": "unterschreiben",
+        "english": "to sign"
+      },
+      {
+        "german": "der Begriff",
+        "english": "term, expression",
+        "match": "Begriffe"
+      },
+      {
+        "german": "die Sachbearbeiterin",
+        "english": "clerk, case officer"
+      },
+      {
+        "german": "abhängen von",
+        "english": "to depend on",
+        "match": "abhängt"
+      },
+      {
+        "german": "die Meldebescheinigung",
+        "english": "certificate of registration"
+      },
+      {
+        "german": "das Finanzamt",
+        "english": "tax office"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Warum ist Diego nach Dresden gekommen?",
+        "options": [
+          "Um zu studieren",
+          "Um bei einem Forschungsinstitut zu arbeiten",
+          "Um Deutsch zu lernen",
+          "Um seine Familie zu besuchen"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": "Innerhalb welcher Zeit muss man sich nach dem Einzug anmelden?",
+        "options": [
+          "Innerhalb von drei Tagen",
+          "Innerhalb von einer Woche",
+          "Innerhalb von zwei Wochen",
+          "Innerhalb von fünf Wochen"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "tf",
+        "prompt": "Ohne Anmeldung kann man kein Bankkonto eröffnen.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Was war der Tipp des Kollegen?",
+        "options": [
+          "Einfach ohne Termin zum Amt gehen",
+          "Morgens um sieben Uhr nach abgesagten Terminen suchen",
+          "Beim Amt anrufen",
+          "Einen Termin in einer anderen Stadt buchen"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Diego bekam schon am ersten Tag einen Termin.",
+        "answer": false,
+        "explanation": "Er hatte am dritten Tag Glück."
+      },
+      {
+        "type": "mc",
+        "prompt": "Wer musste die Wohnungsgeberbestätigung unterschreiben?",
+        "options": ["Diego", "Sein Chef", "Sein Vermieter", "Seine Nachbarin"],
+        "answer": 2
+      },
+      {
+        "type": "mc",
+        "prompt": "Wer half Diego mit dem Anmeldeformular?",
+        "options": [
+          "Ein Kollege",
+          "Seine Nachbarin",
+          "Die Sachbearbeiterin",
+          "Sein Vermieter"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Die Sachbearbeiterin wollte nicht langsamer sprechen.",
+        "answer": false,
+        "explanation": "Sie tat es gern."
+      },
+      {
+        "type": "mc",
+        "prompt": "Warum fragte die Sachbearbeiterin nach der Religion?",
+        "options": [
+          "Wegen der Kirchensteuer",
+          "Für eine Statistik",
+          "Wegen der Feiertage",
+          "Das ist eine Pflichtfrage ohne Grund."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie lange dauerte der Termin selbst?",
+        "options": [
+          "Etwa zehn Minuten",
+          "Etwa zwanzig Minuten",
+          "Eine Stunde",
+          "Zwei Stunden"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "tf",
+        "prompt": "Das Formular für das Finanzamt hat Diego schon ausgefüllt.",
+        "answer": false,
+        "explanation": "Damit wartet er noch; er möchte es mit einem Kollegen ausfüllen."
+      }
+    ]
+  },
+  {
+    "id": "b1-07",
+    "level": "B1",
+    "title": "Gesund essen – aber wie?",
+    "topic": "Health and nutrition",
+    "body": "Vor einem halben Jahr ging Stefan Maier, 42, wegen ständiger Müdigkeit zum Arzt. Die Blutuntersuchung zeigte, dass sein Cholesterin viel zu hoch war. Außerdem hatte er in den letzten Jahren fast fünfzehn Kilo zugenommen. „Wenn Sie so weitermachen, riskieren Sie ernsthafte Probleme mit dem Herzen“, sagte die Ärztin deutlich.\n\nStefan erschrak. Er arbeitete als Vertriebsleiter, war viel mit dem Auto unterwegs und aß meistens schnell zwischendurch: belegte Brötchen an der Tankstelle, mittags Currywurst, abends Fertiggerichte vor dem Fernseher. Sport hatte er seit Jahren nicht gemacht.\n\nAuf Empfehlung der Ärztin besuchte er eine Ernährungsberatung. Die Beraterin erklärte ihm, dass er nicht auf alles verzichten müsse. Wichtiger seien kleine, dauerhafte Veränderungen. Strenge Diäten würden meistens nur kurz funktionieren, danach nehme man oft wieder zu.\n\nGemeinsam stellten sie einen Plan auf. Stefan sollte mehr Gemüse, Vollkornprodukte und Hülsenfrüchte essen und weniger Fleisch, Zucker und Weißmehl. Statt Limonade trinkt er jetzt Wasser oder ungesüßten Tee. Am Sonntag kocht er für die ganze Woche vor und nimmt sein Mittagessen in einer Box mit ins Büro. Anfangs fand er das umständlich, inzwischen ist es zur Gewohnheit geworden.\n\nAußerdem bewegt er sich mehr. Kurze Strecken fährt er mit dem Rad, und dreimal pro Woche geht er nach der Arbeit schwimmen. Die Kollegen, die ihn am Anfang ein bisschen ausgelacht hatten, fragen ihn inzwischen nach Rezepten.\n\nDie Ergebnisse können sich sehen lassen: Stefan hat zehn Kilo abgenommen, seine Blutwerte sind fast normal, und er fühlt sich viel fitter. „Das Wichtigste war, nicht perfekt sein zu wollen“, sagt er. „Wenn ich mal ein Stück Kuchen esse, ist das kein Drama. Hauptsache, die Richtung stimmt.“",
+    "glossary": [
+      {
+        "german": "die Müdigkeit",
+        "english": "tiredness"
+      },
+      {
+        "german": "zunehmen",
+        "english": "to put on weight",
+        "match": "zugenommen"
+      },
+      {
+        "german": "ernsthaft",
+        "english": "serious",
+        "match": "ernsthafte"
+      },
+      {
+        "german": "erschrecken",
+        "english": "to get a fright",
+        "match": "erschrak"
+      },
+      {
+        "german": "das Fertiggericht",
+        "english": "ready meal",
+        "match": "Fertiggerichte"
+      },
+      {
+        "german": "die Ernährungsberatung",
+        "english": "nutritional counselling"
+      },
+      {
+        "german": "verzichten auf",
+        "english": "to do without",
+        "match": "verzichten"
+      },
+      {
+        "german": "dauerhaft",
+        "english": "lasting, permanent",
+        "match": "dauerhafte"
+      },
+      {
+        "german": "die Hülsenfrüchte",
+        "english": "pulses (beans, lentils)"
+      },
+      {
+        "german": "vorkochen",
+        "english": "to cook in advance",
+        "match": "kocht er für die ganze Woche vor"
+      },
+      {
+        "german": "umständlich",
+        "english": "cumbersome, a hassle"
+      },
+      {
+        "german": "die Gewohnheit",
+        "english": "habit"
+      },
+      {
+        "german": "auslachen",
+        "english": "to laugh at",
+        "match": "ausgelacht"
+      },
+      {
+        "german": "abnehmen",
+        "english": "to lose weight",
+        "match": "abgenommen"
+      },
+      {
+        "german": "Hauptsache …",
+        "english": "the main thing is …",
+        "match": "Hauptsache"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Warum ging Stefan zum Arzt?",
+        "options": [
+          "Wegen Rückenschmerzen",
+          "Wegen ständiger Müdigkeit",
+          "Wegen eines Unfalls",
+          "Für eine Routineuntersuchung"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Stefans Cholesterin war zu niedrig.",
+        "answer": false,
+        "explanation": "Es war viel zu hoch."
+      },
+      {
+        "type": "mc",
+        "prompt": "Was aß Stefan früher abends?",
+        "options": ["Salat", "Fertiggerichte vor dem Fernseher", "Currywurst", "Nichts"],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": "Was sagte die Ernährungsberaterin?",
+        "options": [
+          "Er muss auf alles verzichten.",
+          "Er soll eine strenge Diät machen.",
+          "Kleine, dauerhafte Veränderungen sind wichtiger.",
+          "Er soll nur noch Gemüse essen."
+        ],
+        "answer": 2
+      },
+      {
+        "type": "tf",
+        "prompt": "Laut Beraterin funktionieren strenge Diäten meistens nur kurz.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Was trinkt Stefan statt Limonade?",
+        "options": ["Saft", "Wasser oder ungesüßten Tee", "Kaffee", "Milch"],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": "Wann kocht Stefan für die Woche vor?",
+        "options": ["Am Montagabend", "Am Samstag", "Am Sonntag", "Jeden Abend"],
+        "answer": 2
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie oft geht Stefan schwimmen?",
+        "options": [
+          "Einmal pro Woche",
+          "Zweimal pro Woche",
+          "Dreimal pro Woche",
+          "Jeden Tag"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "tf",
+        "prompt": "Die Kollegen fragen Stefan heute nach Rezepten.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie viel hat Stefan abgenommen?",
+        "options": ["Fünf Kilo", "Zehn Kilo", "Fünfzehn Kilo", "Zwanzig Kilo"],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Stefan isst nie mehr Kuchen.",
+        "answer": false,
+        "explanation": "Ein Stück Kuchen ist für ihn „kein Drama“."
+      }
+    ]
+  },
+  {
+    "id": "b1-08",
+    "level": "B1",
+    "title": "Das Dorf, das nicht verschwinden wollte",
+    "topic": "Culture and history",
+    "body": "Vor zwanzig Jahren schien das Schicksal von Altenbrück besiegelt. Das kleine Dorf in Nordhessen hatte damals nur noch 180 Einwohner, und die meisten davon waren über sechzig. Die Schule war schon lange geschlossen, der letzte Laden hatte zugemacht, und der Bus fuhr nur noch zweimal am Tag. Die jungen Leute zogen nach dem Schulabschluss in die Städte, weil es im Dorf weder Arbeit noch Freizeitangebote gab.\n\nDoch dann geschah etwas Unerwartetes. Die Lehrerin Gisela Hartmann, die gerade in Rente gegangen war, lud alle Bewohner zu einer Versammlung ins alte Gasthaus ein. „Wenn wir nichts tun, gibt es unser Dorf in zwanzig Jahren nicht mehr“, sagte sie. Zu ihrer Überraschung kamen fast hundert Menschen.\n\nAn diesem Abend wurde ein Verein gegründet. Die erste Idee war ein Dorfladen, der von den Bewohnern selbst organisiert wurde. Jeder, der wollte, konnte Anteile für 100 Euro kaufen. Innerhalb von drei Monaten war genug Geld gesammelt. Ehrenamtliche renovierten das leere Gebäude neben der Kirche, und im Frühling wurde der Laden eröffnet. Dort gab es nicht nur Lebensmittel von Bauern aus der Region, sondern auch ein kleines Café, das schnell zum Treffpunkt wurde.\n\nDer Erfolg motivierte die Menschen. In den folgenden Jahren organisierten sie einen Fahrdienst für ältere Leute, bauten das ehemalige Schulhaus zu Wohnungen um und überzeugten die Gemeinde, schnelles Internet ins Dorf zu bringen. Das war entscheidend: Plötzlich konnten junge Familien, die von zu Hause aus arbeiteten, auf dem Land leben.\n\nHeute hat Altenbrück wieder 260 Einwohner, darunter über vierzig Kinder. Seit zwei Jahren gibt es sogar wieder einen Kindergarten. Gisela Hartmann, inzwischen achtzig, sitzt oft im Dorfcafé und beobachtet das Leben um sich herum. „Man hat uns damals ausgelacht“, erinnert sie sich. „Aber wir haben gezeigt, dass ein Dorf nur so lange stirbt, wie die Menschen es zulassen.“",
+    "glossary": [
+      {
+        "german": "das Schicksal",
+        "english": "fate"
+      },
+      {
+        "german": "besiegelt",
+        "english": "sealed (of fate)"
+      },
+      {
+        "german": "der Einwohner",
+        "english": "inhabitant",
+        "match": "Einwohner"
+      },
+      {
+        "german": "weder … noch",
+        "english": "neither … nor",
+        "match": "weder"
+      },
+      {
+        "german": "geschehen",
+        "english": "to happen",
+        "match": "geschah"
+      },
+      {
+        "german": "unerwartet",
+        "english": "unexpected",
+        "match": "Unerwartetes"
+      },
+      {
+        "german": "in Rente gehen",
+        "english": "to retire",
+        "match": "in Rente"
+      },
+      {
+        "german": "die Versammlung",
+        "english": "meeting, assembly"
+      },
+      {
+        "german": "gründen",
+        "english": "to found, to set up",
+        "match": "gegründet"
+      },
+      {
+        "german": "der Anteil",
+        "english": "share",
+        "match": "Anteile"
+      },
+      {
+        "german": "der Treffpunkt",
+        "english": "meeting place"
+      },
+      {
+        "german": "ehemalig",
+        "english": "former",
+        "match": "ehemalige"
+      },
+      {
+        "german": "die Gemeinde",
+        "english": "municipality, local council"
+      },
+      {
+        "german": "entscheidend",
+        "english": "decisive, crucial"
+      },
+      {
+        "german": "zulassen",
+        "english": "to allow"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Wie viele Einwohner hatte Altenbrück vor zwanzig Jahren?",
+        "options": ["80", "100", "180", "260"],
+        "answer": 2
+      },
+      {
+        "type": "tf",
+        "prompt": "Vor zwanzig Jahren fuhr der Bus stündlich ins Dorf.",
+        "answer": false,
+        "explanation": "Der Bus fuhr nur noch zweimal am Tag."
+      },
+      {
+        "type": "mc",
+        "prompt": "Warum zogen die jungen Leute weg?",
+        "options": [
+          "Es gab weder Arbeit noch Freizeitangebote.",
+          "Die Mieten waren zu hoch.",
+          "Sie mussten studieren.",
+          "Es gab keine Schule mehr für ihre Kinder."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "mc",
+        "prompt": "Wer hatte die Idee für die Versammlung?",
+        "options": [
+          "Der Bürgermeister",
+          "Eine Lehrerin im Ruhestand",
+          "Ein junger Bauer",
+          "Der Pfarrer"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Zur Versammlung kamen fast hundert Menschen.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie wurde der Dorfladen finanziert?",
+        "options": [
+          "Durch einen Kredit der Bank",
+          "Durch Anteile, die Bewohner für 100 Euro kaufen konnten",
+          "Durch die Gemeinde",
+          "Durch eine große Firma"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": "Wo wurde der Laden eröffnet?",
+        "options": [
+          "Im alten Gasthaus",
+          "Im Schulhaus",
+          "In einem Gebäude neben der Kirche",
+          "Am Bahnhof"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "tf",
+        "prompt": "Das ehemalige Schulhaus wurde zu einem Kindergarten umgebaut.",
+        "answer": false,
+        "explanation": "Es wurde zu Wohnungen umgebaut."
+      },
+      {
+        "type": "mc",
+        "prompt": "Warum war schnelles Internet entscheidend?",
+        "options": [
+          "Junge Familien, die von zu Hause arbeiten, konnten aufs Land ziehen.",
+          "Die Kinder brauchten es für die Schule.",
+          "Der Laden konnte online verkaufen.",
+          "Touristen wollten es."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie viele Kinder leben heute im Dorf?",
+        "options": ["Etwa zehn", "Über zwanzig", "Über vierzig", "Über hundert"],
+        "answer": 2
+      },
+      {
+        "type": "tf",
+        "prompt": "Gisela Hartmann wurde damals von manchen Leuten ausgelacht.",
+        "answer": true
+      }
+    ]
+  },
+  {
+    "id": "b1-09",
+    "level": "B1",
+    "title": "Vorsicht beim Online-Banking",
+    "topic": "Banking and money",
+    "body": "Renate Schulz, 67, erledigt ihre Bankgeschäfte seit einigen Jahren online. Ihr Enkel hatte ihr gezeigt, wie man Überweisungen macht und den Kontostand prüft. Sie war froh, nicht mehr wegen jeder Kleinigkeit zur Filiale fahren zu müssen, die inzwischen ohnehin nur noch an drei Tagen pro Woche geöffnet ist.\n\nIm März bekam sie eine E-Mail, die aussah, als käme sie von ihrer Bank. Darin stand, dass ihr Konto aus Sicherheitsgründen gesperrt worden sei. Um es wieder freizuschalten, solle sie auf einen Link klicken und ihre Zugangsdaten eingeben. Das Logo und die Farben sahen echt aus, und die E-Mail klang dringend: Wenn sie nicht innerhalb von 24 Stunden reagiere, würde das Konto endgültig geschlossen.\n\nRenate wurde nervös und klickte auf den Link. Die Seite, die sich öffnete, sah genauso aus wie die Webseite ihrer Bank. Sie gab ihren Benutzernamen und ihr Passwort ein. Als dann aber nach einer Transaktionsnummer gefragt wurde, wurde sie misstrauisch. Sie erinnerte sich an einen Zeitungsartikel über sogenannte Phishing-Mails und brach den Vorgang ab.\n\nSofort rief sie die Hotline ihrer Bank an. Der Mitarbeiter bestätigte, dass die E-Mail gefälscht war. „Wir würden unsere Kunden niemals per E-Mail nach Passwörtern fragen“, erklärte er. Er ließ ihren Online-Zugang sperren, und Renate musste ein neues Passwort festlegen. Zum Glück war kein Geld abgebucht worden.\n\nDie Polizei rät, bei solchen Nachrichten immer skeptisch zu sein. Typische Merkmale sind Zeitdruck, Drohungen und Rechtschreibfehler, auch wenn die Betrüger heute oft sehr professionell arbeiten. Man sollte niemals Links in solchen E-Mails anklicken, sondern die Adresse der Bank selbst in den Browser eingeben. Im Zweifel hilft ein Anruf bei der Bank.\n\nRenate hat aus der Erfahrung gelernt. Inzwischen hat sie einen Vortrag im Seniorentreff organisiert, bei dem ein Polizist über Betrug im Internet informierte. „Es kann jedem passieren“, sagt sie. „Wichtig ist, dass man darüber spricht und sich nicht schämt.“",
+    "glossary": [
+      {
+        "german": "die Überweisung",
+        "english": "bank transfer",
+        "match": "Überweisungen"
+      },
+      {
+        "german": "der Kontostand",
+        "english": "account balance"
+      },
+      {
+        "german": "die Filiale",
+        "english": "branch (of a bank)"
+      },
+      {
+        "german": "ohnehin",
+        "english": "anyway"
+      },
+      {
+        "german": "sperren",
+        "english": "to block, to freeze",
+        "match": "gesperrt"
+      },
+      {
+        "german": "die Zugangsdaten",
+        "english": "login details"
+      },
+      {
+        "german": "dringend",
+        "english": "urgent"
+      },
+      {
+        "german": "endgültig",
+        "english": "permanently, for good"
+      },
+      {
+        "german": "misstrauisch",
+        "english": "suspicious"
+      },
+      {
+        "german": "abbrechen",
+        "english": "to cancel, to abort",
+        "match": "brach den Vorgang ab"
+      },
+      {
+        "german": "gefälscht",
+        "english": "fake, forged"
+      },
+      {
+        "german": "abbuchen",
+        "english": "to debit",
+        "match": "abgebucht"
+      },
+      {
+        "german": "das Merkmal",
+        "english": "feature, sign",
+        "match": "Merkmale"
+      },
+      {
+        "german": "die Drohung",
+        "english": "threat",
+        "match": "Drohungen"
+      },
+      {
+        "german": "der Betrüger",
+        "english": "fraudster, scammer",
+        "match": "Betrüger"
+      },
+      {
+        "german": "sich schämen",
+        "english": "to be ashamed",
+        "match": "schämt"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Wer hat Renate Online-Banking gezeigt?",
+        "options": ["Ihr Sohn", "Ihr Enkel", "Ein Bankmitarbeiter", "Ihre Nachbarin"],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Die Bankfiliale ist jeden Tag geöffnet.",
+        "answer": false,
+        "explanation": "Sie ist nur noch an drei Tagen pro Woche geöffnet."
+      },
+      {
+        "type": "mc",
+        "prompt": "Was stand in der gefälschten E-Mail?",
+        "options": [
+          "Renate hat Geld gewonnen.",
+          "Ihr Konto wurde aus Sicherheitsgründen gesperrt.",
+          "Die Bank schließt die Filiale.",
+          "Sie soll zur Bank kommen."
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie viel Zeit sollte Renate laut E-Mail haben?",
+        "options": ["Eine Stunde", "24 Stunden", "Drei Tage", "Eine Woche"],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Renate hat ihren Benutzernamen und ihr Passwort eingegeben.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Wann wurde Renate misstrauisch?",
+        "options": [
+          "Als sie die E-Mail öffnete",
+          "Als nach einer Transaktionsnummer gefragt wurde",
+          "Als ihr Enkel anrief",
+          "Als sie das Logo sah"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": "Was hat Renate danach sofort gemacht?",
+        "options": [
+          "Sie ist zur Polizei gegangen.",
+          "Sie hat die Hotline der Bank angerufen.",
+          "Sie hat die E-Mail gelöscht und nichts gemacht.",
+          "Sie hat ihren Enkel angerufen."
+        ],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Die Betrüger haben Geld von Renates Konto abgebucht.",
+        "answer": false,
+        "explanation": "Zum Glück war kein Geld abgebucht worden."
+      },
+      {
+        "type": "mc",
+        "prompt": "Was ist laut Polizei KEIN typisches Merkmal von Phishing-Mails?",
+        "options": [
+          "Zeitdruck",
+          "Drohungen",
+          "Rechtschreibfehler",
+          "Eine persönliche Einladung in die Filiale"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "mc",
+        "prompt": "Was soll man statt auf einen Link zu klicken tun?",
+        "options": [
+          "Die Adresse der Bank selbst in den Browser eingeben",
+          "Die E-Mail weiterleiten",
+          "Auf die E-Mail antworten",
+          "Das Passwort per E-Mail schicken"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "tf",
+        "prompt": "Renate hat einen Vortrag über Betrug im Internet organisiert.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Was ist Renate am Ende besonders wichtig?",
+        "options": [
+          "Nie wieder Online-Banking zu nutzen",
+          "Offen darüber zu sprechen und sich nicht zu schämen",
+          "Die Bank zu wechseln",
+          "Nur noch bar zu bezahlen"
+        ],
+        "answer": 1
+      }
+    ]
+  },
+  {
+    "id": "b1-10",
+    "level": "B1",
+    "title": "Mit 45 noch einmal lernen",
+    "topic": "Education",
+    "body": "Andrea Keller hat zwanzig Jahre lang als Verkäuferin in einem Modegeschäft gearbeitet. Sie mochte den Kontakt mit den Kunden, aber die Arbeit wurde immer anstrengender: lange Öffnungszeiten, Arbeit an Samstagen und ein Gehalt, das kaum für die Familie reichte. Als das Geschäft vor zwei Jahren schließen musste, stand sie plötzlich ohne Job da.\n\n„Zuerst hatte ich Angst“, erzählt sie. „Ich dachte, mit 45 stellt mich niemand mehr ein.“ Bei der Agentur für Arbeit lernte sie jedoch eine Beraterin kennen, die ihr Mut machte. Sie fragte Andrea, was ihr in ihrem Leben am meisten Freude gemacht habe. Andrea musste nicht lange überlegen: Sie hatte ihren Vater bis zu seinem Tod gepflegt und dabei gemerkt, wie gern sie Menschen hilft.\n\nDie Beraterin schlug ihr eine Umschulung zur Pflegefachfrau vor. Die Ausbildung dauert drei Jahre und besteht aus Unterricht an einer Pflegeschule und praktischen Einsätzen in Krankenhäusern und Pflegeheimen. Weil in der Pflege dringend Personal gesucht wird, werden die Kosten zum großen Teil vom Staat übernommen.\n\nDer Anfang war hart. Andrea hatte seit fast dreißig Jahren nicht mehr in einem Klassenzimmer gesessen. Anatomie, Medikamentenlehre und Hygiene – es gab unglaublich viel zu lernen. Ihre Mitschüler waren größtenteils zwanzig Jahre jünger als sie. „Am Anfang habe ich mich wie eine Oma gefühlt“, lacht sie. Doch schnell merkte sie, dass ihre Lebenserfahrung ein Vorteil war. Im Umgang mit Patienten war sie ruhiger und geduldiger als viele andere.\n\nAuch zu Hause musste sich einiges ändern. Ihr Mann übernahm einen größeren Teil der Hausarbeit, und die beiden Töchter, die schon Teenager sind, halfen beim Kochen. Abends lernte Andrea oft bis Mitternacht.\n\nJetzt ist sie im zweiten Ausbildungsjahr. Ihre Noten sind gut, und das Krankenhaus, in dem sie gerade ihren Praxiseinsatz macht, hat ihr bereits eine feste Stelle nach der Prüfung angeboten. „Hätte mir jemand vor drei Jahren gesagt, dass ich noch einmal die Schulbank drücke, hätte ich gelacht“, sagt sie. „Heute weiß ich: Es ist nie zu spät.“",
+    "glossary": [
+      {
+        "german": "das Gehalt",
+        "english": "salary"
+      },
+      {
+        "german": "reichen",
+        "english": "to be enough",
+        "match": "reichte"
+      },
+      {
+        "german": "einstellen",
+        "english": "to hire, to employ",
+        "match": "stellt mich niemand mehr ein"
+      },
+      {
+        "german": "die Agentur für Arbeit",
+        "english": "job centre (Federal Employment Agency)",
+        "match": "Agentur für Arbeit"
+      },
+      {
+        "german": "Mut machen",
+        "english": "to encourage",
+        "match": "Mut"
+      },
+      {
+        "german": "pflegen",
+        "english": "to care for, to nurse",
+        "match": "gepflegt"
+      },
+      {
+        "german": "die Umschulung",
+        "english": "retraining"
+      },
+      {
+        "german": "die Pflegefachfrau",
+        "english": "(qualified) nurse"
+      },
+      {
+        "german": "der Einsatz",
+        "english": "placement, assignment",
+        "match": "Einsätzen"
+      },
+      {
+        "german": "übernehmen",
+        "english": "to cover, to take on",
+        "match": "übernommen"
+      },
+      {
+        "german": "größtenteils",
+        "english": "mostly, for the most part"
+      },
+      {
+        "german": "der Umgang mit",
+        "english": "dealing with",
+        "match": "Umgang"
+      },
+      {
+        "german": "die Schulbank drücken",
+        "english": "to go back to school (idiom)",
+        "match": "die Schulbank drücke"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Was war Andrea früher von Beruf?",
+        "options": ["Krankenschwester", "Verkäuferin", "Lehrerin", "Friseurin"],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Andrea hat ihren Job gekündigt, weil ihr die Arbeit keinen Spaß machte.",
+        "answer": false,
+        "explanation": "Das Geschäft musste schließen."
+      },
+      {
+        "type": "mc",
+        "prompt": "Wovor hatte Andrea zuerst Angst?",
+        "options": [
+          "Vor der Prüfung",
+          "Dass niemand sie mit 45 einstellt",
+          "Vor Krankenhäusern",
+          "Vor ihren Mitschülern"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie hat Andrea gemerkt, dass sie gern Menschen hilft?",
+        "options": [
+          "Durch die Arbeit im Geschäft",
+          "Sie hat ihren Vater gepflegt.",
+          "Durch ein Praktikum",
+          "Durch ihre Töchter"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie lange dauert die Ausbildung zur Pflegefachfrau?",
+        "options": ["Ein Jahr", "Zwei Jahre", "Drei Jahre", "Vier Jahre"],
+        "answer": 2
+      },
+      {
+        "type": "tf",
+        "prompt": "Andrea muss die Ausbildung komplett selbst bezahlen.",
+        "answer": false,
+        "explanation": "Die Kosten werden zum großen Teil vom Staat übernommen."
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie alt waren die meisten Mitschüler?",
+        "options": [
+          "Genauso alt wie Andrea",
+          "Etwa zehn Jahre jünger",
+          "Etwa zwanzig Jahre jünger",
+          "Älter als Andrea"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "mc",
+        "prompt": "Welcher Vorteil half Andrea bei den Patienten?",
+        "options": [
+          "Ihre Lebenserfahrung",
+          "Ihre guten Noten",
+          "Ihre Sprachkenntnisse",
+          "Ihr Wissen über Mode"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "tf",
+        "prompt": "Andreas Mann übernahm mehr Hausarbeit.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "In welchem Ausbildungsjahr ist Andrea jetzt?",
+        "options": ["Im ersten", "Im zweiten", "Im dritten", "Sie ist schon fertig."],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Das Krankenhaus hat Andrea schon eine feste Stelle angeboten.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Was ist Andreas Fazit?",
+        "options": [
+          "Es ist nie zu spät.",
+          "Lernen ist nur etwas für junge Leute.",
+          "Die Ausbildung ist zu schwer.",
+          "Sie möchte zurück in den Verkauf."
+        ],
+        "answer": 0
+      }
+    ]
+  }
+]

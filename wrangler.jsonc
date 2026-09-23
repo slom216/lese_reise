@@ -1,0 +1,11 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "lese-reise",
+  "compatibility_date": "2026-08-15",
+  "assets": {
+    "directory": "./dist",
+    // SPA fallback: unknown paths serve index.html so deep links work.
+    "not_found_handling": "single-page-application",
+  },
+  "observability": { "enabled": true },
+}

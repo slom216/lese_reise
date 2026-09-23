@@ -1,0 +1,1344 @@
+[
+  {
+    "id": "a2-01",
+    "level": "A2",
+    "title": "Umzug nach Leipzig",
+    "topic": "Housing",
+    "body": "Letzten Monat ist Katrin von Stuttgart nach Leipzig umgezogen. Sie hat dort eine neue Stelle bei einer Bank gefunden. Der Umzug war anstrengend, aber am Ende hat alles geklappt.\n\nZuerst hat Katrin im Internet nach einer Wohnung gesucht. Das war nicht leicht, weil viele Wohnungen zu teuer oder zu weit vom Zentrum entfernt waren. Nach drei Wochen hat sie endlich eine passende Wohnung gefunden: zwei Zimmer mit Balkon, in einem ruhigen Stadtteil. Der Vermieter war sehr freundlich und hat ihr sofort den Vertrag gegeben.\n\nFür den Umzug hat Katrin einen kleinen Lastwagen gemietet. Ihr Bruder und zwei Freunde haben ihr geholfen. Sie haben den ganzen Samstag Kisten und Möbel getragen. Am Abend waren alle müde, aber Katrin hat für alle Pizza bestellt.\n\nIn der ersten Woche hat Katrin viel zu tun gehabt. Sie hat sich beim Bürgeramt angemeldet und ein neues Konto eröffnet. Außerdem hat sie Lampen und Vorhänge gekauft.\n\nJetzt fühlt sie sich schon wie zu Hause. Sie mag Leipzig, weil die Stadt jung und lebendig ist. Nur ihre Familie vermisst sie manchmal.",
+    "glossary": [
+      {
+        "german": "umziehen",
+        "english": "to move (house)",
+        "match": "umgezogen"
+      },
+      {
+        "german": "die Stelle",
+        "english": "job, position"
+      },
+      {
+        "german": "anstrengend",
+        "english": "exhausting, tiring"
+      },
+      {
+        "german": "klappen",
+        "english": "to work out",
+        "match": "geklappt"
+      },
+      {
+        "german": "passend",
+        "english": "suitable",
+        "match": "passende"
+      },
+      {
+        "german": "der Stadtteil",
+        "english": "district, neighbourhood"
+      },
+      {
+        "german": "der Vermieter",
+        "english": "landlord"
+      },
+      {
+        "german": "der Vertrag",
+        "english": "contract"
+      },
+      {
+        "german": "der Lastwagen",
+        "english": "lorry, truck"
+      },
+      {
+        "german": "mieten",
+        "english": "to rent, to hire",
+        "match": "gemietet"
+      },
+      {
+        "german": "die Kiste",
+        "english": "box, crate",
+        "match": "Kisten"
+      },
+      {
+        "german": "sich anmelden",
+        "english": "to register (one's address)",
+        "match": "angemeldet"
+      },
+      {
+        "german": "vermissen",
+        "english": "to miss (someone)",
+        "match": "vermisst"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Warum ist Katrin nach Leipzig gezogen?",
+        "options": [
+          "Sie hat dort studiert.",
+          "Sie hat dort eine neue Stelle gefunden.",
+          "Ihre Familie wohnt dort.",
+          "Die Wohnungen sind dort billig."
+        ],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Katrin hat sehr schnell eine Wohnung gefunden.",
+        "answer": false,
+        "explanation": "Sie hat drei Wochen gesucht."
+      },
+      {
+        "type": "mc",
+        "prompt": "Warum war die Suche schwer?",
+        "options": [
+          "Viele Wohnungen waren zu teuer oder zu weit weg.",
+          "Es gab keine Wohnungen im Internet.",
+          "Katrin hatte keine Zeit.",
+          "Die Vermieter waren unfreundlich."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "mc",
+        "prompt": "Was hat die neue Wohnung?",
+        "options": [
+          "Drei Zimmer und einen Garten",
+          "Zwei Zimmer und einen Balkon",
+          "Ein Zimmer und eine große Küche",
+          "Zwei Zimmer und eine Garage"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Katrin hat einen Lastwagen gemietet.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Wer hat beim Umzug geholfen?",
+        "options": [
+          "Ihre Eltern",
+          "Ihre Kollegen",
+          "Ihr Bruder und zwei Freunde",
+          "Der Vermieter"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "tf",
+        "prompt": "Am Abend hat Katrin für alle gekocht.",
+        "answer": false,
+        "explanation": "Sie hat Pizza bestellt."
+      },
+      {
+        "type": "mc",
+        "prompt": "Was hat Katrin in der ersten Woche NICHT gemacht?",
+        "options": [
+          "Sie hat sich angemeldet.",
+          "Sie hat ein Konto eröffnet.",
+          "Sie hat Lampen gekauft.",
+          "Sie hat ein Auto gekauft."
+        ],
+        "answer": 3
+      },
+      {
+        "type": "tf",
+        "prompt": "Katrin gefällt Leipzig, weil die Stadt jung und lebendig ist.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Was vermisst Katrin manchmal?",
+        "options": ["Ihre alte Wohnung", "Ihre Familie", "Ihre alte Arbeit", "Stuttgart"],
+        "answer": 1
+      }
+    ]
+  },
+  {
+    "id": "a2-02",
+    "level": "A2",
+    "title": "Der erste Arbeitstag",
+    "topic": "Work",
+    "body": "Mehmet ist 19 Jahre alt und hat gestern seine Ausbildung als Mechatroniker begonnen. Er hat lange auf diesen Tag gewartet.\n\nAm Morgen ist er sehr früh aufgestanden, weil er nicht zu spät kommen wollte. Er war schon um sieben Uhr in der Firma, eine halbe Stunde zu früh. Sein Chef, Herr Hoffmann, hat ihn freundlich begrüßt und ihm die Werkstatt gezeigt. Dann hat Mehmet seine Arbeitskleidung bekommen: eine blaue Hose, eine Jacke und feste Schuhe.\n\nIm Team arbeiten sechs Kollegen. Sie waren alle nett und haben ihm viel erklärt. Besonders Frau Yilmaz hat ihm geholfen. Sie arbeitet schon seit zwanzig Jahren in der Firma und kennt jede Maschine.\n\nAm Vormittag hat Mehmet zugeschaut und viele Fragen gestellt. In der Mittagspause haben alle zusammen in der Kantine gegessen. Am Nachmittag durfte er schon selbst ein kleines Teil reparieren. Das hat ihm großen Spaß gemacht.\n\nUm vier Uhr war der Arbeitstag zu Ende. Mehmet war müde, aber sehr zufrieden. Am Abend hat er seiner Mutter alles erzählt. Sie war stolz auf ihn.",
+    "glossary": [
+      {
+        "german": "die Ausbildung",
+        "english": "vocational training, apprenticeship"
+      },
+      {
+        "german": "der Mechatroniker",
+        "english": "mechatronics technician"
+      },
+      {
+        "german": "begrüßen",
+        "english": "to greet",
+        "match": "begrüßt"
+      },
+      {
+        "german": "die Werkstatt",
+        "english": "workshop"
+      },
+      {
+        "german": "die Arbeitskleidung",
+        "english": "work clothes"
+      },
+      {
+        "german": "fest",
+        "english": "sturdy, solid",
+        "match": "feste"
+      },
+      {
+        "german": "zuschauen",
+        "english": "to watch, to look on",
+        "match": "zugeschaut"
+      },
+      {
+        "german": "die Kantine",
+        "english": "canteen"
+      },
+      {
+        "german": "das Teil",
+        "english": "part (component)"
+      },
+      {
+        "german": "zufrieden",
+        "english": "satisfied, content"
+      },
+      {
+        "german": "stolz auf",
+        "english": "proud of"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Was hat Mehmet gestern begonnen?",
+        "options": [
+          "Ein Studium",
+          "Eine Ausbildung",
+          "Einen Deutschkurs",
+          "Ein Praktikum im Büro"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Mehmet ist zu spät gekommen.",
+        "answer": false,
+        "explanation": "Er war eine halbe Stunde zu früh."
+      },
+      {
+        "type": "mc",
+        "prompt": "Wer hat Mehmet die Werkstatt gezeigt?",
+        "options": ["Frau Yilmaz", "Seine Mutter", "Herr Hoffmann", "Ein Kunde"],
+        "answer": 2
+      },
+      {
+        "type": "mc",
+        "prompt": "Welche Farbe hat die Arbeitshose?",
+        "options": ["Schwarz", "Grau", "Blau", "Grün"],
+        "answer": 2
+      },
+      {
+        "type": "tf",
+        "prompt": "Im Team arbeiten sechs Kollegen.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie lange arbeitet Frau Yilmaz schon in der Firma?",
+        "options": ["Zwei Jahre", "Zehn Jahre", "Zwölf Jahre", "Zwanzig Jahre"],
+        "answer": 3
+      },
+      {
+        "type": "tf",
+        "prompt": "In der Mittagspause hat Mehmet allein gegessen.",
+        "answer": false,
+        "explanation": "Alle haben zusammen in der Kantine gegessen."
+      },
+      {
+        "type": "mc",
+        "prompt": "Was durfte Mehmet am Nachmittag machen?",
+        "options": [
+          "Nach Hause gehen",
+          "Ein kleines Teil reparieren",
+          "Mit Kunden telefonieren",
+          "Die Werkstatt putzen"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Mehmets Mutter war stolz auf ihn.",
+        "answer": true
+      }
+    ]
+  },
+  {
+    "id": "a2-03",
+    "level": "A2",
+    "title": "Ein Geburtstag im Park",
+    "topic": "Celebrations",
+    "body": "Am letzten Samstag ist Nina dreißig geworden. Sie wollte keine große Party in einer Bar machen, weil das zu teuer ist. Deshalb hat sie ihre Freunde zu einem Picknick im Park eingeladen.\n\nEine Woche vorher hat sie allen eine Nachricht geschrieben: „Kommt am Samstag um drei Uhr in den Stadtpark, zur großen Wiese am See. Bitte bringt etwas zu essen mit!“ Fast alle haben sofort geantwortet und zugesagt.\n\nAm Samstag hatten sie großes Glück mit dem Wetter. Es war warm und sonnig. Nina hat Decken, Getränke und einen Kuchen mitgebracht. Ihre Freunde sind mit Salaten, Obst und Brot gekommen. Jan hat sogar seine Gitarre mitgenommen.\n\nZuerst haben alle gegessen und sich unterhalten. Dann haben sie Nina die Geschenke gegeben. Sie hat ein Buch, Blumen und einen Gutschein für einen Kochkurs bekommen. Über den Gutschein hat sie sich besonders gefreut, weil sie gern kocht.\n\nSpäter haben einige Freunde Volleyball gespielt. Jan hat Gitarre gespielt und alle haben zusammen gesungen. Um neun Uhr ist es dunkel geworden. Nina hat gesagt, dass es ihr schönster Geburtstag war.",
+    "glossary": [
+      {
+        "german": "deshalb",
+        "english": "therefore, that's why"
+      },
+      {
+        "german": "einladen",
+        "english": "to invite",
+        "match": "eingeladen"
+      },
+      {
+        "german": "die Nachricht",
+        "english": "message"
+      },
+      {
+        "german": "die Wiese",
+        "english": "meadow, lawn"
+      },
+      {
+        "german": "zusagen",
+        "english": "to accept (an invitation)",
+        "match": "zugesagt"
+      },
+      {
+        "german": "Glück haben",
+        "english": "to be lucky",
+        "match": "Glück"
+      },
+      {
+        "german": "die Decke",
+        "english": "blanket",
+        "match": "Decken"
+      },
+      {
+        "german": "sich unterhalten",
+        "english": "to chat, to talk",
+        "match": "unterhalten"
+      },
+      {
+        "german": "der Gutschein",
+        "english": "voucher, gift card"
+      },
+      {
+        "german": "sich freuen über",
+        "english": "to be happy about",
+        "match": "gefreut"
+      },
+      {
+        "german": "dunkel",
+        "english": "dark"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Wie alt ist Nina geworden?",
+        "options": ["Zwanzig", "Fünfundzwanzig", "Dreißig", "Vierzig"],
+        "answer": 2
+      },
+      {
+        "type": "mc",
+        "prompt": "Warum wollte Nina keine Party in einer Bar?",
+        "options": [
+          "Sie mag keine Bars.",
+          "Das ist zu teuer.",
+          "Die Bar war geschlossen.",
+          "Ihre Freunde wollten nicht."
+        ],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Nina hat ihre Freunde per Nachricht eingeladen.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Wo haben sich die Freunde getroffen?",
+        "options": [
+          "Im Café am See",
+          "Auf der Wiese am See",
+          "Vor Ninas Wohnung",
+          "Auf dem Spielplatz"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Am Samstag hat es geregnet.",
+        "answer": false,
+        "explanation": "Es war warm und sonnig."
+      },
+      {
+        "type": "mc",
+        "prompt": "Was hat Jan mitgenommen?",
+        "options": ["Einen Ball", "Einen Kuchen", "Seine Gitarre", "Blumen"],
+        "answer": 2
+      },
+      {
+        "type": "mc",
+        "prompt": "Über welches Geschenk hat sich Nina besonders gefreut?",
+        "options": [
+          "Über das Buch",
+          "Über die Blumen",
+          "Über den Gutschein für einen Kochkurs",
+          "Über die Gitarre"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "tf",
+        "prompt": "Einige Freunde haben Fußball gespielt.",
+        "answer": false,
+        "explanation": "Sie haben Volleyball gespielt."
+      },
+      {
+        "type": "tf",
+        "prompt": "Nina fand den Geburtstag sehr schön.",
+        "answer": true,
+        "explanation": "Sie hat gesagt, dass es ihr schönster Geburtstag war."
+      }
+    ]
+  },
+  {
+    "id": "a2-04",
+    "level": "A2",
+    "title": "Eine Jacke für den Winter",
+    "topic": "Clothing",
+    "body": "Im November ist es in Hamburg kalt und nass geworden. Fatima hat gemerkt, dass ihre alte Jacke nicht mehr warm genug ist. Deshalb ist sie am Samstag mit ihrer Schwester Leyla in die Stadt gefahren.\n\nIm ersten Geschäft haben ihr die Jacken nicht gefallen. Sie waren zu dünn oder die Farben waren zu hell. Im zweiten Geschäft hat Fatima eine dunkelgrüne Winterjacke gesehen. Sie hat die Verkäuferin gefragt: „Haben Sie diese Jacke auch in Größe 38?“ Die Verkäuferin hat eine gebracht und Fatima hat sie in der Umkleidekabine anprobiert.\n\nDie Jacke hat gut gepasst, aber die Ärmel waren ein bisschen zu lang. Leyla hat gesagt: „Die Farbe steht dir super!“ Leider hat die Jacke 189 Euro gekostet. Das war Fatima zu teuer.\n\nDann hat die Verkäuferin gesagt, dass es nächste Woche einen Sonderverkauf gibt. Dann kostet die Jacke dreißig Prozent weniger. Fatima hat sich entschieden, eine Woche zu warten.\n\nAm nächsten Samstag ist sie wieder in das Geschäft gegangen. Die Jacke war noch da und hat jetzt nur 132 Euro gekostet. Fatima hat sie sofort gekauft. Die Ärmel hat ihre Oma später kürzer gemacht.",
+    "glossary": [
+      {
+        "german": "nass",
+        "english": "wet"
+      },
+      {
+        "german": "merken",
+        "english": "to notice",
+        "match": "gemerkt"
+      },
+      {
+        "german": "dünn",
+        "english": "thin"
+      },
+      {
+        "german": "die Größe",
+        "english": "size"
+      },
+      {
+        "german": "die Umkleidekabine",
+        "english": "changing room"
+      },
+      {
+        "german": "anprobieren",
+        "english": "to try on (clothes)",
+        "match": "anprobiert"
+      },
+      {
+        "german": "passen",
+        "english": "to fit",
+        "match": "gepasst"
+      },
+      {
+        "german": "der Ärmel",
+        "english": "sleeve",
+        "match": "Ärmel"
+      },
+      {
+        "german": "Die Farbe steht dir.",
+        "english": "The colour suits you.",
+        "match": "steht dir"
+      },
+      {
+        "german": "der Sonderverkauf",
+        "english": "sale"
+      },
+      {
+        "german": "sich entscheiden",
+        "english": "to decide",
+        "match": "entschieden"
+      },
+      {
+        "german": "kürzer",
+        "english": "shorter"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Warum braucht Fatima eine neue Jacke?",
+        "options": [
+          "Ihre alte Jacke ist kaputt.",
+          "Ihre alte Jacke ist nicht warm genug.",
+          "Sie hat ihre Jacke verloren.",
+          "Sie möchte eine modische Jacke."
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": "Mit wem ist Fatima in die Stadt gefahren?",
+        "options": [
+          "Mit ihrer Oma",
+          "Mit ihrer Mutter",
+          "Mit ihrer Schwester",
+          "Mit einer Freundin"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "tf",
+        "prompt": "Im ersten Geschäft hat Fatima eine Jacke gekauft.",
+        "answer": false,
+        "explanation": "Die Jacken haben ihr dort nicht gefallen."
+      },
+      {
+        "type": "mc",
+        "prompt": "Welche Farbe hat die Jacke?",
+        "options": ["Dunkelblau", "Schwarz", "Dunkelgrün", "Hellgrau"],
+        "answer": 2
+      },
+      {
+        "type": "mc",
+        "prompt": "Welche Größe braucht Fatima?",
+        "options": ["34", "36", "38", "40"],
+        "answer": 2
+      },
+      {
+        "type": "tf",
+        "prompt": "Die Ärmel waren zu kurz.",
+        "answer": false,
+        "explanation": "Sie waren ein bisschen zu lang."
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie viel hat die Jacke zuerst gekostet?",
+        "options": ["132 Euro", "150 Euro", "189 Euro", "198 Euro"],
+        "answer": 2
+      },
+      {
+        "type": "tf",
+        "prompt": "Beim Sonderverkauf kostet die Jacke dreißig Prozent weniger.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Wer hat die Ärmel kürzer gemacht?",
+        "options": ["Die Verkäuferin", "Leyla", "Fatima", "Ihre Oma"],
+        "answer": 3
+      }
+    ]
+  },
+  {
+    "id": "a2-05",
+    "level": "A2",
+    "title": "Im Sportverein",
+    "topic": "Sport",
+    "body": "Lukas arbeitet im Büro und sitzt den ganzen Tag am Computer. Im Frühling hatte er oft Rückenschmerzen. Sein Arzt hat ihm gesagt, dass er mehr Sport machen soll.\n\nLukas hat lange überlegt, welche Sportart zu ihm passt. Joggen findet er langweilig und ein Fitnessstudio ist ihm zu teuer. Dann hat ihm ein Kollege von seinem Volleyballverein erzählt. Die Mannschaft trainiert zweimal pro Woche, am Dienstag und am Donnerstag von sieben bis neun Uhr abends. Der Beitrag kostet nur 15 Euro im Monat.\n\nLukas ist zu einem Probetraining gegangen. Am Anfang war er nervös, weil er seit der Schule nicht mehr Volleyball gespielt hat. Aber die anderen Spieler waren sehr freundlich. Der Trainer hat ihm gezeigt, wie man den Ball richtig schlägt.\n\nNach dem Training hat Lukas Muskelkater bekommen, aber er hatte trotzdem viel Spaß. Er ist sofort Mitglied geworden. Jetzt geht er seit drei Monaten regelmäßig zum Training. Sein Rücken tut nicht mehr weh und er schläft besser.\n\nNach dem Training gehen die Spieler oft noch zusammen etwas trinken. So hat Lukas auch neue Freunde gefunden. Im Mai spielt die Mannschaft bei einem Turnier. Lukas freut sich schon darauf.",
+    "glossary": [
+      {
+        "german": "die Rückenschmerzen",
+        "english": "back pain"
+      },
+      {
+        "german": "überlegen",
+        "english": "to think about, to consider",
+        "match": "überlegt"
+      },
+      {
+        "german": "die Sportart",
+        "english": "type of sport"
+      },
+      {
+        "german": "der Verein",
+        "english": "club",
+        "match": "Volleyballverein"
+      },
+      {
+        "german": "die Mannschaft",
+        "english": "team"
+      },
+      {
+        "german": "der Beitrag",
+        "english": "(membership) fee"
+      },
+      {
+        "german": "das Probetraining",
+        "english": "trial session"
+      },
+      {
+        "german": "schlagen",
+        "english": "to hit",
+        "match": "schlägt"
+      },
+      {
+        "german": "der Muskelkater",
+        "english": "sore muscles"
+      },
+      {
+        "german": "trotzdem",
+        "english": "nevertheless, still"
+      },
+      {
+        "german": "das Mitglied",
+        "english": "member"
+      },
+      {
+        "german": "regelmäßig",
+        "english": "regularly"
+      },
+      {
+        "german": "das Turnier",
+        "english": "tournament"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Warum hatte Lukas Rückenschmerzen?",
+        "options": [
+          "Er hat zu viel Sport gemacht.",
+          "Er sitzt den ganzen Tag am Computer.",
+          "Er hatte einen Unfall.",
+          "Er schläft schlecht."
+        ],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Lukas findet Joggen langweilig.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Wer hat Lukas von dem Verein erzählt?",
+        "options": ["Sein Arzt", "Ein Kollege", "Sein Bruder", "Der Trainer"],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": "Wann trainiert die Mannschaft?",
+        "options": [
+          "Montag und Mittwoch",
+          "Dienstag und Donnerstag",
+          "Freitag und Samstag",
+          "Nur am Sonntag"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie viel kostet der Verein im Monat?",
+        "options": ["5 Euro", "15 Euro", "50 Euro", "Nichts"],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Beim Probetraining war Lukas sehr ruhig und entspannt.",
+        "answer": false,
+        "explanation": "Er war nervös, weil er lange nicht gespielt hat."
+      },
+      {
+        "type": "tf",
+        "prompt": "Lukas ist nach dem Probetraining Mitglied geworden.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie geht es Lukas' Rücken jetzt?",
+        "options": [
+          "Er tut mehr weh.",
+          "Er tut nicht mehr weh.",
+          "Er tut nur am Morgen weh.",
+          "Das steht nicht im Text."
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": "Was passiert im Mai?",
+        "options": [
+          "Ein Turnier",
+          "Ein Fest im Verein",
+          "Ein neuer Trainer kommt",
+          "Lukas macht Urlaub"
+        ],
+        "answer": 0
+      }
+    ]
+  },
+  {
+    "id": "a2-06",
+    "level": "A2",
+    "title": "Erkältet im Winter",
+    "topic": "Health",
+    "body": "Letzte Woche ist Claudia krank geworden. Am Montagmorgen ist sie mit Halsschmerzen aufgewacht. Sie hat gedacht, dass es nicht so schlimm ist, und ist trotzdem zur Arbeit gegangen. Das war ein Fehler.\n\nAm Nachmittag hat sie auch Husten und Schnupfen bekommen. Sie hat sich schwach gefühlt und konnte sich nicht mehr gut konzentrieren. Ihre Chefin hat gesagt: „Claudia, Sie sehen sehr blass aus. Gehen Sie bitte nach Hause!“\n\nAm Dienstag hatte Claudia hohes Fieber, fast 39 Grad. Sie hat in der Arztpraxis angerufen und einen Termin bekommen. Der Arzt hat sie untersucht und gesagt, dass sie eine starke Erkältung hat. Er hat ihr Nasenspray und Hustensaft verschrieben. „Sie brauchen vor allem Ruhe“, hat er gesagt. „Bleiben Sie mindestens bis Freitag zu Hause.“\n\nClaudias Mann hat ihr jeden Tag Hühnersuppe gekocht und Tee mit Honig gemacht. Claudia hat viel geschlafen und ein paar Serien gesehen. Ihre Kollegin hat ihr Blumen und eine Karte geschickt.\n\nAm Wochenende ist es ihr schon viel besser gegangen. Am Montag konnte sie wieder arbeiten. Nächstes Mal bleibt sie sofort zu Hause, wenn sie krank ist. So steckt sie auch keine Kollegen an.",
+    "glossary": [
+      {
+        "german": "die Halsschmerzen",
+        "english": "sore throat"
+      },
+      {
+        "german": "aufwachen",
+        "english": "to wake up",
+        "match": "aufgewacht"
+      },
+      {
+        "german": "schlimm",
+        "english": "bad, serious"
+      },
+      {
+        "german": "der Husten",
+        "english": "cough"
+      },
+      {
+        "german": "der Schnupfen",
+        "english": "runny nose, head cold"
+      },
+      {
+        "german": "schwach",
+        "english": "weak"
+      },
+      {
+        "german": "blass",
+        "english": "pale"
+      },
+      {
+        "german": "die Erkältung",
+        "english": "cold (illness)"
+      },
+      {
+        "german": "verschreiben",
+        "english": "to prescribe",
+        "match": "verschrieben"
+      },
+      {
+        "german": "die Ruhe",
+        "english": "rest, quiet"
+      },
+      {
+        "german": "mindestens",
+        "english": "at least"
+      },
+      {
+        "german": "anstecken",
+        "english": "to infect",
+        "match": "steckt sie auch keine Kollegen an"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Womit ist Claudia am Montag aufgewacht?",
+        "options": [
+          "Mit Fieber",
+          "Mit Halsschmerzen",
+          "Mit Bauchschmerzen",
+          "Mit Kopfschmerzen"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Am Montag ist Claudia zu Hause geblieben.",
+        "answer": false,
+        "explanation": "Sie ist trotzdem zur Arbeit gegangen."
+      },
+      {
+        "type": "mc",
+        "prompt": "Was hat die Chefin gesagt?",
+        "options": [
+          "Claudia soll mehr arbeiten.",
+          "Claudia soll nach Hause gehen.",
+          "Claudia soll Tee trinken.",
+          "Claudia soll zum Krankenhaus fahren."
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie hoch war das Fieber am Dienstag?",
+        "options": ["Fast 37 Grad", "Fast 38 Grad", "Fast 39 Grad", "Über 40 Grad"],
+        "answer": 2
+      },
+      {
+        "type": "tf",
+        "prompt": "Der Arzt hat Claudia Tabletten gegen Fieber verschrieben.",
+        "answer": false,
+        "explanation": "Er hat Nasenspray und Hustensaft verschrieben."
+      },
+      {
+        "type": "mc",
+        "prompt": "Was braucht Claudia laut Arzt vor allem?",
+        "options": ["Sport", "Ruhe", "Frische Luft", "Vitamine"],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": "Was hat Claudias Mann jeden Tag gemacht?",
+        "options": [
+          "Er hat Hühnersuppe gekocht.",
+          "Er hat Medikamente gekauft.",
+          "Er hat die Chefin angerufen.",
+          "Er hat Blumen gebracht."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "tf",
+        "prompt": "Eine Kollegin hat Claudia Blumen und eine Karte geschickt.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Wann konnte Claudia wieder arbeiten?",
+        "options": ["Am Freitag", "Am Samstag", "Am Montag", "Nach zwei Wochen"],
+        "answer": 2
+      },
+      {
+        "type": "tf",
+        "prompt": "Nächstes Mal will Claudia sofort zu Hause bleiben, wenn sie krank ist.",
+        "answer": true
+      }
+    ]
+  },
+  {
+    "id": "a2-07",
+    "level": "A2",
+    "title": "Urlaub an der Ostsee",
+    "topic": "Travel and weather",
+    "body": "Im August haben Familie Koch und ihre zwei Kinder zwei Wochen Urlaub an der Ostsee gemacht. Sie sind mit dem Auto gefahren, weil sie viel Gepäck hatten. Die Fahrt von Kassel hat sieben Stunden gedauert, weil es auf der Autobahn einen langen Stau gab.\n\nDie Familie hat in einer Ferienwohnung gewohnt, nur fünf Minuten vom Strand entfernt. Die Wohnung hatte eine Terrasse mit Blick auf das Meer. Am Abend haben die Eltern dort oft gegrillt.\n\nIn der ersten Woche war das Wetter wunderbar. Die Sonne hat jeden Tag geschienen und es war bis zu 28 Grad warm. Die Kinder haben im Meer gebadet und Burgen aus Sand gebaut. Herr Koch hat sich einen Sonnenbrand geholt, weil er vergessen hat, sich einzucremen.\n\nIn der zweiten Woche hat sich das Wetter geändert. Es war windig und hat oft geregnet. Aber die Familie hatte trotzdem keine Langeweile. Sie haben ein Schiff genommen und eine Insel besucht. Außerdem waren sie in einem Meeresmuseum und haben Fahrradtouren an der Küste gemacht.\n\nAm Ende des Urlaubs waren alle erholt. Die Kinder wollen nächstes Jahr unbedingt wieder an die Ostsee fahren.",
+    "glossary": [
+      {
+        "german": "die Ostsee",
+        "english": "the Baltic Sea"
+      },
+      {
+        "german": "das Gepäck",
+        "english": "luggage"
+      },
+      {
+        "german": "der Stau",
+        "english": "traffic jam"
+      },
+      {
+        "german": "die Ferienwohnung",
+        "english": "holiday flat"
+      },
+      {
+        "german": "der Strand",
+        "english": "beach"
+      },
+      {
+        "german": "der Blick",
+        "english": "view"
+      },
+      {
+        "german": "baden",
+        "english": "to swim, to bathe",
+        "match": "gebadet"
+      },
+      {
+        "german": "der Sonnenbrand",
+        "english": "sunburn"
+      },
+      {
+        "german": "sich eincremen",
+        "english": "to put on (sun) cream",
+        "match": "einzucremen"
+      },
+      {
+        "german": "die Langeweile",
+        "english": "boredom"
+      },
+      {
+        "german": "die Insel",
+        "english": "island"
+      },
+      {
+        "german": "die Küste",
+        "english": "coast"
+      },
+      {
+        "german": "erholt",
+        "english": "rested, refreshed"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Wie lange war die Familie im Urlaub?",
+        "options": ["Eine Woche", "Zwei Wochen", "Drei Wochen", "Einen Monat"],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": "Warum hat die Fahrt sieben Stunden gedauert?",
+        "options": [
+          "Das Auto war kaputt.",
+          "Es gab einen langen Stau.",
+          "Sie haben viele Pausen gemacht.",
+          "Sie haben sich verfahren."
+        ],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Die Ferienwohnung war weit vom Strand entfernt.",
+        "answer": false,
+        "explanation": "Sie war nur fünf Minuten vom Strand entfernt."
+      },
+      {
+        "type": "tf",
+        "prompt": "Die Eltern haben am Abend oft auf der Terrasse gegrillt.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie war das Wetter in der ersten Woche?",
+        "options": ["Windig und kalt", "Regnerisch", "Sonnig und warm", "Neblig"],
+        "answer": 2
+      },
+      {
+        "type": "mc",
+        "prompt": "Warum hat Herr Koch einen Sonnenbrand bekommen?",
+        "options": [
+          "Er hat vergessen, sich einzucremen.",
+          "Er ist zu lange geschwommen.",
+          "Er hat auf der Terrasse geschlafen.",
+          "Die Sonnencreme war alt."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "tf",
+        "prompt": "In der zweiten Woche war es windig und hat oft geregnet.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Was hat die Familie bei schlechtem Wetter NICHT gemacht?",
+        "options": [
+          "Eine Insel besucht",
+          "Ein Museum besucht",
+          "Fahrradtouren gemacht",
+          "Im Meer gebadet"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "tf",
+        "prompt": "Die Kinder möchten nächstes Jahr in die Berge fahren.",
+        "answer": false,
+        "explanation": "Sie wollen wieder an die Ostsee fahren."
+      }
+    ]
+  },
+  {
+    "id": "a2-08",
+    "level": "A2",
+    "title": "Das Handy ist kaputt",
+    "topic": "Technology",
+    "body": "Am Dienstagmorgen ist Ben in der U-Bahn sein Handy aus der Hand gefallen. Der Bildschirm war danach kaputt und das Handy hat nicht mehr funktioniert. Ben war sehr unglücklich, weil er alles mit dem Handy macht: Nachrichten schreiben, Musik hören, Tickets kaufen und sogar bezahlen.\n\nIn der Mittagspause ist er in einen Handyladen gegangen. Der Mitarbeiter hat sich das Handy angesehen und gesagt: „Die Reparatur dauert eine Woche und kostet ungefähr 150 Euro.“ Ben hat gefragt, ob er ein Ersatzhandy bekommen kann. Aber das war leider nicht möglich.\n\nEine Woche ohne Handy! Am Anfang war das für Ben sehr schwer. Er wusste nicht, wie spät es war, weil er keine Uhr hat. Er konnte seine Freunde nicht anrufen und hat eine Verabredung verpasst. Er musste eine Papierkarte benutzen, um eine Adresse zu finden.\n\nAber nach ein paar Tagen hat Ben gemerkt, dass das Leben ohne Handy auch Vorteile hat. Er hat in der U-Bahn wieder Bücher gelesen und war abends viel entspannter. Er hat auch besser geschlafen.\n\nAls das Handy repariert war, hat Ben sich trotzdem gefreut. Aber er hat eine Regel gemacht: Ab neun Uhr abends bleibt das Handy jetzt aus.",
+    "glossary": [
+      {
+        "german": "der Bildschirm",
+        "english": "screen"
+      },
+      {
+        "german": "funktionieren",
+        "english": "to work, to function",
+        "match": "funktioniert"
+      },
+      {
+        "german": "der Mitarbeiter",
+        "english": "employee, member of staff"
+      },
+      {
+        "german": "die Reparatur",
+        "english": "repair"
+      },
+      {
+        "german": "das Ersatzhandy",
+        "english": "replacement phone"
+      },
+      {
+        "german": "möglich",
+        "english": "possible"
+      },
+      {
+        "german": "die Verabredung",
+        "english": "appointment, date (with a friend)"
+      },
+      {
+        "german": "verpassen",
+        "english": "to miss",
+        "match": "verpasst"
+      },
+      {
+        "german": "benutzen",
+        "english": "to use"
+      },
+      {
+        "german": "der Vorteil",
+        "english": "advantage",
+        "match": "Vorteile"
+      },
+      {
+        "german": "entspannt",
+        "english": "relaxed",
+        "match": "entspannter"
+      },
+      {
+        "german": "die Regel",
+        "english": "rule"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Wo ist Ben das Handy heruntergefallen?",
+        "options": ["Im Büro", "In der U-Bahn", "Zu Hause", "Im Handyladen"],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Nach dem Unfall hat das Handy noch funktioniert.",
+        "answer": false,
+        "explanation": "Das Handy hat nicht mehr funktioniert."
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie viel kostet die Reparatur ungefähr?",
+        "options": ["50 Euro", "100 Euro", "150 Euro", "250 Euro"],
+        "answer": 2
+      },
+      {
+        "type": "tf",
+        "prompt": "Ben hat ein Ersatzhandy bekommen.",
+        "answer": false,
+        "explanation": "Das war leider nicht möglich."
+      },
+      {
+        "type": "mc",
+        "prompt": "Warum wusste Ben nicht, wie spät es war?",
+        "options": [
+          "Er hat keine Uhr.",
+          "Seine Uhr war kaputt.",
+          "Er hat nicht gefragt.",
+          "Er hat verschlafen."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "tf",
+        "prompt": "Ben hat eine Verabredung verpasst.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Was hat Ben in der U-Bahn wieder gemacht?",
+        "options": ["Musik gehört", "Bücher gelesen", "Geschlafen", "Zeitung gelesen"],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": "Welchen Vorteil hatte die Woche ohne Handy?",
+        "options": [
+          "Ben hat Geld gespart.",
+          "Ben war entspannter und hat besser geschlafen.",
+          "Ben hat neue Freunde gefunden.",
+          "Ben hat mehr Sport gemacht."
+        ],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Jetzt bleibt Bens Handy ab neun Uhr abends aus.",
+        "answer": true
+      }
+    ]
+  },
+  {
+    "id": "a2-09",
+    "level": "A2",
+    "title": "Der Kochkurs",
+    "topic": "Food and cooking",
+    "body": "Seit drei Wochen besucht Olga einen Kochkurs an der Volkshochschule. Der Kurs findet jeden Mittwochabend statt und heißt „Die italienische Küche“. Olga hat den Kurs gebucht, weil sie bisher nur einfache Gerichte kochen konnte.\n\nIn der Gruppe sind zehn Teilnehmer. Die Kursleiterin heißt Giulia und kommt aus Neapel. Sie ist sehr geduldig und erklärt alles genau. Am Anfang des Abends zeigt sie immer, wie man ein Rezept kocht. Dann arbeiten die Teilnehmer zu zweit in der Küche.\n\nIn der ersten Stunde haben sie frische Nudeln selbst gemacht. Dafür braucht man nur Mehl, Eier und ein bisschen Salz. Aber es ist gar nicht so einfach! Olgas Teig war zuerst viel zu trocken. Giulia hat ihr geholfen und gesagt, dass sie etwas Wasser dazugeben soll.\n\nLetzte Woche haben sie eine Gemüsesuppe und einen Nachtisch gekocht. Der Nachtisch war Tiramisu. Olga war stolz, weil ihr Tiramisu am besten geschmeckt hat.\n\nAm Ende jeder Stunde essen alle zusammen an einem langen Tisch. Dabei unterhalten sie sich und trinken ein Glas Wein. Olga hat im Kurs schon zwei neue Freundinnen gefunden. Am Wochenende möchte sie für ihre Familie italienisch kochen.",
+    "glossary": [
+      {
+        "german": "die Volkshochschule",
+        "english": "adult education centre"
+      },
+      {
+        "german": "stattfinden",
+        "english": "to take place",
+        "match": "findet jeden Mittwochabend statt"
+      },
+      {
+        "german": "buchen",
+        "english": "to book",
+        "match": "gebucht"
+      },
+      {
+        "german": "bisher",
+        "english": "until now, so far"
+      },
+      {
+        "german": "das Gericht",
+        "english": "dish, meal",
+        "match": "Gerichte"
+      },
+      {
+        "german": "der Teilnehmer",
+        "english": "participant",
+        "match": "Teilnehmer"
+      },
+      {
+        "german": "die Kursleiterin",
+        "english": "course instructor (female)"
+      },
+      {
+        "german": "geduldig",
+        "english": "patient"
+      },
+      {
+        "german": "das Rezept",
+        "english": "recipe"
+      },
+      {
+        "german": "das Mehl",
+        "english": "flour"
+      },
+      {
+        "german": "der Teig",
+        "english": "dough"
+      },
+      {
+        "german": "trocken",
+        "english": "dry"
+      },
+      {
+        "german": "der Nachtisch",
+        "english": "dessert"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Wann findet der Kochkurs statt?",
+        "options": ["Montagabend", "Mittwochabend", "Freitagabend", "Samstagmorgen"],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": "Warum hat Olga den Kurs gebucht?",
+        "options": [
+          "Sie möchte Köchin werden.",
+          "Sie konnte bisher nur einfache Gerichte kochen.",
+          "Ihre Freundin hat ihn empfohlen.",
+          "Sie fährt bald nach Italien."
+        ],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Im Kurs sind zwanzig Teilnehmer.",
+        "answer": false,
+        "explanation": "Es sind zehn Teilnehmer."
+      },
+      {
+        "type": "mc",
+        "prompt": "Woher kommt Giulia?",
+        "options": ["Aus Rom", "Aus Mailand", "Aus Neapel", "Aus Venedig"],
+        "answer": 2
+      },
+      {
+        "type": "tf",
+        "prompt": "Die Teilnehmer arbeiten zu zweit in der Küche.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Was braucht man für frische Nudeln?",
+        "options": [
+          "Mehl, Eier und Salz",
+          "Mehl, Milch und Zucker",
+          "Reis und Wasser",
+          "Kartoffeln und Eier"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "tf",
+        "prompt": "Olgas Teig war zuerst zu nass.",
+        "answer": false,
+        "explanation": "Er war viel zu trocken."
+      },
+      {
+        "type": "mc",
+        "prompt": "Was haben sie letzte Woche als Nachtisch gemacht?",
+        "options": ["Eis", "Kuchen", "Tiramisu", "Obstsalat"],
+        "answer": 2
+      },
+      {
+        "type": "tf",
+        "prompt": "Am Ende jeder Stunde essen alle zusammen.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Was möchte Olga am Wochenende machen?",
+        "options": [
+          "Nach Neapel fahren",
+          "Für ihre Familie italienisch kochen",
+          "Einen zweiten Kurs buchen",
+          "Ins Restaurant gehen"
+        ],
+        "answer": 1
+      }
+    ]
+  },
+  {
+    "id": "a2-10",
+    "level": "A2",
+    "title": "Ein Brief an Oma",
+    "topic": "Communication",
+    "body": "Liebe Oma,\n\nvielen Dank für dein Paket! Es ist am Donnerstag angekommen. Die Kekse waren super lecker, aber leider sind sie schon alle weg. Meine Mitbewohnerin hat mir beim Essen geholfen.\n\nHier in Freiburg geht es mir gut. Das Semester hat vor einem Monat angefangen und ich habe schon viel gelernt. Am liebsten mag ich die Biologie-Seminare. Die Professorin ist streng, aber ihre Themen sind spannend. Nur Chemie finde ich schwer. Nächste Woche schreibe ich meine erste Prüfung. Ich bin ziemlich nervös!\n\nNeben dem Studium arbeite ich zwei Abende pro Woche in einer Buchhandlung. So verdiene ich ein bisschen Geld für die Miete. Die Arbeit macht mir Spaß, weil ich Bücher liebe und die Kollegen sehr nett sind.\n\nLetztes Wochenende habe ich mit Freunden eine Wanderung im Schwarzwald gemacht. Wir sind sechs Stunden gelaufen und haben unterwegs in einer Hütte Kuchen gegessen. Die Landschaft ist wunderschön. Ich schicke dir ein Foto mit.\n\nWie geht es dir? Ist dein Knie wieder besser? Ich hoffe, du gehst regelmäßig zur Physiotherapie. In den Weihnachtsferien komme ich nach Hause. Dann backen wir zusammen Plätzchen, ja?\n\nViele liebe Grüße und eine feste Umarmung,\ndeine Hannah",
+    "glossary": [
+      {
+        "german": "ankommen",
+        "english": "to arrive",
+        "match": "angekommen"
+      },
+      {
+        "german": "die Mitbewohnerin",
+        "english": "flatmate (female)"
+      },
+      {
+        "german": "das Semester",
+        "english": "(university) term"
+      },
+      {
+        "german": "streng",
+        "english": "strict"
+      },
+      {
+        "german": "spannend",
+        "english": "exciting, fascinating"
+      },
+      {
+        "german": "die Prüfung",
+        "english": "exam"
+      },
+      {
+        "german": "ziemlich",
+        "english": "quite, rather"
+      },
+      {
+        "german": "die Buchhandlung",
+        "english": "bookshop"
+      },
+      {
+        "german": "verdienen",
+        "english": "to earn",
+        "match": "verdiene"
+      },
+      {
+        "german": "die Wanderung",
+        "english": "hike"
+      },
+      {
+        "german": "unterwegs",
+        "english": "on the way"
+      },
+      {
+        "german": "die Landschaft",
+        "english": "landscape, scenery"
+      },
+      {
+        "german": "die Plätzchen",
+        "english": "(Christmas) biscuits, cookies"
+      },
+      {
+        "german": "die Umarmung",
+        "english": "hug"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Wofür bedankt sich Hannah?",
+        "options": ["Für einen Brief", "Für ein Paket", "Für Geld", "Für einen Anruf"],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Hannah hat alle Kekse allein gegessen.",
+        "answer": false,
+        "explanation": "Ihre Mitbewohnerin hat ihr geholfen."
+      },
+      {
+        "type": "mc",
+        "prompt": "Wo studiert Hannah?",
+        "options": ["In Freiburg", "In Hamburg", "Im Schwarzwald", "In Berlin"],
+        "answer": 0
+      },
+      {
+        "type": "mc",
+        "prompt": "Welches Fach findet Hannah schwer?",
+        "options": ["Biologie", "Mathematik", "Chemie", "Physik"],
+        "answer": 2
+      },
+      {
+        "type": "tf",
+        "prompt": "Hannah schreibt nächste Woche ihre erste Prüfung.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Wo arbeitet Hannah?",
+        "options": [
+          "In einem Café",
+          "In einer Buchhandlung",
+          "In der Universität",
+          "In einer Bäckerei"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": "Warum arbeitet Hannah?",
+        "options": [
+          "Sie braucht Geld für die Miete.",
+          "Sie möchte ein Auto kaufen.",
+          "Ihre Oma möchte das.",
+          "Sie hat zu viel Freizeit."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "tf",
+        "prompt": "Die Wanderung im Schwarzwald hat sechs Stunden gedauert.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Welches Problem hat die Oma?",
+        "options": [
+          "Sie hat Rückenschmerzen.",
+          "Ihr Knie tut weh.",
+          "Sie ist erkältet.",
+          "Sie kann nicht gut sehen."
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": "Was wollen Hannah und Oma in den Weihnachtsferien machen?",
+        "options": ["Wandern", "Plätzchen backen", "Verreisen", "Einkaufen gehen"],
+        "answer": 1
+      }
+    ]
+  }
+]
