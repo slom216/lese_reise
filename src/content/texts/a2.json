@@ -1340,5 +1340,5792 @@
         "answer": 1
       }
     ]
+  },
+  {
+    "id": "a2-11",
+    "level": "A2",
+    "title": "Beim Autohändler",
+    "topic": "Shopping and cars",
+    "body": "Tobias wohnt in Kassel und braucht ein Auto, weil er ab nächsten Monat in einer Firma auf dem Land arbeitet. Mit dem Bus würde er über eine Stunde fahren. Ein neues Auto ist aber zu teuer für ihn, deshalb ist er am Samstag zu einem Autohändler gegangen.\n\nDer Verkäufer, Herr Brandt, hat ihm drei Gebrauchtwagen gezeigt. Tobias hat sich für einen kleinen blauen Kombi interessiert. Das Auto war sechs Jahre alt und hatte 80.000 Kilometer. „Kann ich eine Probefahrt machen?“, hat Tobias gefragt. „Natürlich“, hat Herr Brandt geantwortet. „Ich brauche nur kurz Ihren Führerschein.“\n\nDie Probefahrt hat zwanzig Minuten gedauert. Der Motor war leise und die Bremsen waren gut. Nur das Radio hat nicht funktioniert.\n\nDanach haben sie über den Preis gesprochen. Das Auto sollte 9.500 Euro kosten. „Das ist mir ein bisschen zu viel“, hat Tobias gesagt. „Und das Radio ist kaputt.“ Herr Brandt hat kurz nachgedacht. „Gut, 9.000 Euro, und wir reparieren das Radio.“ Tobias wollte aber auch noch Winterreifen haben. Am Ende haben sie sich auf 9.200 Euro mit Winterreifen geeinigt.\n\nTobias hat den Vertrag unterschrieben und eine Anzahlung gemacht. Nächsten Freitag kann er sein Auto abholen. Er freut sich schon sehr darauf.",
+    "glossary": [
+      {
+        "german": "der Autohändler",
+        "english": "car dealer"
+      },
+      {
+        "german": "der Gebrauchtwagen",
+        "english": "used car"
+      },
+      {
+        "german": "der Kombi",
+        "english": "estate car, station wagon"
+      },
+      {
+        "german": "die Probefahrt",
+        "english": "test drive"
+      },
+      {
+        "german": "der Führerschein",
+        "english": "driving licence"
+      },
+      {
+        "german": "der Motor",
+        "english": "engine"
+      },
+      {
+        "german": "die Bremse",
+        "english": "brake",
+        "match": "Bremsen"
+      },
+      {
+        "german": "nachdenken",
+        "english": "to think (about)",
+        "match": "nachgedacht"
+      },
+      {
+        "german": "der Winterreifen",
+        "english": "winter tyre"
+      },
+      {
+        "german": "sich einigen",
+        "english": "to agree",
+        "match": "geeinigt"
+      },
+      {
+        "german": "unterschreiben",
+        "english": "to sign",
+        "match": "unterschrieben"
+      },
+      {
+        "german": "die Anzahlung",
+        "english": "deposit, down payment"
+      },
+      {
+        "german": "abholen",
+        "english": "to pick up, to collect"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Warum braucht Tobias ein Auto?",
+        "options": [
+          "Er zieht nach Kassel.",
+          "Er arbeitet bald in einer Firma auf dem Land.",
+          "Er will Urlaub machen.",
+          "Sein altes Auto ist kaputt."
+        ],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Tobias hat ein neues Auto gekauft.",
+        "answer": false,
+        "explanation": "Er hat einen Gebrauchtwagen gekauft."
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie alt war der Kombi?",
+        "options": ["Zehn Jahre", "Drei Jahre", "Acht Jahre", "Sechs Jahre"],
+        "answer": 3
+      },
+      {
+        "type": "tf",
+        "prompt": "Für die Probefahrt wollte Herr Brandt den Führerschein sehen.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Was hat bei der Probefahrt nicht funktioniert?",
+        "options": ["Die Bremsen", "Der Motor", "Das Radio", "Die Heizung"],
+        "answer": 2
+      },
+      {
+        "type": "tf",
+        "prompt": "Die Probefahrt hat eine Stunde gedauert.",
+        "answer": false,
+        "explanation": "Sie hat zwanzig Minuten gedauert."
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie viel sollte das Auto zuerst kosten?",
+        "options": ["9.500 Euro", "9.000 Euro", "9.200 Euro", "8.000 Euro"],
+        "answer": 0
+      },
+      {
+        "type": "mc",
+        "prompt": "Was bekommt Tobias für 9.200 Euro?",
+        "options": [
+          "Nur das Auto",
+          "Das Auto mit Winterreifen",
+          "Das Auto und eine Garage",
+          "Das Auto mit einem Navi"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Tobias kann das Auto sofort mitnehmen.",
+        "answer": false,
+        "explanation": "Er kann es nächsten Freitag abholen."
+      }
+    ]
+  },
+  {
+    "id": "a2-12",
+    "level": "A2",
+    "title": "Beim Friseur",
+    "topic": "Services",
+    "body": "Lena wohnt in Freiburg. Ihre Haare waren sehr lang und sie wollte endlich etwas Neues. Deshalb hat sie einen Termin bei einem Friseur in der Altstadt gemacht.\n\nIm Salon hat eine junge Friseurin sie begrüßt. „Hallo, ich bin Aylin. Was darf ich heute für Sie machen?“ – „Ich hätte gern eine kurze Frisur“, hat Lena gesagt. „Aber nicht zu kurz, bitte. Vielleicht bis zum Kinn?“ Aylin hat ihr ein paar Fotos in einer Zeitschrift gezeigt. Lena hat ein Foto mit einem modernen Bob ausgesucht.\n\nZuerst hat Aylin ihr die Haare gewaschen. Dann hat sie angefangen zu schneiden. Dabei haben die beiden viel geredet: über das Wetter, über Urlaub und über Lenas neue Arbeit. „Möchten Sie auch eine andere Farbe?“, hat Aylin gefragt. „Nein, danke. Braun ist gut“, hat Lena geantwortet.\n\nNach einer Stunde war die Frisur fertig. Aylin hat die Haare geföhnt und Lena einen Spiegel gegeben. Lena hat sich kaum erkannt. „Wow, ich sehe ganz anders aus!“, hat sie gerufen. Die neue Frisur hat ihr sehr gut gefallen.\n\nDer Haarschnitt hat 45 Euro gekostet. Lena hat 50 Euro bezahlt und gesagt: „Der Rest ist Trinkgeld.“ Am Abend hat ihr Freund sofort gesagt, dass sie toll aussieht.",
+    "glossary": [
+      {
+        "german": "der Friseur",
+        "english": "hairdresser"
+      },
+      {
+        "german": "der Termin",
+        "english": "appointment"
+      },
+      {
+        "german": "die Friseurin",
+        "english": "hairdresser (female)"
+      },
+      {
+        "german": "begrüßen",
+        "english": "to greet",
+        "match": "begrüßt"
+      },
+      {
+        "german": "die Frisur",
+        "english": "hairstyle"
+      },
+      {
+        "german": "das Kinn",
+        "english": "chin"
+      },
+      {
+        "german": "die Zeitschrift",
+        "english": "magazine"
+      },
+      {
+        "german": "aussuchen",
+        "english": "to choose, to pick",
+        "match": "ausgesucht"
+      },
+      {
+        "german": "schneiden",
+        "english": "to cut"
+      },
+      {
+        "german": "föhnen",
+        "english": "to blow-dry",
+        "match": "geföhnt"
+      },
+      {
+        "german": "der Spiegel",
+        "english": "mirror"
+      },
+      {
+        "german": "erkennen",
+        "english": "to recognise",
+        "match": "erkannt"
+      },
+      {
+        "german": "der Haarschnitt",
+        "english": "haircut"
+      },
+      {
+        "german": "das Trinkgeld",
+        "english": "tip"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Warum ist Lena zum Friseur gegangen?",
+        "options": [
+          "Sie hatte eine Party.",
+          "Sie wollte etwas Neues.",
+          "Ihre Haare waren kaputt.",
+          "Ihr Freund wollte das."
+        ],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Der Salon ist in der Altstadt.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie kurz sollten die Haare sein?",
+        "options": [
+          "Sehr kurz",
+          "Bis zu den Schultern",
+          "Bis zum Kinn",
+          "Nur ein bisschen kürzer"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "tf",
+        "prompt": "Lena hat die Frisur selbst gezeichnet.",
+        "answer": false,
+        "explanation": "Sie hat ein Foto in einer Zeitschrift ausgesucht."
+      },
+      {
+        "type": "mc",
+        "prompt": "Was hat Aylin zuerst gemacht?",
+        "options": [
+          "Sie hat die Haare gewaschen.",
+          "Sie hat die Haare geschnitten.",
+          "Sie hat die Haare gefärbt.",
+          "Sie hat die Haare geföhnt."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "mc",
+        "prompt": "Worüber haben die beiden NICHT gesprochen?",
+        "options": [
+          "Über das Wetter",
+          "Über Urlaub",
+          "Über Lenas neue Arbeit",
+          "Über Lenas Familie"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "tf",
+        "prompt": "Lena wollte eine neue Haarfarbe.",
+        "answer": false,
+        "explanation": "Sie wollte ihre braune Farbe behalten."
+      },
+      {
+        "type": "tf",
+        "prompt": "Die neue Frisur hat Lena gut gefallen.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie viel Trinkgeld hat Lena gegeben?",
+        "options": ["45 Euro", "10 Euro", "50 Euro", "5 Euro"],
+        "answer": 3
+      }
+    ]
+  },
+  {
+    "id": "a2-13",
+    "level": "A2",
+    "title": "Ein Abend im Theater",
+    "topic": "Culture",
+    "body": "Herr und Frau Wagner aus Dresden gehen nicht oft ins Theater. Aber zum Hochzeitstag hat Peter seiner Frau Monika zwei Karten für eine Komödie geschenkt. Er hat die Karten schon vor zwei Monaten online gekauft, weil die Vorstellung sehr beliebt war.\n\nAm Samstagabend haben sich beide schick angezogen. Die Vorstellung hat um halb acht angefangen, aber sie waren schon um sieben Uhr da. Zuerst haben sie ihre Mäntel an der Garderobe abgegeben. Dafür haben sie zwei Euro bezahlt und eine kleine Nummer bekommen. Dann haben sie ihre Plätze gesucht: Reihe fünf, Platz zwölf und dreizehn. Von dort konnten sie die Bühne sehr gut sehen.\n\nDas Stück war lustig. Es ging um eine Familie, die zusammen Urlaub machen will, aber alles geht schief. Die Schauspieler waren fantastisch und das Publikum hat viel gelacht.\n\nIn der Pause sind Peter und Monika ins Foyer gegangen. Dort haben sie ein Glas Sekt getrunken und eine Brezel gegessen. Monika hat gesagt: „Das ist das schönste Geschenk seit Jahren!“\n\nNach der Vorstellung haben alle lange geklatscht. Leider hat Peter an der Garderobe seine Nummer nicht gefunden. Zum Glück hat die Mitarbeiterin seinen Mantel trotzdem schnell gefunden.",
+    "glossary": [
+      {
+        "german": "der Hochzeitstag",
+        "english": "wedding anniversary"
+      },
+      {
+        "german": "die Komödie",
+        "english": "comedy"
+      },
+      {
+        "german": "die Vorstellung",
+        "english": "performance, show"
+      },
+      {
+        "german": "beliebt",
+        "english": "popular"
+      },
+      {
+        "german": "sich anziehen",
+        "english": "to get dressed",
+        "match": "angezogen"
+      },
+      {
+        "german": "die Garderobe",
+        "english": "cloakroom"
+      },
+      {
+        "german": "die Reihe",
+        "english": "row"
+      },
+      {
+        "german": "die Bühne",
+        "english": "stage"
+      },
+      {
+        "german": "das Stück",
+        "english": "play"
+      },
+      {
+        "german": "schiefgehen",
+        "english": "to go wrong",
+        "match": "geht schief"
+      },
+      {
+        "german": "der Schauspieler",
+        "english": "actor"
+      },
+      {
+        "german": "das Publikum",
+        "english": "audience"
+      },
+      {
+        "german": "der Sekt",
+        "english": "sparkling wine"
+      },
+      {
+        "german": "klatschen",
+        "english": "to clap",
+        "match": "geklatscht"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Warum hat Peter die Karten gekauft?",
+        "options": [
+          "Zu Monikas Geburtstag",
+          "Zum Hochzeitstag",
+          "Zu Weihnachten",
+          "Weil er gern ins Theater geht"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Peter hat die Karten an der Abendkasse gekauft.",
+        "answer": false,
+        "explanation": "Er hat sie vor zwei Monaten online gekauft."
+      },
+      {
+        "type": "mc",
+        "prompt": "Wann hat die Vorstellung angefangen?",
+        "options": ["Um sieben Uhr", "Um acht Uhr", "Um halb acht", "Um halb sieben"],
+        "answer": 2
+      },
+      {
+        "type": "mc",
+        "prompt": "Was haben sie an der Garderobe bekommen?",
+        "options": ["Eine Nummer", "Ein Programm", "Ein Glas Sekt", "Ihre Karten"],
+        "answer": 0
+      },
+      {
+        "type": "tf",
+        "prompt": "Von ihren Plätzen konnten sie die Bühne schlecht sehen.",
+        "answer": false,
+        "explanation": "Sie konnten die Bühne sehr gut sehen."
+      },
+      {
+        "type": "mc",
+        "prompt": "Worum ging es in dem Stück?",
+        "options": [
+          "Um eine Hochzeit",
+          "Um einen Polizisten",
+          "Um zwei alte Freunde",
+          "Um eine Familie im Urlaub"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "tf",
+        "prompt": "Das Publikum hat viel gelacht.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Was haben sie in der Pause gemacht?",
+        "options": [
+          "Sie sind nach Hause gegangen.",
+          "Sie haben Sekt getrunken und eine Brezel gegessen.",
+          "Sie haben mit den Schauspielern gesprochen.",
+          "Sie haben neue Karten gekauft."
+        ],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Peter hat seinen Mantel nicht zurückbekommen.",
+        "answer": false,
+        "explanation": "Die Mitarbeiterin hat den Mantel trotzdem schnell gefunden."
+      }
+    ]
+  },
+  {
+    "id": "a2-14",
+    "level": "A2",
+    "title": "Das Konzert",
+    "topic": "Free time",
+    "body": "Hallo Jana,\n\nwie geht es dir? Ich muss dir unbedingt von Samstag erzählen! Ich war mit Felix und Sophie auf dem Open-Air-Konzert im Stadtpark in Hamburg. Unsere Lieblingsband hat dort gespielt.\n\nWir sind schon um vier Uhr hingefahren, weil wir nah an der Bühne stehen wollten. Am Eingang mussten wir lange warten, denn die Security hat alle Taschen kontrolliert. Getränke durfte man nicht mitbringen, deshalb mussten wir Sophies Wasserflasche wegwerfen.\n\nUm sieben Uhr hat die Vorband angefangen. Sie war nicht schlecht, aber alle haben auf die Hauptband gewartet. Um halb neun war es endlich so weit. Die Stimmung war super und wir haben laut mitgesungen.\n\nAber dann hat es plötzlich angefangen zu regnen, und zwar richtig stark! Wir hatten keine Regenjacken dabei. Nach zehn Minuten waren wir total nass. Aber weißt du was? Das war uns egal. Die Band hat einfach weitergespielt und die Leute haben im Regen getanzt. Das war der schönste Moment des Abends!\n\nAm Ende hat der Sänger noch zwei Zugaben gespielt. Jetzt bin ich leider erkältet, aber es hat sich gelohnt.\n\nIm Herbst spielt die Band in Berlin. Kommst du mit?\n\nLiebe Grüße\nMia",
+    "glossary": [
+      {
+        "german": "unbedingt",
+        "english": "absolutely, really"
+      },
+      {
+        "german": "die Lieblingsband",
+        "english": "favourite band"
+      },
+      {
+        "german": "die Bühne",
+        "english": "stage"
+      },
+      {
+        "german": "der Eingang",
+        "english": "entrance"
+      },
+      {
+        "german": "kontrollieren",
+        "english": "to check",
+        "match": "kontrolliert"
+      },
+      {
+        "german": "wegwerfen",
+        "english": "to throw away"
+      },
+      {
+        "german": "die Vorband",
+        "english": "support act"
+      },
+      {
+        "german": "die Stimmung",
+        "english": "atmosphere, mood"
+      },
+      {
+        "german": "mitsingen",
+        "english": "to sing along",
+        "match": "mitgesungen"
+      },
+      {
+        "german": "plötzlich",
+        "english": "suddenly"
+      },
+      {
+        "german": "nass",
+        "english": "wet"
+      },
+      {
+        "german": "der Sänger",
+        "english": "singer"
+      },
+      {
+        "german": "die Zugabe",
+        "english": "encore",
+        "match": "Zugaben"
+      },
+      {
+        "german": "sich lohnen",
+        "english": "to be worth it",
+        "match": "gelohnt"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Wo war das Konzert?",
+        "options": [
+          "In einer Halle in Berlin",
+          "Im Stadtpark in Hamburg",
+          "In einem Club",
+          "Im Stadion"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Mia war allein auf dem Konzert.",
+        "answer": false,
+        "explanation": "Sie war mit Felix und Sophie da."
+      },
+      {
+        "type": "mc",
+        "prompt": "Warum sind sie so früh hingefahren?",
+        "options": [
+          "Sie wollten nah an der Bühne stehen.",
+          "Sie wollten Karten kaufen.",
+          "Sie wollten die Band treffen.",
+          "Der Bus fuhr nur um vier."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "mc",
+        "prompt": "Warum mussten sie am Eingang warten?",
+        "options": [
+          "Es gab keine Karten mehr.",
+          "Das Konzert hat später angefangen.",
+          "Die Security hat die Taschen kontrolliert.",
+          "Es hat geregnet."
+        ],
+        "answer": 2
+      },
+      {
+        "type": "tf",
+        "prompt": "Man durfte keine Getränke mitbringen.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Wann hat die Hauptband angefangen?",
+        "options": ["Um vier Uhr", "Um sieben Uhr", "Um acht Uhr", "Um halb neun"],
+        "answer": 3
+      },
+      {
+        "type": "tf",
+        "prompt": "Wegen des Regens hat die Band aufgehört.",
+        "answer": false,
+        "explanation": "Die Band hat einfach weitergespielt."
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie geht es Mia jetzt?",
+        "options": [
+          "Sie ist müde.",
+          "Sie ist erkältet.",
+          "Sie ist traurig.",
+          "Sie hat Kopfschmerzen."
+        ],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Mia möchte mit Jana auf das Konzert in Berlin gehen.",
+        "answer": true
+      }
+    ]
+  },
+  {
+    "id": "a2-15",
+    "level": "A2",
+    "title": "Auf dem Bürgeramt",
+    "topic": "Bureaucracy",
+    "body": "Ahmed wohnt seit fünf Jahren in Hannover. Im Sommer möchte er mit seiner Familie nach Kanada fliegen. Aber als er seinen Reisepass gesucht hat, hat er gemerkt, dass der Pass schon abgelaufen ist. Deshalb musste er schnell einen neuen beantragen.\n\nAuf der Webseite der Stadt hat Ahmed einen Termin beim Bürgeramt gebucht. Dort stand auch, welche Unterlagen er braucht: den alten Pass, ein aktuelles biometrisches Foto und 70 Euro für die Gebühr.\n\nAm Dienstagmorgen ist er zum Bürgeramt gefahren. Am Eingang hat er eine Wartenummer bekommen: B 214. Im Wartezimmer saßen viele Leute. Nach zwanzig Minuten hat er seine Nummer auf dem Bildschirm gesehen und ist zu Schalter 6 gegangen.\n\nDie Beamtin war freundlich, aber sie hatte ein Problem mit seinem Foto. „Auf diesem Foto lächeln Sie“, hat sie gesagt. „Das ist leider nicht erlaubt.“ Zum Glück gab es im Gebäude einen Fotoautomaten. Ahmed hat schnell ein neues Foto gemacht, diesmal ohne Lächeln.\n\nDann hat die Beamtin seine Fingerabdrücke genommen und er hat das Formular unterschrieben. „Ihr neuer Pass ist in etwa vier Wochen fertig“, hat sie erklärt. „Wir schicken Ihnen eine E-Mail.“ Ahmed war erleichtert, denn die Reise ist erst in zwei Monaten.",
+    "glossary": [
+      {
+        "german": "der Reisepass",
+        "english": "passport"
+      },
+      {
+        "german": "merken",
+        "english": "to notice",
+        "match": "gemerkt"
+      },
+      {
+        "german": "ablaufen",
+        "english": "to expire",
+        "match": "abgelaufen"
+      },
+      {
+        "german": "beantragen",
+        "english": "to apply for"
+      },
+      {
+        "german": "die Unterlagen",
+        "english": "documents, paperwork"
+      },
+      {
+        "german": "die Gebühr",
+        "english": "fee"
+      },
+      {
+        "german": "die Wartenummer",
+        "english": "queue number"
+      },
+      {
+        "german": "der Bildschirm",
+        "english": "screen"
+      },
+      {
+        "german": "der Schalter",
+        "english": "counter, desk"
+      },
+      {
+        "german": "die Beamtin",
+        "english": "civil servant (female)"
+      },
+      {
+        "german": "erlaubt",
+        "english": "allowed"
+      },
+      {
+        "german": "der Fotoautomat",
+        "english": "photo booth",
+        "match": "Fotoautomaten"
+      },
+      {
+        "german": "der Fingerabdruck",
+        "english": "fingerprint",
+        "match": "Fingerabdrücke"
+      },
+      {
+        "german": "erleichtert",
+        "english": "relieved"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Warum braucht Ahmed einen neuen Pass?",
+        "options": [
+          "Er hat ihn verloren.",
+          "Der alte Pass ist abgelaufen.",
+          "Der Pass ist kaputt.",
+          "Er hat einen neuen Namen."
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": "Wohin möchte Ahmed im Sommer fliegen?",
+        "options": ["Nach Kanada", "Nach Amerika", "In die Türkei", "Nach Spanien"],
+        "answer": 0
+      },
+      {
+        "type": "tf",
+        "prompt": "Ahmed ist ohne Termin zum Bürgeramt gegangen.",
+        "answer": false,
+        "explanation": "Er hat auf der Webseite einen Termin gebucht."
+      },
+      {
+        "type": "mc",
+        "prompt": "Was braucht man NICHT für den neuen Pass?",
+        "options": [
+          "Den alten Pass",
+          "Ein biometrisches Foto",
+          "70 Euro",
+          "Einen Mietvertrag"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "tf",
+        "prompt": "Ahmed musste im Bürgeramt zwei Stunden warten.",
+        "answer": false,
+        "explanation": "Er hat zwanzig Minuten gewartet."
+      },
+      {
+        "type": "mc",
+        "prompt": "Was war das Problem mit dem Foto?",
+        "options": [
+          "Es war zu alt.",
+          "Es war zu klein.",
+          "Ahmed hat auf dem Foto gelächelt.",
+          "Es war schwarz-weiß."
+        ],
+        "answer": 2
+      },
+      {
+        "type": "tf",
+        "prompt": "Ahmed hat im Gebäude ein neues Foto gemacht.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Wann ist der neue Pass fertig?",
+        "options": [
+          "Morgen",
+          "In etwa einer Woche",
+          "In etwa zwei Monaten",
+          "In etwa vier Wochen"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "tf",
+        "prompt": "Ahmed hat Angst, dass der Pass zu spät kommt.",
+        "answer": false,
+        "explanation": "Er ist erleichtert, weil die Reise erst in zwei Monaten ist."
+      }
+    ]
+  },
+  {
+    "id": "a2-16",
+    "level": "A2",
+    "title": "Ein Gespräch auf der Straße",
+    "topic": "Friends",
+    "body": "Am Freitagnachmittag war Sandra in der Innenstadt von Bremen unterwegs. Sie wollte nur schnell ein Geschenk für ihre Mutter kaufen. Plötzlich hat jemand ihren Namen gerufen: „Sandra? Sandra Keller?“\n\nSandra hat sich umgedreht. Vor ihr stand eine Frau mit roten Haaren und einem Kinderwagen. „Julia? Das gibt's doch nicht!“, hat Sandra gerufen. Julia war ihre beste Freundin in der Schule. Nach dem Abitur ist sie nach München gezogen und die beiden haben sich aus den Augen verloren.\n\n„Was machst du denn in Bremen?“, hat Sandra gefragt. „Wir wohnen seit einem Jahr wieder hier“, hat Julia erzählt. „Mein Mann hat eine Stelle am Hafen bekommen. Und das ist unser Sohn Emil. Er ist acht Monate alt.“ – „Wie süß! Herzlichen Glückwunsch!“\n\nDann hat Julia gefragt: „Und du? Bist du noch Lehrerin?“ – „Nein, ich arbeite jetzt in einem Reisebüro. Das macht mir mehr Spaß.“\n\nDie beiden haben sich lange unterhalten. Sie haben über alte Lehrer und lustige Klassenfahrten gelacht. Dann hat Emil angefangen zu weinen. „Oh, er hat Hunger. Ich muss leider los“, hat Julia gesagt.\n\nSie haben schnell ihre Handynummern ausgetauscht. „Wollen wir nächste Woche zusammen Kaffee trinken?“, hat Sandra vorgeschlagen. „Sehr gern! Ich melde mich“, hat Julia versprochen.",
+    "glossary": [
+      {
+        "german": "unterwegs",
+        "english": "out and about, on the way"
+      },
+      {
+        "german": "sich umdrehen",
+        "english": "to turn around",
+        "match": "umgedreht"
+      },
+      {
+        "german": "der Kinderwagen",
+        "english": "pram, stroller"
+      },
+      {
+        "german": "das Abitur",
+        "english": "school-leaving exam (A levels)"
+      },
+      {
+        "german": "sich aus den Augen verlieren",
+        "english": "to lose touch",
+        "match": "aus den Augen verloren"
+      },
+      {
+        "german": "der Hafen",
+        "english": "port, harbour"
+      },
+      {
+        "german": "süß",
+        "english": "sweet, cute"
+      },
+      {
+        "german": "das Reisebüro",
+        "english": "travel agency"
+      },
+      {
+        "german": "sich unterhalten",
+        "english": "to chat, to talk",
+        "match": "unterhalten"
+      },
+      {
+        "german": "die Klassenfahrt",
+        "english": "school trip",
+        "match": "Klassenfahrten"
+      },
+      {
+        "german": "weinen",
+        "english": "to cry"
+      },
+      {
+        "german": "austauschen",
+        "english": "to exchange",
+        "match": "ausgetauscht"
+      },
+      {
+        "german": "vorschlagen",
+        "english": "to suggest",
+        "match": "vorgeschlagen"
+      },
+      {
+        "german": "versprechen",
+        "english": "to promise",
+        "match": "versprochen"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Warum war Sandra in der Innenstadt?",
+        "options": [
+          "Sie wollte Julia treffen.",
+          "Sie wollte ein Geschenk für ihre Mutter kaufen.",
+          "Sie war auf dem Weg zur Arbeit.",
+          "Sie wollte Kaffee trinken."
+        ],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Julia und Sandra waren in der Schule beste Freundinnen.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Wohin ist Julia nach dem Abitur gezogen?",
+        "options": ["Nach Hamburg", "Nach Berlin", "Nach München", "Nach Köln"],
+        "answer": 2
+      },
+      {
+        "type": "mc",
+        "prompt": "Warum wohnt Julia wieder in Bremen?",
+        "options": [
+          "Ihr Mann hat eine Stelle am Hafen bekommen.",
+          "Ihre Eltern sind krank.",
+          "Sie hat in München keine Wohnung gefunden.",
+          "Sie studiert in Bremen."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "tf",
+        "prompt": "Emil ist Julias Bruder.",
+        "answer": false,
+        "explanation": "Emil ist Julias Sohn."
+      },
+      {
+        "type": "tf",
+        "prompt": "Sandra arbeitet noch als Lehrerin.",
+        "answer": false,
+        "explanation": "Sie arbeitet jetzt in einem Reisebüro."
+      },
+      {
+        "type": "mc",
+        "prompt": "Worüber haben die beiden gelacht?",
+        "options": [
+          "Über Emil",
+          "Über das Wetter",
+          "Über Sandras Arbeit",
+          "Über alte Lehrer und Klassenfahrten"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "mc",
+        "prompt": "Warum musste Julia gehen?",
+        "options": [
+          "Sie hatte einen Termin.",
+          "Emil hatte Hunger.",
+          "Es hat geregnet.",
+          "Ihr Mann hat angerufen."
+        ],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Die beiden wollen sich wiedersehen.",
+        "answer": true
+      }
+    ]
+  },
+  {
+    "id": "a2-17",
+    "level": "A2",
+    "title": "Nach dem Weg fragen",
+    "topic": "Directions",
+    "body": "Marco kommt aus Italien und macht ein Wochenende Urlaub in Köln. Am Samstagmorgen wollte er das Schokoladenmuseum besuchen. Leider war der Akku von seinem Handy leer, deshalb konnte er keine Karte benutzen. Also musste er nach dem Weg fragen.\n\nZuerst hat er einen älteren Herrn an der Haltestelle gefragt. „Entschuldigung, wie komme ich zum Schokoladenmuseum?“ – „Das ist ganz einfach“, hat der Mann gesagt. „Gehen Sie hier geradeaus bis zum Dom und dann rechts.“ Marco hat sich bedankt und ist losgegangen.\n\nAm Dom war er aber unsicher. Deshalb hat er eine junge Frau mit einem Fahrrad gefragt. „Das Schokoladenmuseum? Nein, da müssen Sie nach links, runter zum Rhein. Dann immer am Fluss entlang“, hat sie erklärt. Marco war verwirrt. Rechts oder links?\n\nEr hat noch eine dritte Person gefragt, einen Verkäufer an einem Kiosk. Der Verkäufer hat gelacht. „Beide haben ein bisschen recht. Sie können rechts gehen, aber das ist ein Umweg. Links am Rhein ist es kürzer und schöner. Es dauert ungefähr fünfzehn Minuten zu Fuß.“\n\nMarco ist also am Rhein entlang spaziert. Das Wetter war schön und er hat viele Schiffe gesehen. Nach einer Viertelstunde stand er vor dem Museum. Dort hat er sich zuerst eine heiße Schokolade gekauft. An der Kasse durfte er sogar sein Handy aufladen.",
+    "glossary": [
+      {
+        "german": "der Akku",
+        "english": "battery"
+      },
+      {
+        "german": "leer",
+        "english": "empty, flat"
+      },
+      {
+        "german": "die Haltestelle",
+        "english": "stop (bus, tram)"
+      },
+      {
+        "german": "geradeaus",
+        "english": "straight on"
+      },
+      {
+        "german": "sich bedanken",
+        "english": "to say thank you",
+        "match": "bedankt"
+      },
+      {
+        "german": "unsicher",
+        "english": "unsure"
+      },
+      {
+        "german": "der Fluss",
+        "english": "river"
+      },
+      {
+        "german": "entlang",
+        "english": "along"
+      },
+      {
+        "german": "verwirrt",
+        "english": "confused"
+      },
+      {
+        "german": "der Kiosk",
+        "english": "kiosk, newsstand"
+      },
+      {
+        "german": "recht haben",
+        "english": "to be right",
+        "match": "recht"
+      },
+      {
+        "german": "der Umweg",
+        "english": "detour"
+      },
+      {
+        "german": "ungefähr",
+        "english": "about, approximately"
+      },
+      {
+        "german": "aufladen",
+        "english": "to charge (a battery)"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Woher kommt Marco?",
+        "options": ["Aus Spanien", "Aus Italien", "Aus Frankreich", "Aus Österreich"],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": "Warum konnte Marco keine Karte auf dem Handy benutzen?",
+        "options": [
+          "Er hatte kein Internet.",
+          "Das Handy war kaputt.",
+          "Der Akku war leer.",
+          "Er hatte das Handy im Hotel vergessen."
+        ],
+        "answer": 2
+      },
+      {
+        "type": "tf",
+        "prompt": "Der ältere Herr hat gesagt, dass Marco am Dom rechts gehen soll.",
+        "answer": true
+      },
+      {
+        "type": "tf",
+        "prompt": "Die junge Frau hat genau dasselbe gesagt wie der Herr.",
+        "answer": false,
+        "explanation": "Sie hat gesagt, dass er nach links gehen muss."
+      },
+      {
+        "type": "mc",
+        "prompt": "Wen hat Marco als dritte Person gefragt?",
+        "options": [
+          "Einen Polizisten",
+          "Einen Busfahrer",
+          "Einen Touristen",
+          "Einen Verkäufer an einem Kiosk"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "mc",
+        "prompt": "Was hat der Verkäufer gesagt?",
+        "options": [
+          "Der Weg links am Rhein ist kürzer und schöner.",
+          "Das Museum ist heute geschlossen.",
+          "Marco soll den Bus nehmen.",
+          "Beide Wege sind falsch."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "tf",
+        "prompt": "Zu Fuß dauert der Weg ungefähr eine Stunde.",
+        "answer": false,
+        "explanation": "Es dauert ungefähr fünfzehn Minuten."
+      },
+      {
+        "type": "mc",
+        "prompt": "Was hat Marco am Rhein gesehen?",
+        "options": ["Viele Fahrräder", "Viele Schiffe", "Einen Markt", "Ein Konzert"],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Im Museum hat Marco eine heiße Schokolade gekauft.",
+        "answer": true
+      }
+    ]
+  },
+  {
+    "id": "a2-18",
+    "level": "A2",
+    "title": "Umtausch im Elektronikgeschäft",
+    "topic": "Shopping",
+    "body": "Vor zwei Wochen hat Daniel in einem Elektronikgeschäft in Nürnberg neue Kopfhörer gekauft. Sie haben 89 Euro gekostet. Am Anfang war er sehr zufrieden, weil der Klang so gut war. Aber seit ein paar Tagen funktioniert der linke Kopfhörer nicht mehr. Daniel hört die Musik nur noch auf der rechten Seite.\n\nAm Montag ist er mit den Kopfhörern, der Verpackung und dem Kassenbon zurück ins Geschäft gegangen. An der Kasse hat er eine Verkäuferin angesprochen.\n\n„Guten Tag, ich möchte diese Kopfhörer umtauschen. Der linke Kopfhörer ist kaputt.“\n„Haben Sie den Kassenbon dabei?“\n„Ja, hier bitte.“\n\nDie Verkäuferin hat die Kopfhörer genau angesehen und selbst getestet. „Stimmt, links kommt kein Ton. Das ist ein Fall für die Garantie. Möchten Sie das gleiche Modell noch einmal oder lieber Ihr Geld zurück?“\n\nDaniel hat kurz überlegt. „Gibt es auch ein anderes Modell?“ Die Verkäuferin hat ihm Kopfhörer von einer anderen Firma gezeigt. Sie waren etwas teurer, sie kosteten 99 Euro, aber sie hatten eine längere Akkulaufzeit. Daniel hat sie im Geschäft ausprobiert. Der Klang war noch besser.\n\n„Die nehme ich“, hat er gesagt. Er musste nur zehn Euro dazubezahlen. Die Verkäuferin hat ihm einen neuen Kassenbon gegeben und gesagt: „Bitte gut aufheben! Die Garantie ist zwei Jahre gültig.“",
+    "glossary": [
+      {
+        "german": "das Elektronikgeschäft",
+        "english": "electronics shop"
+      },
+      {
+        "german": "die Kopfhörer",
+        "english": "headphones"
+      },
+      {
+        "german": "zufrieden",
+        "english": "satisfied, happy"
+      },
+      {
+        "german": "der Klang",
+        "english": "sound"
+      },
+      {
+        "german": "die Verpackung",
+        "english": "packaging"
+      },
+      {
+        "german": "der Kassenbon",
+        "english": "receipt"
+      },
+      {
+        "german": "ansprechen",
+        "english": "to speak to, to approach",
+        "match": "angesprochen"
+      },
+      {
+        "german": "umtauschen",
+        "english": "to exchange (goods)"
+      },
+      {
+        "german": "der Ton",
+        "english": "sound"
+      },
+      {
+        "german": "die Garantie",
+        "english": "warranty, guarantee"
+      },
+      {
+        "german": "überlegen",
+        "english": "to think, to consider",
+        "match": "überlegt"
+      },
+      {
+        "german": "die Akkulaufzeit",
+        "english": "battery life"
+      },
+      {
+        "german": "ausprobieren",
+        "english": "to try out",
+        "match": "ausprobiert"
+      },
+      {
+        "german": "dazubezahlen",
+        "english": "to pay extra"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Was hat Daniel vor zwei Wochen gekauft?",
+        "options": ["Ein Handy", "Einen Wasserkocher", "Kopfhörer", "Einen Laptop"],
+        "answer": 2
+      },
+      {
+        "type": "tf",
+        "prompt": "Am Anfang war Daniel mit dem Klang zufrieden.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Was ist das Problem?",
+        "options": [
+          "Der Akku ist leer.",
+          "Der linke Kopfhörer funktioniert nicht.",
+          "Der rechte Kopfhörer funktioniert nicht.",
+          "Die Kopfhörer sind zu laut."
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": "Was hat Daniel NICHT ins Geschäft mitgenommen?",
+        "options": [
+          "Eine Garantiekarte",
+          "Die Verpackung",
+          "Den Kassenbon",
+          "Die Kopfhörer"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "tf",
+        "prompt": "Die Verkäuferin wollte den Kassenbon nicht sehen.",
+        "answer": false,
+        "explanation": "Sie hat nach dem Kassenbon gefragt."
+      },
+      {
+        "type": "mc",
+        "prompt": "Was hat die Verkäuferin zuerst angeboten?",
+        "options": [
+          "Eine Reparatur in vier Wochen",
+          "Einen Gutschein",
+          "Das gleiche Modell oder das Geld zurück",
+          "Nichts, weil die Garantie vorbei ist"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "tf",
+        "prompt": "Die neuen Kopfhörer waren billiger.",
+        "answer": false,
+        "explanation": "Sie waren zehn Euro teurer."
+      },
+      {
+        "type": "mc",
+        "prompt": "Warum sind die neuen Kopfhörer besser?",
+        "options": [
+          "Sie sind kleiner.",
+          "Sie haben eine schönere Farbe.",
+          "Sie kosten weniger.",
+          "Sie haben eine längere Akkulaufzeit."
+        ],
+        "answer": 3
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie lange ist die Garantie gültig?",
+        "options": ["Ein Jahr", "Zwei Jahre", "Sechs Monate", "Drei Jahre"],
+        "answer": 1
+      }
+    ]
+  },
+  {
+    "id": "a2-19",
+    "level": "A2",
+    "title": "Auf dem Wochenmarkt",
+    "topic": "Shopping and food",
+    "body": "Jeden Samstag geht Frau Schulte auf den Wochenmarkt in Münster. Sie ist 68 Jahre alt und kauft seit über dreißig Jahren dort ein. „Auf dem Markt ist alles frischer als im Supermarkt“, sagt sie immer.\n\nDieses Mal hat sie ihre Enkelin Paula mitgenommen. Zuerst sind sie zum Gemüsestand von Herrn Lohmann gegangen. „Guten Morgen, Frau Schulte! Wie immer?“, hat er gefragt. „Ja, ein Kilo Kartoffeln und zwei Paprika, bitte. Und was kosten die Tomaten heute?“ – „Drei Euro das Kilo. Aber probieren Sie mal, die sind wirklich süß.“ Paula hat eine Tomate probiert. Sie war lecker, also haben sie ein Pfund gekauft.\n\nAm Käsestand gab es eine lange Schlange. Während sie gewartet haben, hat Frau Schulte mit einer Nachbarin geplaudert. Dann hat sie ein Stück Gouda und etwas Ziegenkäse gekauft. Die Verkäuferin hat Paula ein kleines Stück Käse geschenkt.\n\nBeim Obststand wollte Paula Erdbeeren haben. „Die sind aber teuer“, hat Frau Schulte gesagt. „Fünf Euro für eine Schale!“ Der Verkäufer hat gelächelt. „Für die junge Dame mache ich vier Euro.“ Paula hat sich sehr gefreut.\n\nZum Schluss haben die beiden Blumen für den Küchentisch gekauft. Die Taschen waren schwer, aber Paula hat gern geholfen. Nächsten Samstag möchte sie wieder mitkommen.",
+    "glossary": [
+      {
+        "german": "der Wochenmarkt",
+        "english": "weekly market"
+      },
+      {
+        "german": "frisch",
+        "english": "fresh",
+        "match": "frischer"
+      },
+      {
+        "german": "die Enkelin",
+        "english": "granddaughter"
+      },
+      {
+        "german": "der Gemüsestand",
+        "english": "vegetable stall"
+      },
+      {
+        "german": "die Paprika",
+        "english": "pepper (vegetable)"
+      },
+      {
+        "german": "probieren",
+        "english": "to taste, to try"
+      },
+      {
+        "german": "das Pfund",
+        "english": "pound (500 g)"
+      },
+      {
+        "german": "die Schlange",
+        "english": "queue"
+      },
+      {
+        "german": "plaudern",
+        "english": "to chat",
+        "match": "geplaudert"
+      },
+      {
+        "german": "der Ziegenkäse",
+        "english": "goat's cheese"
+      },
+      {
+        "german": "die Erdbeere",
+        "english": "strawberry",
+        "match": "Erdbeeren"
+      },
+      {
+        "german": "die Schale",
+        "english": "punnet, bowl"
+      },
+      {
+        "german": "lächeln",
+        "english": "to smile",
+        "match": "gelächelt"
+      },
+      {
+        "german": "schwer",
+        "english": "heavy"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Wie lange kauft Frau Schulte schon auf dem Markt ein?",
+        "options": [
+          "Seit zehn Jahren",
+          "Seit einem Jahr",
+          "Seit 68 Jahren",
+          "Seit über dreißig Jahren"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "tf",
+        "prompt": "Frau Schulte findet, dass im Supermarkt alles frischer ist.",
+        "answer": false,
+        "explanation": "Sie findet, dass auf dem Markt alles frischer ist."
+      },
+      {
+        "type": "mc",
+        "prompt": "Wer ist Paula?",
+        "options": [
+          "Die Tochter von Frau Schulte",
+          "Die Enkelin von Frau Schulte",
+          "Eine Nachbarin",
+          "Eine Verkäuferin"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie viel kostet ein Kilo Tomaten?",
+        "options": ["Drei Euro", "Zwei Euro", "Vier Euro", "Fünf Euro"],
+        "answer": 0
+      },
+      {
+        "type": "tf",
+        "prompt": "Paula hat eine Tomate probiert.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Was hat Frau Schulte beim Warten gemacht?",
+        "options": [
+          "Sie hat Kaffee getrunken.",
+          "Sie hat telefoniert.",
+          "Sie hat mit einer Nachbarin geplaudert.",
+          "Sie hat Blumen gekauft."
+        ],
+        "answer": 2
+      },
+      {
+        "type": "tf",
+        "prompt": "Paula hat am Käsestand ein Stück Käse geschenkt bekommen.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie viel haben sie für die Erdbeeren bezahlt?",
+        "options": ["Fünf Euro", "Drei Euro", "Vier Euro", "Sechs Euro"],
+        "answer": 2
+      },
+      {
+        "type": "tf",
+        "prompt": "Paula möchte nicht wieder auf den Markt gehen.",
+        "answer": false,
+        "explanation": "Nächsten Samstag möchte sie wieder mitkommen."
+      }
+    ]
+  },
+  {
+    "id": "a2-20",
+    "level": "A2",
+    "title": "In der Apotheke",
+    "topic": "Health",
+    "body": "Seit gestern Abend hat Markus Halsschmerzen. Heute Morgen ist auch noch Schnupfen dazugekommen. Er hat kein Fieber, aber er fühlt sich müde und schlapp. Zum Arzt will er nicht gehen, weil er nur eine leichte Erkältung hat. Deshalb ist er in der Mittagspause in die Apotheke neben seinem Büro in Frankfurt gegangen.\n\n„Guten Tag, was kann ich für Sie tun?“, hat die Apothekerin gefragt.\n„Ich habe starke Halsschmerzen und eine verstopfte Nase. Haben Sie etwas dagegen?“\n„Haben Sie auch Fieber oder Husten?“\n„Nein, zum Glück nicht.“\n„Nehmen Sie andere Medikamente? Oder haben Sie Allergien?“\n„Nein.“\n\nDie Apothekerin hat ihm zwei Produkte gegeben: Lutschtabletten für den Hals und ein Nasenspray. „Von den Tabletten können Sie alle drei Stunden eine lutschen, aber nicht mehr als sechs am Tag. Das Nasenspray nehmen Sie morgens und abends, aber höchstens eine Woche lang.“\n\nAußerdem hat sie ihm Tipps gegeben: „Trinken Sie viel warmen Tee, zum Beispiel mit Honig. Und schlafen Sie genug. Wenn Sie Fieber bekommen oder es in drei Tagen nicht besser ist, gehen Sie bitte zum Arzt.“\n\nMarkus hat 12,80 Euro bezahlt. Am Abend hat er sich mit einer Tasse Tee aufs Sofa gelegt. Nach drei Tagen ging es ihm schon viel besser.",
+    "glossary": [
+      {
+        "german": "die Halsschmerzen",
+        "english": "sore throat"
+      },
+      {
+        "german": "der Schnupfen",
+        "english": "runny nose, cold"
+      },
+      {
+        "german": "das Fieber",
+        "english": "fever, temperature"
+      },
+      {
+        "german": "schlapp",
+        "english": "worn out, weak"
+      },
+      {
+        "german": "die Erkältung",
+        "english": "cold"
+      },
+      {
+        "german": "die Apotheke",
+        "english": "pharmacy, chemist's"
+      },
+      {
+        "german": "die Apothekerin",
+        "english": "pharmacist (female)"
+      },
+      {
+        "german": "verstopft",
+        "english": "blocked",
+        "match": "verstopfte"
+      },
+      {
+        "german": "dagegen",
+        "english": "against it, for it"
+      },
+      {
+        "german": "der Husten",
+        "english": "cough"
+      },
+      {
+        "german": "die Allergie",
+        "english": "allergy",
+        "match": "Allergien"
+      },
+      {
+        "german": "die Lutschtablette",
+        "english": "lozenge",
+        "match": "Lutschtabletten"
+      },
+      {
+        "german": "das Nasenspray",
+        "english": "nasal spray"
+      },
+      {
+        "german": "höchstens",
+        "english": "at most"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Welche Beschwerden hat Markus?",
+        "options": [
+          "Fieber und Husten",
+          "Halsschmerzen und Schnupfen",
+          "Kopfschmerzen und Bauchschmerzen",
+          "Husten und Rückenschmerzen"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Markus hat Fieber.",
+        "answer": false,
+        "explanation": "Er hat kein Fieber."
+      },
+      {
+        "type": "mc",
+        "prompt": "Warum geht Markus nicht zum Arzt?",
+        "options": [
+          "Er hat keine Zeit.",
+          "Der Arzt hat Urlaub.",
+          "Er hat nur eine leichte Erkältung.",
+          "Er mag keine Ärzte."
+        ],
+        "answer": 2
+      },
+      {
+        "type": "mc",
+        "prompt": "Wo ist die Apotheke?",
+        "options": [
+          "Neben seinem Büro",
+          "Neben seiner Wohnung",
+          "Am Bahnhof",
+          "Im Krankenhaus"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "tf",
+        "prompt": "Die Apothekerin hat gefragt, ob Markus Allergien hat.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie viele Lutschtabletten darf Markus höchstens am Tag nehmen?",
+        "options": ["Drei", "Vier", "Acht", "Sechs"],
+        "answer": 3
+      },
+      {
+        "type": "tf",
+        "prompt": "Das Nasenspray darf er einen Monat lang nehmen.",
+        "answer": false,
+        "explanation": "Er darf es höchstens eine Woche lang nehmen."
+      },
+      {
+        "type": "mc",
+        "prompt": "Was soll Markus tun, wenn es nicht besser wird?",
+        "options": [
+          "Mehr Tabletten nehmen",
+          "Zum Arzt gehen",
+          "Wieder in die Apotheke kommen",
+          "Mehr Sport machen"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Nach drei Tagen hat sich Markus besser gefühlt.",
+        "answer": true
+      }
+    ]
+  },
+  {
+    "id": "a2-21",
+    "level": "A2",
+    "title": "Beim Zahnarzt",
+    "topic": "Health",
+    "body": "Am Sonntagabend hat Jonas plötzlich starke Zahnschmerzen bekommen. Er hat eine Tablette genommen, aber in der Nacht konnte er kaum schlafen. Am Montag hat er um acht Uhr sofort in der Zahnarztpraxis angerufen.\n\n„Wir sind heute leider voll“, hat die Frau am Telefon gesagt. „Aber bei Schmerzen gibt es immer einen Notfalltermin. Können Sie um halb zwölf kommen?“ Jonas war sehr froh und hat seinem Chef eine Nachricht geschrieben.\n\nIn der Praxis musste er zuerst ein Formular ausfüllen und seine Versicherungskarte zeigen. Dann hat er noch zwanzig Minuten im Wartezimmer gesessen. Endlich hat ihn die Zahnärztin, Frau Dr. Keller, gerufen.\n\nSie hat seine Zähne untersucht und ein Röntgenbild gemacht. „Sie haben ein großes Loch in einem Backenzahn“, hat sie erklärt. „Ich mache heute eine Füllung. Keine Angst, Sie bekommen eine Spritze, dann tut es nicht weh.“\n\nDie Behandlung hat ungefähr eine halbe Stunde gedauert. Danach war sein Mund noch zwei Stunden taub, deshalb durfte er nichts essen und nichts Heißes trinken.\n\nZum Schluss hat Frau Dr. Keller gesagt: „Kommen Sie bitte in einem halben Jahr zur Kontrolle. Und putzen Sie Ihre Zähne zweimal am Tag!“ Jonas hat an der Rezeption gleich einen neuen Termin gemacht.",
+    "glossary": [
+      {
+        "german": "die Zahnschmerzen",
+        "english": "toothache"
+      },
+      {
+        "german": "kaum",
+        "english": "hardly, barely"
+      },
+      {
+        "german": "die Praxis",
+        "english": "practice, surgery (of a doctor)"
+      },
+      {
+        "german": "der Notfalltermin",
+        "english": "emergency appointment"
+      },
+      {
+        "german": "ausfüllen",
+        "english": "to fill in (a form)"
+      },
+      {
+        "german": "die Versicherungskarte",
+        "english": "health insurance card"
+      },
+      {
+        "german": "das Wartezimmer",
+        "english": "waiting room"
+      },
+      {
+        "german": "untersuchen",
+        "english": "to examine",
+        "match": "untersucht"
+      },
+      {
+        "german": "das Röntgenbild",
+        "english": "X-ray"
+      },
+      {
+        "german": "der Backenzahn",
+        "english": "molar"
+      },
+      {
+        "german": "die Füllung",
+        "english": "filling"
+      },
+      {
+        "german": "die Spritze",
+        "english": "injection"
+      },
+      {
+        "german": "die Behandlung",
+        "english": "treatment"
+      },
+      {
+        "german": "taub",
+        "english": "numb"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Wann hat Jonas Zahnschmerzen bekommen?",
+        "options": [
+          "Am Samstagmorgen",
+          "Am Sonntagabend",
+          "Am Montagmorgen",
+          "Am Freitagabend"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Jonas hat in der Nacht gut geschlafen.",
+        "answer": false,
+        "explanation": "Er konnte kaum schlafen."
+      },
+      {
+        "type": "mc",
+        "prompt": "Warum hat Jonas trotzdem einen Termin bekommen?",
+        "options": [
+          "Er ist ein Freund der Zahnärztin.",
+          "Ein anderer Patient hat abgesagt.",
+          "Bei Schmerzen gibt es immer einen Notfalltermin.",
+          "Er hat sehr lange gewartet."
+        ],
+        "answer": 2
+      },
+      {
+        "type": "tf",
+        "prompt": "Jonas hat seinem Chef eine Nachricht geschrieben.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Was musste Jonas in der Praxis zuerst machen?",
+        "options": [
+          "Ein Röntgenbild machen",
+          "Eine Tablette nehmen",
+          "Seine Zähne putzen",
+          "Ein Formular ausfüllen und die Versicherungskarte zeigen"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "mc",
+        "prompt": "Was war das Problem?",
+        "options": [
+          "Ein Loch in einem Backenzahn",
+          "Ein kaputter Vorderzahn",
+          "Eine alte Füllung",
+          "Ein Problem mit dem Zahnfleisch"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "tf",
+        "prompt": "Die Behandlung hat sehr wehgetan.",
+        "answer": false,
+        "explanation": "Er hat eine Spritze bekommen, deshalb hat es nicht wehgetan."
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie lange hat die Behandlung gedauert?",
+        "options": [
+          "Zehn Minuten",
+          "Zwei Stunden",
+          "Ungefähr eine halbe Stunde",
+          "Zwanzig Minuten"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "tf",
+        "prompt": "Nach der Behandlung durfte Jonas zwei Stunden nichts essen.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Wann soll Jonas zur Kontrolle kommen?",
+        "options": [
+          "In einer Woche",
+          "In einem halben Jahr",
+          "In einem Jahr",
+          "In einem Monat"
+        ],
+        "answer": 1
+      }
+    ]
+  },
+  {
+    "id": "a2-22",
+    "level": "A2",
+    "title": "Ein Paket auf der Post",
+    "topic": "Services",
+    "body": "Ana wohnt seit zwei Jahren in Graz. Nächste Woche hat ihre Schwester in Zürich Geburtstag, deshalb möchte Ana ihr ein Paket schicken. Darin sind ein Pullover, ein Buch und österreichische Schokolade.\n\nAm Dienstag geht sie zur Post. Vor dem Schalter stehen schon sechs Leute. Nach einer Viertelstunde ist sie endlich dran.\n\n„Guten Tag. Ich möchte dieses Paket in die Schweiz schicken“, sagt Ana.\n\n„Gern. Ich wiege es kurz. Es wiegt drei Kilo. Wie schnell soll es ankommen?“\n\n„Es muss bis Samstag da sein. Geht das?“\n\n„Mit Express kommt es in zwei Tagen an. Das kostet 45 Euro. Das normale Paket kostet nur 22 Euro, aber es braucht fünf bis sieben Tage.“\n\n„Das ist ein großer Unterschied. Aber ich nehme Express, sonst ist es zu spät.“\n\nWeil die Schweiz nicht in der EU ist, muss Ana ein Zollformular ausfüllen. Darauf schreibt sie, was im Paket ist und wie viel es wert ist. „Ist das ein Geschenk?“, fragt die Mitarbeiterin. „Ja.“ „Gut, dann kreuzen Sie hier ‚Geschenk‘ an.“\n\nAna bezahlt mit Karte und bekommt eine Quittung mit einer Sendungsnummer. Damit kann sie im Internet sehen, wo ihr Paket gerade ist. Am Donnerstag bekommt sie eine Nachricht von ihrer Schwester: „Danke! Dein Paket ist schon da!“",
+    "glossary": [
+      {
+        "german": "das Paket",
+        "english": "parcel"
+      },
+      {
+        "german": "der Schalter",
+        "english": "counter"
+      },
+      {
+        "german": "die Viertelstunde",
+        "english": "quarter of an hour"
+      },
+      {
+        "german": "dran sein",
+        "english": "to be next, to be one's turn",
+        "match": "dran"
+      },
+      {
+        "german": "wiegen",
+        "english": "to weigh",
+        "match": "wiege"
+      },
+      {
+        "german": "ankommen",
+        "english": "to arrive",
+        "match": "ankommen"
+      },
+      {
+        "german": "der Unterschied",
+        "english": "difference"
+      },
+      {
+        "german": "das Zollformular",
+        "english": "customs form"
+      },
+      {
+        "german": "wert sein",
+        "english": "to be worth",
+        "match": "wert"
+      },
+      {
+        "german": "ankreuzen",
+        "english": "to tick, to mark with a cross",
+        "match": "kreuzen"
+      },
+      {
+        "german": "die Mitarbeiterin",
+        "english": "(female) employee"
+      },
+      {
+        "german": "die Quittung",
+        "english": "receipt"
+      },
+      {
+        "german": "die Sendungsnummer",
+        "english": "tracking number"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Warum schickt Ana ein Paket?",
+        "options": [
+          "Ihre Schwester hat bald Geburtstag.",
+          "Ihre Schwester ist krank.",
+          "Ana verkauft einen Pullover.",
+          "Ana zieht nach Zürich um."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "tf",
+        "prompt": "Ana wohnt in Zürich.",
+        "answer": false,
+        "explanation": "Ana wohnt in Graz. Ihre Schwester wohnt in Zürich."
+      },
+      {
+        "type": "mc",
+        "prompt": "Was ist NICHT im Paket?",
+        "options": ["Ein Pullover", "Ein Buch", "Schokolade", "Ein Kalender"],
+        "answer": 3
+      },
+      {
+        "type": "tf",
+        "prompt": "Ana muss eine Viertelstunde warten.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie viel wiegt das Paket?",
+        "options": ["Zwei Kilo", "Drei Kilo", "Fünf Kilo", "Sieben Kilo"],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": "Warum nimmt Ana Express?",
+        "options": [
+          "Express ist billiger.",
+          "Die Mitarbeiterin empfiehlt es.",
+          "Das Paket muss bis Samstag da sein.",
+          "Das Paket ist sehr schwer."
+        ],
+        "answer": 2
+      },
+      {
+        "type": "tf",
+        "prompt": "Das normale Paket kostet 45 Euro.",
+        "answer": false,
+        "explanation": "Das normale Paket kostet 22 Euro. Express kostet 45 Euro."
+      },
+      {
+        "type": "mc",
+        "prompt": "Warum braucht Ana ein Zollformular?",
+        "options": [
+          "Das Paket ist zu groß.",
+          "Die Schweiz ist nicht in der EU.",
+          "Im Paket ist Schokolade.",
+          "Sie bezahlt mit Karte."
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": "Was kann Ana mit der Sendungsnummer machen?",
+        "options": [
+          "Das Paket zurückholen",
+          "Weniger bezahlen",
+          "Im Internet sehen, wo das Paket ist",
+          "Ihre Schwester anrufen"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "tf",
+        "prompt": "Das Paket ist schon am Donnerstag angekommen.",
+        "answer": true
+      }
+    ]
+  },
+  {
+    "id": "a2-23",
+    "level": "A2",
+    "title": "Die Karte ist weg",
+    "topic": "Banking and money",
+    "body": "Am Freitagabend wollte Mehmet im Supermarkt bezahlen, aber seine Bankkarte war nicht in seinem Geldbeutel. Er hat in allen Taschen gesucht, auch im Auto und zu Hause. Die Karte war weg.\n\nMehmet hat sich Sorgen gemacht, weil vielleicht jemand anderes mit seiner Karte einkaufen kann. Deshalb hat er sofort die Notrufnummer der Bank angerufen. Diese Nummer ist rund um die Uhr erreichbar, auch am Wochenende und in der Nacht.\n\nEin Mitarbeiter hat ihn nach seinem Namen, seinem Geburtsdatum und seiner Kontonummer gefragt. Dann hat er gesagt: „Ich sperre Ihre Karte jetzt. Ab sofort kann niemand mehr damit bezahlen oder Geld abheben.“ Mehmet war erleichtert.\n\n„Ich habe noch eine Frage“, hat Mehmet gesagt. „Hat heute schon jemand mit meiner Karte bezahlt?“ Der Mitarbeiter hat das Konto kontrolliert. Zum Glück gab es keine fremden Zahlungen.\n\nDie neue Karte hat ungefähr eine Woche gebraucht. Sie ist mit der Post gekommen, und ein paar Tage später hat Mehmet auch einen Brief mit der neuen PIN bekommen. Bis dahin hat er mit Bargeld bezahlt. Seine Freundin hat ihm ein bisschen Geld geliehen.\n\nUnd die alte Karte? Die hat Mehmet zwei Wochen später gefunden – in der Tasche von seiner Winterjacke.",
+    "glossary": [
+      {
+        "german": "der Geldbeutel",
+        "english": "wallet, purse"
+      },
+      {
+        "german": "sich Sorgen machen",
+        "english": "to worry",
+        "match": "Sorgen"
+      },
+      {
+        "german": "die Notrufnummer",
+        "english": "emergency number"
+      },
+      {
+        "german": "rund um die Uhr",
+        "english": "around the clock"
+      },
+      {
+        "german": "erreichbar",
+        "english": "reachable, available"
+      },
+      {
+        "german": "die Kontonummer",
+        "english": "account number"
+      },
+      {
+        "german": "sperren",
+        "english": "to block, to cancel (a card)",
+        "match": "sperre"
+      },
+      {
+        "german": "Geld abheben",
+        "english": "to withdraw money",
+        "match": "abheben"
+      },
+      {
+        "german": "erleichtert",
+        "english": "relieved"
+      },
+      {
+        "german": "fremd",
+        "english": "unknown, someone else's",
+        "match": "fremden"
+      },
+      {
+        "german": "die Zahlung",
+        "english": "payment",
+        "match": "Zahlungen"
+      },
+      {
+        "german": "das Bargeld",
+        "english": "cash"
+      },
+      {
+        "german": "leihen",
+        "english": "to lend",
+        "match": "geliehen"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Wo hat Mehmet gemerkt, dass seine Karte weg war?",
+        "options": ["In der Bank", "Im Supermarkt", "Im Auto", "Bei seiner Freundin"],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Mehmet hat die Karte im Auto gefunden.",
+        "answer": false,
+        "explanation": "Er hat im Auto gesucht, aber die Karte war nicht dort."
+      },
+      {
+        "type": "mc",
+        "prompt": "Warum hat Mehmet sich Sorgen gemacht?",
+        "options": [
+          "Er hatte kein Geld auf dem Konto.",
+          "Die Bank war geschlossen.",
+          "Vielleicht kann jemand anderes mit seiner Karte einkaufen.",
+          "Er brauchte die Karte für die Arbeit."
+        ],
+        "answer": 2
+      },
+      {
+        "type": "tf",
+        "prompt": "Die Notrufnummer der Bank ist auch in der Nacht erreichbar.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Was wollte der Mitarbeiter NICHT wissen?",
+        "options": [
+          "Mehmets Namen",
+          "Sein Geburtsdatum",
+          "Seine Kontonummer",
+          "Seine Adresse"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "mc",
+        "prompt": "Was hat der Mitarbeiter mit der Karte gemacht?",
+        "options": [
+          "Er hat sie gesperrt.",
+          "Er hat sie gefunden.",
+          "Er hat sie zu Mehmet geschickt.",
+          "Er hat nichts gemacht."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "tf",
+        "prompt": "Jemand hat mit Mehmets Karte bezahlt.",
+        "answer": false,
+        "explanation": "Zum Glück gab es keine fremden Zahlungen."
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie lange hat die neue Karte gebraucht?",
+        "options": ["Einen Tag", "Ungefähr eine Woche", "Zwei Wochen", "Einen Monat"],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Mehmets Freundin hat ihm Geld geliehen.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Wo war die alte Karte?",
+        "options": [
+          "Im Supermarkt",
+          "Unter dem Sofa",
+          "In seiner Winterjacke",
+          "Im Auto"
+        ],
+        "answer": 2
+      }
+    ]
+  },
+  {
+    "id": "a2-24",
+    "level": "A2",
+    "title": "Im Fundbüro",
+    "topic": "Services",
+    "body": "Gestern ist Leonie nach der Arbeit mit der Straßenbahn nach Hause gefahren. Sie war sehr müde und hat Musik gehört. An ihrer Haltestelle ist sie schnell ausgestiegen. Erst zu Hause hat sie gemerkt: Ihre Tasche war nicht mehr da!\n\nHeute Morgen hat sie bei den Verkehrsbetrieben in Bremen angerufen. Man hat ihr gesagt, dass alle Fundsachen ins Fundbüro kommen. Jetzt steht sie dort am Schalter.\n\n„Guten Tag, ich habe gestern meine Tasche in der Straßenbahn vergessen“, sagt Leonie.\n\n„In welcher Linie und um wie viel Uhr?“, fragt der Mann.\n\n„In der Linie 4, ungefähr um halb sieben.“\n\n„Wie sieht die Tasche aus?“\n\n„Sie ist aus Leder, dunkelbraun und nicht sehr groß. Vorne hat sie eine kleine Tasche mit Reißverschluss.“\n\n„Und was ist drin?“\n\n„Ein Kalender, ein Regenschirm, eine Brille und mein Schlüssel. Zum Glück nicht mein Geldbeutel.“\n\nDer Mann geht in einen anderen Raum. Nach ein paar Minuten kommt er mit einer braunen Tasche zurück. „Ist sie das?“ Leonie lacht. „Ja, genau!“\n\nSie muss ihren Ausweis zeigen und eine Gebühr von fünf Euro bezahlen. Dann unterschreibt sie ein Formular. Alles ist noch in der Tasche. Leonie ist glücklich und schenkt dem Mann zum Dank eine Schokolade.",
+    "glossary": [
+      {
+        "german": "die Straßenbahn",
+        "english": "tram"
+      },
+      {
+        "german": "die Haltestelle",
+        "english": "stop (bus, tram)"
+      },
+      {
+        "german": "aussteigen",
+        "english": "to get off",
+        "match": "ausgestiegen"
+      },
+      {
+        "german": "merken",
+        "english": "to notice",
+        "match": "gemerkt"
+      },
+      {
+        "german": "die Verkehrsbetriebe",
+        "english": "public transport company",
+        "match": "Verkehrsbetrieben"
+      },
+      {
+        "german": "die Fundsache",
+        "english": "lost property item",
+        "match": "Fundsachen"
+      },
+      {
+        "german": "das Fundbüro",
+        "english": "lost-and-found office"
+      },
+      {
+        "german": "vergessen",
+        "english": "to forget, to leave behind"
+      },
+      {
+        "german": "das Leder",
+        "english": "leather"
+      },
+      {
+        "german": "der Reißverschluss",
+        "english": "zip"
+      },
+      {
+        "german": "der Ausweis",
+        "english": "ID card"
+      },
+      {
+        "german": "die Gebühr",
+        "english": "fee"
+      },
+      {
+        "german": "unterschreiben",
+        "english": "to sign",
+        "match": "unterschreibt"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Wo hat Leonie ihre Tasche vergessen?",
+        "options": ["Im Bus", "In der Straßenbahn", "Im Büro", "Im Café"],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Leonie hat an der Haltestelle gemerkt, dass die Tasche weg war.",
+        "answer": false,
+        "explanation": "Sie hat es erst zu Hause gemerkt."
+      },
+      {
+        "type": "mc",
+        "prompt": "Wen hat Leonie heute Morgen angerufen?",
+        "options": [
+          "Die Polizei",
+          "Ihre Kollegin",
+          "Die Verkehrsbetriebe",
+          "Ihre Mutter"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie sieht Leonies Tasche aus?",
+        "options": [
+          "Groß und schwarz",
+          "Aus Stoff und rot",
+          "Klein und blau",
+          "Aus Leder, dunkelbraun und nicht sehr groß"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "tf",
+        "prompt": "Leonie ist um halb sieben mit der Linie 4 gefahren.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Was war NICHT in der Tasche?",
+        "options": ["Der Geldbeutel", "Ein Kalender", "Eine Brille", "Ein Schlüssel"],
+        "answer": 0
+      },
+      {
+        "type": "tf",
+        "prompt": "Im Fundbüro muss Leonie nichts bezahlen.",
+        "answer": false,
+        "explanation": "Sie muss eine Gebühr von fünf Euro bezahlen."
+      },
+      {
+        "type": "mc",
+        "prompt": "Was muss Leonie zeigen?",
+        "options": [
+          "Ihr Ticket",
+          "Ihren Ausweis",
+          "Ihre Bankkarte",
+          "Ein Foto der Tasche"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "In der Tasche fehlt nichts.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Was schenkt Leonie dem Mann?",
+        "options": ["Blumen", "Einen Kaffee", "Eine Schokolade", "Zehn Euro"],
+        "answer": 2
+      }
+    ]
+  },
+  {
+    "id": "a2-25",
+    "level": "A2",
+    "title": "Bei der Polizei",
+    "topic": "Bureaucracy",
+    "body": "Paul studiert in Münster und fährt jeden Tag mit dem Fahrrad zur Uni. Am Mittwoch hat er es wie immer vor der Bibliothek abgestellt und abgeschlossen. Als er am Nachmittag zurückgekommen ist, war sein Fahrrad weg. Nur das kaputte Schloss war noch da.\n\nPaul ist sofort zur Polizei gegangen, weil er eine Anzeige machen wollte. Die Polizeiwache war nicht weit weg. Eine Polizistin hat ihn freundlich begrüßt und seine Daten aufgenommen.\n\n„Wann und wo haben Sie das Fahrrad zuletzt gesehen?“, hat sie gefragt.\n\n„Heute um neun Uhr vor der Unibibliothek.“\n\n„Können Sie das Fahrrad beschreiben?“\n\n„Es ist grün und ungefähr drei Jahre alt. Hinten hat es einen schwarzen Korb.“\n\n„Wissen Sie die Rahmennummer?“\n\n„Ja, ich habe ein Foto davon auf meinem Handy.“\n\nDas war sehr hilfreich. Die Polizistin hat die Nummer und das Foto in den Computer eingegeben. Zum Schluss hat Paul eine Kopie der Anzeige bekommen. „Die brauchen Sie für Ihre Versicherung“, hat die Polizistin erklärt. Aber sie hat auch gesagt, dass die Polizei gestohlene Fahrräder leider selten findet.\n\nPaul hat die Kopie an seine Versicherung geschickt. Nach drei Wochen hat er 300 Euro bekommen. Jetzt hat er ein neues Fahrrad – und ein viel besseres Schloss.",
+    "glossary": [
+      {
+        "german": "abstellen",
+        "english": "to park, to leave (a bike)",
+        "match": "abgestellt"
+      },
+      {
+        "german": "abschließen",
+        "english": "to lock",
+        "match": "abgeschlossen"
+      },
+      {
+        "german": "das Schloss",
+        "english": "lock"
+      },
+      {
+        "german": "die Anzeige",
+        "english": "(police) report"
+      },
+      {
+        "german": "die Polizeiwache",
+        "english": "police station"
+      },
+      {
+        "german": "die Daten",
+        "english": "personal details, data"
+      },
+      {
+        "german": "aufnehmen",
+        "english": "to take down, to record",
+        "match": "aufgenommen"
+      },
+      {
+        "german": "beschreiben",
+        "english": "to describe"
+      },
+      {
+        "german": "der Korb",
+        "english": "basket"
+      },
+      {
+        "german": "die Rahmennummer",
+        "english": "frame number"
+      },
+      {
+        "german": "hilfreich",
+        "english": "helpful"
+      },
+      {
+        "german": "eingeben",
+        "english": "to enter (data)",
+        "match": "eingegeben"
+      },
+      {
+        "german": "stehlen",
+        "english": "to steal",
+        "match": "gestohlene"
+      },
+      {
+        "german": "selten",
+        "english": "rarely"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Wo hat Paul sein Fahrrad abgestellt?",
+        "options": [
+          "Vor dem Supermarkt",
+          "Vor seiner Wohnung",
+          "Vor der Bibliothek",
+          "Am Bahnhof"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "tf",
+        "prompt": "Paul hat sein Fahrrad nicht abgeschlossen.",
+        "answer": false,
+        "explanation": "Er hat es abgeschlossen, aber jemand hat das Schloss kaputt gemacht."
+      },
+      {
+        "type": "mc",
+        "prompt": "Warum ist Paul zur Polizei gegangen?",
+        "options": [
+          "Er wollte eine Anzeige machen.",
+          "Er hat ein Fahrrad gefunden.",
+          "Er hatte einen Unfall.",
+          "Er brauchte einen Ausweis."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie sieht Pauls Fahrrad aus?",
+        "options": [
+          "Rot mit einem schwarzen Korb",
+          "Grün mit einem schwarzen Korb",
+          "Schwarz und ganz neu",
+          "Grün ohne Korb"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Paul hatte ein Foto von der Rahmennummer.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Was hat die Polizistin in den Computer eingegeben?",
+        "options": [
+          "Nur Pauls Namen",
+          "Die Adresse der Universität",
+          "Pauls Telefonnummer",
+          "Die Rahmennummer und das Foto"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "mc",
+        "prompt": "Wofür braucht Paul die Kopie der Anzeige?",
+        "options": [
+          "Für die Uni",
+          "Für seine Versicherung",
+          "Für die Bank",
+          "Für ein neues Schloss"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Die Polizei findet gestohlene Fahrräder oft.",
+        "answer": false,
+        "explanation": "Die Polizistin hat gesagt, dass die Polizei sie leider selten findet."
+      },
+      {
+        "type": "tf",
+        "prompt": "Paul hat von der Versicherung 300 Euro bekommen.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Was hat Paul jetzt?",
+        "options": [
+          "Sein altes Fahrrad",
+          "Ein Auto",
+          "Ein neues Fahrrad und ein besseres Schloss",
+          "Eine Monatskarte für den Bus"
+        ],
+        "answer": 2
+      }
+    ]
+  },
+  {
+    "id": "a2-26",
+    "level": "A2",
+    "title": "In der Autowerkstatt",
+    "topic": "Cars and services",
+    "body": "Seit ein paar Tagen hört Sabine ein komisches Geräusch, wenn sie mit ihrem Auto bremst. Es quietscht laut, besonders in der Stadt. Ihr Mann meint, dass das gefährlich sein kann. Deshalb bringt Sabine das Auto am Montagmorgen in eine Werkstatt in Kassel.\n\n„Guten Morgen. Mein Auto macht beim Bremsen ein lautes Geräusch“, erklärt sie dem Mechaniker.\n\n„Seit wann haben Sie das Problem?“\n\n„Seit ungefähr einer Woche. Am Anfang war es leise, jetzt ist es viel lauter.“\n\n„Wir sehen uns das an. Können Sie das Auto bis heute Nachmittag hierlassen?“\n\n„Ja, das geht. Ich fahre mit dem Bus zur Arbeit.“\n\nUm zwölf Uhr ruft der Mechaniker an. „Die Bremsen vorne sind ziemlich kaputt. Wir müssen die Bremsscheiben und die Bremsbeläge wechseln. Der Kostenvoranschlag ist 420 Euro, mit Material und Arbeit.“\n\n„Oh, das ist teuer! Muss das wirklich sein?“\n\n„Ja, leider. Sonst ist das Fahren nicht mehr sicher.“\n\n„Na gut. Wann ist das Auto fertig?“\n\n„Morgen um zehn Uhr.“\n\nAm Dienstag holt Sabine das Auto ab. Die Rechnung ist ein bisschen niedriger als der Kostenvoranschlag: nur 395 Euro. Der Mechaniker hat außerdem das Öl kontrolliert – kostenlos. Auf der Fahrt nach Hause ist das Auto ganz leise. Sabine ist froh, dass sie nicht länger gewartet hat.",
+    "glossary": [
+      {
+        "german": "komisch",
+        "english": "strange, funny",
+        "match": "komisches"
+      },
+      {
+        "german": "das Geräusch",
+        "english": "noise, sound"
+      },
+      {
+        "german": "bremsen",
+        "english": "to brake",
+        "match": "bremst"
+      },
+      {
+        "german": "quietschen",
+        "english": "to squeak, to squeal",
+        "match": "quietscht"
+      },
+      {
+        "german": "gefährlich",
+        "english": "dangerous"
+      },
+      {
+        "german": "die Werkstatt",
+        "english": "(car) repair shop, garage"
+      },
+      {
+        "german": "der Mechaniker",
+        "english": "mechanic"
+      },
+      {
+        "german": "hierlassen",
+        "english": "to leave here"
+      },
+      {
+        "german": "die Bremse",
+        "english": "brake",
+        "match": "Bremsen"
+      },
+      {
+        "german": "wechseln",
+        "english": "to change, to replace"
+      },
+      {
+        "german": "der Kostenvoranschlag",
+        "english": "cost estimate, quote"
+      },
+      {
+        "german": "abholen",
+        "english": "to pick up, to collect",
+        "match": "holt"
+      },
+      {
+        "german": "die Rechnung",
+        "english": "bill, invoice"
+      },
+      {
+        "german": "niedrig",
+        "english": "low",
+        "match": "niedriger"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Wann hört Sabine das Geräusch?",
+        "options": [
+          "Wenn sie das Auto startet",
+          "Wenn sie bremst",
+          "Wenn sie schnell fährt",
+          "Wenn es regnet"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Sabines Mann meint, dass das Geräusch gefährlich sein kann.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Seit wann hat Sabine das Problem?",
+        "options": [
+          "Seit gestern",
+          "Seit einem Monat",
+          "Seit einem Jahr",
+          "Seit ungefähr einer Woche"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie fährt Sabine am Montag zur Arbeit?",
+        "options": [
+          "Mit dem Bus",
+          "Mit dem Fahrrad",
+          "Mit dem Auto von ihrem Mann",
+          "Zu Fuß"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "tf",
+        "prompt": "Der Mechaniker ruft am Abend an.",
+        "answer": false,
+        "explanation": "Er ruft um zwölf Uhr an."
+      },
+      {
+        "type": "mc",
+        "prompt": "Was muss die Werkstatt wechseln?",
+        "options": [
+          "Die Reifen",
+          "Das Öl und die Lampen",
+          "Die Bremsscheiben und die Bremsbeläge",
+          "Die Batterie"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie hoch ist der Kostenvoranschlag?",
+        "options": ["395 Euro", "420 Euro", "240 Euro", "500 Euro"],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Die Rechnung ist höher als der Kostenvoranschlag.",
+        "answer": false,
+        "explanation": "Die Rechnung ist niedriger: nur 395 Euro."
+      },
+      {
+        "type": "tf",
+        "prompt": "Der Mechaniker hat das Öl kostenlos kontrolliert.",
+        "answer": true
+      }
+    ]
+  },
+  {
+    "id": "a2-27",
+    "level": "A2",
+    "title": "Ein Auto mieten",
+    "topic": "Travel",
+    "body": "Familie Brandt macht Urlaub in Österreich. Nach dem Flug von Hamburg nach Salzburg gehen Herr und Frau Brandt mit ihren zwei Kindern zur Autovermietung am Flughafen. Sie haben das Auto schon vor einem Monat online reserviert.\n\n„Guten Tag, wir haben ein Auto für eine Woche gebucht“, sagt Herr Brandt und zeigt die Reservierung. Die Mitarbeiterin braucht seinen Führerschein, seinen Ausweis und eine Kreditkarte.\n\n„Möchten Sie eine Vollversicherung?“, fragt sie. „Dann zahlen Sie bei einem Unfall oder Schaden nichts. Sie kostet 15 Euro pro Tag.“ Herr Brandt überlegt kurz. Die Straßen in den Bergen sind eng, deshalb nimmt er die Versicherung.\n\n„Brauchen Sie auch einen Kindersitz?“\n\n„Ja, bitte, für unsere Tochter. Sie ist vier.“\n\nDann erklärt die Mitarbeiterin die Regeln: „Der Tank ist jetzt voll. Bitte bringen Sie das Auto auch mit vollem Tank zurück. Sonst müssen Sie extra zahlen, und das ist teurer als an der Tankstelle. Die Vignette für die Autobahn ist schon im Auto.“\n\nAuf dem Parkplatz kontrolliert Herr Brandt das Auto genau. Hinten links ist ein kleiner Kratzer. Er macht ein Foto und zeigt es der Mitarbeiterin. Sie schreibt den Kratzer in den Vertrag. So muss er später nicht dafür bezahlen.\n\nNach einer Woche bringt die Familie das Auto pünktlich und vollgetankt zurück. Alles ist in Ordnung, und die Kinder wollen schon wieder in die Berge fahren.",
+    "glossary": [
+      {
+        "german": "die Autovermietung",
+        "english": "car rental company"
+      },
+      {
+        "german": "reservieren",
+        "english": "to reserve, to book",
+        "match": "reserviert"
+      },
+      {
+        "german": "der Führerschein",
+        "english": "driving licence"
+      },
+      {
+        "german": "die Vollversicherung",
+        "english": "full (comprehensive) insurance"
+      },
+      {
+        "german": "der Unfall",
+        "english": "accident"
+      },
+      {
+        "german": "der Schaden",
+        "english": "damage"
+      },
+      {
+        "german": "überlegen",
+        "english": "to think about, to consider",
+        "match": "überlegt"
+      },
+      {
+        "german": "eng",
+        "english": "narrow"
+      },
+      {
+        "german": "der Kindersitz",
+        "english": "child seat"
+      },
+      {
+        "german": "der Tank",
+        "english": "(fuel) tank"
+      },
+      {
+        "german": "die Tankstelle",
+        "english": "petrol station"
+      },
+      {
+        "german": "die Vignette",
+        "english": "motorway toll sticker"
+      },
+      {
+        "german": "der Kratzer",
+        "english": "scratch"
+      },
+      {
+        "german": "vollgetankt",
+        "english": "with a full tank"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Wohin fliegt Familie Brandt?",
+        "options": ["Nach Hamburg", "Nach Wien", "Nach Salzburg", "Nach Innsbruck"],
+        "answer": 2
+      },
+      {
+        "type": "tf",
+        "prompt": "Die Familie hat das Auto erst am Flughafen reserviert.",
+        "answer": false,
+        "explanation": "Sie haben es schon vor einem Monat online reserviert."
+      },
+      {
+        "type": "mc",
+        "prompt": "Was braucht die Mitarbeiterin NICHT?",
+        "options": [
+          "Den Führerschein",
+          "Den Ausweis",
+          "Eine Kreditkarte",
+          "Die Flugtickets"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "mc",
+        "prompt": "Warum nimmt Herr Brandt die Vollversicherung?",
+        "options": [
+          "Sie ist kostenlos.",
+          "Die Straßen in den Bergen sind eng.",
+          "Seine Frau möchte das.",
+          "Das Auto ist sehr teuer."
+        ],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Die Vollversicherung kostet 15 Euro pro Tag.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Für wen ist der Kindersitz?",
+        "options": [
+          "Für die Tochter",
+          "Für den Sohn",
+          "Für beide Kinder",
+          "Für die Nichte"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie soll die Familie das Auto zurückbringen?",
+        "options": [
+          "Sauber und gewaschen",
+          "Mit leerem Tank",
+          "Mit vollem Tank",
+          "Mit der Vignette"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "tf",
+        "prompt": "Herr Brandt muss die Vignette selbst kaufen.",
+        "answer": false,
+        "explanation": "Die Vignette ist schon im Auto."
+      },
+      {
+        "type": "mc",
+        "prompt": "Was macht Herr Brandt, als er den Kratzer sieht?",
+        "options": [
+          "Er repariert ihn.",
+          "Er macht ein Foto und zeigt es der Mitarbeiterin.",
+          "Er nimmt ein anderes Auto.",
+          "Er macht nichts."
+        ],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Die Familie bringt das Auto pünktlich zurück.",
+        "answer": true
+      }
+    ]
+  },
+  {
+    "id": "a2-28",
+    "level": "A2",
+    "title": "Ärger im Hotel",
+    "topic": "Travel",
+    "body": "Herr Novak ist für zwei Tage auf Geschäftsreise in Dresden. Er hat ein Zimmer in einem Hotel im Zentrum gebucht. Am ersten Abend ist er sehr müde und möchte früh schlafen. Aber das ist nicht möglich: Sein Zimmer liegt direkt über der Hotelbar, und dort spielt laute Musik.\n\nUm elf Uhr will er duschen, doch aus der Dusche kommt nur kaltes Wasser. Jetzt ärgert er sich richtig. Er zieht sich wieder an und geht zur Rezeption.\n\n„Guten Abend. Ich habe leider zwei Probleme mit meinem Zimmer, Nummer 108“, sagt er. „Es ist sehr laut wegen der Bar, und die Dusche hat kein warmes Wasser. Ich muss morgen früh arbeiten und brauche meinen Schlaf.“\n\nDie Frau an der Rezeption entschuldigt sich sofort. „Das tut mir sehr leid, Herr Novak. Ich schaue gleich im Computer nach.“ Nach einer Minute lächelt sie. „Ich kann Ihnen ein anderes Zimmer im vierten Stock geben. Es ist ruhiger und ein bisschen größer. Natürlich ohne Aufpreis.“\n\n„Das klingt gut, danke.“\n\n„Und als Entschuldigung ist das Frühstück morgen für Sie kostenlos.“\n\nEin Mitarbeiter hilft Herrn Novak mit dem Koffer. Das neue Zimmer ist wirklich ruhig, und die Dusche funktioniert perfekt. Herr Novak schläft sehr gut. Am Morgen genießt er das Frühstück, und später schreibt er eine gute Bewertung im Internet.",
+    "glossary": [
+      {
+        "german": "die Geschäftsreise",
+        "english": "business trip"
+      },
+      {
+        "german": "buchen",
+        "english": "to book",
+        "match": "gebucht"
+      },
+      {
+        "german": "möglich",
+        "english": "possible"
+      },
+      {
+        "german": "sich ärgern",
+        "english": "to be annoyed",
+        "match": "ärgert"
+      },
+      {
+        "german": "sich anziehen",
+        "english": "to get dressed",
+        "match": "zieht"
+      },
+      {
+        "german": "die Rezeption",
+        "english": "reception desk"
+      },
+      {
+        "german": "sich entschuldigen",
+        "english": "to apologise",
+        "match": "entschuldigt"
+      },
+      {
+        "german": "nachschauen",
+        "english": "to check, to look up",
+        "match": "schaue"
+      },
+      {
+        "german": "der Stock",
+        "english": "floor, storey"
+      },
+      {
+        "german": "der Aufpreis",
+        "english": "extra charge"
+      },
+      {
+        "german": "die Entschuldigung",
+        "english": "apology"
+      },
+      {
+        "german": "genießen",
+        "english": "to enjoy",
+        "match": "genießt"
+      },
+      {
+        "german": "die Bewertung",
+        "english": "review, rating"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Warum ist Herr Novak in Dresden?",
+        "options": [
+          "Er macht Urlaub.",
+          "Er besucht seine Familie.",
+          "Er ist auf Geschäftsreise.",
+          "Er wohnt dort."
+        ],
+        "answer": 2
+      },
+      {
+        "type": "tf",
+        "prompt": "Herr Novak kann am ersten Abend früh schlafen.",
+        "answer": false,
+        "explanation": "Es ist zu laut wegen der Musik in der Bar."
+      },
+      {
+        "type": "mc",
+        "prompt": "Wo liegt sein erstes Zimmer?",
+        "options": [
+          "Direkt über der Hotelbar",
+          "Neben dem Aufzug",
+          "Im vierten Stock",
+          "Neben der Küche"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "mc",
+        "prompt": "Was ist das Problem mit der Dusche?",
+        "options": [
+          "Sie ist schmutzig.",
+          "Es kommt gar kein Wasser.",
+          "Sie ist zu klein.",
+          "Es kommt nur kaltes Wasser."
+        ],
+        "answer": 3
+      },
+      {
+        "type": "tf",
+        "prompt": "Herr Novak ruft die Rezeption an.",
+        "answer": false,
+        "explanation": "Er geht selbst zur Rezeption."
+      },
+      {
+        "type": "tf",
+        "prompt": "Die Frau an der Rezeption entschuldigt sich sofort.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie ist das neue Zimmer?",
+        "options": [
+          "Kleiner, aber billiger",
+          "Ruhiger und ein bisschen größer",
+          "Genauso laut",
+          "Teurer, aber schöner"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": "Was bekommt Herr Novak als Entschuldigung?",
+        "options": [
+          "Ein kostenloses Abendessen",
+          "Eine Nacht gratis",
+          "Ein kostenloses Frühstück",
+          "Einen Gutschein für die Bar"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "tf",
+        "prompt": "Herr Novak schreibt eine gute Bewertung im Internet.",
+        "answer": true
+      }
+    ]
+  },
+  {
+    "id": "a2-29",
+    "level": "A2",
+    "title": "Die falsche Bestellung",
+    "topic": "Eating out",
+    "body": "Am Samstag waren Julia und ihr Freund Marco in einem italienischen Restaurant in Heidelberg. Das Restaurant war sehr voll, und die Kellner hatten viel zu tun.\n\nJulia hat eine vegetarische Lasagne bestellt, weil sie kein Fleisch isst. Marco wollte Spaghetti mit Meeresfrüchten. Dazu haben sie eine Flasche Wasser und zwei Gläser Rotwein genommen.\n\nNach vierzig Minuten ist das Essen endlich gekommen. Marco hat seine Spaghetti bekommen, aber auf Julias Teller war eine Lasagne mit Hackfleisch. „Entschuldigung“, hat Julia zum Kellner gesagt, „das ist leider falsch. Ich habe die vegetarische Lasagne bestellt.“\n\nDer Kellner hat auf den Zettel mit der Bestellung geschaut. „Oh, Sie haben recht. Das war mein Fehler. Es tut mir wirklich leid!“ Er hat den Teller sofort mitgenommen. „Die Küche macht eine neue Lasagne. Das dauert leider noch fünfzehn Minuten.“\n\nMarco wollte nicht allein essen, deshalb hat er gewartet. Seine Spaghetti waren danach nur noch lauwarm. Das hat er dem Kellner aber nicht gesagt.\n\nDie neue Lasagne war sehr lecker. Als Entschuldigung hat der Kellner den beiden einen Nachtisch spendiert: zwei Portionen Tiramisu. Auch den Wein mussten sie nicht bezahlen. Julia und Marco haben trotzdem ein gutes Trinkgeld gegeben, weil der Kellner so freundlich war.",
+    "glossary": [
+      {
+        "german": "die Bestellung",
+        "english": "order"
+      },
+      {
+        "german": "der Kellner",
+        "english": "waiter"
+      },
+      {
+        "german": "vegetarisch",
+        "english": "vegetarian",
+        "match": "vegetarische"
+      },
+      {
+        "german": "die Meeresfrüchte",
+        "english": "seafood",
+        "match": "Meeresfrüchten"
+      },
+      {
+        "german": "der Teller",
+        "english": "plate"
+      },
+      {
+        "german": "das Hackfleisch",
+        "english": "minced meat"
+      },
+      {
+        "german": "der Zettel",
+        "english": "note, slip of paper"
+      },
+      {
+        "german": "recht haben",
+        "english": "to be right",
+        "match": "recht"
+      },
+      {
+        "german": "der Fehler",
+        "english": "mistake"
+      },
+      {
+        "german": "lauwarm",
+        "english": "lukewarm"
+      },
+      {
+        "german": "der Nachtisch",
+        "english": "dessert"
+      },
+      {
+        "german": "spendieren",
+        "english": "to treat someone to, to give for free",
+        "match": "spendiert"
+      },
+      {
+        "german": "trotzdem",
+        "english": "anyway, nevertheless"
+      },
+      {
+        "german": "das Trinkgeld",
+        "english": "tip"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Wo waren Julia und Marco am Samstag?",
+        "options": [
+          "In einem griechischen Restaurant",
+          "In einem italienischen Restaurant",
+          "In einer Pizzeria in Berlin",
+          "Zu Hause"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Julia isst kein Fleisch.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Was hat Marco bestellt?",
+        "options": [
+          "Eine Lasagne mit Hackfleisch",
+          "Eine Pizza",
+          "Tiramisu",
+          "Spaghetti mit Meeresfrüchten"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "tf",
+        "prompt": "Das Essen ist sehr schnell gekommen.",
+        "answer": false,
+        "explanation": "Es hat vierzig Minuten gedauert."
+      },
+      {
+        "type": "mc",
+        "prompt": "Was war das Problem?",
+        "options": [
+          "Julia hat eine Lasagne mit Hackfleisch bekommen.",
+          "Das Essen war kalt.",
+          "Der Wein war falsch.",
+          "Marco hat nichts bekommen."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "mc",
+        "prompt": "Was hat der Kellner gesagt?",
+        "options": [
+          "„Das ist nicht mein Problem.“",
+          "„Die Küche ist schon geschlossen.“",
+          "„Das war mein Fehler. Es tut mir leid!“",
+          "„Sie haben Lasagne mit Fleisch bestellt.“"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "tf",
+        "prompt": "Marco hat seine Spaghetti sofort gegessen.",
+        "answer": false,
+        "explanation": "Er hat auf Julia gewartet."
+      },
+      {
+        "type": "mc",
+        "prompt": "Was haben die beiden als Entschuldigung bekommen?",
+        "options": [
+          "Eine Flasche Wein",
+          "Zwei Portionen Tiramisu, und den Wein mussten sie nicht bezahlen",
+          "Einen Gutschein",
+          "Das ganze Essen gratis"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Julia und Marco haben ein gutes Trinkgeld gegeben.",
+        "answer": true
+      }
+    ]
+  },
+  {
+    "id": "a2-30",
+    "level": "A2",
+    "title": "Der Zug fällt aus",
+    "topic": "Transport",
+    "body": "Hallo Svenja,\n\nwas für ein Tag! Eigentlich wollte ich heute um 14 Uhr bei dir in Köln sein. Aber jetzt sitze ich im Zug und komme erst um halb sieben an.\n\nHeute Morgen war ich pünktlich am Bahnhof in Nürnberg. Mein ICE sollte um 8:30 Uhr fahren. Dann gab es eine Durchsage: „Der ICE nach Köln fällt heute leider aus.“ Der Grund war eine Störung auf der Strecke. Alle Leute auf dem Bahnsteig waren sauer.\n\nIch bin zum Informationsschalter gegangen. Dort musste ich fast eine halbe Stunde warten, weil die Schlange so lang war. Die Frau am Schalter war aber sehr nett. Sie hat mir eine andere Verbindung gesucht: zuerst mit dem Regionalzug nach Würzburg, dort umsteigen und dann weiter mit einem ICE über Frankfurt. Mein Ticket ist weiter gültig, ich muss nichts extra bezahlen.\n\nSie hat mir auch erklärt, dass ich einen Teil vom Fahrpreis zurückbekomme, weil ich mehr als eine Stunde Verspätung habe. Den Antrag kann ich online stellen. Das mache ich heute Abend!\n\nIn Würzburg hatte ich zehn Minuten Zeit und habe mir einen Kaffee gekauft. Jetzt sitze ich im ICE und habe sogar einen Platz am Fenster.\n\nHolst du mich am Bahnhof ab?\n\nLiebe Grüße\nTimo",
+    "glossary": [
+      {
+        "german": "ausfallen",
+        "english": "to be cancelled",
+        "match": "fällt"
+      },
+      {
+        "german": "die Durchsage",
+        "english": "announcement"
+      },
+      {
+        "german": "der Grund",
+        "english": "reason"
+      },
+      {
+        "german": "die Störung",
+        "english": "disruption, fault"
+      },
+      {
+        "german": "die Strecke",
+        "english": "(railway) line, route"
+      },
+      {
+        "german": "der Bahnsteig",
+        "english": "platform"
+      },
+      {
+        "german": "sauer",
+        "english": "annoyed, cross (informal)"
+      },
+      {
+        "german": "die Schlange",
+        "english": "queue"
+      },
+      {
+        "german": "die Verbindung",
+        "english": "connection"
+      },
+      {
+        "german": "umsteigen",
+        "english": "to change (trains)"
+      },
+      {
+        "german": "gültig",
+        "english": "valid"
+      },
+      {
+        "german": "der Fahrpreis",
+        "english": "fare"
+      },
+      {
+        "german": "die Verspätung",
+        "english": "delay"
+      },
+      {
+        "german": "einen Antrag stellen",
+        "english": "to submit an application/claim",
+        "match": "Antrag"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Wann wollte Timo in Köln sein?",
+        "options": ["Um 8:30 Uhr", "Um halb sieben", "Um 14 Uhr", "Am Abend"],
+        "answer": 2
+      },
+      {
+        "type": "tf",
+        "prompt": "Timo ist zu spät zum Bahnhof gekommen.",
+        "answer": false,
+        "explanation": "Er war pünktlich am Bahnhof."
+      },
+      {
+        "type": "mc",
+        "prompt": "Warum ist der ICE ausgefallen?",
+        "options": [
+          "Das Wetter war schlecht.",
+          "Es gab eine Störung auf der Strecke.",
+          "Der Zug war kaputt.",
+          "Es gab einen Streik."
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": "Warum musste Timo am Informationsschalter lange warten?",
+        "options": [
+          "Die Schlange war sehr lang.",
+          "Der Schalter war geschlossen.",
+          "Die Frau war unfreundlich.",
+          "Er hatte kein Ticket."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "tf",
+        "prompt": "Timo muss für die neue Verbindung extra bezahlen.",
+        "answer": false,
+        "explanation": "Sein Ticket ist weiter gültig."
+      },
+      {
+        "type": "mc",
+        "prompt": "Wo steigt Timo um?",
+        "options": ["In Köln", "In Nürnberg", "In Frankfurt", "In Würzburg"],
+        "answer": 3
+      },
+      {
+        "type": "mc",
+        "prompt": "Warum bekommt Timo einen Teil vom Fahrpreis zurück?",
+        "options": [
+          "Er hat mehr als eine Stunde Verspätung.",
+          "Er hat keinen Sitzplatz bekommen.",
+          "Er ist Student.",
+          "Der Kaffee war zu teuer."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "tf",
+        "prompt": "Timo kann den Antrag online stellen.",
+        "answer": true
+      },
+      {
+        "type": "tf",
+        "prompt": "Timo hat im ICE einen Platz am Fenster.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Was möchte Timo von Svenja?",
+        "options": [
+          "Sie soll ihm ein Ticket kaufen.",
+          "Sie soll ihn anrufen.",
+          "Sie soll ihn am Bahnhof abholen.",
+          "Sie soll für ihn kochen."
+        ],
+        "answer": 2
+      }
+    ]
+  },
+  {
+    "id": "a2-31",
+    "level": "A2",
+    "title": "Der Koffer ist nicht da",
+    "topic": "Travel",
+    "body": "Herr Novak ist am Sonntagabend von Lissabon nach Hamburg geflogen. Der Flug war pünktlich und ruhig. Aber am Gepäckband hat er lange gewartet. Alle anderen Passagiere haben ihre Koffer genommen und sind gegangen. Nur sein blauer Koffer ist nicht gekommen.\n\nHerr Novak ist zum Schalter für verlorenes Gepäck gegangen. Dort hat eine junge Frau gearbeitet.\n„Guten Abend. Mein Koffer ist nicht angekommen“, hat er gesagt.\n„Das tut mir leid. Haben Sie Ihre Bordkarte und den Gepäckschein?“\nEr hat ihr beide Papiere gegeben. Sie hat im Computer gesucht und dann gesagt: „Ihr Koffer ist leider noch in Lissabon. Er kommt wahrscheinlich morgen mit dem ersten Flug.“\n„Und was mache ich jetzt? Meine Kleidung und meine Medikamente sind im Koffer.“\n„Sie können heute Abend das Nötigste kaufen, zum Beispiel eine Zahnbürste und ein T-Shirt. Bitte heben Sie die Quittungen auf. Die Fluggesellschaft bezahlt Ihnen das Geld zurück.“\n\nDann hat Herr Novak ein Formular ausgefüllt. Er hat seine Adresse und seine Telefonnummer aufgeschrieben und den Koffer genau beschrieben.\n\nAm Montagnachmittag hat es an der Tür geklingelt. Ein Fahrer hat den Koffer gebracht. Herr Novak war sehr froh, denn nichts war kaputt.",
+    "glossary": [
+      {
+        "german": "das Gepäckband",
+        "english": "baggage carousel"
+      },
+      {
+        "german": "der Passagier",
+        "english": "passenger",
+        "match": "Passagiere"
+      },
+      {
+        "german": "der Schalter",
+        "english": "counter, desk"
+      },
+      {
+        "german": "das Gepäck",
+        "english": "luggage"
+      },
+      {
+        "german": "ankommen",
+        "english": "to arrive",
+        "match": "angekommen"
+      },
+      {
+        "german": "die Bordkarte",
+        "english": "boarding pass"
+      },
+      {
+        "german": "der Gepäckschein",
+        "english": "baggage tag, luggage receipt"
+      },
+      {
+        "german": "wahrscheinlich",
+        "english": "probably"
+      },
+      {
+        "german": "das Nötigste",
+        "english": "the bare essentials"
+      },
+      {
+        "german": "die Quittung",
+        "english": "receipt",
+        "match": "Quittungen"
+      },
+      {
+        "german": "die Fluggesellschaft",
+        "english": "airline"
+      },
+      {
+        "german": "das Formular",
+        "english": "form"
+      },
+      {
+        "german": "ausfüllen",
+        "english": "to fill in",
+        "match": "ausgefüllt"
+      },
+      {
+        "german": "beschreiben",
+        "english": "to describe",
+        "match": "beschrieben"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Von wo ist Herr Novak geflogen?",
+        "options": ["Aus Hamburg", "Aus Lissabon", "Aus Wien", "Aus Zürich"],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Der Flug hatte Verspätung.",
+        "answer": false,
+        "explanation": "Der Flug war pünktlich."
+      },
+      {
+        "type": "mc",
+        "prompt": "Welche Farbe hat sein Koffer?",
+        "options": ["Rot", "Schwarz", "Grün", "Blau"],
+        "answer": 3
+      },
+      {
+        "type": "tf",
+        "prompt": "Herr Novak ist zum Schalter für verlorenes Gepäck gegangen.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Was wollte die Frau sehen?",
+        "options": [
+          "Den Pass und das Ticket",
+          "Die Bordkarte und den Gepäckschein",
+          "Die Kreditkarte",
+          "Den Führerschein"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": "Wo ist der Koffer?",
+        "options": [
+          "Noch in Lissabon",
+          "In Berlin",
+          "Im Hotel",
+          "In einem Flugzeug nach Wien"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "tf",
+        "prompt": "Seine Medikamente waren im Koffer.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Was soll Herr Novak mit den Quittungen machen?",
+        "options": [
+          "Er soll sie wegwerfen.",
+          "Er soll sie der Polizei schicken.",
+          "Er soll sie aufheben.",
+          "Er soll sie dem Fahrer geben."
+        ],
+        "answer": 2
+      },
+      {
+        "type": "tf",
+        "prompt": "Herr Novak hat den Koffer am Flughafen abgeholt.",
+        "answer": false,
+        "explanation": "Ein Fahrer hat den Koffer zu ihm nach Hause gebracht."
+      },
+      {
+        "type": "mc",
+        "prompt": "Wann ist der Koffer gekommen?",
+        "options": [
+          "Am Sonntagabend",
+          "Am Montagmorgen",
+          "Am Montagnachmittag",
+          "Am Dienstag"
+        ],
+        "answer": 2
+      }
+    ]
+  },
+  {
+    "id": "a2-32",
+    "level": "A2",
+    "title": "Im Möbelhaus",
+    "topic": "Shopping and furniture",
+    "body": "Lena und Tobias wohnen seit einem Jahr zusammen in Dresden. Ihr altes Sofa ist hässlich und unbequem, deshalb sind sie am Samstag ins Möbelhaus gefahren.\n\nDas Möbelhaus war riesig und sehr voll. Zuerst haben sie viele Sofas ausprobiert. Ein graues Sofa war sehr bequem, aber es war zu groß für ihr Wohnzimmer. Ein rotes Sofa hat Tobias gut gefallen, aber Lena fand die Farbe zu laut. Am Ende haben sie ein grünes Sofa gefunden. Es war nicht zu groß, nicht zu klein und hat 699 Euro gekostet.\n\n„Können Sie uns das Sofa nach Hause liefern?“, hat Lena den Verkäufer gefragt.\n„Natürlich. Die Lieferung kostet 49 Euro. Wir können am nächsten Donnerstag kommen.“\n„Und müssen wir das Sofa selbst aufbauen?“\n„Nein, beim Sofa ist das nicht nötig. Aber wenn Sie auch einen Schrank kaufen, bauen unsere Monteure ihn gern für Sie auf. Das kostet extra.“\n\nTobias wollte keinen Monteur. Er hat gesagt, dass er Schränke selbst aufbauen kann. Lena hat nur gelacht, weil sein letztes Regal immer noch schief ist. Deshalb haben sie heute keinen Schrank gekauft.\n\nNach dem Einkauf waren beide hungrig. Sie haben im Restaurant des Möbelhauses Frikadellen mit Kartoffeln gegessen. Danach haben sie noch Kerzen, Kissen und eine Pflanze gekauft. Das war eigentlich nicht geplant!",
+    "glossary": [
+      {
+        "german": "das Möbelhaus",
+        "english": "furniture store"
+      },
+      {
+        "german": "unbequem",
+        "english": "uncomfortable"
+      },
+      {
+        "german": "riesig",
+        "english": "huge"
+      },
+      {
+        "german": "ausprobieren",
+        "english": "to try out",
+        "match": "ausprobiert"
+      },
+      {
+        "german": "bequem",
+        "english": "comfortable"
+      },
+      {
+        "german": "liefern",
+        "english": "to deliver"
+      },
+      {
+        "german": "die Lieferung",
+        "english": "delivery"
+      },
+      {
+        "german": "aufbauen",
+        "english": "to assemble, to set up"
+      },
+      {
+        "german": "der Schrank",
+        "english": "wardrobe, cupboard"
+      },
+      {
+        "german": "der Monteur",
+        "english": "fitter, assembly worker"
+      },
+      {
+        "german": "das Regal",
+        "english": "shelf"
+      },
+      {
+        "german": "schief",
+        "english": "crooked, not straight"
+      },
+      {
+        "german": "planen",
+        "english": "to plan",
+        "match": "geplant"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Warum wollen Lena und Tobias ein neues Sofa?",
+        "options": [
+          "Das alte Sofa ist kaputt.",
+          "Das alte Sofa ist hässlich und unbequem.",
+          "Sie ziehen in eine größere Wohnung.",
+          "Sie haben Geld gewonnen."
+        ],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Im Möbelhaus waren nur wenige Leute.",
+        "answer": false,
+        "explanation": "Das Möbelhaus war sehr voll."
+      },
+      {
+        "type": "mc",
+        "prompt": "Was war das Problem mit dem grauen Sofa?",
+        "options": [
+          "Es war zu teuer.",
+          "Es war zu klein.",
+          "Es war zu groß.",
+          "Es war unbequem."
+        ],
+        "answer": 2
+      },
+      {
+        "type": "tf",
+        "prompt": "Lena hat die Farbe von dem roten Sofa nicht gefallen.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie viel hat das grüne Sofa gekostet?",
+        "options": ["699 Euro", "49 Euro", "599 Euro", "749 Euro"],
+        "answer": 0
+      },
+      {
+        "type": "mc",
+        "prompt": "Wann kommt die Lieferung?",
+        "options": ["Am Samstag", "Am Montag", "Am Freitag", "Am Donnerstag"],
+        "answer": 3
+      },
+      {
+        "type": "tf",
+        "prompt": "Die Lieferung ist kostenlos.",
+        "answer": false,
+        "explanation": "Die Lieferung kostet 49 Euro."
+      },
+      {
+        "type": "mc",
+        "prompt": "Warum hat Lena gelacht?",
+        "options": [
+          "Tobias hat einen Witz erzählt.",
+          "Sein letztes Regal ist immer noch schief.",
+          "Der Verkäufer war lustig.",
+          "Das Sofa war sehr billig."
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": "Was haben sie im Restaurant gegessen?",
+        "options": ["Pizza", "Suppe", "Frikadellen mit Kartoffeln", "Salat"],
+        "answer": 2
+      },
+      {
+        "type": "tf",
+        "prompt": "Am Ende haben sie noch andere Sachen gekauft.",
+        "answer": true
+      }
+    ]
+  },
+  {
+    "id": "a2-33",
+    "level": "A2",
+    "title": "Beim Optiker",
+    "topic": "Health",
+    "body": "Seit ein paar Wochen hat Ahmet beim Lesen oft Kopfschmerzen. Auch die Schilder auf der Straße kann er nicht mehr gut sehen. Seine Frau hat gesagt: „Du brauchst eine Brille!“ Also ist Ahmet in Graz zu einem Optiker gegangen.\n\n„Guten Tag, ich möchte gern einen Sehtest machen“, hat Ahmet gesagt.\n„Kein Problem. Bitte setzen Sie sich hier hin“, hat die Optikerin geantwortet.\n\nAhmet musste Buchstaben an der Wand lesen. Die großen Buchstaben waren leicht, aber die kleinen waren schwierig. Dann hat die Optikerin verschiedene Gläser vor seine Augen gehalten.\n„Ist es so besser oder so?“\n„So ist es viel besser!“\n\nNach zehn Minuten war der Test fertig. „Sie sind ein bisschen kurzsichtig“, hat die Optikerin erklärt. „Eine Brille hilft Ihnen beim Autofahren und im Kino.“\n\nDann hat Ahmet ein Gestell ausgesucht. Das war nicht einfach, denn es gab Hunderte! Ein rundes Gestell war zu modern für ihn, ein schwarzes war zu schwer. Am Ende hat er ein leichtes, braunes Gestell genommen. Es passt gut zu seinem Gesicht.\n\nDie Brille kostet 280 Euro. Ahmet kann sie in einer Woche abholen. Seine Frau freut sich schon, weil er dann endlich wieder die Schilder lesen kann.",
+    "glossary": [
+      {
+        "german": "die Brille",
+        "english": "glasses"
+      },
+      {
+        "german": "der Optiker",
+        "english": "optician"
+      },
+      {
+        "german": "das Schild",
+        "english": "sign",
+        "match": "Schilder"
+      },
+      {
+        "german": "der Sehtest",
+        "english": "eye test"
+      },
+      {
+        "german": "der Buchstabe",
+        "english": "letter (of the alphabet)",
+        "match": "Buchstaben"
+      },
+      {
+        "german": "schwierig",
+        "english": "difficult"
+      },
+      {
+        "german": "das Glas",
+        "english": "lens, glass",
+        "match": "Gläser"
+      },
+      {
+        "german": "kurzsichtig",
+        "english": "short-sighted"
+      },
+      {
+        "german": "erklären",
+        "english": "to explain",
+        "match": "erklärt"
+      },
+      {
+        "german": "das Gestell",
+        "english": "(glasses) frame"
+      },
+      {
+        "german": "aussuchen",
+        "english": "to choose, to pick out",
+        "match": "ausgesucht"
+      },
+      {
+        "german": "passen zu",
+        "english": "to suit, to go with",
+        "match": "passt"
+      },
+      {
+        "german": "das Gesicht",
+        "english": "face"
+      },
+      {
+        "german": "abholen",
+        "english": "to pick up, to collect"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Welches Problem hat Ahmet beim Lesen?",
+        "options": [
+          "Bauchschmerzen",
+          "Kopfschmerzen",
+          "Rückenschmerzen",
+          "Halsschmerzen"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Ahmets Frau hat gesagt, dass er eine Brille braucht.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "In welcher Stadt ist der Optiker?",
+        "options": ["In Wien", "In Linz", "In Graz", "In Salzburg"],
+        "answer": 2
+      },
+      {
+        "type": "tf",
+        "prompt": "Die kleinen Buchstaben waren leicht zu lesen.",
+        "answer": false,
+        "explanation": "Die kleinen Buchstaben waren schwierig."
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie lange hat der Test gedauert?",
+        "options": ["Fünf Minuten", "Zehn Minuten", "Zwanzig Minuten", "Eine Stunde"],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": "Was hat die Optikerin gesagt?",
+        "options": [
+          "Ahmet ist ein bisschen kurzsichtig.",
+          "Ahmet braucht keine Brille.",
+          "Ahmet muss zum Arzt gehen.",
+          "Ahmet darf nicht mehr Auto fahren."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "tf",
+        "prompt": "Es gab nur wenige Gestelle.",
+        "answer": false,
+        "explanation": "Es gab Hunderte."
+      },
+      {
+        "type": "mc",
+        "prompt": "Welches Gestell hat Ahmet genommen?",
+        "options": [
+          "Ein rundes Gestell",
+          "Ein schweres, schwarzes Gestell",
+          "Ein leichtes, braunes Gestell",
+          "Ein rotes Gestell"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie viel kostet die Brille?",
+        "options": ["180 Euro", "208 Euro", "380 Euro", "280 Euro"],
+        "answer": 3
+      },
+      {
+        "type": "tf",
+        "prompt": "Ahmet kann die Brille sofort mitnehmen.",
+        "answer": false,
+        "explanation": "Er kann sie in einer Woche abholen."
+      }
+    ]
+  },
+  {
+    "id": "a2-34",
+    "level": "A2",
+    "title": "Ein Abend im Kino",
+    "topic": "Free time",
+    "body": "Am Freitagabend wollten Sophie und ihre Freundin Mia ins Kino gehen. Zuerst mussten sie einen Film auswählen. Mia wollte eine Komödie sehen, aber Sophie wollte lieber einen Krimi. Am Ende haben sie sich für den Krimi entschieden, weil die Komödie schon ausverkauft war.\n\nDie Karten haben sie online reserviert. Sie haben zwei Plätze in der Mitte genommen, in Reihe 8. An der Kasse im Kino haben sie noch eine große Tüte Popcorn und zwei Cola gekauft. Das war teurer als die Kinokarten!\n\nDer Film hat um 20:15 Uhr angefangen. Zuerst gab es fast zwanzig Minuten Werbung. Dann ist ein Mann gekommen und hat sich neben Sophie gesetzt. Er hat die ganze Zeit laut gegessen und mit seinem Handy gespielt. Das helle Licht vom Handy hat Sophie sehr gestört.\n\nNach einer halben Stunde hat Sophie leise gesagt: „Entschuldigung, können Sie bitte Ihr Handy ausmachen?“\nDer Mann war zuerst überrascht. Dann hat er gesagt: „Oh, Entschuldigung!“ Er hat das Handy sofort in die Tasche gesteckt.\n\nDer Film war sehr spannend. Bis zum Ende wusste niemand, wer der Täter war. Nach dem Kino sind Sophie und Mia noch in eine Bar gegangen und haben lange über den Film gesprochen.",
+    "glossary": [
+      {
+        "german": "auswählen",
+        "english": "to choose, to select"
+      },
+      {
+        "german": "die Komödie",
+        "english": "comedy"
+      },
+      {
+        "german": "der Krimi",
+        "english": "crime film, thriller"
+      },
+      {
+        "german": "sich entscheiden",
+        "english": "to decide",
+        "match": "entschieden"
+      },
+      {
+        "german": "ausverkauft",
+        "english": "sold out"
+      },
+      {
+        "german": "reservieren",
+        "english": "to book, to reserve",
+        "match": "reserviert"
+      },
+      {
+        "german": "die Reihe",
+        "english": "row"
+      },
+      {
+        "german": "die Tüte",
+        "english": "bag"
+      },
+      {
+        "german": "die Werbung",
+        "english": "adverts, advertising"
+      },
+      {
+        "german": "stören",
+        "english": "to disturb, to bother",
+        "match": "gestört"
+      },
+      {
+        "german": "ausmachen",
+        "english": "to switch off"
+      },
+      {
+        "german": "überrascht",
+        "english": "surprised"
+      },
+      {
+        "german": "spannend",
+        "english": "exciting, gripping"
+      },
+      {
+        "german": "der Täter",
+        "english": "culprit, perpetrator"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Welchen Film wollte Mia sehen?",
+        "options": [
+          "Einen Krimi",
+          "Eine Komödie",
+          "Einen Liebesfilm",
+          "Einen Horrorfilm"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Sie haben den Krimi gesehen, weil die Komödie ausverkauft war.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie haben sie die Karten reserviert?",
+        "options": ["An der Kasse", "Am Telefon", "Online", "Bei einem Freund"],
+        "answer": 2
+      },
+      {
+        "type": "mc",
+        "prompt": "In welcher Reihe haben sie gesessen?",
+        "options": ["In Reihe 8", "In Reihe 3", "In Reihe 5", "In Reihe 12"],
+        "answer": 0
+      },
+      {
+        "type": "tf",
+        "prompt": "Das Popcorn und die Cola waren billiger als die Kinokarten.",
+        "answer": false,
+        "explanation": "Sie waren teurer als die Kinokarten."
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie lange gab es Werbung?",
+        "options": [
+          "Fünf Minuten",
+          "Zehn Minuten",
+          "Fast zwanzig Minuten",
+          "Eine Stunde"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "mc",
+        "prompt": "Was hat Sophie gestört?",
+        "options": [
+          "Der Mann hat geschlafen.",
+          "Der Mann hat gesungen.",
+          "Der Mann hat telefoniert.",
+          "Der Mann hat laut gegessen und mit dem Handy gespielt."
+        ],
+        "answer": 3
+      },
+      {
+        "type": "tf",
+        "prompt": "Der Mann ist wütend geworden.",
+        "answer": false,
+        "explanation": "Er hat sich entschuldigt und das Handy weggesteckt."
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie war der Film?",
+        "options": ["Langweilig", "Spannend", "Lustig", "Traurig"],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Nach dem Kino haben Sophie und Mia über den Film gesprochen.",
+        "answer": true
+      }
+    ]
+  },
+  {
+    "id": "a2-35",
+    "level": "A2",
+    "title": "Ein Tag im Museum",
+    "topic": "Culture",
+    "body": "Hallo Jonas,\n\ngestern war ich mit meiner Klasse im Deutschen Museum in München. Ich hatte zuerst keine Lust, weil ich Museen normalerweise langweilig finde. Aber es war wirklich toll!\n\nUm zehn Uhr hat unsere Führung begonnen. Eine Frau hat uns alte Flugzeuge und Schiffe gezeigt. Sie hat alles sehr interessant erklärt und viele lustige Geschichten erzählt. Ich wusste zum Beispiel nicht, dass das erste Auto nur 16 Kilometer pro Stunde gefahren ist!\n\nNach der Führung hatten wir zwei Stunden frei. Ich habe mir einen Audioguide ausgeliehen. Man drückt eine Nummer und hört dann Informationen über das Objekt. Das war praktisch, aber die Kopfhörer waren nicht sehr bequem.\n\nMittags sind wir ins Museumscafé gegangen. Der Kuchen war lecker, aber teuer: 5 Euro für ein Stück!\n\nAm Ende war ich noch im Museumsshop. Dort gibt es Bücher, Poster und kleine Modelle. Ich habe für meinen Bruder ein kleines Flugzeug gekauft. Er hat sich sehr gefreut.\n\nDas Museum ist so groß, dass man an einem Tag nicht alles sehen kann. Hast du Lust, im Sommer mit mir noch einmal hinzufahren? Der Eintritt für Schüler ist nicht teuer.\n\nViele Grüße\nPaula",
+    "glossary": [
+      {
+        "german": "Lust haben",
+        "english": "to feel like (doing something)",
+        "match": "Lust"
+      },
+      {
+        "german": "normalerweise",
+        "english": "normally, usually"
+      },
+      {
+        "german": "langweilig",
+        "english": "boring"
+      },
+      {
+        "german": "die Führung",
+        "english": "guided tour"
+      },
+      {
+        "german": "das Flugzeug",
+        "english": "aeroplane",
+        "match": "Flugzeuge"
+      },
+      {
+        "german": "das Schiff",
+        "english": "ship",
+        "match": "Schiffe"
+      },
+      {
+        "german": "erklären",
+        "english": "to explain",
+        "match": "erklärt"
+      },
+      {
+        "german": "ausleihen",
+        "english": "to borrow, to rent",
+        "match": "ausgeliehen"
+      },
+      {
+        "german": "drücken",
+        "english": "to press",
+        "match": "drückt"
+      },
+      {
+        "german": "der Kopfhörer",
+        "english": "headphones"
+      },
+      {
+        "german": "das Stück",
+        "english": "piece, slice"
+      },
+      {
+        "german": "das Modell",
+        "english": "model",
+        "match": "Modelle"
+      },
+      {
+        "german": "der Eintritt",
+        "english": "admission, entrance fee"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Mit wem war Paula im Museum?",
+        "options": [
+          "Mit ihrer Familie",
+          "Mit ihrer Klasse",
+          "Mit ihrem Bruder",
+          "Mit Jonas"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Paula findet Museen normalerweise spannend.",
+        "answer": false,
+        "explanation": "Sie findet Museen normalerweise langweilig."
+      },
+      {
+        "type": "mc",
+        "prompt": "Was hat die Frau bei der Führung gezeigt?",
+        "options": [
+          "Alte Flugzeuge und Schiffe",
+          "Alte Bilder",
+          "Wilde Tiere",
+          "Alte Kleider"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie schnell ist das erste Auto gefahren?",
+        "options": [
+          "6 Kilometer pro Stunde",
+          "16 Kilometer pro Stunde",
+          "60 Kilometer pro Stunde",
+          "100 Kilometer pro Stunde"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Paula hat sich einen Audioguide ausgeliehen.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Was war nicht so gut am Audioguide?",
+        "options": [
+          "Er war zu teuer.",
+          "Er war kaputt.",
+          "Die Kopfhörer waren nicht bequem.",
+          "Es gab nur Informationen auf Englisch."
+        ],
+        "answer": 2
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie viel hat ein Stück Kuchen gekostet?",
+        "options": ["3 Euro", "4 Euro", "5 Euro", "6 Euro"],
+        "answer": 2
+      },
+      {
+        "type": "tf",
+        "prompt": "Paula hat für ihren Bruder ein Buch gekauft.",
+        "answer": false,
+        "explanation": "Sie hat ein kleines Flugzeug gekauft."
+      },
+      {
+        "type": "tf",
+        "prompt": "Man kann das ganze Museum an einem Tag sehen.",
+        "answer": false,
+        "explanation": "Das Museum ist zu groß für einen Tag."
+      },
+      {
+        "type": "mc",
+        "prompt": "Was möchte Paula im Sommer machen?",
+        "options": [
+          "Nach Berlin fahren",
+          "Im Museumscafé arbeiten",
+          "Einen Audioguide kaufen",
+          "Mit Jonas noch einmal ins Museum fahren"
+        ],
+        "answer": 3
+      }
+    ]
+  },
+  {
+    "id": "a2-36",
+    "level": "A2",
+    "title": "Beim Tierarzt",
+    "topic": "Animals",
+    "body": "Familie Huber aus Innsbruck hat einen Hund. Er heißt Bruno und ist acht Jahre alt. Normalerweise ist Bruno fröhlich und frisst sehr viel. Aber seit gestern liegt er nur in seinem Korb. Er will nicht spazieren gehen und hat sein Futter nicht angerührt.\n\nFrau Huber hat sich Sorgen gemacht und in der Tierarztpraxis angerufen. Sie konnte am Nachmittag vorbeikommen. Im Wartezimmer saßen schon eine Frau mit einer Katze und ein Junge mit einem Kaninchen. Bruno hat die Katze gesehen, aber er hat nicht einmal gebellt.\n\nDann war Bruno an der Reihe. Die Tierärztin hat ihn gewogen und seinen Bauch untersucht.\n„Hat Bruno vielleicht etwas Falsches gefressen?“, hat sie gefragt.\nFrau Huber hat kurz nachgedacht. „Ja, vielleicht! Am Sonntag haben wir gegrillt. Meine Kinder haben ihm vielleicht Knochen gegeben.“\n„Das kann das Problem sein. Sein Magen ist nicht in Ordnung, aber es ist nicht schlimm.“\n\nDie Tierärztin hat Bruno eine Spritze gegeben. Außerdem hat Frau Huber Tabletten für zu Hause bekommen. Bruno soll zwei Tage nur Reis mit Hühnchen fressen.\n\nZu Hause hat Frau Huber mit den Kindern gesprochen: Hunde dürfen keine Knochen vom Grill bekommen! Nach drei Tagen war Bruno wieder gesund und hat im Garten gespielt.",
+    "glossary": [
+      {
+        "german": "fressen",
+        "english": "to eat (of animals)",
+        "match": "frisst"
+      },
+      {
+        "german": "der Korb",
+        "english": "basket"
+      },
+      {
+        "german": "das Futter",
+        "english": "(animal) food"
+      },
+      {
+        "german": "anrühren",
+        "english": "to touch",
+        "match": "angerührt"
+      },
+      {
+        "german": "sich Sorgen machen",
+        "english": "to worry",
+        "match": "Sorgen"
+      },
+      {
+        "german": "das Wartezimmer",
+        "english": "waiting room"
+      },
+      {
+        "german": "das Kaninchen",
+        "english": "rabbit"
+      },
+      {
+        "german": "bellen",
+        "english": "to bark",
+        "match": "gebellt"
+      },
+      {
+        "german": "an der Reihe sein",
+        "english": "to be someone's turn",
+        "match": "an der Reihe"
+      },
+      {
+        "german": "wiegen",
+        "english": "to weigh",
+        "match": "gewogen"
+      },
+      {
+        "german": "untersuchen",
+        "english": "to examine",
+        "match": "untersucht"
+      },
+      {
+        "german": "der Knochen",
+        "english": "bone"
+      },
+      {
+        "german": "der Magen",
+        "english": "stomach"
+      },
+      {
+        "german": "die Spritze",
+        "english": "injection"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Wie alt ist Bruno?",
+        "options": ["Drei Jahre", "Fünf Jahre", "Acht Jahre", "Zehn Jahre"],
+        "answer": 2
+      },
+      {
+        "type": "tf",
+        "prompt": "Bruno frisst normalerweise wenig.",
+        "answer": false,
+        "explanation": "Normalerweise frisst er sehr viel."
+      },
+      {
+        "type": "mc",
+        "prompt": "Was macht Bruno seit gestern?",
+        "options": [
+          "Er bellt die ganze Zeit.",
+          "Er liegt nur in seinem Korb.",
+          "Er läuft immer weg.",
+          "Er spielt im Garten."
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": "Wer war schon im Wartezimmer?",
+        "options": [
+          "Eine Frau mit einer Katze und ein Junge mit einem Kaninchen",
+          "Ein Mann mit einem großen Hund",
+          "Ein Mädchen mit einem Vogel",
+          "Niemand"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "tf",
+        "prompt": "Bruno hat die Katze laut angebellt.",
+        "answer": false,
+        "explanation": "Er hat nicht einmal gebellt."
+      },
+      {
+        "type": "mc",
+        "prompt": "Was hat die Tierärztin untersucht?",
+        "options": ["Die Ohren", "Die Augen", "Den Bauch", "Die Zähne"],
+        "answer": 2
+      },
+      {
+        "type": "mc",
+        "prompt": "Was haben die Kinder Bruno vielleicht gegeben?",
+        "options": ["Schokolade", "Käse", "Kuchen", "Knochen"],
+        "answer": 3
+      },
+      {
+        "type": "tf",
+        "prompt": "Bruno hat eine Spritze bekommen.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Was soll Bruno zwei Tage fressen?",
+        "options": ["Nur Fleisch", "Reis mit Hühnchen", "Nudeln", "Trockenfutter"],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Nach drei Tagen war Bruno wieder gesund.",
+        "answer": true
+      }
+    ]
+  },
+  {
+    "id": "a2-37",
+    "level": "A2",
+    "title": "In der Stadtbibliothek",
+    "topic": "Services",
+    "body": "Kofi wohnt seit drei Monaten in Bern. Er möchte sein Deutsch verbessern, deshalb ist er am Dienstag zur Stadtbibliothek gegangen.\n\n„Grüezi! Ich möchte gern Bücher ausleihen. Was muss ich machen?“, hat er am Schalter gefragt.\n„Zuerst brauchen Sie einen Bibliotheksausweis“, hat der Mitarbeiter geantwortet. „Haben Sie Ihren Pass dabei?“\nKofi hat ihm seinen Pass gezeigt. Er musste ein Formular ausfüllen und 30 Franken für ein Jahr bezahlen. Nach fünf Minuten hatte er seinen Ausweis.\n„Wie lange kann ich die Bücher behalten?“\n„Vier Wochen. Sie können die Frist online verlängern, wenn niemand das Buch reserviert hat. Aber wenn Sie ein Buch zu spät zurückgeben, müssen Sie eine Gebühr bezahlen.“\n\nKofi hat sich lange umgesehen. Die Bibliothek hatte nicht nur Bücher, sondern auch Filme, Zeitschriften und Hörbücher. Es gab sogar eine Ecke mit leichten Büchern für Deutschlerner. Kofi hat zwei Romane, ein Hörbuch und einen Film ausgeliehen.\n\nZu Hause hat er jeden Abend gelesen. Die Romane waren nicht leicht, aber sehr interessant. Leider hat er die Frist vergessen. Nach sechs Wochen hat er eine E-Mail von der Bibliothek bekommen. Er hat die Sachen sofort zurückgebracht und musste 7 Franken bezahlen. Seitdem schreibt er das Datum immer in seinen Kalender.",
+    "glossary": [
+      {
+        "german": "verbessern",
+        "english": "to improve"
+      },
+      {
+        "german": "ausleihen",
+        "english": "to borrow"
+      },
+      {
+        "german": "der Bibliotheksausweis",
+        "english": "library card"
+      },
+      {
+        "german": "behalten",
+        "english": "to keep"
+      },
+      {
+        "german": "die Frist",
+        "english": "deadline, loan period"
+      },
+      {
+        "german": "verlängern",
+        "english": "to extend, to renew"
+      },
+      {
+        "german": "reservieren",
+        "english": "to reserve",
+        "match": "reserviert"
+      },
+      {
+        "german": "zurückgeben",
+        "english": "to return, to give back"
+      },
+      {
+        "german": "die Gebühr",
+        "english": "fee, charge"
+      },
+      {
+        "german": "sich umsehen",
+        "english": "to look around",
+        "match": "umgesehen"
+      },
+      {
+        "german": "die Zeitschrift",
+        "english": "magazine",
+        "match": "Zeitschriften"
+      },
+      {
+        "german": "das Hörbuch",
+        "english": "audiobook"
+      },
+      {
+        "german": "der Roman",
+        "english": "novel",
+        "match": "Romane"
+      },
+      {
+        "german": "vergessen",
+        "english": "to forget"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Wie lange wohnt Kofi schon in Bern?",
+        "options": ["Einen Monat", "Zwei Wochen", "Drei Monate", "Ein Jahr"],
+        "answer": 2
+      },
+      {
+        "type": "tf",
+        "prompt": "Kofi möchte sein Deutsch verbessern.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Was braucht man, um Bücher auszuleihen?",
+        "options": [
+          "Einen Bibliotheksausweis",
+          "Eine Kreditkarte",
+          "Einen Führerschein",
+          "Einen Brief vom Vermieter"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie viel kostet der Ausweis für ein Jahr?",
+        "options": ["10 Franken", "20 Franken", "50 Franken", "30 Franken"],
+        "answer": 3
+      },
+      {
+        "type": "tf",
+        "prompt": "Man kann die Bücher acht Wochen behalten.",
+        "answer": false,
+        "explanation": "Man kann sie vier Wochen behalten."
+      },
+      {
+        "type": "mc",
+        "prompt": "Wann kann man die Frist online verlängern?",
+        "options": [
+          "Immer",
+          "Wenn niemand das Buch reserviert hat",
+          "Nur am Dienstag",
+          "Nie"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": "Was hat Kofi NICHT ausgeliehen?",
+        "options": ["Romane", "Ein Hörbuch", "Einen Film", "Eine Zeitschrift"],
+        "answer": 3
+      },
+      {
+        "type": "tf",
+        "prompt": "Kofi hat die Sachen pünktlich zurückgebracht.",
+        "answer": false,
+        "explanation": "Er hat die Frist vergessen und sie nach sechs Wochen zurückgebracht."
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie viel musste Kofi am Ende bezahlen?",
+        "options": ["5 Franken", "7 Franken", "17 Franken", "30 Franken"],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Jetzt schreibt Kofi das Datum in seinen Kalender.",
+        "answer": true
+      }
+    ]
+  },
+  {
+    "id": "a2-38",
+    "level": "A2",
+    "title": "Im Fitnessstudio",
+    "topic": "Sport",
+    "body": "Markus ist 42 Jahre alt und arbeitet den ganzen Tag im Büro. Im Frühling hat sein Arzt gesagt: „Sie müssen sich mehr bewegen!“ Deshalb wollte Markus in ein Fitnessstudio gehen.\n\nDas Fitnessstudio in seiner Straße bietet ein kostenloses Probetraining an. Markus hat einen Termin gemacht. Ein junger Trainer hat ihm die Geräte gezeigt. Zuerst ist Markus zehn Minuten auf dem Laufband gelaufen. Dann hat er Übungen für den Rücken und die Beine gemacht. Nach einer Stunde war er total müde, aber auch stolz.\n\nDanach hat der Trainer ihm die Preise erklärt. „Mit einem Vertrag für zwölf Monate kostet es 29 Euro im Monat. Ohne langen Vertrag kostet es 45 Euro.“\n„Und wie kann ich kündigen?“, hat Markus gefragt.\n„Die Kündigungsfrist ist drei Monate vor dem Ende des Vertrags. Sie müssen schriftlich kündigen.“\n\nMarkus hat lange überlegt. Der günstige Vertrag war attraktiv, aber er war nicht sicher, ob er wirklich regelmäßig kommt. Seine Frau hat gelacht: „Du hast vor fünf Jahren auch einen Vertrag gemacht und warst nur dreimal dort!“\n\nAm Ende hat Markus den Vertrag für zwölf Monate unterschrieben. Jetzt trainiert er zweimal pro Woche, am Montag und am Donnerstag. Nach zwei Monaten fühlt er sich schon viel fitter.",
+    "glossary": [
+      {
+        "german": "anbieten",
+        "english": "to offer",
+        "match": "bietet"
+      },
+      {
+        "german": "kostenlos",
+        "english": "free of charge",
+        "match": "kostenloses"
+      },
+      {
+        "german": "das Probetraining",
+        "english": "trial workout"
+      },
+      {
+        "german": "das Gerät",
+        "english": "machine, piece of equipment",
+        "match": "Geräte"
+      },
+      {
+        "german": "das Laufband",
+        "english": "treadmill"
+      },
+      {
+        "german": "die Übung",
+        "english": "exercise",
+        "match": "Übungen"
+      },
+      {
+        "german": "stolz",
+        "english": "proud"
+      },
+      {
+        "german": "der Vertrag",
+        "english": "contract"
+      },
+      {
+        "german": "kündigen",
+        "english": "to cancel (a contract)"
+      },
+      {
+        "german": "die Kündigungsfrist",
+        "english": "notice period"
+      },
+      {
+        "german": "schriftlich",
+        "english": "in writing"
+      },
+      {
+        "german": "überlegen",
+        "english": "to think about, to consider",
+        "match": "überlegt"
+      },
+      {
+        "german": "regelmäßig",
+        "english": "regularly"
+      },
+      {
+        "german": "unterschreiben",
+        "english": "to sign",
+        "match": "unterschrieben"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Was hat der Arzt zu Markus gesagt?",
+        "options": [
+          "Er muss weniger essen.",
+          "Er muss sich mehr bewegen.",
+          "Er muss mehr schlafen.",
+          "Er muss weniger arbeiten."
+        ],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Das Probetraining kostet 10 Euro.",
+        "answer": false,
+        "explanation": "Das Probetraining ist kostenlos."
+      },
+      {
+        "type": "mc",
+        "prompt": "Was hat Markus beim Probetraining zuerst gemacht?",
+        "options": [
+          "Er ist geschwommen.",
+          "Er hat Übungen für den Rücken gemacht.",
+          "Er ist Fahrrad gefahren.",
+          "Er ist auf dem Laufband gelaufen."
+        ],
+        "answer": 3
+      },
+      {
+        "type": "tf",
+        "prompt": "Nach dem Training war Markus müde, aber stolz.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie viel kostet es im Monat mit einem Vertrag für zwölf Monate?",
+        "options": ["29 Euro", "45 Euro", "24 Euro", "39 Euro"],
+        "answer": 0
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie muss man kündigen?",
+        "options": ["Am Telefon", "Schriftlich", "Per SMS", "Beim Trainer"],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie lang ist die Kündigungsfrist?",
+        "options": ["Ein Monat", "Zwei Monate", "Drei Monate", "Sechs Monate"],
+        "answer": 2
+      },
+      {
+        "type": "tf",
+        "prompt": "Markus war vor fünf Jahren sehr oft im Fitnessstudio.",
+        "answer": false,
+        "explanation": "Er war nur dreimal dort."
+      },
+      {
+        "type": "mc",
+        "prompt": "Wann trainiert Markus jetzt?",
+        "options": [
+          "Jeden Tag",
+          "Am Wochenende",
+          "Am Dienstag und am Freitag",
+          "Am Montag und am Donnerstag"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "tf",
+        "prompt": "Markus hat den günstigeren Vertrag genommen.",
+        "answer": true
+      }
+    ]
+  },
+  {
+    "id": "a2-39",
+    "level": "A2",
+    "title": "Das Vorstellungsgespräch",
+    "topic": "Work",
+    "body": "Elena kommt aus Rumänien und wohnt seit einem Jahr in Freiburg. Sie hat sich bei einem Hotel als Rezeptionistin beworben. Letzten Mittwoch hatte sie ein Vorstellungsgespräch.\n\nElena war sehr nervös. Sie hat ihre beste Bluse angezogen und ist eine Viertelstunde zu früh gekommen. Der Hotelchef, Herr Brandt, hat sie freundlich begrüßt.\n„Erzählen Sie mir bitte etwas über sich“, hat er gesagt.\n„Ich habe in Bukarest Tourismus studiert. Danach habe ich drei Jahre in einem Hotel am Schwarzen Meer gearbeitet.“\n„Welche Sprachen sprechen Sie?“\n„Rumänisch, Englisch und Italienisch. Und mein Deutsch wird jeden Tag besser.“\n„Das ist gut. Bei uns übernachten viele Gäste aus dem Ausland. Können Sie auch am Wochenende und in der Nacht arbeiten?“\n„Ja, das ist kein Problem.“\n\nDann durfte Elena auch Fragen stellen. Sie hat nach dem Gehalt und den Arbeitszeiten gefragt. Herr Brandt hat erklärt, dass die Stelle 38 Stunden pro Woche hat. Außerdem gibt es im Hotel ein kostenloses Mittagessen für die Mitarbeiter.\n\nNach dreißig Minuten war das Gespräch zu Ende. „Wir melden uns bis Freitag bei Ihnen“, hat Herr Brandt gesagt.\n\nAm Freitagmorgen hat das Telefon geklingelt. Elena hat die Stelle bekommen! Am Abend hat sie mit ihren Freundinnen gefeiert.",
+    "glossary": [
+      {
+        "german": "sich bewerben",
+        "english": "to apply (for a job)",
+        "match": "beworben"
+      },
+      {
+        "german": "die Rezeptionistin",
+        "english": "receptionist (female)"
+      },
+      {
+        "german": "das Vorstellungsgespräch",
+        "english": "job interview"
+      },
+      {
+        "german": "nervös",
+        "english": "nervous"
+      },
+      {
+        "german": "die Viertelstunde",
+        "english": "quarter of an hour"
+      },
+      {
+        "german": "begrüßen",
+        "english": "to greet",
+        "match": "begrüßt"
+      },
+      {
+        "german": "übernachten",
+        "english": "to stay overnight"
+      },
+      {
+        "german": "das Ausland",
+        "english": "abroad, foreign countries"
+      },
+      {
+        "german": "Fragen stellen",
+        "english": "to ask questions"
+      },
+      {
+        "german": "das Gehalt",
+        "english": "salary"
+      },
+      {
+        "german": "die Arbeitszeit",
+        "english": "working hours",
+        "match": "Arbeitszeiten"
+      },
+      {
+        "german": "die Stelle",
+        "english": "job, position"
+      },
+      {
+        "german": "sich melden",
+        "english": "to get in touch",
+        "match": "melden"
+      },
+      {
+        "german": "feiern",
+        "english": "to celebrate",
+        "match": "gefeiert"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Wo wohnt Elena jetzt?",
+        "options": ["In Bukarest", "In Freiburg", "In Frankfurt", "In Hamburg"],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": "Als was hat sich Elena beworben?",
+        "options": [
+          "Als Köchin",
+          "Als Kellnerin",
+          "Als Rezeptionistin",
+          "Als Reinigungskraft"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "tf",
+        "prompt": "Elena ist zu spät zum Gespräch gekommen.",
+        "answer": false,
+        "explanation": "Sie ist eine Viertelstunde zu früh gekommen."
+      },
+      {
+        "type": "mc",
+        "prompt": "Was hat Elena studiert?",
+        "options": ["Tourismus", "Sprachen", "Wirtschaft", "Medizin"],
+        "answer": 0
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie lange hat sie im Hotel am Schwarzen Meer gearbeitet?",
+        "options": ["Ein Jahr", "Zwei Jahre", "Drei Jahre", "Fünf Jahre"],
+        "answer": 2
+      },
+      {
+        "type": "tf",
+        "prompt": "Elena spricht Italienisch.",
+        "answer": true
+      },
+      {
+        "type": "tf",
+        "prompt": "Elena möchte nicht am Wochenende arbeiten.",
+        "answer": false,
+        "explanation": "Sie sagt, das ist kein Problem."
+      },
+      {
+        "type": "mc",
+        "prompt": "Was bekommen die Mitarbeiter im Hotel kostenlos?",
+        "options": ["Ein Zimmer", "Eine Fahrkarte", "Kleidung", "Ein Mittagessen"],
+        "answer": 3
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie lange hat das Gespräch gedauert?",
+        "options": ["Fünfzehn Minuten", "Dreißig Minuten", "Eine Stunde", "Zwei Stunden"],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Elena hat die Stelle bekommen.",
+        "answer": true
+      }
+    ]
+  },
+  {
+    "id": "a2-40",
+    "level": "A2",
+    "title": "Bei der Ausländerbehörde",
+    "topic": "Bureaucracy",
+    "body": "Rahul kommt aus Indien und arbeitet seit zwei Jahren als Ingenieur in Köln. Seine Aufenthaltserlaubnis ist nur noch zwei Monate gültig. Deshalb musste er sie bei der Ausländerbehörde verlängern.\n\nZuerst hat Rahul auf der Webseite der Stadt einen Termin gebucht. Das war nicht leicht, weil es nur wenige freie Termine gab. Er hat jeden Morgen um acht Uhr nachgesehen. Nach einer Woche hat er endlich einen Termin für den 14. März bekommen.\n\nAuf der Webseite stand auch eine Liste mit Dokumenten. Rahul brauchte seinen Pass, ein aktuelles Foto, seinen Arbeitsvertrag, die letzten drei Gehaltsabrechnungen und den Mietvertrag. Außerdem musste er ein langes Formular ausfüllen. Sein Kollege Stefan hat ihm dabei geholfen, weil manche Wörter sehr kompliziert waren.\n\nAm 14. März ist Rahul früh zur Ausländerbehörde gefahren. Im Wartesaal hat er eine Nummer gezogen und fast eine Stunde gewartet. Dann hat die Sachbearbeiterin seine Nummer aufgerufen. Sie hat alle Dokumente genau kontrolliert und seine Fingerabdrücke genommen.\n„Ihre Unterlagen sind vollständig“, hat sie gesagt. „Die neue Karte ist in etwa vier Wochen fertig. Sie bekommen dann einen Brief. Bis dahin bekommen Sie eine Bescheinigung.“\n\nRahul hat die Gebühr von 100 Euro am Automaten bezahlt. Danach war er sehr erleichtert.",
+    "glossary": [
+      {
+        "german": "die Aufenthaltserlaubnis",
+        "english": "residence permit"
+      },
+      {
+        "german": "gültig",
+        "english": "valid"
+      },
+      {
+        "german": "die Ausländerbehörde",
+        "english": "immigration office"
+      },
+      {
+        "german": "verlängern",
+        "english": "to extend, to renew"
+      },
+      {
+        "german": "buchen",
+        "english": "to book",
+        "match": "gebucht"
+      },
+      {
+        "german": "nachsehen",
+        "english": "to check, to look",
+        "match": "nachgesehen"
+      },
+      {
+        "german": "die Gehaltsabrechnung",
+        "english": "payslip",
+        "match": "Gehaltsabrechnungen"
+      },
+      {
+        "german": "der Mietvertrag",
+        "english": "tenancy agreement, lease"
+      },
+      {
+        "german": "die Sachbearbeiterin",
+        "english": "case worker, clerk (female)"
+      },
+      {
+        "german": "der Fingerabdruck",
+        "english": "fingerprint",
+        "match": "Fingerabdrücke"
+      },
+      {
+        "german": "die Unterlagen",
+        "english": "documents, paperwork"
+      },
+      {
+        "german": "vollständig",
+        "english": "complete"
+      },
+      {
+        "german": "die Bescheinigung",
+        "english": "certificate, confirmation"
+      },
+      {
+        "german": "erleichtert",
+        "english": "relieved"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Was ist Rahul von Beruf?",
+        "options": ["Arzt", "Lehrer", "Ingenieur", "Koch"],
+        "answer": 2
+      },
+      {
+        "type": "tf",
+        "prompt": "Rahuls Aufenthaltserlaubnis ist noch zwei Jahre gültig.",
+        "answer": false,
+        "explanation": "Sie ist nur noch zwei Monate gültig."
+      },
+      {
+        "type": "mc",
+        "prompt": "Wo hat Rahul den Termin gebucht?",
+        "options": [
+          "Am Telefon",
+          "Auf der Webseite der Stadt",
+          "Direkt bei der Ausländerbehörde",
+          "Mit einem Brief"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Es gab viele freie Termine.",
+        "answer": false,
+        "explanation": "Es gab nur wenige freie Termine."
+      },
+      {
+        "type": "mc",
+        "prompt": "Welches Dokument brauchte Rahul NICHT?",
+        "options": ["Seinen Pass", "Den Mietvertrag", "Den Führerschein", "Ein Foto"],
+        "answer": 2
+      },
+      {
+        "type": "mc",
+        "prompt": "Wer hat Rahul beim Formular geholfen?",
+        "options": [
+          "Seine Frau",
+          "Sein Chef",
+          "Die Sachbearbeiterin",
+          "Sein Kollege Stefan"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie lange hat Rahul im Wartesaal gewartet?",
+        "options": [
+          "Zehn Minuten",
+          "Eine halbe Stunde",
+          "Fast eine Stunde",
+          "Drei Stunden"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "tf",
+        "prompt": "Die Sachbearbeiterin hat seine Fingerabdrücke genommen.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Wann ist die neue Karte fertig?",
+        "options": ["In etwa vier Wochen", "Sofort", "In einer Woche", "In drei Monaten"],
+        "answer": 0
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie viel hat Rahul bezahlt?",
+        "options": ["50 Euro", "100 Euro", "150 Euro", "200 Euro"],
+        "answer": 1
+      }
+    ]
+  },
+  {
+    "id": "a2-41",
+    "level": "A2",
+    "title": "Das Auto anmelden",
+    "topic": "Bureaucracy",
+    "body": "Tobias wohnt seit einem Jahr in Hannover. Letzte Woche hat er endlich ein Auto gekauft: einen gebrauchten VW Golf, sieben Jahre alt, aber in gutem Zustand. Bevor er damit fahren durfte, musste er das Auto bei der Zulassungsstelle anmelden.\n\nZuerst hat Tobias im Internet einen Termin gemacht. Das war nicht einfach, weil es in den nächsten zwei Wochen fast keine freien Termine gab. Zum Glück hat am Dienstag jemand seinen Termin abgesagt.\n\nAm Dienstag ist Tobias mit dem Bus zur Zulassungsstelle gefahren. Er hatte alle Unterlagen dabei: seinen Personalausweis, den Kaufvertrag, die Papiere vom Auto und eine Bestätigung von seiner Versicherung. Die Frau am Schalter war freundlich, aber sehr schnell. „Möchten Sie ein Wunschkennzeichen?“, hat sie gefragt. Tobias wollte gern seine Initialen und sein Geburtsjahr auf dem Schild haben. Das hat zwölf Euro extra gekostet.\n\nDanach musste er noch die Gebühr bezahlen und die Nummernschilder in einem kleinen Geschäft gegenüber machen lassen. Dort hat er noch einmal zwanzig Minuten gewartet.\n\nAm Nachmittag hat Tobias die Schilder selbst an das Auto geschraubt. Er war sehr stolz. Am Wochenende möchte er mit seiner Freundin an das Steinhuder Meer fahren.",
+    "glossary": [
+      {
+        "german": "gebraucht",
+        "english": "used, second-hand",
+        "match": "gebrauchten"
+      },
+      {
+        "german": "der Zustand",
+        "english": "condition"
+      },
+      {
+        "german": "die Zulassungsstelle",
+        "english": "vehicle registration office"
+      },
+      {
+        "german": "anmelden",
+        "english": "to register"
+      },
+      {
+        "german": "absagen",
+        "english": "to cancel",
+        "match": "abgesagt"
+      },
+      {
+        "german": "die Unterlagen",
+        "english": "documents, papers"
+      },
+      {
+        "german": "der Kaufvertrag",
+        "english": "purchase contract"
+      },
+      {
+        "german": "die Versicherung",
+        "english": "insurance"
+      },
+      {
+        "german": "der Schalter",
+        "english": "counter, desk"
+      },
+      {
+        "german": "das Wunschkennzeichen",
+        "english": "personalised number plate"
+      },
+      {
+        "german": "die Gebühr",
+        "english": "fee"
+      },
+      {
+        "german": "das Nummernschild",
+        "english": "number plate",
+        "match": "Nummernschilder"
+      },
+      {
+        "german": "schrauben",
+        "english": "to screw",
+        "match": "geschraubt"
+      },
+      {
+        "german": "stolz",
+        "english": "proud"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Was für ein Auto hat Tobias gekauft?",
+        "options": [
+          "Ein neues Auto",
+          "Einen gebrauchten VW Golf",
+          "Ein Elektroauto",
+          "Einen alten Bus"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Tobias hat sofort einen Termin bekommen.",
+        "answer": false,
+        "explanation": "Es gab fast keine freien Termine, aber jemand hat seinen Termin abgesagt."
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie ist Tobias zur Zulassungsstelle gefahren?",
+        "options": ["Mit dem Auto", "Mit dem Fahrrad", "Mit dem Bus", "Zu Fuß"],
+        "answer": 2
+      },
+      {
+        "type": "mc",
+        "prompt": "Welche Unterlage nennt der Text NICHT?",
+        "options": [
+          "Den Personalausweis",
+          "Den Kaufvertrag",
+          "Die Bestätigung der Versicherung",
+          "Den Führerschein"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "tf",
+        "prompt": "Die Frau am Schalter war unfreundlich.",
+        "answer": false,
+        "explanation": "Sie war freundlich, aber sehr schnell."
+      },
+      {
+        "type": "mc",
+        "prompt": "Was wollte Tobias auf dem Kennzeichen haben?",
+        "options": [
+          "Den Namen seiner Freundin",
+          "Seine Initialen und sein Geburtsjahr",
+          "Die Zahl sieben",
+          "Den Namen von Hannover"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie viel hat das Wunschkennzeichen extra gekostet?",
+        "options": ["Zwölf Euro", "Zwanzig Euro", "Zehn Euro", "Nichts"],
+        "answer": 0
+      },
+      {
+        "type": "tf",
+        "prompt": "Die Nummernschilder hat Tobias in einem Geschäft gegenüber bekommen.",
+        "answer": true
+      },
+      {
+        "type": "tf",
+        "prompt": "Ein Mechaniker hat die Schilder an das Auto geschraubt.",
+        "answer": false,
+        "explanation": "Tobias hat sie selbst angeschraubt."
+      },
+      {
+        "type": "mc",
+        "prompt": "Wohin möchte Tobias am Wochenende fahren?",
+        "options": [
+          "Nach Berlin",
+          "Zu seinen Eltern",
+          "An das Steinhuder Meer",
+          "In die Berge"
+        ],
+        "answer": 2
+      }
+    ]
+  },
+  {
+    "id": "a2-42",
+    "level": "A2",
+    "title": "Ein neuer Handyvertrag",
+    "topic": "Technology",
+    "body": "Leonie studiert in Graz. Ihr alter Handyvertrag endet im Mai, und sie bezahlt jeden Monat 35 Euro. Das ist ihr zu teuer. Deshalb geht sie am Samstag in einen Handyladen in der Innenstadt.\n\n„Guten Tag, kann ich Ihnen helfen?“, fragt ein junger Verkäufer.\n\n„Ja, ich suche einen günstigen Vertrag. Ein neues Handy brauche ich nicht.“\n\n„Wie viel Datenvolumen brauchen Sie im Monat?“\n\n„Ich weiß es nicht genau. Ich schaue oft Videos im Bus und höre Musik.“\n\n„Dann empfehle ich Ihnen diesen Tarif: 20 Gigabyte für 15 Euro im Monat. Telefonieren und SMS sind unbegrenzt.“\n\n„Das klingt gut. Wie lange ist die Laufzeit?“\n\n„24 Monate. Es gibt auch einen Vertrag ohne Laufzeit, den können Sie jeden Monat kündigen. Aber der kostet 19 Euro.“\n\nLeonie überlegt. Nächstes Jahr möchte sie vielleicht ein Semester in Spanien studieren. Sie fragt: „Kann ich das Handy auch im Ausland benutzen?“\n\n„In der EU zahlen Sie keine extra Gebühren.“\n\nAm Ende entscheidet sich Leonie für den Vertrag ohne Laufzeit. Er ist zwar etwas teurer, aber sie bleibt flexibel. Der Verkäufer gibt ihr eine neue SIM-Karte. Ihre alte Telefonnummer kann sie behalten. Leonie ist zufrieden: Jetzt spart sie jeden Monat 16 Euro.",
+    "glossary": [
+      {
+        "german": "günstig",
+        "english": "cheap, good value",
+        "match": "günstigen"
+      },
+      {
+        "german": "das Datenvolumen",
+        "english": "data allowance"
+      },
+      {
+        "german": "empfehlen",
+        "english": "to recommend",
+        "match": "empfehle"
+      },
+      {
+        "german": "der Tarif",
+        "english": "plan, tariff"
+      },
+      {
+        "german": "unbegrenzt",
+        "english": "unlimited"
+      },
+      {
+        "german": "die Laufzeit",
+        "english": "contract term"
+      },
+      {
+        "german": "kündigen",
+        "english": "to cancel (a contract)"
+      },
+      {
+        "german": "überlegen",
+        "english": "to think about",
+        "match": "überlegt"
+      },
+      {
+        "german": "das Ausland",
+        "english": "abroad"
+      },
+      {
+        "german": "die Gebühr",
+        "english": "fee",
+        "match": "Gebühren"
+      },
+      {
+        "german": "sich entscheiden für",
+        "english": "to decide on",
+        "match": "entscheidet"
+      },
+      {
+        "german": "flexibel",
+        "english": "flexible"
+      },
+      {
+        "german": "behalten",
+        "english": "to keep"
+      },
+      {
+        "german": "sparen",
+        "english": "to save",
+        "match": "spart"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Wo studiert Leonie?",
+        "options": ["In Wien", "In Graz", "In Salzburg", "In Spanien"],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": "Warum möchte Leonie einen neuen Vertrag?",
+        "options": [
+          "Ihr Handy ist kaputt.",
+          "Sie braucht mehr Datenvolumen.",
+          "Sie hat eine neue Nummer.",
+          "Ihr alter Vertrag ist zu teuer."
+        ],
+        "answer": 3
+      },
+      {
+        "type": "tf",
+        "prompt": "Leonie möchte auch ein neues Handy kaufen.",
+        "answer": false,
+        "explanation": "Sie braucht kein neues Handy."
+      },
+      {
+        "type": "mc",
+        "prompt": "Wofür braucht Leonie Daten?",
+        "options": [
+          "Für Videos und Musik",
+          "Für E-Mails von der Uni",
+          "Für Online-Spiele",
+          "Für die Navigation im Auto"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie viel kostet der Tarif mit 24 Monaten Laufzeit?",
+        "options": ["19 Euro", "35 Euro", "15 Euro", "20 Euro"],
+        "answer": 2
+      },
+      {
+        "type": "tf",
+        "prompt": "Den Vertrag ohne Laufzeit kann man jeden Monat kündigen.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Warum fragt Leonie nach dem Ausland?",
+        "options": [
+          "Sie fährt im Sommer nach Italien.",
+          "Sie möchte vielleicht ein Semester in Spanien studieren.",
+          "Ihre Familie wohnt in Spanien.",
+          "Sie arbeitet oft in Deutschland."
+        ],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "In der EU muss Leonie extra bezahlen.",
+        "answer": false,
+        "explanation": "In der EU gibt es keine extra Gebühren."
+      },
+      {
+        "type": "mc",
+        "prompt": "Welchen Vertrag nimmt Leonie?",
+        "options": [
+          "Den Vertrag mit 24 Monaten",
+          "Ihren alten Vertrag",
+          "Den Vertrag ohne Laufzeit",
+          "Keinen Vertrag"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "tf",
+        "prompt": "Leonie bekommt eine neue Telefonnummer.",
+        "answer": false,
+        "explanation": "Sie kann ihre alte Nummer behalten."
+      }
+    ]
+  },
+  {
+    "id": "a2-43",
+    "level": "A2",
+    "title": "Auf dem Flohmarkt",
+    "topic": "Shopping",
+    "body": "Im Frühling haben Jonas und Mia ihren Keller aufgeräumt. Sie haben viele alte Sachen gefunden: Bücher, Spielzeug von den Kindern, Geschirr und eine alte Lampe. „Das brauchen wir alles nicht mehr“, hat Mia gesagt. „Lass uns am Samstag auf den Flohmarkt gehen.“\n\nAm Samstag sind sie um sechs Uhr aufgestanden. Der Flohmarkt in Basel beginnt früh, und sie wollten einen guten Platz haben. Sie haben einen Tisch aufgebaut und alle Sachen ordentlich darauf gelegt. Für den Stand mussten sie zwanzig Franken bezahlen.\n\nSchon um acht Uhr sind die ersten Kunden gekommen. Eine ältere Frau hat sich für die Lampe interessiert. „Was kostet die?“, hat sie gefragt.\n\n„Vierzig Franken“, hat Jonas geantwortet.\n\n„Das ist zu viel. Ich gebe Ihnen fünfundzwanzig.“\n\n„Dreißig, und sie gehört Ihnen.“\n\nDie Frau hat gelacht und bezahlt.\n\nDie Bücher waren sehr beliebt. Viele Leute haben ein oder zwei Bücher für einen Franken pro Stück gekauft. Das alte Spielzeug hat ein junger Vater für seine Tochter mitgenommen.\n\nAm Nachmittag war der Tisch fast leer. Jonas und Mia haben 210 Franken verdient. Aber Mia hat auf dem Flohmarkt auch etwas gekauft: einen alten Spiegel für den Flur. „Nur fünfzehn Franken!“, hat sie stolz gesagt. Jonas hat nur gelacht.",
+    "glossary": [
+      {
+        "german": "der Flohmarkt",
+        "english": "flea market"
+      },
+      {
+        "german": "der Keller",
+        "english": "cellar, basement"
+      },
+      {
+        "german": "aufräumen",
+        "english": "to tidy up",
+        "match": "aufgeräumt"
+      },
+      {
+        "german": "das Spielzeug",
+        "english": "toys"
+      },
+      {
+        "german": "das Geschirr",
+        "english": "dishes, crockery"
+      },
+      {
+        "german": "aufbauen",
+        "english": "to set up",
+        "match": "aufgebaut"
+      },
+      {
+        "german": "ordentlich",
+        "english": "neatly"
+      },
+      {
+        "german": "der Stand",
+        "english": "stall"
+      },
+      {
+        "german": "sich interessieren für",
+        "english": "to be interested in",
+        "match": "interessiert"
+      },
+      {
+        "german": "gehören",
+        "english": "to belong to",
+        "match": "gehört"
+      },
+      {
+        "german": "beliebt",
+        "english": "popular"
+      },
+      {
+        "german": "verdienen",
+        "english": "to earn",
+        "match": "verdient"
+      },
+      {
+        "german": "der Spiegel",
+        "english": "mirror"
+      },
+      {
+        "german": "der Flur",
+        "english": "hallway"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Wo haben Jonas und Mia die alten Sachen gefunden?",
+        "options": ["Im Keller", "Auf dem Dachboden", "In der Garage", "Bei den Eltern"],
+        "answer": 0
+      },
+      {
+        "type": "tf",
+        "prompt": "Der Flohmarkt in Basel beginnt am Mittag.",
+        "answer": false,
+        "explanation": "Er beginnt früh, deshalb sind sie um sechs Uhr aufgestanden."
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie viel hat der Stand gekostet?",
+        "options": ["Zehn Franken", "Fünfzehn Franken", "Zwanzig Franken", "Nichts"],
+        "answer": 2
+      },
+      {
+        "type": "mc",
+        "prompt": "Wer hat sich für die Lampe interessiert?",
+        "options": [
+          "Ein junger Vater",
+          "Eine ältere Frau",
+          "Ein Student",
+          "Eine Nachbarin"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": "Für wie viel hat Jonas die Lampe verkauft?",
+        "options": ["40 Franken", "25 Franken", "20 Franken", "30 Franken"],
+        "answer": 3
+      },
+      {
+        "type": "tf",
+        "prompt": "Die Bücher haben einen Franken pro Stück gekostet.",
+        "answer": true
+      },
+      {
+        "type": "tf",
+        "prompt": "Das Spielzeug hat niemand gekauft.",
+        "answer": false,
+        "explanation": "Ein junger Vater hat es für seine Tochter mitgenommen."
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie viel Geld haben Jonas und Mia verdient?",
+        "options": ["120 Franken", "210 Franken", "250 Franken", "21 Franken"],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": "Was hat Mia gekauft?",
+        "options": ["Eine Lampe", "Ein Buch", "Einen Spiegel", "Einen Tisch"],
+        "answer": 2
+      },
+      {
+        "type": "tf",
+        "prompt": "Der Spiegel hat fünfzehn Franken gekostet.",
+        "answer": true
+      }
+    ]
+  },
+  {
+    "id": "a2-44",
+    "level": "A2",
+    "title": "Im Blumenladen",
+    "topic": "Shopping",
+    "body": "Kemal ist seit zwei Monaten mit Julia zusammen. Am Freitag hat Julia Geburtstag, und Kemal möchte ihr Blumen schenken. Leider weiß er nicht viel über Blumen. Deshalb geht er nach der Arbeit in einen kleinen Blumenladen in Frankfurt.\n\n„Guten Abend! Was darf es sein?“, fragt die Floristin.\n\n„Ich brauche einen Blumenstrauß für meine Freundin. Sie hat Geburtstag.“\n\n„Schön! Welche Farben mag sie denn?“\n\n„Ich glaube, sie mag Gelb und Orange. Ihre Küche ist ganz gelb.“\n\n„Dann würde ich Ihnen Sonnenblumen empfehlen. Die sind fröhlich und halten lange. Rote Rosen sind eher für die Liebe.“\n\nKemal wird ein bisschen rot. „Vielleicht ein paar Rosen dazu? Aber nicht zu viele.“\n\n„Kein Problem. Ich mache Ihnen einen Strauß mit fünf Sonnenblumen und drei kleinen Rosen.“\n\nDie Floristin arbeitet schnell. Sie schneidet die Stiele kürzer und legt noch etwas Grün dazu. Dann packt sie den Strauß in braunes Papier.\n\n„Das macht 28 Euro. Möchten Sie noch eine Karte dazu?“\n\n„Ja, gern.“\n\nKemal schreibt auf die Karte: „Alles Gute zum Geburtstag!“ Die Floristin gibt ihm noch einen Tipp: „Stellen Sie die Blumen in kühles Wasser und wechseln Sie das Wasser jeden zweiten Tag.“\n\nAm Freitag freut sich Julia sehr über den Strauß. Sie sagt, dass es die schönsten Blumen sind, die sie je bekommen hat.",
+    "glossary": [
+      {
+        "german": "schenken",
+        "english": "to give (as a present)"
+      },
+      {
+        "german": "der Blumenstrauß",
+        "english": "bouquet of flowers"
+      },
+      {
+        "german": "die Floristin",
+        "english": "florist (female)"
+      },
+      {
+        "german": "empfehlen",
+        "english": "to recommend"
+      },
+      {
+        "german": "die Sonnenblume",
+        "english": "sunflower",
+        "match": "Sonnenblumen"
+      },
+      {
+        "german": "fröhlich",
+        "english": "cheerful"
+      },
+      {
+        "german": "halten",
+        "english": "to last"
+      },
+      {
+        "german": "eher",
+        "english": "rather, more"
+      },
+      {
+        "german": "schneiden",
+        "english": "to cut",
+        "match": "schneidet"
+      },
+      {
+        "german": "der Stiel",
+        "english": "stem",
+        "match": "Stiele"
+      },
+      {
+        "german": "packen",
+        "english": "to wrap, to pack",
+        "match": "packt"
+      },
+      {
+        "german": "kühl",
+        "english": "cool",
+        "match": "kühles"
+      },
+      {
+        "german": "wechseln",
+        "english": "to change"
+      },
+      {
+        "german": "sich freuen über",
+        "english": "to be happy about",
+        "match": "freut"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Warum kauft Kemal Blumen?",
+        "options": [
+          "Julia hat Geburtstag.",
+          "Er hat einen Termin.",
+          "Seine Mutter ist krank.",
+          "Er hat Streit mit Julia."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "tf",
+        "prompt": "Kemal weiß viel über Blumen.",
+        "answer": false,
+        "explanation": "Er weiß nicht viel über Blumen."
+      },
+      {
+        "type": "mc",
+        "prompt": "Welche Farben mag Julia?",
+        "options": ["Rot und Rosa", "Blau und Weiß", "Gelb und Orange", "Grün und Braun"],
+        "answer": 2
+      },
+      {
+        "type": "mc",
+        "prompt": "Was empfiehlt die Floristin zuerst?",
+        "options": ["Rote Rosen", "Sonnenblumen", "Tulpen", "Eine Pflanze"],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Die Floristin sagt, dass rote Rosen eher für die Liebe sind.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Was ist im Strauß?",
+        "options": [
+          "Zehn Rosen",
+          "Drei Sonnenblumen und fünf Rosen",
+          "Nur Sonnenblumen",
+          "Fünf Sonnenblumen und drei Rosen"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie viel kostet der Strauß?",
+        "options": ["18 Euro", "28 Euro", "38 Euro", "25 Euro"],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Kemal möchte keine Karte.",
+        "answer": false,
+        "explanation": "Er möchte gern eine Karte."
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie oft soll man das Wasser wechseln?",
+        "options": ["Jeden Tag", "Jeden zweiten Tag", "Einmal pro Woche", "Nie"],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Julia freut sich sehr über die Blumen.",
+        "answer": true
+      }
+    ]
+  },
+  {
+    "id": "a2-45",
+    "level": "A2",
+    "title": "An der Bushaltestelle",
+    "topic": "Everyday conversation",
+    "body": "Es ist Montagmorgen, zehn nach sieben. Sabine steht an der Bushaltestelle in der Nähe ihrer Wohnung in Wien. Es regnet, und der Bus hat schon zehn Minuten Verspätung. Neben ihr wartet ein älterer Herr mit einem Regenschirm. Sie kennt ihn vom Sehen, er wohnt im Haus gegenüber.\n\n„So ein Wetter!“, sagt der Mann. „Und der Bus kommt auch nicht.“\n\n„Ja, leider. Ich muss um acht in der Arbeit sein“, antwortet Sabine.\n\n„Wo arbeiten Sie denn?“\n\n„In einer Apotheke am Naschmarkt. Und Sie?“\n\n„Ich bin schon seit drei Jahren in Pension. Aber jeden Montag bringe ich meinen Enkel in den Kindergarten.“\n\n„Das ist aber nett. Wie alt ist er?“\n\n„Vier. Er redet den ganzen Tag, genau wie ich“, sagt der Mann und lacht. „Ich heiße übrigens Brandl, Karl Brandl.“\n\n„Sabine Huber. Freut mich.“\n\nHerr Brandl erzählt, dass er früher selbst Busfahrer war. „Dreißig Jahre bin ich durch Wien gefahren. Damals waren die Busse pünktlicher“, sagt er mit einem Lächeln.\n\nDann sieht Sabine auf ihrem Handy eine Nachricht: Wegen eines Unfalls fährt der Bus heute eine andere Strecke. Herr Brandl hat eine Idee: „Die Straßenbahn fährt zwei Straßen weiter. Kommen Sie, ich zeige Ihnen den Weg.“\n\nGemeinsam gehen sie zur Straßenbahn. Sabine kommt nur fünf Minuten zu spät zur Arbeit.",
+    "glossary": [
+      {
+        "german": "die Bushaltestelle",
+        "english": "bus stop"
+      },
+      {
+        "german": "die Verspätung",
+        "english": "delay"
+      },
+      {
+        "german": "der Regenschirm",
+        "english": "umbrella"
+      },
+      {
+        "german": "jemanden vom Sehen kennen",
+        "english": "to know someone by sight",
+        "match": "vom Sehen"
+      },
+      {
+        "german": "gegenüber",
+        "english": "opposite"
+      },
+      {
+        "german": "die Pension",
+        "english": "retirement (Austrian)"
+      },
+      {
+        "german": "der Enkel",
+        "english": "grandson"
+      },
+      {
+        "german": "reden",
+        "english": "to talk",
+        "match": "redet"
+      },
+      {
+        "german": "übrigens",
+        "english": "by the way"
+      },
+      {
+        "german": "pünktlich",
+        "english": "punctual, on time",
+        "match": "pünktlicher"
+      },
+      {
+        "german": "der Unfall",
+        "english": "accident",
+        "match": "Unfalls"
+      },
+      {
+        "german": "die Strecke",
+        "english": "route"
+      },
+      {
+        "german": "gemeinsam",
+        "english": "together"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Warum wartet Sabine so lange?",
+        "options": [
+          "Der Bus hat Verspätung.",
+          "Sie ist zu früh.",
+          "Es gibt einen Streik.",
+          "Sie hat den Bus verpasst."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "tf",
+        "prompt": "Sabine kennt den Mann vom Sehen.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Wo arbeitet Sabine?",
+        "options": [
+          "In einer Bank",
+          "In einem Kindergarten",
+          "In einer Apotheke",
+          "In einem Café"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "tf",
+        "prompt": "Herr Brandl arbeitet noch.",
+        "answer": false,
+        "explanation": "Er ist seit drei Jahren in Pension."
+      },
+      {
+        "type": "mc",
+        "prompt": "Was macht Herr Brandl jeden Montag?",
+        "options": [
+          "Er geht zum Arzt.",
+          "Er bringt seinen Enkel in den Kindergarten.",
+          "Er kauft auf dem Markt ein.",
+          "Er arbeitet als Busfahrer."
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie alt ist der Enkel?",
+        "options": ["Zwei", "Drei", "Vier", "Sechs"],
+        "answer": 2
+      },
+      {
+        "type": "mc",
+        "prompt": "Was war Herr Brandl früher von Beruf?",
+        "options": ["Lehrer", "Taxifahrer", "Apotheker", "Busfahrer"],
+        "answer": 3
+      },
+      {
+        "type": "tf",
+        "prompt": "Herr Brandl findet, dass die Busse früher pünktlicher waren.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Warum fährt der Bus heute eine andere Strecke?",
+        "options": [
+          "Wegen des Regens",
+          "Wegen eines Unfalls",
+          "Wegen einer Baustelle",
+          "Wegen eines Festes"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Sabine kommt pünktlich zur Arbeit.",
+        "answer": false,
+        "explanation": "Sie kommt fünf Minuten zu spät."
+      }
+    ]
+  },
+  {
+    "id": "a2-46",
+    "level": "A2",
+    "title": "Eine Torte bestellen",
+    "topic": "Food and drink",
+    "body": "Nächsten Sonntag wird Hannahs Sohn Luca sechs Jahre alt. Er liebt Dinosaurier, deshalb möchte Hannah eine besondere Torte für ihn bestellen. Am Dienstag geht sie in die Konditorei Maier in Freiburg.\n\n„Ich hätte gern eine Geburtstagstorte für zwölf Personen“, sagt Hannah. „Mit Schokolade, bitte. Und oben soll ein grüner Dinosaurier sein.“\n\n„Das können wir machen“, sagt die Konditorin. „Soll auch ein Name auf die Torte?“\n\n„Ja, bitte: Luca, 6 Jahre.“\n\n„Gut. Die Torte kostet 55 Euro. Sie können sie am Samstag ab zehn Uhr abholen. Bitte zahlen Sie jetzt eine Anzahlung von 20 Euro.“\n\nAm Samstag kommt Hannah um elf Uhr in die Konditorei. Aber die Verkäuferin findet die Torte nicht. Sie sucht im Kühlschrank und ruft dann die Konditorin. Die Konditorin schaut in ihr Buch und wird blass. „Es tut mir sehr leid. Wir haben Ihre Bestellung für nächsten Samstag eingetragen.“\n\nHannah ist zuerst sehr ärgerlich. Die Party ist doch schon morgen! Die Konditorin verspricht: „Wir backen die Torte heute noch. Sie ist um fünf Uhr fertig. Und sie kostet nur die Hälfte.“\n\nUm fünf Uhr holt Hannah die Torte ab. Der Dinosaurier ist sogar größer als geplant. Am Sonntag ist Luca begeistert, und alle Gäste essen zwei Stücke.",
+    "glossary": [
+      {
+        "german": "besonders",
+        "english": "special",
+        "match": "besondere"
+      },
+      {
+        "german": "die Konditorei",
+        "english": "cake shop, patisserie"
+      },
+      {
+        "german": "die Konditorin",
+        "english": "pastry chef (female)"
+      },
+      {
+        "german": "abholen",
+        "english": "to pick up, to collect"
+      },
+      {
+        "german": "die Anzahlung",
+        "english": "deposit"
+      },
+      {
+        "german": "blass",
+        "english": "pale"
+      },
+      {
+        "german": "die Bestellung",
+        "english": "order"
+      },
+      {
+        "german": "eintragen",
+        "english": "to enter, to write down",
+        "match": "eingetragen"
+      },
+      {
+        "german": "ärgerlich",
+        "english": "annoyed"
+      },
+      {
+        "german": "versprechen",
+        "english": "to promise",
+        "match": "verspricht"
+      },
+      {
+        "german": "die Hälfte",
+        "english": "half"
+      },
+      {
+        "german": "planen",
+        "english": "to plan",
+        "match": "geplant"
+      },
+      {
+        "german": "begeistert",
+        "english": "thrilled, delighted"
+      },
+      {
+        "german": "das Stück",
+        "english": "piece, slice",
+        "match": "Stücke"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Wie alt wird Luca?",
+        "options": ["Fünf", "Sechs", "Sieben", "Zwölf"],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": "Was liebt Luca?",
+        "options": ["Autos", "Pferde", "Dinosaurier", "Fußball"],
+        "answer": 2
+      },
+      {
+        "type": "tf",
+        "prompt": "Die Torte ist für zwölf Personen.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Was für eine Torte möchte Hannah?",
+        "options": [
+          "Eine Schokoladentorte",
+          "Eine Obsttorte",
+          "Eine Käsetorte",
+          "Eine Erdbeertorte"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie viel bezahlt Hannah am Dienstag?",
+        "options": ["55 Euro", "Nichts", "12 Euro", "20 Euro"],
+        "answer": 3
+      },
+      {
+        "type": "tf",
+        "prompt": "Am Samstag um elf Uhr ist die Torte fertig.",
+        "answer": false,
+        "explanation": "Die Konditorei hat die Bestellung für den falschen Samstag eingetragen."
+      },
+      {
+        "type": "mc",
+        "prompt": "Was war das Problem?",
+        "options": [
+          "Die Torte war kaputt.",
+          "Die Bestellung war für den falschen Tag eingetragen.",
+          "Der Dinosaurier war rot.",
+          "Die Konditorei war geschlossen."
+        ],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Hannah ist zuerst ärgerlich.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Was verspricht die Konditorin?",
+        "options": [
+          "Hannah bekommt das Geld zurück.",
+          "Sie bringt die Torte am Sonntag.",
+          "Sie backt die Torte bis fünf Uhr, und sie kostet nur die Hälfte.",
+          "Hannah bekommt eine kleinere Torte."
+        ],
+        "answer": 2
+      },
+      {
+        "type": "tf",
+        "prompt": "Der Dinosaurier ist kleiner als geplant.",
+        "answer": false,
+        "explanation": "Er ist sogar größer als geplant."
+      }
+    ]
+  },
+  {
+    "id": "a2-47",
+    "level": "A2",
+    "title": "Im Baumarkt",
+    "topic": "Home",
+    "body": "Paul und Nora haben eine neue Wohnung in Dresden gemietet. Das Kinderzimmer ist dunkelgrau, und das gefällt ihnen gar nicht. Ihre Tochter Emma wünscht sich ein hellblaues Zimmer. Deshalb fahren sie am Samstagmorgen in den Baumarkt.\n\nDer Baumarkt ist riesig, und sie finden die Farben nicht sofort. Ein Mitarbeiter in einer roten Jacke hilft ihnen. „Wie groß ist das Zimmer?“, fragt er.\n\n„Ungefähr zwölf Quadratmeter“, sagt Paul.\n\n„Dann brauchen Sie etwa zehn Liter Farbe. Weil die Wand so dunkel ist, sollten Sie zweimal streichen.“\n\nEr mischt die hellblaue Farbe direkt an einer Maschine. Nora ist überrascht, dass das nur fünf Minuten dauert.\n\nDanach brauchen sie noch Werkzeug. Der Mitarbeiter zeigt ihnen Pinsel, eine Rolle und Klebeband für die Fenster und Türen. „Und vergessen Sie die Folie für den Boden nicht! Farbe auf dem Teppich ist ein großes Problem.“\n\nAn der Kasse bezahlen sie 94 Euro. Paul findet das teuer, aber Nora sagt: „Ein Maler kostet viel mehr.“\n\nAm Sonntag streichen sie das Zimmer. Emma möchte auch helfen und bekommt einen kleinen Pinsel. Am Abend haben alle blaue Farbe an den Händen, Emma sogar im Gesicht. Aber das Zimmer sieht wunderschön aus, und Emma möchte sofort dort schlafen.",
+    "glossary": [
+      {
+        "german": "der Baumarkt",
+        "english": "DIY store, hardware store"
+      },
+      {
+        "german": "sich wünschen",
+        "english": "to wish for",
+        "match": "wünscht"
+      },
+      {
+        "german": "riesig",
+        "english": "huge"
+      },
+      {
+        "german": "der Mitarbeiter",
+        "english": "employee, staff member"
+      },
+      {
+        "german": "ungefähr",
+        "english": "about, approximately"
+      },
+      {
+        "german": "der Quadratmeter",
+        "english": "square metre"
+      },
+      {
+        "german": "streichen",
+        "english": "to paint (a wall)"
+      },
+      {
+        "german": "mischen",
+        "english": "to mix",
+        "match": "mischt"
+      },
+      {
+        "german": "überrascht",
+        "english": "surprised"
+      },
+      {
+        "german": "das Werkzeug",
+        "english": "tools"
+      },
+      {
+        "german": "der Pinsel",
+        "english": "brush"
+      },
+      {
+        "german": "das Klebeband",
+        "english": "tape"
+      },
+      {
+        "german": "die Folie",
+        "english": "plastic sheet"
+      },
+      {
+        "german": "der Maler",
+        "english": "painter, decorator"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Welche Farbe hat das Kinderzimmer am Anfang?",
+        "options": ["Weiß", "Dunkelgrau", "Hellblau", "Gelb"],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": "Welche Farbe wünscht sich Emma?",
+        "options": ["Rosa", "Grün", "Weiß", "Hellblau"],
+        "answer": 3
+      },
+      {
+        "type": "tf",
+        "prompt": "Paul und Nora finden die Farben sofort.",
+        "answer": false,
+        "explanation": "Ein Mitarbeiter hilft ihnen."
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie groß ist das Zimmer?",
+        "options": [
+          "Etwa zehn Quadratmeter",
+          "Etwa zwölf Quadratmeter",
+          "Etwa zwanzig Quadratmeter",
+          "Etwa acht Quadratmeter"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": "Warum sollen sie zweimal streichen?",
+        "options": [
+          "Weil die Wand so dunkel ist.",
+          "Weil die Farbe billig ist.",
+          "Weil das Zimmer groß ist.",
+          "Weil Emma es möchte."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "tf",
+        "prompt": "Das Mischen der Farbe dauert nur fünf Minuten.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Wofür ist die Folie?",
+        "options": ["Für die Fenster", "Für die Möbel", "Für den Boden", "Für die Hände"],
+        "answer": 2
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie viel bezahlen sie an der Kasse?",
+        "options": ["49 Euro", "94 Euro", "104 Euro", "90 Euro"],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Paul und Nora bestellen einen Maler.",
+        "answer": false,
+        "explanation": "Sie streichen das Zimmer selbst."
+      },
+      {
+        "type": "tf",
+        "prompt": "Emma hilft beim Streichen.",
+        "answer": true
+      }
+    ]
+  },
+  {
+    "id": "a2-48",
+    "level": "A2",
+    "title": "Im Reisebüro",
+    "topic": "Travel",
+    "body": "Herr und Frau Wagner aus Nürnberg sind seit einem Jahr in Rente. Diesen Herbst möchten sie endlich wieder Urlaub machen, am liebsten irgendwo in der Sonne. Im Internet gibt es zu viele Angebote, deshalb gehen sie ins Reisebüro.\n\n„Wohin möchten Sie denn reisen?“, fragt die Mitarbeiterin.\n\n„Ans Meer, wo es im Oktober noch warm ist“, sagt Frau Wagner. „Und wir möchten nicht zu lange fliegen.“\n\n„Dann habe ich zwei Angebote für Sie. Das erste ist eine Pauschalreise nach Mallorca: eine Woche im Hotel mit Halbpension, mit Flug und Transfer, für 780 Euro pro Person. Das zweite ist Kreta: zehn Tage mit All-inclusive für 1050 Euro pro Person.“\n\n„Kreta ist teurer, aber dafür länger“, sagt Herr Wagner.\n\n„Und auf Kreta ist es im Oktober wärmer als auf Mallorca“, erklärt die Mitarbeiterin. „Das Hotel liegt direkt am Strand und hat auch ein Hallenbad.“\n\nDie Wagners überlegen lange. Frau Wagner möchte nicht jeden Abend im Hotel essen. Sie probiert gern kleine Restaurants aus. Herr Wagner denkt an das Geld.\n\nAm Ende buchen sie Mallorca, aber für zwei Wochen statt einer. Das kostet zwar mehr, aber sie haben ja viel Zeit. Die Mitarbeiterin empfiehlt ihnen noch eine Reiserücktrittsversicherung. „Man weiß nie“, sagt sie. Herr Wagner nickt und unterschreibt.",
+    "glossary": [
+      {
+        "german": "in Rente sein",
+        "english": "to be retired",
+        "match": "Rente"
+      },
+      {
+        "german": "das Angebot",
+        "english": "offer",
+        "match": "Angebote"
+      },
+      {
+        "german": "das Reisebüro",
+        "english": "travel agency"
+      },
+      {
+        "german": "die Pauschalreise",
+        "english": "package holiday"
+      },
+      {
+        "german": "die Halbpension",
+        "english": "half board"
+      },
+      {
+        "german": "dafür",
+        "english": "but in return"
+      },
+      {
+        "german": "das Hallenbad",
+        "english": "indoor pool"
+      },
+      {
+        "german": "ausprobieren",
+        "english": "to try out",
+        "match": "probiert"
+      },
+      {
+        "german": "buchen",
+        "english": "to book"
+      },
+      {
+        "german": "statt",
+        "english": "instead of"
+      },
+      {
+        "german": "die Reiserücktrittsversicherung",
+        "english": "travel cancellation insurance"
+      },
+      {
+        "german": "nicken",
+        "english": "to nod",
+        "match": "nickt"
+      },
+      {
+        "german": "unterschreiben",
+        "english": "to sign",
+        "match": "unterschreibt"
+      }
+    ],
+    "questions": [
+      {
+        "type": "tf",
+        "prompt": "Herr und Frau Wagner arbeiten noch.",
+        "answer": false,
+        "explanation": "Sie sind seit einem Jahr in Rente."
+      },
+      {
+        "type": "mc",
+        "prompt": "Warum gehen die Wagners ins Reisebüro?",
+        "options": [
+          "Ihr Internet ist kaputt.",
+          "Ihre Tochter arbeitet dort.",
+          "Das Reisebüro ist billiger.",
+          "Im Internet gibt es zu viele Angebote."
+        ],
+        "answer": 3
+      },
+      {
+        "type": "mc",
+        "prompt": "Was wünscht sich Frau Wagner?",
+        "options": [
+          "Berge und Schnee",
+          "Eine Städtereise",
+          "Das Meer und warmes Wetter",
+          "Einen langen Flug"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "mc",
+        "prompt": "Was kostet eine Woche Mallorca pro Person?",
+        "options": ["1050 Euro", "780 Euro", "870 Euro", "700 Euro"],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Auf Kreta ist es im Oktober wärmer als auf Mallorca.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Was hat das Hotel auf Kreta?",
+        "options": ["Ein Hallenbad", "Einen Golfplatz", "Ein Kino", "Eine Sauna"],
+        "answer": 0
+      },
+      {
+        "type": "mc",
+        "prompt": "Warum möchte Frau Wagner nicht jeden Abend im Hotel essen?",
+        "options": [
+          "Sie isst nicht gern.",
+          "Sie probiert gern kleine Restaurants aus.",
+          "Sie kocht lieber selbst.",
+          "Das Essen im Hotel ist schlecht."
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": "Was buchen die Wagners?",
+        "options": [
+          "Kreta für zehn Tage",
+          "Mallorca für eine Woche",
+          "Mallorca für zwei Wochen",
+          "Nichts"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "tf",
+        "prompt": "Die Mitarbeiterin empfiehlt eine Versicherung.",
+        "answer": true
+      },
+      {
+        "type": "tf",
+        "prompt": "Herr Wagner möchte die Reise nicht buchen.",
+        "answer": false,
+        "explanation": "Er nickt und unterschreibt."
+      }
+    ]
+  },
+  {
+    "id": "a2-49",
+    "level": "A2",
+    "title": "Beim Standesamt",
+    "topic": "Bureaucracy",
+    "body": "Liebe Sophie,\n\nich habe tolle Neuigkeiten: Marco und ich waren gestern beim Standesamt in Bremen und haben unsere Hochzeit angemeldet!\n\nDas war gar nicht so einfach. Schon vor einem Monat haben wir online einen Termin gemacht. Dann mussten wir viele Dokumente sammeln: unsere Personalausweise, Geburtsurkunden und eine Meldebescheinigung. Marco kommt aus Italien, deshalb brauchte er noch zusätzliche Papiere aus Neapel. Seine Mutter hat sie uns geschickt, und wir haben sie übersetzen lassen. Das hat fast drei Wochen gedauert!\n\nDie Standesbeamtin war sehr nett. Sie hat alle Dokumente genau kontrolliert und dann gefragt: „Wann möchten Sie heiraten?“ Wir wollten eigentlich im Juni heiraten, aber im Juni waren alle Samstage schon besetzt. Jetzt heiraten wir am Freitag, dem 12. Juli, um 11 Uhr. Das ist auch in Ordnung, denn dann können wir am Wochenende feiern.\n\nDie Trauung ist im alten Rathaus, in einem wunderschönen Saal. Wir dürfen dreißig Gäste mitbringen. Die große Feier machen wir danach in einem Restaurant an der Weser.\n\nUnd jetzt meine Frage: Möchtest du meine Trauzeugin sein? Ich würde mich sehr freuen! Ruf mich bald an.\n\nLiebe Grüße\ndeine Elena",
+    "glossary": [
+      {
+        "german": "die Neuigkeit",
+        "english": "news",
+        "match": "Neuigkeiten"
+      },
+      {
+        "german": "das Standesamt",
+        "english": "registry office"
+      },
+      {
+        "german": "die Hochzeit",
+        "english": "wedding"
+      },
+      {
+        "german": "sammeln",
+        "english": "to collect"
+      },
+      {
+        "german": "die Geburtsurkunde",
+        "english": "birth certificate",
+        "match": "Geburtsurkunden"
+      },
+      {
+        "german": "die Meldebescheinigung",
+        "english": "certificate of registered address"
+      },
+      {
+        "german": "zusätzlich",
+        "english": "additional",
+        "match": "zusätzliche"
+      },
+      {
+        "german": "übersetzen",
+        "english": "to translate"
+      },
+      {
+        "german": "die Standesbeamtin",
+        "english": "registrar (female)"
+      },
+      {
+        "german": "heiraten",
+        "english": "to get married"
+      },
+      {
+        "german": "besetzt",
+        "english": "taken, booked"
+      },
+      {
+        "german": "die Trauung",
+        "english": "wedding ceremony"
+      },
+      {
+        "german": "der Saal",
+        "english": "hall"
+      },
+      {
+        "german": "die Trauzeugin",
+        "english": "witness at a wedding (female)"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Wer schreibt die E-Mail?",
+        "options": ["Sophie", "Marco", "Elena", "Die Standesbeamtin"],
+        "answer": 2
+      },
+      {
+        "type": "mc",
+        "prompt": "Warum waren Elena und Marco beim Standesamt?",
+        "options": [
+          "Sie haben ihre Hochzeit angemeldet.",
+          "Sie haben eine neue Wohnung angemeldet.",
+          "Sie brauchten einen Pass.",
+          "Sie haben ein Baby angemeldet."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "tf",
+        "prompt": "Den Termin haben sie am selben Tag bekommen.",
+        "answer": false,
+        "explanation": "Sie haben schon vor einem Monat online einen Termin gemacht."
+      },
+      {
+        "type": "mc",
+        "prompt": "Woher kommt Marco?",
+        "options": ["Aus Spanien", "Aus Italien", "Aus Österreich", "Aus Bremen"],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Die Papiere aus Neapel mussten übersetzt werden.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Warum heiraten sie nicht im Juni?",
+        "options": [
+          "Marco hat keine Zeit.",
+          "Das Rathaus ist im Juni geschlossen.",
+          "Die Papiere waren nicht fertig.",
+          "Alle Samstage im Juni waren schon besetzt."
+        ],
+        "answer": 3
+      },
+      {
+        "type": "mc",
+        "prompt": "Wann ist die Hochzeit?",
+        "options": [
+          "Am Samstag, dem 12. Juni",
+          "Am Freitag, dem 12. Juli",
+          "Am Samstag, dem 13. Juli",
+          "Am Freitag, dem 21. Juli"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Zur Trauung dürfen hundert Gäste kommen.",
+        "answer": false,
+        "explanation": "Sie dürfen dreißig Gäste mitbringen."
+      },
+      {
+        "type": "mc",
+        "prompt": "Wo ist die große Feier?",
+        "options": [
+          "Im Rathaus",
+          "Bei Sophie",
+          "In einem Restaurant an der Weser",
+          "In Neapel"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "mc",
+        "prompt": "Was fragt Elena am Ende?",
+        "options": [
+          "Ob Sophie ihre Trauzeugin sein möchte",
+          "Ob Sophie einen Kuchen backt",
+          "Ob Sophie Italienisch spricht",
+          "Ob Sophie ein Restaurant kennt"
+        ],
+        "answer": 0
+      }
+    ]
+  },
+  {
+    "id": "a2-50",
+    "level": "A2",
+    "title": "Im Fahrradladen",
+    "topic": "Transport",
+    "body": "Felix wohnt in Münster, der Fahrradstadt Nummer eins in Deutschland. Hier fahren fast alle mit dem Rad, auch Felix. Aber letzte Woche hatte sein altes Fahrrad einen Platten, und die Bremsen haben auch nicht mehr gut funktioniert. Deshalb hat er es in einen Fahrradladen gebracht.\n\nDer Mechaniker hat sich das Rad genau angesehen. „Den Reifen kann ich leicht reparieren“, hat er gesagt. „Aber die Bremsen, die Kette und das Licht sind auch kaputt. Die Reparatur kostet ungefähr 180 Euro.“\n\nFelix war überrascht. „So viel? Das Fahrrad ist doch schon fünfzehn Jahre alt!“\n\n„Genau. Vielleicht ist ein neues Rad besser für Sie.“\n\nFelix hat sich im Laden umgesehen. Es gab viele Fahrräder, aber einige waren sehr teuer, besonders die E-Bikes. Ein gebrauchtes Stadtrad mit sieben Gängen hat ihm gut gefallen. Es sollte 350 Euro kosten.\n\n„Darf ich eine Probefahrt machen?“, hat er gefragt.\n\n„Natürlich. Fahren Sie einfach eine Runde um den Block.“\n\nDas Fahrrad war leicht und bequem. Nach der Probefahrt hat Felix gefragt: „Geht es auch ein bisschen billiger?“ Der Verkäufer hat gelächelt: „Für 320 Euro, wenn Sie Ihr altes Rad hierlassen. Wir können die Teile noch gebrauchen.“\n\nFelix hat sofort Ja gesagt. Jetzt fährt er jeden Morgen mit seinem neuen Rad zur Uni.",
+    "glossary": [
+      {
+        "german": "einen Platten haben",
+        "english": "to have a flat tyre",
+        "match": "Platten"
+      },
+      {
+        "german": "die Bremse",
+        "english": "brake",
+        "match": "Bremsen"
+      },
+      {
+        "german": "funktionieren",
+        "english": "to work",
+        "match": "funktioniert"
+      },
+      {
+        "german": "der Mechaniker",
+        "english": "mechanic"
+      },
+      {
+        "german": "der Reifen",
+        "english": "tyre"
+      },
+      {
+        "german": "die Kette",
+        "english": "chain"
+      },
+      {
+        "german": "die Reparatur",
+        "english": "repair"
+      },
+      {
+        "german": "sich umsehen",
+        "english": "to look around",
+        "match": "umgesehen"
+      },
+      {
+        "german": "der Gang",
+        "english": "gear",
+        "match": "Gängen"
+      },
+      {
+        "german": "die Probefahrt",
+        "english": "test ride"
+      },
+      {
+        "german": "bequem",
+        "english": "comfortable"
+      },
+      {
+        "german": "hierlassen",
+        "english": "to leave here"
+      },
+      {
+        "german": "das Teil",
+        "english": "part",
+        "match": "Teile"
+      },
+      {
+        "german": "gebrauchen",
+        "english": "to use, to make use of"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Wofür ist Münster bekannt?",
+        "options": [
+          "Für seine Autos",
+          "Als Fahrradstadt",
+          "Für seinen Hafen",
+          "Für seine Berge"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": "Welche Probleme hatte Felix’ Fahrrad zuerst?",
+        "options": [
+          "Einen Platten und schlechte Bremsen",
+          "Nur ein kaputtes Licht",
+          "Einen kaputten Sattel",
+          "Es war gestohlen."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "tf",
+        "prompt": "Der Mechaniker sagt, dass nur der Reifen kaputt ist.",
+        "answer": false,
+        "explanation": "Auch die Bremsen, die Kette und das Licht sind kaputt."
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie viel kostet die Reparatur ungefähr?",
+        "options": ["80 Euro", "150 Euro", "180 Euro", "350 Euro"],
+        "answer": 2
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie alt ist das alte Fahrrad?",
+        "options": ["Fünf Jahre", "Zehn Jahre", "Zwanzig Jahre", "Fünfzehn Jahre"],
+        "answer": 3
+      },
+      {
+        "type": "tf",
+        "prompt": "Die E-Bikes im Laden waren sehr teuer.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Welches Fahrrad gefällt Felix?",
+        "options": [
+          "Ein neues E-Bike",
+          "Ein gebrauchtes Stadtrad mit sieben Gängen",
+          "Ein Rennrad",
+          "Ein Kinderfahrrad"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Felix darf keine Probefahrt machen.",
+        "answer": false,
+        "explanation": "Er darf eine Runde um den Block fahren."
+      },
+      {
+        "type": "mc",
+        "prompt": "Warum wird das Rad billiger?",
+        "options": [
+          "Felix lässt sein altes Rad im Laden.",
+          "Felix bezahlt bar.",
+          "Felix ist Student.",
+          "Es gibt einen Schlussverkauf."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie viel bezahlt Felix am Ende?",
+        "options": ["350 Euro", "300 Euro", "320 Euro", "180 Euro"],
+        "answer": 2
+      }
+    ]
   }
 ]
