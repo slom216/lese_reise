@@ -58,6 +58,11 @@ export function ReaderPage() {
           key={text.id}
           questions={text.questions}
           onComplete={(s) => complete(text.id, s)}
+          next={
+            next
+              ? { to: `/text/${next.id}`, label: `Next text: ${next.title} →` }
+              : { to: levelPath, label: `Back to level ${text.level}` }
+          }
         />
       </section>
 

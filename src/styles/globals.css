@@ -740,6 +740,15 @@ a:hover {
   background: var(--color-surface-muted);
 }
 
+.quiz__result.is-perfect {
+  background: color-mix(in oklab, var(--color-tertiary) 22%, var(--color-surface));
+  border-color: var(--color-tertiary);
+}
+
+.quiz__praise {
+  margin: var(--space-1) 0 0;
+}
+
 .quiz__score {
   margin: 0;
   font-family: var(--font-display);

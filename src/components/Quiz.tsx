@@ -1,4 +1,5 @@
 import { useState } from 'react';
+import { Link } from 'react-router-dom';
 import type { Question } from '../content/schema';
 
 type Answer = number | boolean | undefined;
@@ -15,9 +16,12 @@ function correctLabel(q: Question): string {
 export function Quiz({
   questions,
   onComplete,
+  next,
 }: {
   questions: Question[];
   onComplete: (score: number) => void;
+  /** Where to go after the quiz: the next text, or back to the level list. */
+  next: { to: string; label: string };
 }) {
   const [answers, setAnswers] = useState<Answer[]>(() => questions.map(() => undefined));
   const [submitted, setSubmitted] = useState(false);
@@ -92,13 +96,38 @@ export function Quiz({
       })}
 
       {submitted ? (
-        <div className="card quiz__result" role="status">
-          <p className="quiz__score">
-            {correct} / {questions.length} correct
-          </p>
-          <button type="button" className="button button--secondary" onClick={retry}>
-            Try again
-          </button>
+        <div
+          className={`card quiz__result${correct === questions.length ? ' is-perfect' : ''}`}
+          role="status"
+        >
+          {correct === questions.length ? (
+            <>
+              <div>
+                <p className="quiz__score">Perfekt! 🎉</p>
+                <p className="quiz__praise">
+                  All {questions.length} answers are right. Well done — you understood the
+                  whole text.
+                </p>
+              </div>
+              <Link className="button button--primary" to={next.to}>
+                {next.label}
+              </Link>
+            </>
+          ) : (
+            <>
+              <p className="quiz__score">
+                {correct} / {questions.length} correct
+              </p>
+              <div className="row">
+                <Link className="button button--ghost" to={next.to}>
+                  {next.label}
+                </Link>
+                <button type="button" className="button button--primary" onClick={retry}>
+                  Try again
+                </button>
+              </div>
+            </>
+          )}
         </div>
       ) : (
         <div className="row">
