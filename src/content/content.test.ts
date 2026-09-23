@@ -2,8 +2,16 @@ import { TEXTS } from './index';
 import { LEVELS, WORD_RANGE, countWords, findGlossary, glossaryNeedle } from './schema';
 
 describe('reading texts', () => {
-  it.each(LEVELS)('%s has 10 texts', (level) => {
-    expect(TEXTS.filter((t) => t.level === level)).toHaveLength(10);
+  const EXPECTED = { A1: 50, A2: 10, B1: 10 };
+  it.each(LEVELS)('%s has the expected number of texts', (level) => {
+    expect(TEXTS.filter((t) => t.level === level)).toHaveLength(EXPECTED[level]);
+  });
+
+  it('texts within a level have distinct titles', () => {
+    for (const level of LEVELS) {
+      const titles = TEXTS.filter((t) => t.level === level).map((t) => t.title);
+      expect(new Set(titles).size).toBe(titles.length);
+    }
   });
 
   it('ids are unique and match their level', () => {

@@ -1,7 +1,7 @@
 /**
  * Reports how much of each text is covered by the CEFR word lists in data/.
  * Heuristic (crude suffix stripping, no real lemmatiser), so it only reports
- * and never fails. Usage: npm run audit:vocab [-- a1-03]
+ * and never fails. Usage: npm run audit:vocab [-- a1-03 | path/to/draft.json]
  */
 import { readFileSync } from 'node:fs';
 import { LEVELS, countWords, type Level, type ReadingText } from '../src/content/schema';
@@ -91,14 +91,16 @@ const cumulative = (level: Level) => {
   return set;
 };
 
-const only = process.argv[2];
+const arg = process.argv[2];
+const draft = arg?.endsWith('.json') ? arg : undefined;
+const only = draft ? undefined : arg;
 for (const level of LEVELS) {
   const vocab = cumulative(level);
   const texts: ReadingText[] = JSON.parse(
-    readFileSync(`src/content/texts/${level.toLowerCase()}.json`, 'utf8'),
+    readFileSync(draft ?? `src/content/texts/${level.toLowerCase()}.json`, 'utf8'),
   );
   for (const t of texts) {
-    if (only && t.id !== only) continue;
+    if ((only && t.id !== only) || t.level !== level) continue;
     const tokens = t.body.toLowerCase().match(/[\p{L}]+/gu) ?? [];
     const unknown = [
       ...new Set(tokens.filter((w) => !/^\d/.test(w) && !known(w, vocab))),
