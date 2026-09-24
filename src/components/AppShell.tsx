@@ -1,6 +1,7 @@
 import { useEffect, useRef } from 'react';
 import { NavLink, Outlet, useLocation } from 'react-router-dom';
 import logoMark from '../assets/art/logo-mark.png';
+import { ThemeToggle } from './ThemeToggle';
 import staircase from '../assets/art/footer-staircase.webp';
 
 const NAV = [
@@ -55,12 +56,15 @@ export function AppShell() {
                 </NavLink>
               ))}
             </nav>
-            <a
-              className="button button--secondary button--arrow app-header__home"
-              href="https://deulern.com"
-            >
-              deulern.com
-            </a>
+            <div className="app-header__end">
+              <ThemeToggle />
+              <a
+                className="button button--secondary button--arrow app-header__home"
+                href="https://deulern.com"
+              >
+                deulern.com
+              </a>
+            </div>
           </div>
         </div>
       </header>
