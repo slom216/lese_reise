@@ -1,5 +1,7 @@
 import { useEffect, useRef } from 'react';
 import { NavLink, Outlet, useLocation } from 'react-router-dom';
+import logoMark from '../assets/art/logo-mark.png';
+import staircase from '../assets/art/footer-staircase.webp';
 
 const NAV = [
   { to: '/', label: 'Texts', end: true },
@@ -34,23 +36,32 @@ export function AppShell() {
       </a>
       <header className="app-header">
         <div className="app-header__inner">
-          <NavLink to="/" className="app-brand">
-            Deu<span className="app-brand__accent">Lern</span> Lese Reise
-            <span className="app-brand__subtitle">German reading, A1–B1</span>
-          </NavLink>
-          <nav className="app-nav" aria-label="Main">
-            {NAV.map((n) => (
-              <NavLink key={n.to} to={n.to} end={n.end} className="app-nav__link">
-                {n.label}
-              </NavLink>
-            ))}
-          </nav>
-          <a
-            className="button button--secondary app-header__home"
-            href="https://deulern.com"
-          >
-            deulern.com
-          </a>
+          <div className="app-header__bar">
+            <NavLink to="/" className="app-brand">
+              <img
+                className="app-brand__mark"
+                src={logoMark}
+                alt=""
+                width={38}
+                height={41}
+              />
+              <span className="app-brand__word">DeuLern</span>{' '}
+              <span className="app-brand__app">Lese Reise</span>
+            </NavLink>
+            <nav className="app-nav" aria-label="Main">
+              {NAV.map((n) => (
+                <NavLink key={n.to} to={n.to} end={n.end} className="app-nav__link">
+                  {n.label}
+                </NavLink>
+              ))}
+            </nav>
+            <a
+              className="button button--secondary button--arrow app-header__home"
+              href="https://deulern.com"
+            >
+              deulern.com
+            </a>
+          </div>
         </div>
       </header>
 
@@ -62,12 +73,29 @@ export function AppShell() {
 
       <footer className="app-footer">
         <div className="app-footer__inner">
-          <p className="app-footer__note">
-            Lese Reise is part of <a href="https://deulern.com">DeuLern</a>, where you can
-            find more apps for learning German: vocabulary, verbs and grammar. All texts
-            are written for this app. Your progress is stored only in this browser.
-          </p>
+          <div className="app-footer__bar">
+            <a className="app-footer__brand" href="https://deulern.com">
+              <img src={logoMark} alt="" width={38} height={41} />
+              DeuLern
+            </a>
+            <p className="app-footer__note">
+              Lese Reise is part of <a href="https://deulern.com">DeuLern</a>, where you
+              can find more apps for learning German: vocabulary, verbs and grammar.
+              <br />
+              All texts are written for this app. Your progress is stored only in this
+              browser.
+            </p>
+          </div>
         </div>
+        {/* Decoration, rising out of the sheet's bottom-right corner behind the page. */}
+        <img
+          className="app-footer__art"
+          src={staircase}
+          alt=""
+          width={206}
+          height={201}
+          loading="lazy"
+        />
       </footer>
     </div>
   );
