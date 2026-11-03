@@ -87,7 +87,10 @@ export function AppShell() {
               can find more apps for learning German: vocabulary, verbs and grammar.
               <br />
               All texts are written for this app. Your progress is stored only in this
-              browser.
+              browser.{' '}
+              <a href="#cookies" data-consent-open>
+                Cookies
+              </a>
             </p>
           </div>
         </div>
