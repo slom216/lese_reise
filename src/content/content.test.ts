@@ -1,3 +1,5 @@
+import { readFileSync } from 'node:fs';
+import { linkTexts, loadWords, textFile } from '../../scripts/linkGlossary';
 import { TEXTS } from './index';
 import { LEVELS, WORD_RANGE, countWords, findGlossary, glossaryNeedle } from './schema';
 
@@ -35,4 +37,12 @@ describe('reading texts', () => {
       expect(missing.map((g) => g.german)).toEqual([]);
     },
   );
+
+  it('glossary links to Wortschatz are up to date (fix: npm run link:glossary)', () => {
+    const words = loadWords();
+    for (const level of ['a1', 'a2', 'b1']) {
+      const texts = JSON.parse(readFileSync(textFile(level), 'utf8'));
+      expect(linkTexts(texts, words)).toEqual(texts);
+    }
+  });
 });

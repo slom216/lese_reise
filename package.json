@@ -14,7 +14,8 @@
     "typecheck": "tsc -b --pretty",
     "test": "vitest run",
     "test:watch": "vitest",
-    "audit:vocab": "tsx scripts/auditVocab.ts"
+    "audit:vocab": "tsx scripts/auditVocab.ts",
+    "link:glossary": "tsx scripts/linkGlossary.ts"
   },
   "dependencies": {
     "@fontsource-variable/manrope": "^5.3.0",
@@ -45,6 +46,7 @@
     "typescript": "~5.9.3",
     "typescript-eslint": "^8.46.1",
     "vite": "^7.1.9",
+    "vite-plugin-pwa": "^1.3.0",
     "vitest": "^3.2.4"
   }
 }

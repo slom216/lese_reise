@@ -84,7 +84,10 @@ export function AppShell() {
             </a>
             <p className="app-footer__note">
               Lese Reise is part of <a href="https://deulern.com">DeuLern</a>, where you
-              can find more apps for learning German: vocabulary, verbs and grammar.
+              can find more apps for learning German:{' '}
+              <a href="https://wortschatz.deulern.com">vocabulary</a>,{' '}
+              <a href="https://verben.deulern.com">verbs</a> and{' '}
+              <a href="https://grammatik.deulern.com">grammar</a>.
               <br />
               All texts are written for this app. Your progress is stored only in this
               browser.{' '}

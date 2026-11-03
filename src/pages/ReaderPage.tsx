@@ -40,11 +40,31 @@ export function ReaderPage() {
 
       <section className="stack stack--tight" aria-labelledby="glossary-heading">
         <h2 id="glossary-heading">Wörter zum Text</h2>
-        <p className="text-muted text-sm">Words that might be new at this level.</p>
+        <p className="text-muted text-sm">
+          Words that might be new at this level. Linked words open in{' '}
+          <a href="https://wortschatz.deulern.com" target="_blank" rel="noopener">
+            DeuLern Wortschatz
+          </a>
+          , with examples and practice.
+        </p>
         <dl className="glossary">
           {text.glossary.map((g) => (
             <div key={g.german} className="glossary__row">
-              <dt lang="de">{g.german}</dt>
+              <dt lang="de">
+                {g.wortschatzId ? (
+                  // A new tab, so the text and an unfinished quiz stay where they were.
+                  <a
+                    href={`https://wortschatz.deulern.com/word/${g.wortschatzId}`}
+                    target="_blank"
+                    rel="noopener"
+                    title="Open in DeuLern Wortschatz (new tab)"
+                  >
+                    {g.german}
+                  </a>
+                ) : (
+                  g.german
+                )}
+              </dt>
               <dd>{g.english}</dd>
             </div>
           ))}

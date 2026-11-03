@@ -9,20 +9,24 @@
       {
         "german": "umziehen",
         "english": "to move (house)",
-        "match": "umgezogen"
+        "match": "umgezogen",
+        "wortschatzId": "a1-umziehen"
       },
       {
         "german": "die Stelle",
-        "english": "job, position"
+        "english": "job, position",
+        "wortschatzId": "a1-die-stelle"
       },
       {
         "german": "anstrengend",
-        "english": "exhausting, tiring"
+        "english": "exhausting, tiring",
+        "wortschatzId": "b1-anstrengend"
       },
       {
         "german": "klappen",
         "english": "to work out",
-        "match": "geklappt"
+        "match": "geklappt",
+        "wortschatzId": "a2-klappen"
       },
       {
         "german": "passend",
@@ -35,11 +39,13 @@
       },
       {
         "german": "der Vermieter",
-        "english": "landlord"
+        "english": "landlord",
+        "wortschatzId": "a1-der-vermieter"
       },
       {
         "german": "der Vertrag",
-        "english": "contract"
+        "english": "contract",
+        "wortschatzId": "a2-der-vertrag"
       },
       {
         "german": "der Lastwagen",
@@ -48,12 +54,14 @@
       {
         "german": "mieten",
         "english": "to rent, to hire",
-        "match": "gemietet"
+        "match": "gemietet",
+        "wortschatzId": "a1-mieten"
       },
       {
         "german": "die Kiste",
         "english": "box, crate",
-        "match": "Kisten"
+        "match": "Kisten",
+        "wortschatzId": "b1-die-kiste"
       },
       {
         "german": "sich anmelden",
@@ -63,7 +71,8 @@
       {
         "german": "vermissen",
         "english": "to miss (someone)",
-        "match": "vermisst"
+        "match": "vermisst",
+        "wortschatzId": "b1-vermissen"
       }
     ],
     "questions": [
@@ -133,7 +142,8 @@
     "glossary": [
       {
         "german": "die Ausbildung",
-        "english": "vocational training, apprenticeship"
+        "english": "vocational training, apprenticeship",
+        "wortschatzId": "a2-die-ausbildung"
       },
       {
         "german": "der Mechatroniker",
@@ -142,11 +152,13 @@
       {
         "german": "begrüßen",
         "english": "to greet",
-        "match": "begrüßt"
+        "match": "begrüßt",
+        "wortschatzId": "b1-begruessen"
       },
       {
         "german": "die Werkstatt",
-        "english": "workshop"
+        "english": "workshop",
+        "wortschatzId": "a2-die-werkstatt"
       },
       {
         "german": "die Arbeitskleidung",
@@ -155,16 +167,19 @@
       {
         "german": "fest",
         "english": "sturdy, solid",
-        "match": "feste"
+        "match": "feste",
+        "wortschatzId": "a2-fest"
       },
       {
         "german": "zuschauen",
         "english": "to watch, to look on",
-        "match": "zugeschaut"
+        "match": "zugeschaut",
+        "wortschatzId": "b1-zuschauen"
       },
       {
         "german": "die Kantine",
-        "english": "canteen"
+        "english": "canteen",
+        "wortschatzId": "b1-die-kantine"
       },
       {
         "german": "das Teil",
@@ -172,7 +187,8 @@
       },
       {
         "german": "zufrieden",
-        "english": "satisfied, content"
+        "english": "satisfied, content",
+        "wortschatzId": "a1-zufrieden"
       },
       {
         "german": "stolz auf",
@@ -231,25 +247,30 @@
     "glossary": [
       {
         "german": "deshalb",
-        "english": "therefore, that's why"
+        "english": "therefore, that's why",
+        "wortschatzId": "a2-deshalb"
       },
       {
         "german": "einladen",
         "english": "to invite",
-        "match": "eingeladen"
+        "match": "eingeladen",
+        "wortschatzId": "a1-einladen"
       },
       {
         "german": "die Nachricht",
-        "english": "message"
+        "english": "message",
+        "wortschatzId": "a2-die-nachricht"
       },
       {
         "german": "die Wiese",
-        "english": "meadow, lawn"
+        "english": "meadow, lawn",
+        "wortschatzId": "b1-die-wiese"
       },
       {
         "german": "zusagen",
         "english": "to accept (an invitation)",
-        "match": "zugesagt"
+        "match": "zugesagt",
+        "wortschatzId": "b1-zusagen"
       },
       {
         "german": "Glück haben",
@@ -259,7 +280,8 @@
       {
         "german": "die Decke",
         "english": "blanket",
-        "match": "Decken"
+        "match": "Decken",
+        "wortschatzId": "b1-die-decke"
       },
       {
         "german": "sich unterhalten",
@@ -277,7 +299,8 @@
       },
       {
         "german": "dunkel",
-        "english": "dark"
+        "english": "dark",
+        "wortschatzId": "a2-dunkel"
       }
     ],
     "questions": [
@@ -337,20 +360,24 @@
     "glossary": [
       {
         "german": "nass",
-        "english": "wet"
+        "english": "wet",
+        "wortschatzId": "a2-nass"
       },
       {
         "german": "merken",
         "english": "to notice",
-        "match": "gemerkt"
+        "match": "gemerkt",
+        "wortschatzId": "a2-merken"
       },
       {
         "german": "dünn",
-        "english": "thin"
+        "english": "thin",
+        "wortschatzId": "a2-duenn"
       },
       {
         "german": "die Größe",
-        "english": "size"
+        "english": "size",
+        "wortschatzId": "a1-die-groesse"
       },
       {
         "german": "die Umkleidekabine",
@@ -364,7 +391,8 @@
       {
         "german": "passen",
         "english": "to fit",
-        "match": "gepasst"
+        "match": "gepasst",
+        "wortschatzId": "a2-passen"
       },
       {
         "german": "der Ärmel",
@@ -448,24 +476,29 @@
       {
         "german": "überlegen",
         "english": "to think about, to consider",
-        "match": "überlegt"
+        "match": "überlegt",
+        "wortschatzId": "b1-ueberlegen"
       },
       {
         "german": "die Sportart",
-        "english": "type of sport"
+        "english": "type of sport",
+        "wortschatzId": "b1-die-sportart"
       },
       {
         "german": "der Verein",
         "english": "club",
-        "match": "Volleyballverein"
+        "match": "Volleyballverein",
+        "wortschatzId": "a1-der-verein"
       },
       {
         "german": "die Mannschaft",
-        "english": "team"
+        "english": "team",
+        "wortschatzId": "a2-die-mannschaft"
       },
       {
         "german": "der Beitrag",
-        "english": "(membership) fee"
+        "english": "(membership) fee",
+        "wortschatzId": "b1-der-beitrag"
       },
       {
         "german": "das Probetraining",
@@ -474,7 +507,8 @@
       {
         "german": "schlagen",
         "english": "to hit",
-        "match": "schlägt"
+        "match": "schlägt",
+        "wortschatzId": "b1-schlagen"
       },
       {
         "german": "der Muskelkater",
@@ -482,15 +516,18 @@
       },
       {
         "german": "trotzdem",
-        "english": "nevertheless, still"
+        "english": "nevertheless, still",
+        "wortschatzId": "b1-trotzdem"
       },
       {
         "german": "das Mitglied",
-        "english": "member"
+        "english": "member",
+        "wortschatzId": "b1-das-mitglied"
       },
       {
         "german": "regelmäßig",
-        "english": "regularly"
+        "english": "regularly",
+        "wortschatzId": "b1-regelmaessig"
       },
       {
         "german": "das Turnier",
@@ -564,11 +601,13 @@
       {
         "german": "aufwachen",
         "english": "to wake up",
-        "match": "aufgewacht"
+        "match": "aufgewacht",
+        "wortschatzId": "b1-aufwachen"
       },
       {
         "german": "schlimm",
-        "english": "bad, serious"
+        "english": "bad, serious",
+        "wortschatzId": "a2-schlimm"
       },
       {
         "german": "der Husten",
@@ -576,32 +615,39 @@
       },
       {
         "german": "der Schnupfen",
-        "english": "runny nose, head cold"
+        "english": "runny nose, head cold",
+        "wortschatzId": "b1-der-schnupfen"
       },
       {
         "german": "schwach",
-        "english": "weak"
+        "english": "weak",
+        "wortschatzId": "a2-schwach"
       },
       {
         "german": "blass",
-        "english": "pale"
+        "english": "pale",
+        "wortschatzId": "b1-blass"
       },
       {
         "german": "die Erkältung",
-        "english": "cold (illness)"
+        "english": "cold (illness)",
+        "wortschatzId": "b1-die-erkaeltung"
       },
       {
         "german": "verschreiben",
         "english": "to prescribe",
-        "match": "verschrieben"
+        "match": "verschrieben",
+        "wortschatzId": "b1-verschreiben"
       },
       {
         "german": "die Ruhe",
-        "english": "rest, quiet"
+        "english": "rest, quiet",
+        "wortschatzId": "a2-die-ruhe"
       },
       {
         "german": "mindestens",
-        "english": "at least"
+        "english": "at least",
+        "wortschatzId": "a2-mindestens"
       },
       {
         "german": "anstecken",
@@ -681,11 +727,13 @@
       },
       {
         "german": "das Gepäck",
-        "english": "luggage"
+        "english": "luggage",
+        "wortschatzId": "a1-das-gepaeck"
       },
       {
         "german": "der Stau",
-        "english": "traffic jam"
+        "english": "traffic jam",
+        "wortschatzId": "b1-der-stau"
       },
       {
         "german": "die Ferienwohnung",
@@ -693,16 +741,19 @@
       },
       {
         "german": "der Strand",
-        "english": "beach"
+        "english": "beach",
+        "wortschatzId": "a2-der-strand"
       },
       {
         "german": "der Blick",
-        "english": "view"
+        "english": "view",
+        "wortschatzId": "a1-der-blick"
       },
       {
         "german": "baden",
         "english": "to swim, to bathe",
-        "match": "gebadet"
+        "match": "gebadet",
+        "wortschatzId": "a1-baden"
       },
       {
         "german": "der Sonnenbrand",
@@ -715,15 +766,18 @@
       },
       {
         "german": "die Langeweile",
-        "english": "boredom"
+        "english": "boredom",
+        "wortschatzId": "b1-die-langeweile"
       },
       {
         "german": "die Insel",
-        "english": "island"
+        "english": "island",
+        "wortschatzId": "a2-die-insel"
       },
       {
         "german": "die Küste",
-        "english": "coast"
+        "english": "coast",
+        "wortschatzId": "b1-die-kueste"
       },
       {
         "german": "erholt",
@@ -781,20 +835,24 @@
     "glossary": [
       {
         "german": "der Bildschirm",
-        "english": "screen"
+        "english": "screen",
+        "wortschatzId": "b1-der-bildschirm"
       },
       {
         "german": "funktionieren",
         "english": "to work, to function",
-        "match": "funktioniert"
+        "match": "funktioniert",
+        "wortschatzId": "b1-funktionieren"
       },
       {
         "german": "der Mitarbeiter",
-        "english": "employee, member of staff"
+        "english": "employee, member of staff",
+        "wortschatzId": "a2-der-mitarbeiter"
       },
       {
         "german": "die Reparatur",
-        "english": "repair"
+        "english": "repair",
+        "wortschatzId": "a1-die-reparatur"
       },
       {
         "german": "das Ersatzhandy",
@@ -802,25 +860,30 @@
       },
       {
         "german": "möglich",
-        "english": "possible"
+        "english": "possible",
+        "wortschatzId": "a1-moeglich"
       },
       {
         "german": "die Verabredung",
-        "english": "appointment, date (with a friend)"
+        "english": "appointment, date (with a friend)",
+        "wortschatzId": "b1-die-verabredung"
       },
       {
         "german": "verpassen",
         "english": "to miss",
-        "match": "verpasst"
+        "match": "verpasst",
+        "wortschatzId": "a2-verpassen"
       },
       {
         "german": "benutzen",
-        "english": "to use"
+        "english": "to use",
+        "wortschatzId": "a1-benutzen"
       },
       {
         "german": "der Vorteil",
         "english": "advantage",
-        "match": "Vorteile"
+        "match": "Vorteile",
+        "wortschatzId": "b1-der-vorteil"
       },
       {
         "german": "entspannt",
@@ -829,7 +892,8 @@
       },
       {
         "german": "die Regel",
-        "english": "rule"
+        "english": "rule",
+        "wortschatzId": "b1-die-regel"
       }
     ],
     "questions": [
@@ -878,31 +942,37 @@
     "glossary": [
       {
         "german": "die Volkshochschule",
-        "english": "adult education centre"
+        "english": "adult education centre",
+        "wortschatzId": "b1-die-volkshochschule"
       },
       {
         "german": "stattfinden",
         "english": "to take place",
-        "match": "findet jeden Mittwochabend statt"
+        "match": "findet jeden Mittwochabend statt",
+        "wortschatzId": "a2-stattfinden"
       },
       {
         "german": "buchen",
         "english": "to book",
-        "match": "gebucht"
+        "match": "gebucht",
+        "wortschatzId": "a2-buchen"
       },
       {
         "german": "bisher",
-        "english": "until now, so far"
+        "english": "until now, so far",
+        "wortschatzId": "b1-bisher"
       },
       {
         "german": "das Gericht",
         "english": "dish, meal",
-        "match": "Gerichte"
+        "match": "Gerichte",
+        "wortschatzId": "a2-das-gericht"
       },
       {
         "german": "der Teilnehmer",
         "english": "participant",
-        "match": "Teilnehmer"
+        "match": "Teilnehmer",
+        "wortschatzId": "b1-der-teilnehmer"
       },
       {
         "german": "die Kursleiterin",
@@ -914,11 +984,13 @@
       },
       {
         "german": "das Rezept",
-        "english": "recipe"
+        "english": "recipe",
+        "wortschatzId": "a2-das-rezept"
       },
       {
         "german": "das Mehl",
-        "english": "flour"
+        "english": "flour",
+        "wortschatzId": "b1-das-mehl"
       },
       {
         "german": "der Teig",
@@ -926,7 +998,8 @@
       },
       {
         "german": "trocken",
-        "english": "dry"
+        "english": "dry",
+        "wortschatzId": "a2-trocken"
       },
       {
         "german": "der Nachtisch",
@@ -991,7 +1064,8 @@
       {
         "german": "ankommen",
         "english": "to arrive",
-        "match": "angekommen"
+        "match": "angekommen",
+        "wortschatzId": "a1-ankommen"
       },
       {
         "german": "die Mitbewohnerin",
@@ -999,44 +1073,54 @@
       },
       {
         "german": "das Semester",
-        "english": "(university) term"
+        "english": "(university) term",
+        "wortschatzId": "b1-das-semester"
       },
       {
         "german": "streng",
-        "english": "strict"
+        "english": "strict",
+        "wortschatzId": "b1-streng"
       },
       {
         "german": "spannend",
-        "english": "exciting, fascinating"
+        "english": "exciting, fascinating",
+        "wortschatzId": "a2-spannend"
       },
       {
         "german": "die Prüfung",
-        "english": "exam"
+        "english": "exam",
+        "wortschatzId": "a1-die-pruefung"
       },
       {
         "german": "ziemlich",
-        "english": "quite, rather"
+        "english": "quite, rather",
+        "wortschatzId": "b1-ziemlich"
       },
       {
         "german": "die Buchhandlung",
-        "english": "bookshop"
+        "english": "bookshop",
+        "wortschatzId": "b1-die-buchhandlung"
       },
       {
         "german": "verdienen",
         "english": "to earn",
-        "match": "verdiene"
+        "match": "verdiene",
+        "wortschatzId": "a1-verdienen"
       },
       {
         "german": "die Wanderung",
-        "english": "hike"
+        "english": "hike",
+        "wortschatzId": "b1-die-wanderung"
       },
       {
         "german": "unterwegs",
-        "english": "on the way"
+        "english": "on the way",
+        "wortschatzId": "b1-unterwegs"
       },
       {
         "german": "die Landschaft",
-        "english": "landscape, scenery"
+        "english": "landscape, scenery",
+        "wortschatzId": "a2-die-landschaft"
       },
       {
         "german": "die Plätzchen",
@@ -1126,21 +1210,25 @@
       },
       {
         "german": "der Führerschein",
-        "english": "driving licence"
+        "english": "driving licence",
+        "wortschatzId": "a2-der-fuehrerschein"
       },
       {
         "german": "der Motor",
-        "english": "engine"
+        "english": "engine",
+        "wortschatzId": "a2-der-motor"
       },
       {
         "german": "die Bremse",
         "english": "brake",
-        "match": "Bremsen"
+        "match": "Bremsen",
+        "wortschatzId": "b1-die-bremse"
       },
       {
         "german": "nachdenken",
         "english": "to think (about)",
-        "match": "nachgedacht"
+        "match": "nachgedacht",
+        "wortschatzId": "b1-nachdenken"
       },
       {
         "german": "der Winterreifen",
@@ -1154,7 +1242,8 @@
       {
         "german": "unterschreiben",
         "english": "to sign",
-        "match": "unterschrieben"
+        "match": "unterschrieben",
+        "wortschatzId": "a1-unterschreiben"
       },
       {
         "german": "die Anzahlung",
@@ -1162,7 +1251,8 @@
       },
       {
         "german": "abholen",
-        "english": "to pick up, to collect"
+        "english": "to pick up, to collect",
+        "wortschatzId": "a1-abholen"
       }
     ],
     "questions": [
@@ -1217,24 +1307,29 @@
     "glossary": [
       {
         "german": "der Friseur",
-        "english": "hairdresser"
+        "english": "hairdresser",
+        "wortschatzId": "a2-der-friseur"
       },
       {
         "german": "der Termin",
-        "english": "appointment"
+        "english": "appointment",
+        "wortschatzId": "a1-der-termin"
       },
       {
         "german": "die Friseurin",
-        "english": "hairdresser (female)"
+        "english": "hairdresser (female)",
+        "wortschatzId": "a2-die-friseurin"
       },
       {
         "german": "begrüßen",
         "english": "to greet",
-        "match": "begrüßt"
+        "match": "begrüßt",
+        "wortschatzId": "b1-begruessen"
       },
       {
         "german": "die Frisur",
-        "english": "hairstyle"
+        "english": "hairstyle",
+        "wortschatzId": "b1-die-frisur"
       },
       {
         "german": "das Kinn",
@@ -1242,16 +1337,19 @@
       },
       {
         "german": "die Zeitschrift",
-        "english": "magazine"
+        "english": "magazine",
+        "wortschatzId": "a2-die-zeitschrift"
       },
       {
         "german": "aussuchen",
         "english": "to choose, to pick",
-        "match": "ausgesucht"
+        "match": "ausgesucht",
+        "wortschatzId": "b1-aussuchen"
       },
       {
         "german": "schneiden",
-        "english": "to cut"
+        "english": "to cut",
+        "wortschatzId": "a2-schneiden"
       },
       {
         "german": "föhnen",
@@ -1260,12 +1358,14 @@
       },
       {
         "german": "der Spiegel",
-        "english": "mirror"
+        "english": "mirror",
+        "wortschatzId": "b1-der-spiegel"
       },
       {
         "german": "erkennen",
         "english": "to recognise",
-        "match": "erkannt"
+        "match": "erkannt",
+        "wortschatzId": "b1-erkennen"
       },
       {
         "german": "der Haarschnitt",
@@ -1273,7 +1373,8 @@
       },
       {
         "german": "das Trinkgeld",
-        "english": "tip"
+        "english": "tip",
+        "wortschatzId": "b1-das-trinkgeld"
       }
     ],
     "questions": [
@@ -1347,11 +1448,13 @@
       },
       {
         "german": "die Vorstellung",
-        "english": "performance, show"
+        "english": "performance, show",
+        "wortschatzId": "b1-die-vorstellung"
       },
       {
         "german": "beliebt",
-        "english": "popular"
+        "english": "popular",
+        "wortschatzId": "a2-beliebt"
       },
       {
         "german": "sich anziehen",
@@ -1360,19 +1463,23 @@
       },
       {
         "german": "die Garderobe",
-        "english": "cloakroom"
+        "english": "cloakroom",
+        "wortschatzId": "b1-die-garderobe"
       },
       {
         "german": "die Reihe",
-        "english": "row"
+        "english": "row",
+        "wortschatzId": "a2-die-reihe"
       },
       {
         "german": "die Bühne",
-        "english": "stage"
+        "english": "stage",
+        "wortschatzId": "b1-die-buehne"
       },
       {
         "german": "das Stück",
-        "english": "play"
+        "english": "play",
+        "wortschatzId": "a2-das-stueck"
       },
       {
         "german": "schiefgehen",
@@ -1381,11 +1488,13 @@
       },
       {
         "german": "der Schauspieler",
-        "english": "actor"
+        "english": "actor",
+        "wortschatzId": "a2-der-schauspieler"
       },
       {
         "german": "das Publikum",
-        "english": "audience"
+        "english": "audience",
+        "wortschatzId": "b1-das-publikum"
       },
       {
         "german": "der Sekt",
@@ -1454,7 +1563,8 @@
     "glossary": [
       {
         "german": "unbedingt",
-        "english": "absolutely, really"
+        "english": "absolutely, really",
+        "wortschatzId": "b1-unbedingt"
       },
       {
         "german": "die Lieblingsband",
@@ -1462,16 +1572,19 @@
       },
       {
         "german": "die Bühne",
-        "english": "stage"
+        "english": "stage",
+        "wortschatzId": "b1-die-buehne"
       },
       {
         "german": "der Eingang",
-        "english": "entrance"
+        "english": "entrance",
+        "wortschatzId": "a1-der-eingang"
       },
       {
         "german": "kontrollieren",
         "english": "to check",
-        "match": "kontrolliert"
+        "match": "kontrolliert",
+        "wortschatzId": "a2-kontrollieren"
       },
       {
         "german": "wegwerfen",
@@ -1483,7 +1596,8 @@
       },
       {
         "german": "die Stimmung",
-        "english": "atmosphere, mood"
+        "english": "atmosphere, mood",
+        "wortschatzId": "b1-die-stimmung"
       },
       {
         "german": "mitsingen",
@@ -1492,15 +1606,18 @@
       },
       {
         "german": "plötzlich",
-        "english": "suddenly"
+        "english": "suddenly",
+        "wortschatzId": "a2-ploetzlich"
       },
       {
         "german": "nass",
-        "english": "wet"
+        "english": "wet",
+        "wortschatzId": "a2-nass"
       },
       {
         "german": "der Sänger",
-        "english": "singer"
+        "english": "singer",
+        "wortschatzId": "a2-der-saenger"
       },
       {
         "german": "die Zugabe",
@@ -1510,7 +1627,8 @@
       {
         "german": "sich lohnen",
         "english": "to be worth it",
-        "match": "gelohnt"
+        "match": "gelohnt",
+        "wortschatzId": "b1-lohnen"
       }
     ],
     "questions": [
@@ -1580,7 +1698,8 @@
       {
         "german": "merken",
         "english": "to notice",
-        "match": "gemerkt"
+        "match": "gemerkt",
+        "wortschatzId": "a2-merken"
       },
       {
         "german": "ablaufen",
@@ -1589,15 +1708,18 @@
       },
       {
         "german": "beantragen",
-        "english": "to apply for"
+        "english": "to apply for",
+        "wortschatzId": "b1-beantragen"
       },
       {
         "german": "die Unterlagen",
-        "english": "documents, paperwork"
+        "english": "documents, paperwork",
+        "wortschatzId": "b1-die-unterlagen"
       },
       {
         "german": "die Gebühr",
-        "english": "fee"
+        "english": "fee",
+        "wortschatzId": "b1-die-gebuehr"
       },
       {
         "german": "die Wartenummer",
@@ -1605,19 +1727,23 @@
       },
       {
         "german": "der Bildschirm",
-        "english": "screen"
+        "english": "screen",
+        "wortschatzId": "b1-der-bildschirm"
       },
       {
         "german": "der Schalter",
-        "english": "counter, desk"
+        "english": "counter, desk",
+        "wortschatzId": "a1-der-schalter"
       },
       {
         "german": "die Beamtin",
-        "english": "civil servant (female)"
+        "english": "civil servant (female)",
+        "wortschatzId": "b1-die-beamtin"
       },
       {
         "german": "erlaubt",
-        "english": "allowed"
+        "english": "allowed",
+        "wortschatzId": "a1-erlauben"
       },
       {
         "german": "der Fotoautomat",
@@ -1631,7 +1757,8 @@
       },
       {
         "german": "erleichtert",
-        "english": "relieved"
+        "english": "relieved",
+        "wortschatzId": "b1-erleichtern"
       }
     ],
     "questions": [
@@ -1696,7 +1823,8 @@
     "glossary": [
       {
         "german": "unterwegs",
-        "english": "out and about, on the way"
+        "english": "out and about, on the way",
+        "wortschatzId": "b1-unterwegs"
       },
       {
         "german": "sich umdrehen",
@@ -1709,7 +1837,8 @@
       },
       {
         "german": "das Abitur",
-        "english": "school-leaving exam (A levels)"
+        "english": "school-leaving exam (A levels)",
+        "wortschatzId": "a2-das-abitur"
       },
       {
         "german": "sich aus den Augen verlieren",
@@ -1718,15 +1847,18 @@
       },
       {
         "german": "der Hafen",
-        "english": "port, harbour"
+        "english": "port, harbour",
+        "wortschatzId": "b1-der-hafen"
       },
       {
         "german": "süß",
-        "english": "sweet, cute"
+        "english": "sweet, cute",
+        "wortschatzId": "a2-suess"
       },
       {
         "german": "das Reisebüro",
-        "english": "travel agency"
+        "english": "travel agency",
+        "wortschatzId": "a1-das-reisebuero"
       },
       {
         "german": "sich unterhalten",
@@ -1736,26 +1868,31 @@
       {
         "german": "die Klassenfahrt",
         "english": "school trip",
-        "match": "Klassenfahrten"
+        "match": "Klassenfahrten",
+        "wortschatzId": "a2-die-klassenfahrt"
       },
       {
         "german": "weinen",
-        "english": "to cry"
+        "english": "to cry",
+        "wortschatzId": "a2-weinen"
       },
       {
         "german": "austauschen",
         "english": "to exchange",
-        "match": "ausgetauscht"
+        "match": "ausgetauscht",
+        "wortschatzId": "a2-austauschen"
       },
       {
         "german": "vorschlagen",
         "english": "to suggest",
-        "match": "vorgeschlagen"
+        "match": "vorgeschlagen",
+        "wortschatzId": "b1-vorschlagen"
       },
       {
         "german": "versprechen",
         "english": "to promise",
-        "match": "versprochen"
+        "match": "versprochen",
+        "wortschatzId": "b1-versprechen"
       }
     ],
     "questions": [
@@ -1820,24 +1957,29 @@
     "glossary": [
       {
         "german": "der Akku",
-        "english": "battery"
+        "english": "battery",
+        "wortschatzId": "b1-der-akku"
       },
       {
         "german": "leer",
-        "english": "empty, flat"
+        "english": "empty, flat",
+        "wortschatzId": "a2-leer"
       },
       {
         "german": "die Haltestelle",
-        "english": "stop (bus, tram)"
+        "english": "stop (bus, tram)",
+        "wortschatzId": "a1-die-haltestelle"
       },
       {
         "german": "geradeaus",
-        "english": "straight on"
+        "english": "straight on",
+        "wortschatzId": "a1-geradeaus"
       },
       {
         "german": "sich bedanken",
         "english": "to say thank you",
-        "match": "bedankt"
+        "match": "bedankt",
+        "wortschatzId": "a2-bedanken"
       },
       {
         "german": "unsicher",
@@ -1845,11 +1987,13 @@
       },
       {
         "german": "der Fluss",
-        "english": "river"
+        "english": "river",
+        "wortschatzId": "a2-der-fluss"
       },
       {
         "german": "entlang",
-        "english": "along"
+        "english": "along",
+        "wortschatzId": "b1-entlang"
       },
       {
         "german": "verwirrt",
@@ -1857,7 +2001,8 @@
       },
       {
         "german": "der Kiosk",
-        "english": "kiosk, newsstand"
+        "english": "kiosk, newsstand",
+        "wortschatzId": "a1-der-kiosk"
       },
       {
         "german": "recht haben",
@@ -1870,11 +2015,13 @@
       },
       {
         "german": "ungefähr",
-        "english": "about, approximately"
+        "english": "about, approximately",
+        "wortschatzId": "b1-ungefaehr"
       },
       {
         "german": "aufladen",
-        "english": "to charge (a battery)"
+        "english": "to charge (a battery)",
+        "wortschatzId": "b1-aufladen"
       }
     ],
     "questions": [
@@ -1936,7 +2083,8 @@
       },
       {
         "german": "zufrieden",
-        "english": "satisfied, happy"
+        "english": "satisfied, happy",
+        "wortschatzId": "a1-zufrieden"
       },
       {
         "german": "der Klang",
@@ -1953,11 +2101,13 @@
       {
         "german": "ansprechen",
         "english": "to speak to, to approach",
-        "match": "angesprochen"
+        "match": "angesprochen",
+        "wortschatzId": "b1-ansprechen"
       },
       {
         "german": "umtauschen",
-        "english": "to exchange (goods)"
+        "english": "to exchange (goods)",
+        "wortschatzId": "b1-umtauschen"
       },
       {
         "german": "der Ton",
@@ -1965,12 +2115,14 @@
       },
       {
         "german": "die Garantie",
-        "english": "warranty, guarantee"
+        "english": "warranty, guarantee",
+        "wortschatzId": "b1-die-garantie"
       },
       {
         "german": "überlegen",
         "english": "to think, to consider",
-        "match": "überlegt"
+        "match": "überlegt",
+        "wortschatzId": "b1-ueberlegen"
       },
       {
         "german": "die Akkulaufzeit",
@@ -2054,11 +2206,13 @@
       {
         "german": "frisch",
         "english": "fresh",
-        "match": "frischer"
+        "match": "frischer",
+        "wortschatzId": "a2-frisch"
       },
       {
         "german": "die Enkelin",
-        "english": "granddaughter"
+        "english": "granddaughter",
+        "wortschatzId": "a2-die-enkelin"
       },
       {
         "german": "der Gemüsestand",
@@ -2070,15 +2224,18 @@
       },
       {
         "german": "probieren",
-        "english": "to taste, to try"
+        "english": "to taste, to try",
+        "wortschatzId": "a2-probieren"
       },
       {
         "german": "das Pfund",
-        "english": "pound (500 g)"
+        "english": "pound (500 g)",
+        "wortschatzId": "a1-das-pfund"
       },
       {
         "german": "die Schlange",
-        "english": "queue"
+        "english": "queue",
+        "wortschatzId": "b1-die-schlange"
       },
       {
         "german": "plaudern",
@@ -2101,11 +2258,13 @@
       {
         "german": "lächeln",
         "english": "to smile",
-        "match": "gelächelt"
+        "match": "gelächelt",
+        "wortschatzId": "b1-laecheln"
       },
       {
         "german": "schwer",
-        "english": "heavy"
+        "english": "heavy",
+        "wortschatzId": "a1-schwer"
       }
     ],
     "questions": [
@@ -2174,11 +2333,13 @@
       },
       {
         "german": "der Schnupfen",
-        "english": "runny nose, cold"
+        "english": "runny nose, cold",
+        "wortschatzId": "b1-der-schnupfen"
       },
       {
         "german": "das Fieber",
-        "english": "fever, temperature"
+        "english": "fever, temperature",
+        "wortschatzId": "a1-das-fieber"
       },
       {
         "german": "schlapp",
@@ -2186,11 +2347,13 @@
       },
       {
         "german": "die Erkältung",
-        "english": "cold"
+        "english": "cold",
+        "wortschatzId": "b1-die-erkaeltung"
       },
       {
         "german": "die Apotheke",
-        "english": "pharmacy, chemist's"
+        "english": "pharmacy, chemist's",
+        "wortschatzId": "a2-die-apotheke"
       },
       {
         "german": "die Apothekerin",
@@ -2203,7 +2366,8 @@
       },
       {
         "german": "dagegen",
-        "english": "against it, for it"
+        "english": "against it, for it",
+        "wortschatzId": "b1-dagegen"
       },
       {
         "german": "der Husten",
@@ -2225,7 +2389,8 @@
       },
       {
         "german": "höchstens",
-        "english": "at most"
+        "english": "at most",
+        "wortschatzId": "b1-hoechstens"
       }
     ],
     "questions": [
@@ -2294,11 +2459,13 @@
       },
       {
         "german": "kaum",
-        "english": "hardly, barely"
+        "english": "hardly, barely",
+        "wortschatzId": "b1-kaum"
       },
       {
         "german": "die Praxis",
-        "english": "practice, surgery (of a doctor)"
+        "english": "practice, surgery (of a doctor)",
+        "wortschatzId": "a1-die-praxis"
       },
       {
         "german": "der Notfalltermin",
@@ -2306,7 +2473,8 @@
       },
       {
         "german": "ausfüllen",
-        "english": "to fill in (a form)"
+        "english": "to fill in (a form)",
+        "wortschatzId": "a1-ausfuellen"
       },
       {
         "german": "die Versicherungskarte",
@@ -2319,7 +2487,8 @@
       {
         "german": "untersuchen",
         "english": "to examine",
-        "match": "untersucht"
+        "match": "untersucht",
+        "wortschatzId": "a2-untersuchen"
       },
       {
         "german": "das Röntgenbild",
@@ -2335,7 +2504,8 @@
       },
       {
         "german": "die Spritze",
-        "english": "injection"
+        "english": "injection",
+        "wortschatzId": "b1-die-spritze"
       },
       {
         "german": "die Behandlung",
@@ -2343,7 +2513,8 @@
       },
       {
         "german": "taub",
-        "english": "numb"
+        "english": "numb",
+        "wortschatzId": "b1-taub"
       }
     ],
     "questions": [
@@ -2418,11 +2589,13 @@
     "glossary": [
       {
         "german": "das Paket",
-        "english": "parcel"
+        "english": "parcel",
+        "wortschatzId": "a2-das-paket"
       },
       {
         "german": "der Schalter",
-        "english": "counter"
+        "english": "counter",
+        "wortschatzId": "a1-der-schalter"
       },
       {
         "german": "die Viertelstunde",
@@ -2436,16 +2609,19 @@
       {
         "german": "wiegen",
         "english": "to weigh",
-        "match": "wiege"
+        "match": "wiege",
+        "wortschatzId": "b1-wiegen"
       },
       {
         "german": "ankommen",
         "english": "to arrive",
-        "match": "ankommen"
+        "match": "ankommen",
+        "wortschatzId": "a1-ankommen"
       },
       {
         "german": "der Unterschied",
-        "english": "difference"
+        "english": "difference",
+        "wortschatzId": "a2-der-unterschied"
       },
       {
         "german": "das Zollformular",
@@ -2459,15 +2635,18 @@
       {
         "german": "ankreuzen",
         "english": "to tick, to mark with a cross",
-        "match": "kreuzen"
+        "match": "kreuzen",
+        "wortschatzId": "a1-ankreuzen"
       },
       {
         "german": "die Mitarbeiterin",
-        "english": "(female) employee"
+        "english": "(female) employee",
+        "wortschatzId": "b1-die-mitarbeiterin"
       },
       {
         "german": "die Quittung",
-        "english": "receipt"
+        "english": "receipt",
+        "wortschatzId": "b1-die-quittung"
       },
       {
         "german": "die Sendungsnummer",
@@ -2571,26 +2750,31 @@
       },
       {
         "german": "erleichtert",
-        "english": "relieved"
+        "english": "relieved",
+        "wortschatzId": "b1-erleichtern"
       },
       {
         "german": "fremd",
         "english": "unknown, someone else's",
-        "match": "fremden"
+        "match": "fremden",
+        "wortschatzId": "a1-fremd"
       },
       {
         "german": "die Zahlung",
         "english": "payment",
-        "match": "Zahlungen"
+        "match": "Zahlungen",
+        "wortschatzId": "b1-die-zahlung"
       },
       {
         "german": "das Bargeld",
-        "english": "cash"
+        "english": "cash",
+        "wortschatzId": "b1-das-bargeld"
       },
       {
         "german": "leihen",
         "english": "to lend",
-        "match": "geliehen"
+        "match": "geliehen",
+        "wortschatzId": "a2-leihen"
       }
     ],
     "questions": [
@@ -2660,21 +2844,25 @@
     "glossary": [
       {
         "german": "die Straßenbahn",
-        "english": "tram"
+        "english": "tram",
+        "wortschatzId": "a1-die-strassenbahn"
       },
       {
         "german": "die Haltestelle",
-        "english": "stop (bus, tram)"
+        "english": "stop (bus, tram)",
+        "wortschatzId": "a1-die-haltestelle"
       },
       {
         "german": "aussteigen",
         "english": "to get off",
-        "match": "ausgestiegen"
+        "match": "ausgestiegen",
+        "wortschatzId": "a1-aussteigen"
       },
       {
         "german": "merken",
         "english": "to notice",
-        "match": "gemerkt"
+        "match": "gemerkt",
+        "wortschatzId": "a2-merken"
       },
       {
         "german": "die Verkehrsbetriebe",
@@ -2684,19 +2872,23 @@
       {
         "german": "die Fundsache",
         "english": "lost property item",
-        "match": "Fundsachen"
+        "match": "Fundsachen",
+        "wortschatzId": "a2-die-fundsachen"
       },
       {
         "german": "das Fundbüro",
-        "english": "lost-and-found office"
+        "english": "lost-and-found office",
+        "wortschatzId": "b1-das-fundbuero"
       },
       {
         "german": "vergessen",
-        "english": "to forget, to leave behind"
+        "english": "to forget, to leave behind",
+        "wortschatzId": "a2-vergessen"
       },
       {
         "german": "das Leder",
-        "english": "leather"
+        "english": "leather",
+        "wortschatzId": "b1-das-leder"
       },
       {
         "german": "der Reißverschluss",
@@ -2704,16 +2896,19 @@
       },
       {
         "german": "der Ausweis",
-        "english": "ID card"
+        "english": "ID card",
+        "wortschatzId": "a1-der-ausweis"
       },
       {
         "german": "die Gebühr",
-        "english": "fee"
+        "english": "fee",
+        "wortschatzId": "b1-die-gebuehr"
       },
       {
         "german": "unterschreiben",
         "english": "to sign",
-        "match": "unterschreibt"
+        "match": "unterschreibt",
+        "wortschatzId": "a1-unterschreiben"
       }
     ],
     "questions": [
@@ -2784,15 +2979,18 @@
       {
         "german": "abschließen",
         "english": "to lock",
-        "match": "abgeschlossen"
+        "match": "abgeschlossen",
+        "wortschatzId": "a2-abschliessen"
       },
       {
         "german": "das Schloss",
-        "english": "lock"
+        "english": "lock",
+        "wortschatzId": "a2-das-schloss"
       },
       {
         "german": "die Anzeige",
-        "english": "(police) report"
+        "english": "(police) report",
+        "wortschatzId": "a1-die-anzeige"
       },
       {
         "german": "die Polizeiwache",
@@ -2800,16 +2998,19 @@
       },
       {
         "german": "die Daten",
-        "english": "personal details, data"
+        "english": "personal details, data",
+        "wortschatzId": "b1-die-daten"
       },
       {
         "german": "aufnehmen",
         "english": "to take down, to record",
-        "match": "aufgenommen"
+        "match": "aufgenommen",
+        "wortschatzId": "b1-aufnehmen"
       },
       {
         "german": "beschreiben",
-        "english": "to describe"
+        "english": "to describe",
+        "wortschatzId": "a2-beschreiben"
       },
       {
         "german": "der Korb",
@@ -2831,11 +3032,13 @@
       {
         "german": "stehlen",
         "english": "to steal",
-        "match": "gestohlene"
+        "match": "gestohlene",
+        "wortschatzId": "b1-stehlen"
       },
       {
         "german": "selten",
-        "english": "rarely"
+        "english": "rarely",
+        "wortschatzId": "b1-selten"
       }
     ],
     "questions": [
@@ -2916,7 +3119,8 @@
       {
         "german": "komisch",
         "english": "strange, funny",
-        "match": "komisches"
+        "match": "komisches",
+        "wortschatzId": "a2-komisch"
       },
       {
         "german": "das Geräusch",
@@ -2925,7 +3129,8 @@
       {
         "german": "bremsen",
         "english": "to brake",
-        "match": "bremst"
+        "match": "bremst",
+        "wortschatzId": "b1-bremsen"
       },
       {
         "german": "quietschen",
@@ -2934,15 +3139,18 @@
       },
       {
         "german": "gefährlich",
-        "english": "dangerous"
+        "english": "dangerous",
+        "wortschatzId": "a2-gefaehrlich"
       },
       {
         "german": "die Werkstatt",
-        "english": "(car) repair shop, garage"
+        "english": "(car) repair shop, garage",
+        "wortschatzId": "a2-die-werkstatt"
       },
       {
         "german": "der Mechaniker",
-        "english": "mechanic"
+        "english": "mechanic",
+        "wortschatzId": "a2-der-mechaniker"
       },
       {
         "german": "hierlassen",
@@ -2951,11 +3159,13 @@
       {
         "german": "die Bremse",
         "english": "brake",
-        "match": "Bremsen"
+        "match": "Bremsen",
+        "wortschatzId": "b1-die-bremse"
       },
       {
         "german": "wechseln",
-        "english": "to change, to replace"
+        "english": "to change, to replace",
+        "wortschatzId": "a2-wechseln"
       },
       {
         "german": "der Kostenvoranschlag",
@@ -2964,16 +3174,19 @@
       {
         "german": "abholen",
         "english": "to pick up, to collect",
-        "match": "holt"
+        "match": "holt",
+        "wortschatzId": "a1-abholen"
       },
       {
         "german": "die Rechnung",
-        "english": "bill, invoice"
+        "english": "bill, invoice",
+        "wortschatzId": "a1-die-rechnung"
       },
       {
         "german": "niedrig",
         "english": "low",
-        "match": "niedriger"
+        "match": "niedriger",
+        "wortschatzId": "b1-niedrig"
       }
     ],
     "questions": [
@@ -3048,11 +3261,13 @@
       {
         "german": "reservieren",
         "english": "to reserve, to book",
-        "match": "reserviert"
+        "match": "reserviert",
+        "wortschatzId": "a2-reservieren"
       },
       {
         "german": "der Führerschein",
-        "english": "driving licence"
+        "english": "driving licence",
+        "wortschatzId": "a2-der-fuehrerschein"
       },
       {
         "german": "die Vollversicherung",
@@ -3060,7 +3275,8 @@
       },
       {
         "german": "der Unfall",
-        "english": "accident"
+        "english": "accident",
+        "wortschatzId": "a2-der-unfall"
       },
       {
         "german": "der Schaden",
@@ -3069,11 +3285,13 @@
       {
         "german": "überlegen",
         "english": "to think about, to consider",
-        "match": "überlegt"
+        "match": "überlegt",
+        "wortschatzId": "b1-ueberlegen"
       },
       {
         "german": "eng",
-        "english": "narrow"
+        "english": "narrow",
+        "wortschatzId": "a2-eng"
       },
       {
         "german": "der Kindersitz",
@@ -3085,7 +3303,8 @@
       },
       {
         "german": "die Tankstelle",
-        "english": "petrol station"
+        "english": "petrol station",
+        "wortschatzId": "b1-die-tankstelle"
       },
       {
         "german": "die Vignette",
@@ -3177,11 +3396,13 @@
       {
         "german": "buchen",
         "english": "to book",
-        "match": "gebucht"
+        "match": "gebucht",
+        "wortschatzId": "a2-buchen"
       },
       {
         "german": "möglich",
-        "english": "possible"
+        "english": "possible",
+        "wortschatzId": "a1-moeglich"
       },
       {
         "german": "sich ärgern",
@@ -3195,7 +3416,8 @@
       },
       {
         "german": "die Rezeption",
-        "english": "reception desk"
+        "english": "reception desk",
+        "wortschatzId": "a1-die-rezeption"
       },
       {
         "german": "sich entschuldigen",
@@ -3209,7 +3431,8 @@
       },
       {
         "german": "der Stock",
-        "english": "floor, storey"
+        "english": "floor, storey",
+        "wortschatzId": "a1-der-stock"
       },
       {
         "german": "der Aufpreis",
@@ -3217,12 +3440,14 @@
       },
       {
         "german": "die Entschuldigung",
-        "english": "apology"
+        "english": "apology",
+        "wortschatzId": "a1-die-entschuldigung"
       },
       {
         "german": "genießen",
         "english": "to enjoy",
-        "match": "genießt"
+        "match": "genießt",
+        "wortschatzId": "b1-geniessen"
       },
       {
         "german": "die Bewertung",
@@ -3299,12 +3524,14 @@
       },
       {
         "german": "der Kellner",
-        "english": "waiter"
+        "english": "waiter",
+        "wortschatzId": "a2-der-kellner"
       },
       {
         "german": "vegetarisch",
         "english": "vegetarian",
-        "match": "vegetarische"
+        "match": "vegetarische",
+        "wortschatzId": "b1-vegetarisch"
       },
       {
         "german": "die Meeresfrüchte",
@@ -3313,15 +3540,18 @@
       },
       {
         "german": "der Teller",
-        "english": "plate"
+        "english": "plate",
+        "wortschatzId": "a2-der-teller"
       },
       {
         "german": "das Hackfleisch",
-        "english": "minced meat"
+        "english": "minced meat",
+        "wortschatzId": "b1-hackfleisch"
       },
       {
         "german": "der Zettel",
-        "english": "note, slip of paper"
+        "english": "note, slip of paper",
+        "wortschatzId": "a2-der-zettel"
       },
       {
         "german": "recht haben",
@@ -3330,7 +3560,8 @@
       },
       {
         "german": "der Fehler",
-        "english": "mistake"
+        "english": "mistake",
+        "wortschatzId": "a1-der-fehler"
       },
       {
         "german": "lauwarm",
@@ -3347,11 +3578,13 @@
       },
       {
         "german": "trotzdem",
-        "english": "anyway, nevertheless"
+        "english": "anyway, nevertheless",
+        "wortschatzId": "b1-trotzdem"
       },
       {
         "german": "das Trinkgeld",
-        "english": "tip"
+        "english": "tip",
+        "wortschatzId": "b1-das-trinkgeld"
       }
     ],
     "questions": [
@@ -3417,47 +3650,58 @@
       {
         "german": "ausfallen",
         "english": "to be cancelled",
-        "match": "fällt"
+        "match": "fällt",
+        "wortschatzId": "b1-ausfallen"
       },
       {
         "german": "die Durchsage",
-        "english": "announcement"
+        "english": "announcement",
+        "wortschatzId": "a1-die-durchsage"
       },
       {
         "german": "der Grund",
-        "english": "reason"
+        "english": "reason",
+        "wortschatzId": "b1-der-grund"
       },
       {
         "german": "die Störung",
-        "english": "disruption, fault"
+        "english": "disruption, fault",
+        "wortschatzId": "b1-die-stoerung"
       },
       {
         "german": "die Strecke",
-        "english": "(railway) line, route"
+        "english": "(railway) line, route",
+        "wortschatzId": "b1-die-strecke"
       },
       {
         "german": "der Bahnsteig",
-        "english": "platform"
+        "english": "platform",
+        "wortschatzId": "a1-der-bahnsteig"
       },
       {
         "german": "sauer",
-        "english": "annoyed, cross (informal)"
+        "english": "annoyed, cross (informal)",
+        "wortschatzId": "a2-sauer"
       },
       {
         "german": "die Schlange",
-        "english": "queue"
+        "english": "queue",
+        "wortschatzId": "b1-die-schlange"
       },
       {
         "german": "die Verbindung",
-        "english": "connection"
+        "english": "connection",
+        "wortschatzId": "b1-die-verbindung"
       },
       {
         "german": "umsteigen",
-        "english": "to change (trains)"
+        "english": "to change (trains)",
+        "wortschatzId": "a2-umsteigen"
       },
       {
         "german": "gültig",
-        "english": "valid"
+        "english": "valid",
+        "wortschatzId": "a1-gueltig"
       },
       {
         "german": "der Fahrpreis",
@@ -3465,7 +3709,8 @@
       },
       {
         "german": "die Verspätung",
-        "english": "delay"
+        "english": "delay",
+        "wortschatzId": "a2-die-verspaetung"
       },
       {
         "german": "einen Antrag stellen",
@@ -3551,20 +3796,24 @@
       {
         "german": "der Passagier",
         "english": "passenger",
-        "match": "Passagiere"
+        "match": "Passagiere",
+        "wortschatzId": "b1-der-passagier"
       },
       {
         "german": "der Schalter",
-        "english": "counter, desk"
+        "english": "counter, desk",
+        "wortschatzId": "a1-der-schalter"
       },
       {
         "german": "das Gepäck",
-        "english": "luggage"
+        "english": "luggage",
+        "wortschatzId": "a1-das-gepaeck"
       },
       {
         "german": "ankommen",
         "english": "to arrive",
-        "match": "angekommen"
+        "match": "angekommen",
+        "wortschatzId": "a1-ankommen"
       },
       {
         "german": "die Bordkarte",
@@ -3576,7 +3825,8 @@
       },
       {
         "german": "wahrscheinlich",
-        "english": "probably"
+        "english": "probably",
+        "wortschatzId": "a2-wahrscheinlich"
       },
       {
         "german": "das Nötigste",
@@ -3585,7 +3835,8 @@
       {
         "german": "die Quittung",
         "english": "receipt",
-        "match": "Quittungen"
+        "match": "Quittungen",
+        "wortschatzId": "b1-die-quittung"
       },
       {
         "german": "die Fluggesellschaft",
@@ -3593,17 +3844,20 @@
       },
       {
         "german": "das Formular",
-        "english": "form"
+        "english": "form",
+        "wortschatzId": "a1-das-formular"
       },
       {
         "german": "ausfüllen",
         "english": "to fill in",
-        "match": "ausgefüllt"
+        "match": "ausgefüllt",
+        "wortschatzId": "a1-ausfuellen"
       },
       {
         "german": "beschreiben",
         "english": "to describe",
-        "match": "beschrieben"
+        "match": "beschrieben",
+        "wortschatzId": "a2-beschreiben"
       }
     ],
     "questions": [
@@ -3676,7 +3930,8 @@
       },
       {
         "german": "riesig",
-        "english": "huge"
+        "english": "huge",
+        "wortschatzId": "b1-riesig"
       },
       {
         "german": "ausprobieren",
@@ -3685,15 +3940,18 @@
       },
       {
         "german": "bequem",
-        "english": "comfortable"
+        "english": "comfortable",
+        "wortschatzId": "a2-bequem"
       },
       {
         "german": "liefern",
-        "english": "to deliver"
+        "english": "to deliver",
+        "wortschatzId": "a2-liefern"
       },
       {
         "german": "die Lieferung",
-        "english": "delivery"
+        "english": "delivery",
+        "wortschatzId": "b1-die-lieferung"
       },
       {
         "german": "aufbauen",
@@ -3701,7 +3959,8 @@
       },
       {
         "german": "der Schrank",
-        "english": "wardrobe, cupboard"
+        "english": "wardrobe, cupboard",
+        "wortschatzId": "a1-der-schrank"
       },
       {
         "german": "der Monteur",
@@ -3709,16 +3968,19 @@
       },
       {
         "german": "das Regal",
-        "english": "shelf"
+        "english": "shelf",
+        "wortschatzId": "b1-regal"
       },
       {
         "german": "schief",
-        "english": "crooked, not straight"
+        "english": "crooked, not straight",
+        "wortschatzId": "b1-schief"
       },
       {
         "german": "planen",
         "english": "to plan",
-        "match": "geplant"
+        "match": "geplant",
+        "wortschatzId": "a2-planen"
       }
     ],
     "questions": [
@@ -3783,7 +4045,8 @@
     "glossary": [
       {
         "german": "die Brille",
-        "english": "glasses"
+        "english": "glasses",
+        "wortschatzId": "a2-die-brille"
       },
       {
         "german": "der Optiker",
@@ -3792,7 +4055,8 @@
       {
         "german": "das Schild",
         "english": "sign",
-        "match": "Schilder"
+        "match": "Schilder",
+        "wortschatzId": "a1-das-schild"
       },
       {
         "german": "der Sehtest",
@@ -3801,16 +4065,19 @@
       {
         "german": "der Buchstabe",
         "english": "letter (of the alphabet)",
-        "match": "Buchstaben"
+        "match": "Buchstaben",
+        "wortschatzId": "a1-der-buchstabe"
       },
       {
         "german": "schwierig",
-        "english": "difficult"
+        "english": "difficult",
+        "wortschatzId": "a2-schwierig"
       },
       {
         "german": "das Glas",
         "english": "lens, glass",
-        "match": "Gläser"
+        "match": "Gläser",
+        "wortschatzId": "a1-das-glas"
       },
       {
         "german": "kurzsichtig",
@@ -3819,7 +4086,8 @@
       {
         "german": "erklären",
         "english": "to explain",
-        "match": "erklärt"
+        "match": "erklärt",
+        "wortschatzId": "a1-erklaeren"
       },
       {
         "german": "das Gestell",
@@ -3828,7 +4096,8 @@
       {
         "german": "aussuchen",
         "english": "to choose, to pick out",
-        "match": "ausgesucht"
+        "match": "ausgesucht",
+        "wortschatzId": "b1-aussuchen"
       },
       {
         "german": "passen zu",
@@ -3837,11 +4106,13 @@
       },
       {
         "german": "das Gesicht",
-        "english": "face"
+        "english": "face",
+        "wortschatzId": "a2-das-gesicht"
       },
       {
         "german": "abholen",
-        "english": "to pick up, to collect"
+        "english": "to pick up, to collect",
+        "wortschatzId": "a1-abholen"
       }
     ],
     "questions": [
@@ -3903,7 +4174,8 @@
     "glossary": [
       {
         "german": "auswählen",
-        "english": "to choose, to select"
+        "english": "to choose, to select",
+        "wortschatzId": "b1-auswaehlen"
       },
       {
         "german": "die Komödie",
@@ -3911,7 +4183,8 @@
       },
       {
         "german": "der Krimi",
-        "english": "crime film, thriller"
+        "english": "crime film, thriller",
+        "wortschatzId": "a2-der-krimi"
       },
       {
         "german": "sich entscheiden",
@@ -3925,40 +4198,49 @@
       {
         "german": "reservieren",
         "english": "to book, to reserve",
-        "match": "reserviert"
+        "match": "reserviert",
+        "wortschatzId": "a2-reservieren"
       },
       {
         "german": "die Reihe",
-        "english": "row"
+        "english": "row",
+        "wortschatzId": "a2-die-reihe"
       },
       {
         "german": "die Tüte",
-        "english": "bag"
+        "english": "bag",
+        "wortschatzId": "b1-die-tuete"
       },
       {
         "german": "die Werbung",
-        "english": "adverts, advertising"
+        "english": "adverts, advertising",
+        "wortschatzId": "b1-die-werbung"
       },
       {
         "german": "stören",
         "english": "to disturb, to bother",
-        "match": "gestört"
+        "match": "gestört",
+        "wortschatzId": "a2-stoeren"
       },
       {
         "german": "ausmachen",
-        "english": "to switch off"
+        "english": "to switch off",
+        "wortschatzId": "a1-ausmachen"
       },
       {
         "german": "überrascht",
-        "english": "surprised"
+        "english": "surprised",
+        "wortschatzId": "b1-ueberraschen"
       },
       {
         "german": "spannend",
-        "english": "exciting, gripping"
+        "english": "exciting, gripping",
+        "wortschatzId": "a2-spannend"
       },
       {
         "german": "der Täter",
-        "english": "culprit, perpetrator"
+        "english": "culprit, perpetrator",
+        "wortschatzId": "b1-der-taeter"
       }
     ],
     "questions": [
@@ -4029,30 +4311,36 @@
       },
       {
         "german": "normalerweise",
-        "english": "normally, usually"
+        "english": "normally, usually",
+        "wortschatzId": "b1-normalerweise"
       },
       {
         "german": "langweilig",
-        "english": "boring"
+        "english": "boring",
+        "wortschatzId": "a2-langweilig"
       },
       {
         "german": "die Führung",
-        "english": "guided tour"
+        "english": "guided tour",
+        "wortschatzId": "a1-die-fuehrung"
       },
       {
         "german": "das Flugzeug",
         "english": "aeroplane",
-        "match": "Flugzeuge"
+        "match": "Flugzeuge",
+        "wortschatzId": "a1-das-flugzeug"
       },
       {
         "german": "das Schiff",
         "english": "ship",
-        "match": "Schiffe"
+        "match": "Schiffe",
+        "wortschatzId": "a2-das-schiff"
       },
       {
         "german": "erklären",
         "english": "to explain",
-        "match": "erklärt"
+        "match": "erklärt",
+        "wortschatzId": "a1-erklaeren"
       },
       {
         "german": "ausleihen",
@@ -4062,7 +4350,8 @@
       {
         "german": "drücken",
         "english": "to press",
-        "match": "drückt"
+        "match": "drückt",
+        "wortschatzId": "a1-druecken"
       },
       {
         "german": "der Kopfhörer",
@@ -4070,16 +4359,19 @@
       },
       {
         "german": "das Stück",
-        "english": "piece, slice"
+        "english": "piece, slice",
+        "wortschatzId": "a2-das-stueck"
       },
       {
         "german": "das Modell",
         "english": "model",
-        "match": "Modelle"
+        "match": "Modelle",
+        "wortschatzId": "b1-modell"
       },
       {
         "german": "der Eintritt",
-        "english": "admission, entrance fee"
+        "english": "admission, entrance fee",
+        "wortschatzId": "a1-der-eintritt"
       }
     ],
     "questions": [
@@ -4156,7 +4448,8 @@
       {
         "german": "fressen",
         "english": "to eat (of animals)",
-        "match": "frisst"
+        "match": "frisst",
+        "wortschatzId": "b1-fressen"
       },
       {
         "german": "der Korb",
@@ -4197,24 +4490,29 @@
       {
         "german": "wiegen",
         "english": "to weigh",
-        "match": "gewogen"
+        "match": "gewogen",
+        "wortschatzId": "b1-wiegen"
       },
       {
         "german": "untersuchen",
         "english": "to examine",
-        "match": "untersucht"
+        "match": "untersucht",
+        "wortschatzId": "a2-untersuchen"
       },
       {
         "german": "der Knochen",
-        "english": "bone"
+        "english": "bone",
+        "wortschatzId": "b1-der-knochen"
       },
       {
         "german": "der Magen",
-        "english": "stomach"
+        "english": "stomach",
+        "wortschatzId": "a2-der-magen"
       },
       {
         "german": "die Spritze",
-        "english": "injection"
+        "english": "injection",
+        "wortschatzId": "b1-die-spritze"
       }
     ],
     "questions": [
@@ -4280,7 +4578,8 @@
     "glossary": [
       {
         "german": "verbessern",
-        "english": "to improve"
+        "english": "to improve",
+        "wortschatzId": "b1-verbessern"
       },
       {
         "german": "ausleihen",
@@ -4292,20 +4591,24 @@
       },
       {
         "german": "behalten",
-        "english": "to keep"
+        "english": "to keep",
+        "wortschatzId": "b1-behalten"
       },
       {
         "german": "die Frist",
-        "english": "deadline, loan period"
+        "english": "deadline, loan period",
+        "wortschatzId": "b1-die-frist"
       },
       {
         "german": "verlängern",
-        "english": "to extend, to renew"
+        "english": "to extend, to renew",
+        "wortschatzId": "b1-verlaengern"
       },
       {
         "german": "reservieren",
         "english": "to reserve",
-        "match": "reserviert"
+        "match": "reserviert",
+        "wortschatzId": "a2-reservieren"
       },
       {
         "german": "zurückgeben",
@@ -4313,7 +4616,8 @@
       },
       {
         "german": "die Gebühr",
-        "english": "fee, charge"
+        "english": "fee, charge",
+        "wortschatzId": "b1-die-gebuehr"
       },
       {
         "german": "sich umsehen",
@@ -4323,7 +4627,8 @@
       {
         "german": "die Zeitschrift",
         "english": "magazine",
-        "match": "Zeitschriften"
+        "match": "Zeitschriften",
+        "wortschatzId": "a2-die-zeitschrift"
       },
       {
         "german": "das Hörbuch",
@@ -4332,11 +4637,13 @@
       {
         "german": "der Roman",
         "english": "novel",
-        "match": "Romane"
+        "match": "Romane",
+        "wortschatzId": "b1-der-roman"
       },
       {
         "german": "vergessen",
-        "english": "to forget"
+        "english": "to forget",
+        "wortschatzId": "a2-vergessen"
       }
     ],
     "questions": [
@@ -4398,12 +4705,14 @@
       {
         "german": "anbieten",
         "english": "to offer",
-        "match": "bietet"
+        "match": "bietet",
+        "wortschatzId": "a1-anbieten"
       },
       {
         "german": "kostenlos",
         "english": "free of charge",
-        "match": "kostenloses"
+        "match": "kostenloses",
+        "wortschatzId": "b1-kostenlos"
       },
       {
         "german": "das Probetraining",
@@ -4412,7 +4721,8 @@
       {
         "german": "das Gerät",
         "english": "machine, piece of equipment",
-        "match": "Geräte"
+        "match": "Geräte",
+        "wortschatzId": "a2-das-geraet"
       },
       {
         "german": "das Laufband",
@@ -4421,19 +4731,23 @@
       {
         "german": "die Übung",
         "english": "exercise",
-        "match": "Übungen"
+        "match": "Übungen",
+        "wortschatzId": "b1-die-uebung"
       },
       {
         "german": "stolz",
-        "english": "proud"
+        "english": "proud",
+        "wortschatzId": "b1-stolz"
       },
       {
         "german": "der Vertrag",
-        "english": "contract"
+        "english": "contract",
+        "wortschatzId": "a2-der-vertrag"
       },
       {
         "german": "kündigen",
-        "english": "to cancel (a contract)"
+        "english": "to cancel (a contract)",
+        "wortschatzId": "a2-kuendigen"
       },
       {
         "german": "die Kündigungsfrist",
@@ -4441,21 +4755,25 @@
       },
       {
         "german": "schriftlich",
-        "english": "in writing"
+        "english": "in writing",
+        "wortschatzId": "a2-schriftlich"
       },
       {
         "german": "überlegen",
         "english": "to think about, to consider",
-        "match": "überlegt"
+        "match": "überlegt",
+        "wortschatzId": "b1-ueberlegen"
       },
       {
         "german": "regelmäßig",
-        "english": "regularly"
+        "english": "regularly",
+        "wortschatzId": "b1-regelmaessig"
       },
       {
         "german": "unterschreiben",
         "english": "to sign",
-        "match": "unterschrieben"
+        "match": "unterschrieben",
+        "wortschatzId": "a1-unterschreiben"
       }
     ],
     "questions": [
@@ -4526,7 +4844,8 @@
       {
         "german": "sich bewerben",
         "english": "to apply (for a job)",
-        "match": "beworben"
+        "match": "beworben",
+        "wortschatzId": "a2-bewerben"
       },
       {
         "german": "die Rezeptionistin",
@@ -4534,11 +4853,13 @@
       },
       {
         "german": "das Vorstellungsgespräch",
-        "english": "job interview"
+        "english": "job interview",
+        "wortschatzId": "b1-das-vorstellungsgespraech"
       },
       {
         "german": "nervös",
-        "english": "nervous"
+        "english": "nervous",
+        "wortschatzId": "a2-nervoes"
       },
       {
         "german": "die Viertelstunde",
@@ -4547,15 +4868,18 @@
       {
         "german": "begrüßen",
         "english": "to greet",
-        "match": "begrüßt"
+        "match": "begrüßt",
+        "wortschatzId": "b1-begruessen"
       },
       {
         "german": "übernachten",
-        "english": "to stay overnight"
+        "english": "to stay overnight",
+        "wortschatzId": "a1-uebernachten"
       },
       {
         "german": "das Ausland",
-        "english": "abroad, foreign countries"
+        "english": "abroad, foreign countries",
+        "wortschatzId": "a1-das-ausland"
       },
       {
         "german": "Fragen stellen",
@@ -4563,7 +4887,8 @@
       },
       {
         "german": "das Gehalt",
-        "english": "salary"
+        "english": "salary",
+        "wortschatzId": "a2-das-gehalt"
       },
       {
         "german": "die Arbeitszeit",
@@ -4572,7 +4897,8 @@
       },
       {
         "german": "die Stelle",
-        "english": "job, position"
+        "english": "job, position",
+        "wortschatzId": "a1-die-stelle"
       },
       {
         "german": "sich melden",
@@ -4582,7 +4908,8 @@
       {
         "german": "feiern",
         "english": "to celebrate",
-        "match": "gefeiert"
+        "match": "gefeiert",
+        "wortschatzId": "a1-feiern"
       }
     ],
     "questions": [
@@ -4642,7 +4969,8 @@
       },
       {
         "german": "gültig",
-        "english": "valid"
+        "english": "valid",
+        "wortschatzId": "a1-gueltig"
       },
       {
         "german": "die Ausländerbehörde",
@@ -4650,12 +4978,14 @@
       },
       {
         "german": "verlängern",
-        "english": "to extend, to renew"
+        "english": "to extend, to renew",
+        "wortschatzId": "b1-verlaengern"
       },
       {
         "german": "buchen",
         "english": "to book",
-        "match": "gebucht"
+        "match": "gebucht",
+        "wortschatzId": "a2-buchen"
       },
       {
         "german": "nachsehen",
@@ -4682,7 +5012,8 @@
       },
       {
         "german": "die Unterlagen",
-        "english": "documents, paperwork"
+        "english": "documents, paperwork",
+        "wortschatzId": "b1-die-unterlagen"
       },
       {
         "german": "vollständig",
@@ -4694,7 +5025,8 @@
       },
       {
         "german": "erleichtert",
-        "english": "relieved"
+        "english": "relieved",
+        "wortschatzId": "b1-erleichtern"
       }
     ],
     "questions": [
@@ -4762,11 +5094,13 @@
       {
         "german": "gebraucht",
         "english": "used, second-hand",
-        "match": "gebrauchten"
+        "match": "gebrauchten",
+        "wortschatzId": "b1-gebrauchen"
       },
       {
         "german": "der Zustand",
-        "english": "condition"
+        "english": "condition",
+        "wortschatzId": "b1-der-zustand"
       },
       {
         "german": "die Zulassungsstelle",
@@ -4774,16 +5108,19 @@
       },
       {
         "german": "anmelden",
-        "english": "to register"
+        "english": "to register",
+        "wortschatzId": "a1-anmelden"
       },
       {
         "german": "absagen",
         "english": "to cancel",
-        "match": "abgesagt"
+        "match": "abgesagt",
+        "wortschatzId": "b1-absagen"
       },
       {
         "german": "die Unterlagen",
-        "english": "documents, papers"
+        "english": "documents, papers",
+        "wortschatzId": "b1-die-unterlagen"
       },
       {
         "german": "der Kaufvertrag",
@@ -4791,11 +5128,13 @@
       },
       {
         "german": "die Versicherung",
-        "english": "insurance"
+        "english": "insurance",
+        "wortschatzId": "b1-die-versicherung"
       },
       {
         "german": "der Schalter",
-        "english": "counter, desk"
+        "english": "counter, desk",
+        "wortschatzId": "a1-der-schalter"
       },
       {
         "german": "das Wunschkennzeichen",
@@ -4803,7 +5142,8 @@
       },
       {
         "german": "die Gebühr",
-        "english": "fee"
+        "english": "fee",
+        "wortschatzId": "b1-die-gebuehr"
       },
       {
         "german": "das Nummernschild",
@@ -4817,7 +5157,8 @@
       },
       {
         "german": "stolz",
-        "english": "proud"
+        "english": "proud",
+        "wortschatzId": "b1-stolz"
       }
     ],
     "questions": [
@@ -4890,7 +5231,8 @@
       {
         "german": "günstig",
         "english": "cheap, good value",
-        "match": "günstigen"
+        "match": "günstigen",
+        "wortschatzId": "a1-guenstig"
       },
       {
         "german": "das Datenvolumen",
@@ -4899,7 +5241,8 @@
       {
         "german": "empfehlen",
         "english": "to recommend",
-        "match": "empfehle"
+        "match": "empfehle",
+        "wortschatzId": "a1-empfehlen"
       },
       {
         "german": "der Tarif",
@@ -4915,21 +5258,25 @@
       },
       {
         "german": "kündigen",
-        "english": "to cancel (a contract)"
+        "english": "to cancel (a contract)",
+        "wortschatzId": "a2-kuendigen"
       },
       {
         "german": "überlegen",
         "english": "to think about",
-        "match": "überlegt"
+        "match": "überlegt",
+        "wortschatzId": "b1-ueberlegen"
       },
       {
         "german": "das Ausland",
-        "english": "abroad"
+        "english": "abroad",
+        "wortschatzId": "a1-das-ausland"
       },
       {
         "german": "die Gebühr",
         "english": "fee",
-        "match": "Gebühren"
+        "match": "Gebühren",
+        "wortschatzId": "b1-die-gebuehr"
       },
       {
         "german": "sich entscheiden für",
@@ -4938,16 +5285,19 @@
       },
       {
         "german": "flexibel",
-        "english": "flexible"
+        "english": "flexible",
+        "wortschatzId": "b1-flexibel"
       },
       {
         "german": "behalten",
-        "english": "to keep"
+        "english": "to keep",
+        "wortschatzId": "b1-behalten"
       },
       {
         "german": "sparen",
         "english": "to save",
-        "match": "spart"
+        "match": "spart",
+        "wortschatzId": "a2-sparen"
       }
     ],
     "questions": [
@@ -5019,24 +5369,29 @@
     "glossary": [
       {
         "german": "der Flohmarkt",
-        "english": "flea market"
+        "english": "flea market",
+        "wortschatzId": "a2-der-flohmarkt"
       },
       {
         "german": "der Keller",
-        "english": "cellar, basement"
+        "english": "cellar, basement",
+        "wortschatzId": "a2-der-keller"
       },
       {
         "german": "aufräumen",
         "english": "to tidy up",
-        "match": "aufgeräumt"
+        "match": "aufgeräumt",
+        "wortschatzId": "a2-aufraeumen"
       },
       {
         "german": "das Spielzeug",
-        "english": "toys"
+        "english": "toys",
+        "wortschatzId": "b1-das-spielzeug"
       },
       {
         "german": "das Geschirr",
-        "english": "dishes, crockery"
+        "english": "dishes, crockery",
+        "wortschatzId": "a2-das-geschirr"
       },
       {
         "german": "aufbauen",
@@ -5045,7 +5400,8 @@
       },
       {
         "german": "ordentlich",
-        "english": "neatly"
+        "english": "neatly",
+        "wortschatzId": "b1-ordentlich"
       },
       {
         "german": "der Stand",
@@ -5059,24 +5415,29 @@
       {
         "german": "gehören",
         "english": "to belong to",
-        "match": "gehört"
+        "match": "gehört",
+        "wortschatzId": "a1-gehoeren"
       },
       {
         "german": "beliebt",
-        "english": "popular"
+        "english": "popular",
+        "wortschatzId": "a2-beliebt"
       },
       {
         "german": "verdienen",
         "english": "to earn",
-        "match": "verdient"
+        "match": "verdient",
+        "wortschatzId": "a1-verdienen"
       },
       {
         "german": "der Spiegel",
-        "english": "mirror"
+        "english": "mirror",
+        "wortschatzId": "b1-der-spiegel"
       },
       {
         "german": "der Flur",
-        "english": "hallway"
+        "english": "hallway",
+        "wortschatzId": "b1-der-flur"
       }
     ],
     "questions": [
@@ -5137,7 +5498,8 @@
     "glossary": [
       {
         "german": "schenken",
-        "english": "to give (as a present)"
+        "english": "to give (as a present)",
+        "wortschatzId": "a2-schenken"
       },
       {
         "german": "der Blumenstrauß",
@@ -5149,7 +5511,8 @@
       },
       {
         "german": "empfehlen",
-        "english": "to recommend"
+        "english": "to recommend",
+        "wortschatzId": "a1-empfehlen"
       },
       {
         "german": "die Sonnenblume",
@@ -5158,20 +5521,24 @@
       },
       {
         "german": "fröhlich",
-        "english": "cheerful"
+        "english": "cheerful",
+        "wortschatzId": "b1-froehlich"
       },
       {
         "german": "halten",
-        "english": "to last"
+        "english": "to last",
+        "wortschatzId": "a1-halten"
       },
       {
         "german": "eher",
-        "english": "rather, more"
+        "english": "rather, more",
+        "wortschatzId": "b1-eher"
       },
       {
         "german": "schneiden",
         "english": "to cut",
-        "match": "schneidet"
+        "match": "schneidet",
+        "wortschatzId": "a2-schneiden"
       },
       {
         "german": "der Stiel",
@@ -5181,16 +5548,19 @@
       {
         "german": "packen",
         "english": "to wrap, to pack",
-        "match": "packt"
+        "match": "packt",
+        "wortschatzId": "a2-packen"
       },
       {
         "german": "kühl",
         "english": "cool",
-        "match": "kühles"
+        "match": "kühles",
+        "wortschatzId": "a2-kuehl"
       },
       {
         "german": "wechseln",
-        "english": "to change"
+        "english": "to change",
+        "wortschatzId": "a2-wechseln"
       },
       {
         "german": "sich freuen über",
@@ -5259,7 +5629,8 @@
       },
       {
         "german": "die Verspätung",
-        "english": "delay"
+        "english": "delay",
+        "wortschatzId": "a2-die-verspaetung"
       },
       {
         "german": "der Regenschirm",
@@ -5272,42 +5643,51 @@
       },
       {
         "german": "gegenüber",
-        "english": "opposite"
+        "english": "opposite",
+        "wortschatzId": "a2-gegenueber"
       },
       {
         "german": "die Pension",
-        "english": "retirement (Austrian)"
+        "english": "retirement (Austrian)",
+        "wortschatzId": "b1-die-pension"
       },
       {
         "german": "der Enkel",
-        "english": "grandson"
+        "english": "grandson",
+        "wortschatzId": "a2-der-enkel"
       },
       {
         "german": "reden",
         "english": "to talk",
-        "match": "redet"
+        "match": "redet",
+        "wortschatzId": "a2-reden"
       },
       {
         "german": "übrigens",
-        "english": "by the way"
+        "english": "by the way",
+        "wortschatzId": "b1-uebrigens"
       },
       {
         "german": "pünktlich",
         "english": "punctual, on time",
-        "match": "pünktlicher"
+        "match": "pünktlicher",
+        "wortschatzId": "a1-puenktlich"
       },
       {
         "german": "der Unfall",
         "english": "accident",
-        "match": "Unfalls"
+        "match": "Unfalls",
+        "wortschatzId": "a2-der-unfall"
       },
       {
         "german": "die Strecke",
-        "english": "route"
+        "english": "route",
+        "wortschatzId": "b1-die-strecke"
       },
       {
         "german": "gemeinsam",
-        "english": "together"
+        "english": "together",
+        "wortschatzId": "b1-gemeinsam"
       }
     ],
     "questions": [
@@ -5385,7 +5765,8 @@
       {
         "german": "besonders",
         "english": "special",
-        "match": "besondere"
+        "match": "besondere",
+        "wortschatzId": "a2-besonders"
       },
       {
         "german": "die Konditorei",
@@ -5397,7 +5778,8 @@
       },
       {
         "german": "abholen",
-        "english": "to pick up, to collect"
+        "english": "to pick up, to collect",
+        "wortschatzId": "a1-abholen"
       },
       {
         "german": "die Anzahlung",
@@ -5405,7 +5787,8 @@
       },
       {
         "german": "blass",
-        "english": "pale"
+        "english": "pale",
+        "wortschatzId": "b1-blass"
       },
       {
         "german": "die Bestellung",
@@ -5414,34 +5797,41 @@
       {
         "german": "eintragen",
         "english": "to enter, to write down",
-        "match": "eingetragen"
+        "match": "eingetragen",
+        "wortschatzId": "a2-eintragen"
       },
       {
         "german": "ärgerlich",
-        "english": "annoyed"
+        "english": "annoyed",
+        "wortschatzId": "b1-aergerlich"
       },
       {
         "german": "versprechen",
         "english": "to promise",
-        "match": "verspricht"
+        "match": "verspricht",
+        "wortschatzId": "b1-versprechen"
       },
       {
         "german": "die Hälfte",
-        "english": "half"
+        "english": "half",
+        "wortschatzId": "b1-die-haelfte"
       },
       {
         "german": "planen",
         "english": "to plan",
-        "match": "geplant"
+        "match": "geplant",
+        "wortschatzId": "a2-planen"
       },
       {
         "german": "begeistert",
-        "english": "thrilled, delighted"
+        "english": "thrilled, delighted",
+        "wortschatzId": "b1-begeistert"
       },
       {
         "german": "das Stück",
         "english": "piece, slice",
-        "match": "Stücke"
+        "match": "Stücke",
+        "wortschatzId": "a2-das-stueck"
       }
     ],
     "questions": [
@@ -5521,19 +5911,23 @@
       },
       {
         "german": "riesig",
-        "english": "huge"
+        "english": "huge",
+        "wortschatzId": "b1-riesig"
       },
       {
         "german": "der Mitarbeiter",
-        "english": "employee, staff member"
+        "english": "employee, staff member",
+        "wortschatzId": "a2-der-mitarbeiter"
       },
       {
         "german": "ungefähr",
-        "english": "about, approximately"
+        "english": "about, approximately",
+        "wortschatzId": "b1-ungefaehr"
       },
       {
         "german": "der Quadratmeter",
-        "english": "square metre"
+        "english": "square metre",
+        "wortschatzId": "a1-der-quadratmeter"
       },
       {
         "german": "streichen",
@@ -5542,15 +5936,18 @@
       {
         "german": "mischen",
         "english": "to mix",
-        "match": "mischt"
+        "match": "mischt",
+        "wortschatzId": "b1-mischen"
       },
       {
         "german": "überrascht",
-        "english": "surprised"
+        "english": "surprised",
+        "wortschatzId": "b1-ueberraschen"
       },
       {
         "german": "das Werkzeug",
-        "english": "tools"
+        "english": "tools",
+        "wortschatzId": "b1-das-werkzeug"
       },
       {
         "german": "der Pinsel",
@@ -5562,11 +5959,13 @@
       },
       {
         "german": "die Folie",
-        "english": "plastic sheet"
+        "english": "plastic sheet",
+        "wortschatzId": "b1-die-folie"
       },
       {
         "german": "der Maler",
-        "english": "painter, decorator"
+        "english": "painter, decorator",
+        "wortschatzId": "b1-der-maler"
       }
     ],
     "questions": [
@@ -5638,11 +6037,13 @@
       {
         "german": "das Angebot",
         "english": "offer",
-        "match": "Angebote"
+        "match": "Angebote",
+        "wortschatzId": "a1-das-angebot"
       },
       {
         "german": "das Reisebüro",
-        "english": "travel agency"
+        "english": "travel agency",
+        "wortschatzId": "a1-das-reisebuero"
       },
       {
         "german": "die Pauschalreise",
@@ -5650,15 +6051,18 @@
       },
       {
         "german": "die Halbpension",
-        "english": "half board"
+        "english": "half board",
+        "wortschatzId": "b1-die-halbpension"
       },
       {
         "german": "dafür",
-        "english": "but in return"
+        "english": "but in return",
+        "wortschatzId": "b1-dafuer"
       },
       {
         "german": "das Hallenbad",
-        "english": "indoor pool"
+        "english": "indoor pool",
+        "wortschatzId": "b1-das-hallenbad"
       },
       {
         "german": "ausprobieren",
@@ -5667,11 +6071,13 @@
       },
       {
         "german": "buchen",
-        "english": "to book"
+        "english": "to book",
+        "wortschatzId": "a2-buchen"
       },
       {
         "german": "statt",
-        "english": "instead of"
+        "english": "instead of",
+        "wortschatzId": "b1-statt"
       },
       {
         "german": "die Reiserücktrittsversicherung",
@@ -5685,7 +6091,8 @@
       {
         "german": "unterschreiben",
         "english": "to sign",
-        "match": "unterschreibt"
+        "match": "unterschreibt",
+        "wortschatzId": "a1-unterschreiben"
       }
     ],
     "questions": [
@@ -5751,7 +6158,8 @@
       {
         "german": "die Neuigkeit",
         "english": "news",
-        "match": "Neuigkeiten"
+        "match": "Neuigkeiten",
+        "wortschatzId": "b1-die-neuigkeit"
       },
       {
         "german": "das Standesamt",
@@ -5759,11 +6167,13 @@
       },
       {
         "german": "die Hochzeit",
-        "english": "wedding"
+        "english": "wedding",
+        "wortschatzId": "a1-die-hochzeit"
       },
       {
         "german": "sammeln",
-        "english": "to collect"
+        "english": "to collect",
+        "wortschatzId": "a2-sammeln"
       },
       {
         "german": "die Geburtsurkunde",
@@ -5777,11 +6187,13 @@
       {
         "german": "zusätzlich",
         "english": "additional",
-        "match": "zusätzliche"
+        "match": "zusätzliche",
+        "wortschatzId": "b1-zusaetzlich"
       },
       {
         "german": "übersetzen",
-        "english": "to translate"
+        "english": "to translate",
+        "wortschatzId": "a2-uebersetzen"
       },
       {
         "german": "die Standesbeamtin",
@@ -5789,11 +6201,13 @@
       },
       {
         "german": "heiraten",
-        "english": "to get married"
+        "english": "to get married",
+        "wortschatzId": "a1-heiraten"
       },
       {
         "german": "besetzt",
-        "english": "taken, booked"
+        "english": "taken, booked",
+        "wortschatzId": "a1-besetzt"
       },
       {
         "german": "die Trauung",
@@ -5801,7 +6215,8 @@
       },
       {
         "german": "der Saal",
-        "english": "hall"
+        "english": "hall",
+        "wortschatzId": "b1-saal"
       },
       {
         "german": "die Trauzeugin",
@@ -5882,28 +6297,34 @@
       {
         "german": "die Bremse",
         "english": "brake",
-        "match": "Bremsen"
+        "match": "Bremsen",
+        "wortschatzId": "b1-die-bremse"
       },
       {
         "german": "funktionieren",
         "english": "to work",
-        "match": "funktioniert"
+        "match": "funktioniert",
+        "wortschatzId": "b1-funktionieren"
       },
       {
         "german": "der Mechaniker",
-        "english": "mechanic"
+        "english": "mechanic",
+        "wortschatzId": "a2-der-mechaniker"
       },
       {
         "german": "der Reifen",
-        "english": "tyre"
+        "english": "tyre",
+        "wortschatzId": "a2-der-reifen"
       },
       {
         "german": "die Kette",
-        "english": "chain"
+        "english": "chain",
+        "wortschatzId": "a2-die-kette"
       },
       {
         "german": "die Reparatur",
-        "english": "repair"
+        "english": "repair",
+        "wortschatzId": "a1-die-reparatur"
       },
       {
         "german": "sich umsehen",
@@ -5913,7 +6334,8 @@
       {
         "german": "der Gang",
         "english": "gear",
-        "match": "Gängen"
+        "match": "Gängen",
+        "wortschatzId": "b1-der-gang"
       },
       {
         "german": "die Probefahrt",
@@ -5921,7 +6343,8 @@
       },
       {
         "german": "bequem",
-        "english": "comfortable"
+        "english": "comfortable",
+        "wortschatzId": "a2-bequem"
       },
       {
         "german": "hierlassen",
@@ -5934,7 +6357,8 @@
       },
       {
         "german": "gebrauchen",
-        "english": "to use, to make use of"
+        "english": "to use, to make use of",
+        "wortschatzId": "b1-gebrauchen"
       }
     ],
     "questions": [

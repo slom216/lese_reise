@@ -39,6 +39,8 @@ export const textSchema = z.object({
         english: z.string().min(1),
         /** Exact text to highlight in the body, when it differs from the headword. */
         match: z.string().min(1).optional(),
+        /** Entry id on wortschatz.deulern.com; written by `npm run link:glossary`. */
+        wortschatzId: z.string().min(1).optional(),
       }),
     )
     .min(1),
