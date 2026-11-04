@@ -5169,5 +5169,1103 @@
         "answer": 1
       }
     ]
+  },
+  {
+    "id": "a1-51",
+    "level": "A1",
+    "title": "Ein Picknick im Park",
+    "topic": "Free time",
+    "body": "Heute ist Samstag, und das Wetter ist schön. Lara, Tobias und Yusuf machen ein Picknick im Park. Sie treffen sich um zwölf Uhr am See.\n\nLara bringt eine Decke und Obst mit: Äpfel, Bananen und Trauben. Tobias bringt Sandwiches mit Käse und Tomaten. Yusuf bringt Wasser, Saft und einen Kuchen. Den Kuchen hat er selbst gebacken.\n\nSie legen die Decke auf die Wiese und packen alles aus. Die Sonne scheint, und viele Leute sind im Park. Kinder spielen Fußball, und ein Mann liest ein Buch.\n\nPlötzlich kommt ein kleiner Hund. Er ist braun und sehr schnell. Er nimmt ein Sandwich und läuft weg! Tobias ruft: „Das ist mein Sandwich!“ Aber der Hund ist schon weg.\n\nDann kommt eine Frau. Sie sagt: „Entschuldigung! Das ist mein Hund Bruno.“ Alle lachen. Tobias isst jetzt ein Stück Kuchen.",
+    "glossary": [
+      {
+        "german": "das Picknick",
+        "english": "picnic",
+        "wortschatzId": "b1-das-picknick"
+      },
+      {
+        "german": "sich treffen",
+        "english": "to meet",
+        "match": "treffen"
+      },
+      {
+        "german": "mitbringen",
+        "english": "to bring along",
+        "match": "bringt",
+        "wortschatzId": "a1-mitbringen"
+      },
+      {
+        "german": "die Decke",
+        "english": "blanket",
+        "wortschatzId": "b1-die-decke"
+      },
+      {
+        "german": "die Traube",
+        "english": "grape",
+        "match": "Trauben"
+      },
+      {
+        "german": "backen",
+        "english": "to bake",
+        "match": "gebacken",
+        "wortschatzId": "a2-backen"
+      },
+      {
+        "german": "die Wiese",
+        "english": "meadow, lawn",
+        "wortschatzId": "b1-die-wiese"
+      },
+      {
+        "german": "auspacken",
+        "english": "to unpack",
+        "match": "packen",
+        "wortschatzId": "a2-auspacken"
+      },
+      {
+        "german": "plötzlich",
+        "english": "suddenly",
+        "wortschatzId": "a2-ploetzlich"
+      },
+      {
+        "german": "weglaufen",
+        "english": "to run away",
+        "match": "läuft"
+      },
+      {
+        "german": "rufen",
+        "english": "to shout, to call",
+        "match": "ruft",
+        "wortschatzId": "a2-rufen"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Wann treffen sich die Freunde?",
+        "options": ["Um zehn Uhr", "Um elf Uhr", "Um zwölf Uhr", "Um ein Uhr"],
+        "answer": 2
+      },
+      {
+        "type": "mc",
+        "prompt": "Was bringt Lara mit?",
+        "options": [
+          "Sandwiches",
+          "Eine Decke und Obst",
+          "Wasser und Saft",
+          "Einen Kuchen"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Yusuf kauft den Kuchen im Supermarkt.",
+        "answer": false,
+        "explanation": "Den Kuchen hat er selbst gebacken."
+      },
+      {
+        "type": "tf",
+        "prompt": "Im Park sind viele Leute.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Was nimmt der Hund?",
+        "options": ["Einen Apfel", "Ein Stück Kuchen", "Eine Banane", "Ein Sandwich"],
+        "answer": 3
+      },
+      {
+        "type": "mc",
+        "prompt": "Wer ist Bruno?",
+        "options": [
+          "Ein Freund von Tobias",
+          "Der Hund von der Frau",
+          "Ein Kind im Park",
+          "Der Mann mit dem Buch"
+        ],
+        "answer": 1
+      }
+    ]
+  },
+  {
+    "id": "a1-52",
+    "level": "A1",
+    "title": "Meine Stadt",
+    "topic": "Places in town",
+    "body": "Ich heiße Kemal. Ich wohne in einer kleinen Stadt im Süden von Deutschland. Hier wohnen nur zwölftausend Menschen. Die Stadt ist klein, aber ich finde sie schön.\n\nDer Bahnhof ist im Norden. Von dort fährt jede Stunde ein Zug nach München. Ich fahre jeden Tag mit dem Zug zur Arbeit. Die Fahrt dauert vierzig Minuten.\n\nIm Zentrum ist der Marktplatz. Dort steht eine alte Kirche, und es gibt ein Rathaus, zwei Cafés und eine Apotheke. Am Mittwoch und am Samstag ist Markt. Dann kaufe ich dort Gemüse und Eier.\n\nMeine Lieblingsbäckerei ist neben der Kirche. Das Brot ist sehr gut, und die Verkäuferin ist immer freundlich. Jeden Morgen kaufe ich dort zwei Brötchen.\n\nHinter dem Marktplatz fließt ein Fluss. Am Abend gehe ich oft am Fluss spazieren. Im Sommer schwimmen die Kinder dort. Ich mag meine Stadt sehr.",
+    "glossary": [
+      {
+        "german": "der Süden",
+        "english": "south",
+        "wortschatzId": "a1-der-sueden"
+      },
+      {
+        "german": "die Fahrt",
+        "english": "journey, ride"
+      },
+      {
+        "german": "dauern",
+        "english": "to last, to take (time)",
+        "match": "dauert",
+        "wortschatzId": "a1-dauern"
+      },
+      {
+        "german": "der Marktplatz",
+        "english": "market square"
+      },
+      {
+        "german": "die Kirche",
+        "english": "church",
+        "wortschatzId": "a2-die-kirche"
+      },
+      {
+        "german": "das Rathaus",
+        "english": "town hall",
+        "wortschatzId": "a2-das-rathaus"
+      },
+      {
+        "german": "die Apotheke",
+        "english": "pharmacy",
+        "wortschatzId": "a2-die-apotheke"
+      },
+      {
+        "german": "die Lieblingsbäckerei",
+        "english": "favourite bakery"
+      },
+      {
+        "german": "die Verkäuferin",
+        "english": "shop assistant (female)",
+        "wortschatzId": "a2-die-verkaeuferin"
+      },
+      {
+        "german": "fließen",
+        "english": "to flow",
+        "match": "fließt",
+        "wortschatzId": "b1-fliessen"
+      },
+      {
+        "german": "der Fluss",
+        "english": "river",
+        "wortschatzId": "a2-der-fluss"
+      },
+      {
+        "german": "spazieren gehen",
+        "english": "to go for a walk",
+        "match": "spazieren",
+        "wortschatzId": "a2-spazieren-gehen"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Wie viele Menschen wohnen in Kemals Stadt?",
+        "options": ["Zweitausend", "Zwölftausend", "Zwanzigtausend", "Hunderttausend"],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": "Wohin fährt der Zug jede Stunde?",
+        "options": ["Nach Berlin", "Nach Stuttgart", "Nach München", "Nach Köln"],
+        "answer": 2
+      },
+      {
+        "type": "tf",
+        "prompt": "Kemal fährt mit dem Auto zur Arbeit.",
+        "answer": false,
+        "explanation": "Ich fahre jeden Tag mit dem Zug zur Arbeit."
+      },
+      {
+        "type": "mc",
+        "prompt": "Wann ist Markt?",
+        "options": [
+          "Am Mittwoch und am Samstag",
+          "Am Montag und am Freitag",
+          "Nur am Sonntag",
+          "Jeden Tag"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "tf",
+        "prompt": "Die Bäckerei ist neben der Kirche.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Was macht Kemal oft am Abend?",
+        "options": [
+          "Er kauft Brötchen.",
+          "Er schwimmt im Fluss.",
+          "Er trinkt Kaffee im Café.",
+          "Er geht am Fluss spazieren."
+        ],
+        "answer": 3
+      }
+    ]
+  },
+  {
+    "id": "a1-53",
+    "level": "A1",
+    "title": "Wie spät ist es?",
+    "topic": "Daily routine",
+    "body": "Heute ist Montag. Annas Wecker klingelt um sechs Uhr. Sie steht sofort auf.\n\nDann sieht sie auf ihre Uhr. Es ist sieben Uhr zehn. „Gut, ich habe noch Zeit“, denkt sie. Der Bus kommt um Viertel nach sieben. Aber die Bushaltestelle ist leer. Ein Mann sagt: „Der Bus ist schon weg.“ Komisch!\n\nAnna nimmt den nächsten Bus und kommt um acht Uhr zur Arbeit. Ihr Chef sagt: „Guten Morgen, Anna. Die Besprechung beginnt jetzt.“ Anna ist überrascht. Auf ihrer Uhr ist es erst zehn vor acht.\n\nUm halb eins macht Anna Mittagspause mit ihrer Kollegin Fatma. Fatma sieht Annas Uhr und lacht. „Deine Uhr geht falsch! Sie geht zehn Minuten nach.“ Jetzt versteht Anna alles.\n\nAm Nachmittag geht sie in ein Uhrengeschäft. Der Uhrmacher stellt die Uhr richtig. Um sechs Uhr ist Anna wieder zu Hause. Endlich Feierabend!",
+    "glossary": [
+      {
+        "german": "der Wecker",
+        "english": "alarm clock",
+        "wortschatzId": "b1-der-wecker"
+      },
+      {
+        "german": "klingeln",
+        "english": "to ring",
+        "match": "klingelt",
+        "wortschatzId": "b1-klingeln"
+      },
+      {
+        "german": "aufstehen",
+        "english": "to get up",
+        "match": "steht",
+        "wortschatzId": "a1-aufstehen"
+      },
+      {
+        "german": "die Bushaltestelle",
+        "english": "bus stop"
+      },
+      {
+        "german": "leer",
+        "english": "empty",
+        "wortschatzId": "a2-leer"
+      },
+      {
+        "german": "komisch",
+        "english": "strange, funny",
+        "wortschatzId": "a2-komisch"
+      },
+      {
+        "german": "die Besprechung",
+        "english": "meeting",
+        "wortschatzId": "b1-die-besprechung"
+      },
+      {
+        "german": "überrascht",
+        "english": "surprised",
+        "wortschatzId": "b1-ueberraschen"
+      },
+      {
+        "german": "die Mittagspause",
+        "english": "lunch break"
+      },
+      {
+        "german": "falsch gehen",
+        "english": "to be wrong (a clock)",
+        "match": "geht falsch"
+      },
+      {
+        "german": "nachgehen",
+        "english": "to be slow (a clock)",
+        "match": "geht zehn Minuten nach"
+      },
+      {
+        "german": "der Uhrmacher",
+        "english": "watchmaker"
+      },
+      {
+        "german": "der Feierabend",
+        "english": "end of the working day",
+        "wortschatzId": "b1-der-feierabend"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Um wie viel Uhr klingelt Annas Wecker?",
+        "options": ["Um fünf Uhr", "Um halb sechs", "Um sechs Uhr", "Um sieben Uhr"],
+        "answer": 2
+      },
+      {
+        "type": "tf",
+        "prompt": "Anna fährt mit dem Bus um Viertel nach sieben.",
+        "answer": false,
+        "explanation": "Der Bus ist schon weg. Anna nimmt den nächsten Bus."
+      },
+      {
+        "type": "mc",
+        "prompt": "Um wie viel Uhr kommt Anna zur Arbeit?",
+        "options": [
+          "Um zehn vor acht",
+          "Um acht Uhr",
+          "Um Viertel nach acht",
+          "Um halb neun"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": "Mit wem macht Anna Mittagspause?",
+        "options": [
+          "Mit ihrem Chef",
+          "Mit ihrer Schwester",
+          "Allein",
+          "Mit ihrer Kollegin Fatma"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "tf",
+        "prompt": "Annas Uhr ist zehn Minuten zu schnell.",
+        "answer": false,
+        "explanation": "„Deine Uhr geht falsch! Sie geht zehn Minuten nach.“"
+      },
+      {
+        "type": "mc",
+        "prompt": "Wohin geht Anna am Nachmittag?",
+        "options": [
+          "In ein Uhrengeschäft",
+          "In den Supermarkt",
+          "Zum Arzt",
+          "Nach Hause"
+        ],
+        "answer": 0
+      }
+    ]
+  },
+  {
+    "id": "a1-54",
+    "level": "A1",
+    "title": "Eine Nachricht an Jonas",
+    "topic": "Communication",
+    "body": "Mia möchte am Freitag ins Kino gehen. Sie schreibt ihrem Freund Jonas eine Nachricht:\n\n„Hallo Jonas! Hast du am Freitag Zeit? Im Kino am Bahnhof läuft der neue Film. Er beginnt um acht Uhr. Kommst du mit?“\n\nJonas antwortet schnell: „Hallo Mia! Ja, gern! Wo treffen wir uns?“\n\nMia schreibt: „Um halb acht vor dem Kino. Ich kaufe die Karten online. Eine Karte kostet neun Euro. Ist das okay?“\n\n„Super, danke! Ich bringe Popcorn mit“, schreibt Jonas.\n\nAm Freitag um fünf Uhr bekommt Jonas noch eine Nachricht: „Jonas, es tut mir leid! Ich muss heute länger arbeiten. Der Film um acht geht leider nicht. Es gibt noch eine Vorstellung um zehn Uhr. Ich tausche die Karten. Treffen wir uns um halb zehn?“\n\nJonas antwortet: „Kein Problem! Bis halb zehn. Ich warte vor dem Kino.“",
+    "glossary": [
+      {
+        "german": "die Nachricht",
+        "english": "message",
+        "wortschatzId": "a2-die-nachricht"
+      },
+      {
+        "german": "laufen",
+        "english": "to be showing (a film)",
+        "match": "läuft",
+        "wortschatzId": "a1-laufen"
+      },
+      {
+        "german": "mitkommen",
+        "english": "to come along",
+        "match": "Kommst",
+        "wortschatzId": "a1-mitkommen"
+      },
+      {
+        "german": "antworten",
+        "english": "to answer",
+        "match": "antwortet",
+        "wortschatzId": "a1-antworten"
+      },
+      {
+        "german": "sich treffen",
+        "english": "to meet",
+        "match": "treffen"
+      },
+      {
+        "german": "die Karte",
+        "english": "ticket",
+        "match": "Karten",
+        "wortschatzId": "a1-die-karte"
+      },
+      {
+        "german": "es tut mir leid",
+        "english": "I'm sorry"
+      },
+      {
+        "german": "die Vorstellung",
+        "english": "showing, screening",
+        "wortschatzId": "b1-die-vorstellung"
+      },
+      {
+        "german": "tauschen",
+        "english": "to exchange, to swap",
+        "match": "tausche",
+        "wortschatzId": "a2-tauschen"
+      },
+      {
+        "german": "warten",
+        "english": "to wait",
+        "match": "warte",
+        "wortschatzId": "a1-warten"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Wann möchte Mia ins Kino gehen?",
+        "options": ["Am Donnerstag", "Am Freitag", "Am Samstag", "Am Sonntag"],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": "Wo ist das Kino?",
+        "options": ["Am Bahnhof", "Im Park", "Am Marktplatz", "Neben der Schule"],
+        "answer": 0
+      },
+      {
+        "type": "tf",
+        "prompt": "Eine Karte kostet neun Euro.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Was bringt Jonas mit?",
+        "options": ["Getränke", "Pizza", "Popcorn", "Die Karten"],
+        "answer": 2
+      },
+      {
+        "type": "tf",
+        "prompt": "Mia hat am Freitagabend frei.",
+        "answer": false,
+        "explanation": "„Ich muss heute länger arbeiten.“"
+      },
+      {
+        "type": "mc",
+        "prompt": "Um wie viel Uhr beginnt der Film jetzt?",
+        "options": ["Um acht Uhr", "Um halb acht", "Um halb zehn", "Um zehn Uhr"],
+        "answer": 3
+      }
+    ]
+  },
+  {
+    "id": "a1-55",
+    "level": "A1",
+    "title": "Ich bin krank",
+    "topic": "Health",
+    "body": "Ich wache um sieben Uhr auf, aber ich fühle mich nicht gut. Mein Kopf tut weh, und mir ist kalt. Ich habe Fieber: 38,9 Grad!\n\nIch rufe meinen Chef an. „Guten Morgen, Herr Weber. Hier ist Paul. Ich bin krank. Ich habe Fieber und Kopfschmerzen. Ich kann heute nicht arbeiten.“ Herr Weber sagt: „Oh, das tut mir leid. Bleiben Sie zu Hause und werden Sie schnell gesund!“\n\nIch bleibe im Bett. Meine Freundin Leonie arbeitet heute zu Hause. Sie macht mir einen Tee mit Honig. Dann geht sie in die Apotheke und kauft Tabletten.\n\nAm Mittag kocht Leonie eine Hühnersuppe. Die Suppe ist heiß und schmeckt sehr gut.\n\nAm Abend messe ich noch einmal Fieber. Jetzt sind es nur 37,5 Grad. Morgen gehe ich zum Arzt. Aber heute bleibe ich im Bett und lese ein Buch.",
+    "glossary": [
+      {
+        "german": "aufwachen",
+        "english": "to wake up",
+        "match": "wache",
+        "wortschatzId": "b1-aufwachen"
+      },
+      {
+        "german": "sich fühlen",
+        "english": "to feel",
+        "match": "fühle"
+      },
+      {
+        "german": "wehtun",
+        "english": "to hurt",
+        "match": "tut weh",
+        "wortschatzId": "a1-weh-tun"
+      },
+      {
+        "german": "das Fieber",
+        "english": "fever, temperature",
+        "wortschatzId": "a1-das-fieber"
+      },
+      {
+        "german": "anrufen",
+        "english": "to call (on the phone)",
+        "match": "rufe",
+        "wortschatzId": "a1-anrufen"
+      },
+      {
+        "german": "die Kopfschmerzen",
+        "english": "headache"
+      },
+      {
+        "german": "gesund",
+        "english": "healthy, well",
+        "wortschatzId": "a2-gesund"
+      },
+      {
+        "german": "der Honig",
+        "english": "honey",
+        "wortschatzId": "b1-honig"
+      },
+      {
+        "german": "die Apotheke",
+        "english": "pharmacy",
+        "wortschatzId": "a2-die-apotheke"
+      },
+      {
+        "german": "die Tablette",
+        "english": "tablet, pill",
+        "match": "Tabletten",
+        "wortschatzId": "a2-die-tablette"
+      },
+      {
+        "german": "die Hühnersuppe",
+        "english": "chicken soup"
+      },
+      {
+        "german": "messen",
+        "english": "to measure, to take (a temperature)",
+        "match": "messe",
+        "wortschatzId": "b1-messen"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Wie hoch ist Pauls Fieber am Morgen?",
+        "options": ["37,5 Grad", "38,5 Grad", "38,9 Grad", "39,8 Grad"],
+        "answer": 2
+      },
+      {
+        "type": "tf",
+        "prompt": "Paul ruft seinen Chef an.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Was sagt Herr Weber?",
+        "options": [
+          "„Kommen Sie bitte zur Arbeit.“",
+          "„Bleiben Sie zu Hause.“",
+          "„Gehen Sie ins Krankenhaus.“",
+          "„Rufen Sie morgen wieder an.“"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": "Was kauft Leonie in der Apotheke?",
+        "options": ["Tee", "Honig", "Wasser", "Tabletten"],
+        "answer": 3
+      },
+      {
+        "type": "tf",
+        "prompt": "Leonie kocht am Abend eine Suppe.",
+        "answer": false,
+        "explanation": "Am Mittag kocht Leonie eine Hühnersuppe."
+      },
+      {
+        "type": "mc",
+        "prompt": "Was macht Paul morgen?",
+        "options": [
+          "Er geht zum Arzt.",
+          "Er geht zur Arbeit.",
+          "Er geht in die Apotheke.",
+          "Er kocht eine Suppe."
+        ],
+        "answer": 0
+      }
+    ]
+  },
+  {
+    "id": "a1-56",
+    "level": "A1",
+    "title": "Was ziehe ich an?",
+    "topic": "Weather and clothes",
+    "body": "Es ist Samstag. Sofia möchte heute ihre Freundin Hanna in der Stadt treffen. Aber was zieht sie an? Sie sieht auf ihr Handy. Der Wetterbericht sagt: „Heute ist es kalt und es regnet. Nur acht Grad.“\n\nSofia öffnet ihren Kleiderschrank. Sie nimmt eine Jeans und einen Pullover. Der Pullover ist grün. Dann zieht sie Socken und ihre Stiefel an. Sie nimmt auch eine Jacke, einen Schal und einen Regenschirm.\n\nUm zehn Uhr trifft sie Hanna vor einem Café. Sie trinken Tee. Draußen regnet es.\n\nAber um zwölf Uhr ist der Regen vorbei. Die Sonne scheint, und es wird warm. Jetzt sind es sechzehn Grad! Sofia und Hanna gehen in den Park. Sofia trägt jetzt nur den Pullover. Die Jacke hat sie in der Hand. Sie lacht: „Das Wetter in Deutschland ist verrückt!“",
+    "glossary": [
+      {
+        "german": "anziehen",
+        "english": "to put on (clothes)",
+        "match": "zieht",
+        "wortschatzId": "a1-anziehen"
+      },
+      {
+        "german": "der Wetterbericht",
+        "english": "weather report",
+        "wortschatzId": "b1-der-wetterbericht"
+      },
+      {
+        "german": "der Kleiderschrank",
+        "english": "wardrobe"
+      },
+      {
+        "german": "die Socke",
+        "english": "sock",
+        "match": "Socken",
+        "wortschatzId": "b1-die-socke"
+      },
+      {
+        "german": "der Stiefel",
+        "english": "boot",
+        "match": "Stiefel",
+        "wortschatzId": "a2-der-stiefel"
+      },
+      {
+        "german": "der Schal",
+        "english": "scarf"
+      },
+      {
+        "german": "der Regenschirm",
+        "english": "umbrella"
+      },
+      {
+        "german": "vorbei",
+        "english": "over, finished",
+        "wortschatzId": "a2-vorbei"
+      },
+      {
+        "german": "tragen",
+        "english": "to wear",
+        "match": "trägt",
+        "wortschatzId": "a2-tragen"
+      },
+      {
+        "german": "verrückt",
+        "english": "crazy",
+        "wortschatzId": "b1-verrueckt"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Wen möchte Sofia treffen?",
+        "options": [
+          "Ihre Schwester",
+          "Ihre Freundin Hanna",
+          "Ihre Mutter",
+          "Ihre Kollegin"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie viel Grad sind es am Morgen?",
+        "options": ["Sechzehn Grad", "Zehn Grad", "Sechs Grad", "Acht Grad"],
+        "answer": 3
+      },
+      {
+        "type": "tf",
+        "prompt": "Sofia trägt einen roten Pullover.",
+        "answer": false,
+        "explanation": "Der Pullover ist grün."
+      },
+      {
+        "type": "tf",
+        "prompt": "Sofia nimmt einen Regenschirm mit.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Was passiert um zwölf Uhr?",
+        "options": [
+          "Es regnet stärker.",
+          "Hanna geht nach Hause.",
+          "Die Sonne scheint.",
+          "Es wird sehr kalt."
+        ],
+        "answer": 2
+      },
+      {
+        "type": "mc",
+        "prompt": "Wohin gehen Sofia und Hanna am Ende?",
+        "options": ["In den Park", "Ins Kino", "Nach Hause", "In ein Geschäft"],
+        "answer": 0
+      }
+    ]
+  },
+  {
+    "id": "a1-57",
+    "level": "A1",
+    "title": "Ein Tag am See",
+    "topic": "Holidays",
+    "body": "Es ist Sommer, und es ist sehr heiß. Familie Okafor fährt heute an den See. Der Vater Daniel, die Mutter Grace und die Kinder Emma und Sam nehmen um neun Uhr den Bus.\n\nAm See ist es schön. Die Kinder gehen sofort schwimmen. Sam ist erst sechs. Er schwimmt noch nicht so gut. Grace liegt in der Sonne und liest. Daniel spielt mit Emma Ball.\n\nAm Mittag essen sie Brote, Tomaten und Melone. Dann kauft Daniel für alle ein Eis. Emma nimmt Erdbeere, Sam nimmt Schokolade. Sam isst sehr langsam, und das Eis tropft auf sein T-Shirt.\n\nAm Nachmittag mieten sie ein kleines Boot. Daniel und Emma rudern. Das ist schwer, aber lustig!\n\nUm sechs Uhr warten sie an der Haltestelle. Der Bus kommt pünktlich. Im Bus schläft Sam sofort ein. Das war ein schöner Tag!",
+    "glossary": [
+      {
+        "german": "der See",
+        "english": "lake",
+        "wortschatzId": "a1-der-see"
+      },
+      {
+        "german": "die Melone",
+        "english": "melon"
+      },
+      {
+        "german": "die Erdbeere",
+        "english": "strawberry"
+      },
+      {
+        "german": "tropfen",
+        "english": "to drip",
+        "match": "tropft"
+      },
+      {
+        "german": "mieten",
+        "english": "to rent, to hire",
+        "wortschatzId": "a1-mieten"
+      },
+      {
+        "german": "das Boot",
+        "english": "boat",
+        "wortschatzId": "b1-das-boot"
+      },
+      {
+        "german": "rudern",
+        "english": "to row"
+      },
+      {
+        "german": "pünktlich",
+        "english": "on time",
+        "wortschatzId": "a1-puenktlich"
+      },
+      {
+        "german": "einschlafen",
+        "english": "to fall asleep",
+        "match": "schläft"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Wie fährt die Familie zum See?",
+        "options": ["Mit dem Auto", "Mit dem Zug", "Mit dem Bus", "Mit dem Fahrrad"],
+        "answer": 2
+      },
+      {
+        "type": "tf",
+        "prompt": "Sam schwimmt sehr gut.",
+        "answer": false,
+        "explanation": "Er schwimmt noch nicht so gut."
+      },
+      {
+        "type": "mc",
+        "prompt": "Was macht Grace am See?",
+        "options": [
+          "Sie schwimmt.",
+          "Sie liegt in der Sonne und liest.",
+          "Sie spielt Ball.",
+          "Sie kauft Eis."
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": "Welches Eis nimmt Emma?",
+        "options": ["Schokolade", "Vanille", "Zitrone", "Erdbeere"],
+        "answer": 3
+      },
+      {
+        "type": "tf",
+        "prompt": "Am Nachmittag fährt die Familie Boot.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Was macht Sam im Bus?",
+        "options": [
+          "Er schläft ein.",
+          "Er isst ein Eis.",
+          "Er liest ein Buch.",
+          "Er spielt mit Emma."
+        ],
+        "answer": 0
+      }
+    ]
+  },
+  {
+    "id": "a1-58",
+    "level": "A1",
+    "title": "Das Familienfoto",
+    "topic": "Family",
+    "body": "Ich heiße Lukas. Auf meinem Schreibtisch steht ein altes Familienfoto. Das Foto ist zwanzig Jahre alt. Auf dem Foto bin ich erst fünf.\n\nIn der Mitte sitzen meine Großeltern. Mein Opa hat einen grauen Bart und trägt eine Brille. Meine Oma hat kurze, weiße Haare und lacht. Sie wohnen heute noch in ihrem Haus in Hamburg.\n\nLinks stehen meine Eltern. Auf dem Foto hat er noch schwarze Haare. Heute sind sie grau! Meine Eltern wohnen jetzt in Bremen.\n\nRechts steht mein Onkel Stefan mit seiner Frau Nadia. Sie haben zwei Kinder, meine Cousine Lea und meinen Cousin Ali. Sie wohnen heute in Spanien, in Valencia.\n\nIch sitze vorne auf dem Boden und habe einen Ball in der Hand. Meine Schwester Klara ist noch ein Baby. Sie sitzt bei Oma auf dem Schoß. Heute wohnen Klara und ich beide in Berlin.",
+    "glossary": [
+      {
+        "german": "der Schreibtisch",
+        "english": "desk"
+      },
+      {
+        "german": "die Mitte",
+        "english": "middle",
+        "wortschatzId": "a1-die-mitte"
+      },
+      {
+        "german": "die Großeltern",
+        "english": "grandparents",
+        "wortschatzId": "a1-die-grosseltern"
+      },
+      {
+        "german": "der Bart",
+        "english": "beard",
+        "wortschatzId": "b1-der-bart"
+      },
+      {
+        "german": "die Brille",
+        "english": "glasses",
+        "wortschatzId": "a2-die-brille"
+      },
+      {
+        "german": "die Cousine",
+        "english": "cousin (female)",
+        "wortschatzId": "a2-die-cousine"
+      },
+      {
+        "german": "vorne",
+        "english": "at the front"
+      },
+      {
+        "german": "der Boden",
+        "english": "floor, ground",
+        "wortschatzId": "b1-der-boden"
+      },
+      {
+        "german": "der Schoß",
+        "english": "lap"
+      },
+      {
+        "german": "beide",
+        "english": "both",
+        "wortschatzId": "a1-beide"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Wie alt ist das Foto?",
+        "options": ["Fünf Jahre", "Zehn Jahre", "Zwanzig Jahre", "Fünfzehn Jahre"],
+        "answer": 2
+      },
+      {
+        "type": "tf",
+        "prompt": "Lukas' Opa trägt eine Brille.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Wo wohnen die Großeltern heute?",
+        "options": ["In Bremen", "In Hamburg", "In Berlin", "In Valencia"],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Auf dem Foto hat Lukas' Vater graue Haare.",
+        "answer": false,
+        "explanation": "Auf dem Foto hat er noch schwarze Haare."
+      },
+      {
+        "type": "mc",
+        "prompt": "Wer wohnt heute in Spanien?",
+        "options": [
+          "Lukas' Eltern",
+          "Klara",
+          "Die Großeltern",
+          "Onkel Stefan und seine Familie"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "mc",
+        "prompt": "Was hat Lukas auf dem Foto in der Hand?",
+        "options": ["Einen Ball", "Ein Buch", "Ein Eis", "Eine Blume"],
+        "answer": 0
+      }
+    ]
+  },
+  {
+    "id": "a1-59",
+    "level": "A1",
+    "title": "Mein Wochenplan",
+    "topic": "Daily routine",
+    "body": "Ich heiße Amira. Ich wohne in Leipzig und arbeite in einem Hotel an der Rezeption.\n\nAm Montag und am Dienstag arbeite ich von sieben bis fünfzehn Uhr. Am Dienstagabend habe ich Deutschkurs. Der Kurs beginnt um achtzehn Uhr und dauert zwei Stunden. Meine Lehrerin ist sehr nett.\n\nAm Mittwoch habe ich frei. Ich räume die Wohnung auf und gehe einkaufen. Am Abend gehe ich schwimmen.\n\nAm Donnerstag habe ich wieder Deutschkurs. Vorher lerne ich zu Hause die neuen Wörter. Am Freitag arbeite ich von vierzehn bis zweiundzwanzig Uhr. Das ist anstrengend.\n\nAm Samstag spiele ich am Morgen Volleyball mit Freundinnen. Am Nachmittag besuche ich meine Schwester Samira in Halle. Ich fahre mit dem Zug. Samira hat einen kleinen Sohn. Er heißt Karim und ist zwei Jahre alt.\n\nAm Sonntag mache ich nichts. Ich schlafe lange und lese. Das brauche ich!",
+    "glossary": [
+      {
+        "german": "die Rezeption",
+        "english": "reception (desk)",
+        "wortschatzId": "a1-die-rezeption"
+      },
+      {
+        "german": "der Deutschkurs",
+        "english": "German course"
+      },
+      {
+        "german": "frei haben",
+        "english": "to have the day off",
+        "match": "frei"
+      },
+      {
+        "german": "aufräumen",
+        "english": "to tidy up",
+        "match": "räume",
+        "wortschatzId": "a2-aufraeumen"
+      },
+      {
+        "german": "einkaufen gehen",
+        "english": "to go shopping",
+        "match": "einkaufen"
+      },
+      {
+        "german": "vorher",
+        "english": "before, beforehand",
+        "wortschatzId": "a2-vorher"
+      },
+      {
+        "german": "anstrengend",
+        "english": "tiring",
+        "wortschatzId": "b1-anstrengend"
+      },
+      {
+        "german": "besuchen",
+        "english": "to visit",
+        "match": "besuche",
+        "wortschatzId": "a1-besuchen"
+      },
+      {
+        "german": "der Sohn",
+        "english": "son",
+        "wortschatzId": "a1-der-sohn"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Wo arbeitet Amira?",
+        "options": [
+          "In einem Café",
+          "In einem Hotel",
+          "In einer Schule",
+          "In einem Supermarkt"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie lange dauert der Deutschkurs?",
+        "options": ["Eine Stunde", "Anderthalb Stunden", "Zwei Stunden", "Drei Stunden"],
+        "answer": 2
+      },
+      {
+        "type": "tf",
+        "prompt": "Am Mittwoch arbeitet Amira im Hotel.",
+        "answer": false,
+        "explanation": "Am Mittwoch habe ich frei."
+      },
+      {
+        "type": "mc",
+        "prompt": "Was macht Amira am Samstagmorgen?",
+        "options": [
+          "Sie geht schwimmen.",
+          "Sie lernt neue Wörter.",
+          "Sie besucht ihre Schwester.",
+          "Sie spielt Volleyball."
+        ],
+        "answer": 3
+      },
+      {
+        "type": "tf",
+        "prompt": "Amira fährt mit dem Zug nach Halle.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Wer ist Karim?",
+        "options": [
+          "Der Sohn von Samira",
+          "Der Bruder von Amira",
+          "Ein Kollege im Hotel",
+          "Ein Freund aus dem Deutschkurs"
+        ],
+        "answer": 0
+      }
+    ]
+  },
+  {
+    "id": "a1-60",
+    "level": "A1",
+    "title": "Eine Einladung",
+    "topic": "Celebrations",
+    "body": "Ben hat am Samstag Geburtstag. Er wird dreißig und möchte eine Party machen. Am Montag schreibt er eine E-Mail an seine Kollegen:\n\n„Liebe Kolleginnen und Kollegen, am Samstag habe ich Geburtstag, und ich lade euch herzlich ein! Die Party beginnt um neunzehn Uhr bei mir zu Hause, in der Gartenstraße 12. Bitte sagt mir bis Donnerstag Bescheid. Viele Grüße, Ben“\n\nZehn Kollegen kommen. Nur Herr Lang kann nicht. Er ist im Urlaub.\n\nAm Samstag hat Ben viel zu tun. Am Morgen kauft er Getränke und Obst. Am Nachmittag macht er Salate und eine große Pizza. Sein Freund Jamal hilft ihm.\n\nUm sieben Uhr klingelt es. Sie bringen Blumen und Wein mit. Dann sagt Ines: „Ben, wir haben noch eine Überraschung für dich.“ Sie gibt ihm einen großen Karton. Darin ist ein Kuchen mit dreißig Kerzen! Alle singen, und Ben freut sich sehr.",
+    "glossary": [
+      {
+        "german": "einladen",
+        "english": "to invite",
+        "match": "lade",
+        "wortschatzId": "a1-einladen"
+      },
+      {
+        "german": "herzlich",
+        "english": "warmly, cordially",
+        "wortschatzId": "a1-herzlich"
+      },
+      {
+        "german": "Bescheid sagen",
+        "english": "to let someone know",
+        "match": "Bescheid",
+        "wortschatzId": "b1-bescheid-sagen"
+      },
+      {
+        "german": "der Urlaub",
+        "english": "holiday, vacation",
+        "wortschatzId": "a1-der-urlaub"
+      },
+      {
+        "german": "das Getränk",
+        "english": "drink",
+        "match": "Getränke",
+        "wortschatzId": "a1-das-getraenk"
+      },
+      {
+        "german": "klingeln",
+        "english": "to ring (the doorbell)",
+        "match": "klingelt",
+        "wortschatzId": "b1-klingeln"
+      },
+      {
+        "german": "die Überraschung",
+        "english": "surprise",
+        "wortschatzId": "b1-die-ueberraschung"
+      },
+      {
+        "german": "der Karton",
+        "english": "cardboard box"
+      },
+      {
+        "german": "die Kerze",
+        "english": "candle",
+        "match": "Kerzen",
+        "wortschatzId": "b1-die-kerze"
+      },
+      {
+        "german": "sich freuen",
+        "english": "to be happy, to be pleased",
+        "match": "freut",
+        "wortschatzId": "a1-freuen"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Wie alt wird Ben?",
+        "options": [
+          "Zwanzig Jahre",
+          "Fünfundzwanzig Jahre",
+          "Dreißig Jahre",
+          "Vierzig Jahre"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "mc",
+        "prompt": "Wann beginnt die Party?",
+        "options": [
+          "Um neunzehn Uhr",
+          "Um siebzehn Uhr",
+          "Um achtzehn Uhr",
+          "Um zwanzig Uhr"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "tf",
+        "prompt": "Herr Lang kommt nicht zur Party.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Wer hilft Ben am Samstag?",
+        "options": ["Ines", "Herr Lang", "Seine Mutter", "Sein Freund Jamal"],
+        "answer": 3
+      },
+      {
+        "type": "tf",
+        "prompt": "Die Kollegen bringen Bier mit.",
+        "answer": false,
+        "explanation": "Sie bringen Blumen und Wein mit."
+      },
+      {
+        "type": "mc",
+        "prompt": "Was ist in dem Karton?",
+        "options": ["Ein Buch", "Ein Kuchen mit Kerzen", "Eine Flasche Wein", "Blumen"],
+        "answer": 1
+      }
+    ]
   }
 ]

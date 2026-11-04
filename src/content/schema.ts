@@ -27,7 +27,7 @@ const question = z.discriminatedUnion('type', [
 ]);
 
 export const textSchema = z.object({
-  id: z.string().regex(/^(a1|a2|b1)-\d\d$/),
+  id: z.string().regex(/^(a1|a2|b1)-\d{2,3}$/),
   level: z.enum(LEVELS),
   title: z.string().min(1),
   topic: z.string().min(1),

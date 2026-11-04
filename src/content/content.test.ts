@@ -4,7 +4,7 @@ import { TEXTS } from './index';
 import { LEVELS, WORD_RANGE, countWords, findGlossary, glossaryNeedle } from './schema';
 
 describe('reading texts', () => {
-  const EXPECTED = { A1: 50, A2: 50, B1: 50 };
+  const EXPECTED = { A1: 60, A2: 90, B1: 120 };
   it.each(LEVELS)('%s has the expected number of texts', (level) => {
     expect(TEXTS.filter((t) => t.level === level)).toHaveLength(EXPECTED[level]);
   });

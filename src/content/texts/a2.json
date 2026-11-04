@@ -6420,5 +6420,5375 @@
         "answer": 2
       }
     ]
+  },
+  {
+    "id": "a2-51",
+    "level": "A2",
+    "title": "Ein Wochenende in Berlin",
+    "topic": "Travel",
+    "body": "Im März sind Lea und ihre Freundin Samira zum ersten Mal nach Berlin gefahren. Sie haben zwei Nächte in einem kleinen Hotel in Kreuzberg gebucht und hatten eine lange Liste mit Sehenswürdigkeiten.\n\nAm Samstagmorgen sind sie zuerst zum Brandenburger Tor gegangen. Dort waren schon viele Touristen, und alle haben Fotos gemacht. Danach wollten Lea und Samira auf den Fernsehturm fahren. Aber vor dem Eingang haben sie eine sehr lange Schlange gesehen. Sie haben fast zwei Stunden gewartet. Samira war sauer: „Wir verlieren so viel Zeit!“ Aber oben war die Aussicht fantastisch. Sie konnten die ganze Stadt sehen.\n\nAm Nachmittag waren sie müde und hungrig. Deshalb haben sie keine Museen mehr besucht, sondern sind einfach durch die Straßen gelaufen. Zufällig haben sie einen kleinen Flohmarkt in einem Hinterhof gefunden. Dort gab es alte Bücher, Schallplatten und Kleidung. Ein Mann hat Gitarre gespielt, und es hat nach frischem Kaffee gerochen. Lea hat eine alte Kamera für zehn Euro gekauft.\n\nAm Sonntag sind sie noch einmal zu dem Flohmarkt gegangen. Im Zug nach Hause hat Samira gesagt: „Der Fernsehturm war schön, aber der Hinterhof war mein Lieblingsort.“ Lea hat gelacht, weil sie das Gleiche gedacht hat.",
+    "glossary": [
+      {
+        "german": "buchen",
+        "english": "to book",
+        "match": "gebucht",
+        "wortschatzId": "a2-buchen"
+      },
+      {
+        "german": "die Sehenswürdigkeit",
+        "english": "sight, place of interest",
+        "match": "Sehenswürdigkeiten",
+        "wortschatzId": "a1-die-sehenswuerdigkeit"
+      },
+      {
+        "german": "der Fernsehturm",
+        "english": "TV tower"
+      },
+      {
+        "german": "der Eingang",
+        "english": "entrance",
+        "wortschatzId": "a1-der-eingang"
+      },
+      {
+        "german": "die Schlange",
+        "english": "queue, line",
+        "wortschatzId": "b1-die-schlange"
+      },
+      {
+        "german": "sauer",
+        "english": "annoyed, cross",
+        "wortschatzId": "a2-sauer"
+      },
+      {
+        "german": "die Aussicht",
+        "english": "view",
+        "wortschatzId": "b1-die-aussicht"
+      },
+      {
+        "german": "sondern",
+        "english": "but (rather)",
+        "wortschatzId": "b1-sondern"
+      },
+      {
+        "german": "zufällig",
+        "english": "by chance",
+        "wortschatzId": "b1-zufaellig"
+      },
+      {
+        "german": "der Flohmarkt",
+        "english": "flea market",
+        "wortschatzId": "a2-der-flohmarkt"
+      },
+      {
+        "german": "der Hinterhof",
+        "english": "back courtyard"
+      },
+      {
+        "german": "die Schallplatte",
+        "english": "record (vinyl)",
+        "match": "Schallplatten"
+      },
+      {
+        "german": "riechen nach",
+        "english": "to smell of",
+        "match": "gerochen"
+      },
+      {
+        "german": "der Lieblingsort",
+        "english": "favourite place"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Wo haben Lea und Samira übernachtet?",
+        "options": [
+          "In einer Jugendherberge",
+          "In einem kleinen Hotel in Kreuzberg",
+          "Bei Freunden",
+          "In einer Ferienwohnung"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie lange haben sie vor dem Fernsehturm gewartet?",
+        "options": [
+          "Eine halbe Stunde",
+          "Eine Stunde",
+          "Fast zwei Stunden",
+          "Drei Stunden"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "tf",
+        "prompt": "Oben auf dem Fernsehturm war die Aussicht schlecht.",
+        "answer": false,
+        "explanation": "Die Aussicht war fantastisch."
+      },
+      {
+        "type": "tf",
+        "prompt": "Am Nachmittag haben sie viele Museen besucht.",
+        "answer": false,
+        "explanation": "Sie sind einfach durch die Straßen gelaufen."
+      },
+      {
+        "type": "mc",
+        "prompt": "Was hat Lea auf dem Flohmarkt gekauft?",
+        "options": [
+          "Eine alte Kamera",
+          "Eine Schallplatte",
+          "Ein altes Buch",
+          "Eine Jacke"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "mc",
+        "prompt": "Was war Samiras Lieblingsort in Berlin?",
+        "options": [
+          "Das Brandenburger Tor",
+          "Der Fernsehturm",
+          "Das Hotel",
+          "Der Hinterhof mit dem Flohmarkt"
+        ],
+        "answer": 3
+      }
+    ]
+  },
+  {
+    "id": "a2-52",
+    "level": "A2",
+    "title": "Die neue Kollegin",
+    "topic": "Work",
+    "body": "Seit Montag hat unser Team eine neue Kollegin. Sie heißt Inês und kommt aus Porto in Portugal. Sie ist Grafikerin und hat schon fünf Jahre in Lissabon gearbeitet. Ich heiße Tobias und sitze im Büro direkt neben ihr.\n\nAm ersten Tag hat unsere Chefin Inês allen vorgestellt. Inês spricht gut Deutsch, weil sie zwei Jahre in Köln studiert hat. Trotzdem hatten wir ein paar Missverständnisse. Am Mittag habe ich sie gefragt: „Kommst du mit in die Kantine?“ Sie hat „Ja, gern“ gesagt, aber dann ist sie nicht gekommen. Später hat sie mir erklärt, dass man in Portugal oft erst um eins oder halb zwei isst. Um zwölf hatte sie noch keinen Hunger.\n\nAm Mittwoch hatten wir um neun Uhr eine Besprechung. Alle waren schon um fünf vor neun im Raum. Inês ist genau um neun gekommen und war sehr überrascht. Außerdem hat sie zu allen „Sie“ gesagt, auch zu mir. Ich habe ihr erklärt, dass wir uns im Team alle duzen.\n\nAm Freitag haben wir zusammen zu Mittag gegessen, diesmal um eins. Inês hat von ihrer Familie und vom Meer in Porto erzählt. Sie vermisst ihre Mutter und den guten Fisch. Ich habe ihr einen Markt mit frischem Fisch in unserer Stadt gezeigt.\n\nJetzt arbeiten wir oft zusammen, und am Wochenende gehen wir manchmal ins Kino. Aus der neuen Kollegin ist eine gute Freundin geworden.",
+    "glossary": [
+      {
+        "german": "die Kollegin",
+        "english": "(female) colleague",
+        "wortschatzId": "a2-die-kollegin"
+      },
+      {
+        "german": "die Grafikerin",
+        "english": "(female) graphic designer"
+      },
+      {
+        "german": "vorstellen",
+        "english": "to introduce",
+        "match": "vorgestellt",
+        "wortschatzId": "a1-vorstellen"
+      },
+      {
+        "german": "trotzdem",
+        "english": "nevertheless, still",
+        "wortschatzId": "b1-trotzdem"
+      },
+      {
+        "german": "das Missverständnis",
+        "english": "misunderstanding",
+        "match": "Missverständnisse"
+      },
+      {
+        "german": "die Kantine",
+        "english": "canteen",
+        "wortschatzId": "b1-die-kantine"
+      },
+      {
+        "german": "die Besprechung",
+        "english": "meeting",
+        "wortschatzId": "b1-die-besprechung"
+      },
+      {
+        "german": "der Raum",
+        "english": "room",
+        "wortschatzId": "a1-der-raum"
+      },
+      {
+        "german": "überrascht",
+        "english": "surprised",
+        "wortschatzId": "b1-ueberraschen"
+      },
+      {
+        "german": "außerdem",
+        "english": "also, besides",
+        "wortschatzId": "a2-ausserdem"
+      },
+      {
+        "german": "sich duzen",
+        "english": "to say du to each other",
+        "match": "duzen"
+      },
+      {
+        "german": "diesmal",
+        "english": "this time",
+        "wortschatzId": "b1-diesmal"
+      },
+      {
+        "german": "vermissen",
+        "english": "to miss",
+        "match": "vermisst",
+        "wortschatzId": "b1-vermissen"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Woher kommt Inês?",
+        "options": ["Aus Lissabon", "Aus Porto", "Aus Köln", "Aus Madrid"],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Inês spricht gut Deutsch, weil sie in Köln studiert hat.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Warum ist Inês am Montag nicht in die Kantine gekommen?",
+        "options": [
+          "Sie hatte keine Zeit.",
+          "Sie hat Essen von zu Hause mitgebracht.",
+          "Sie hatte um zwölf noch keinen Hunger.",
+          "Sie isst kein Fleisch."
+        ],
+        "answer": 2
+      },
+      {
+        "type": "tf",
+        "prompt": "Inês ist zu spät zur Besprechung gekommen.",
+        "answer": false,
+        "explanation": "Sie ist genau um neun gekommen."
+      },
+      {
+        "type": "mc",
+        "prompt": "Was hat Tobias Inês erklärt?",
+        "options": [
+          "Dass man im Team „du“ sagt",
+          "Wo die Kantine ist",
+          "Wie der Computer funktioniert",
+          "Wann der Bus fährt"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "mc",
+        "prompt": "Was vermisst Inês?",
+        "options": [
+          "Ihre Arbeit in Lissabon",
+          "Das Wetter in Köln",
+          "Ihre Freunde von der Uni",
+          "Ihre Mutter und den guten Fisch"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "tf",
+        "prompt": "Inês und Tobias sind jetzt Freunde.",
+        "answer": true
+      }
+    ]
+  },
+  {
+    "id": "a2-53",
+    "level": "A2",
+    "title": "Mein Sprachtandem",
+    "topic": "Communication",
+    "body": "Ich heiße Jonas und studiere in Freiburg. Im Sommer möchte ich ein Semester in Spanien studieren. Deshalb lerne ich seit einem Jahr Spanisch. Im Kurs lerne ich viel Grammatik, aber ich spreche zu wenig. Darum habe ich im Internet einen Tandempartner gesucht.\n\nSo habe ich Lucía kennengelernt. Sie kommt aus Valencia und macht hier ein Praktikum in einem Labor. Sie möchte ihr Deutsch verbessern, und ich möchte besser Spanisch sprechen. Wir treffen uns jeden Donnerstag in einem Café in der Nähe der Uni.\n\nUnsere Regel ist einfach: Eine Stunde sprechen wir Deutsch, eine Stunde Spanisch. Wir reden über unsere Familien, über das Studium, über Filme und über das Essen. Wenn ich einen Fehler mache, korrigiert mich Lucía. Manchmal schreibt sie mir ein neues Wort auf eine Serviette.\n\nAm Anfang war ich sehr nervös, weil ich langsam und mit vielen Fehlern gesprochen habe. Aber Lucía war immer geduldig. Sie hatte auch Probleme, zum Beispiel mit den Artikeln der, die und das. Darüber haben wir oft gelacht.\n\nLetzte Woche hat Lucía für mich eine Paella gekocht, und ich habe ihr gezeigt, wie man einen Apfelkuchen backt. Ich glaube, dass ich durch das Tandem mehr gelernt habe als im Kurs. Und ich habe eine gute Freundin gefunden.",
+    "glossary": [
+      {
+        "german": "das Semester",
+        "english": "semester, term",
+        "wortschatzId": "b1-das-semester"
+      },
+      {
+        "german": "darum",
+        "english": "that's why"
+      },
+      {
+        "german": "der Tandempartner",
+        "english": "language exchange partner"
+      },
+      {
+        "german": "kennenlernen",
+        "english": "to get to know, to meet",
+        "match": "kennengelernt",
+        "wortschatzId": "a1-kennenlernen"
+      },
+      {
+        "german": "das Praktikum",
+        "english": "internship",
+        "wortschatzId": "a1-das-praktikum"
+      },
+      {
+        "german": "das Labor",
+        "english": "laboratory"
+      },
+      {
+        "german": "verbessern",
+        "english": "to improve",
+        "wortschatzId": "b1-verbessern"
+      },
+      {
+        "german": "die Regel",
+        "english": "rule",
+        "wortschatzId": "b1-die-regel"
+      },
+      {
+        "german": "der Fehler",
+        "english": "mistake",
+        "wortschatzId": "a1-der-fehler"
+      },
+      {
+        "german": "korrigieren",
+        "english": "to correct",
+        "match": "korrigiert",
+        "wortschatzId": "b1-korrigieren"
+      },
+      {
+        "german": "die Serviette",
+        "english": "napkin"
+      },
+      {
+        "german": "geduldig",
+        "english": "patient"
+      },
+      {
+        "german": "der Artikel",
+        "english": "article (der, die, das)",
+        "match": "Artikeln",
+        "wortschatzId": "a2-der-artikel"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Warum lernt Jonas Spanisch?",
+        "options": [
+          "Er möchte ein Semester in Spanien studieren.",
+          "Seine Familie kommt aus Spanien.",
+          "Er braucht es für die Arbeit.",
+          "Er macht Urlaub in Valencia."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "mc",
+        "prompt": "Was macht Lucía in Freiburg?",
+        "options": [
+          "Sie studiert Medizin.",
+          "Sie arbeitet in einem Café.",
+          "Sie macht ein Praktikum in einem Labor.",
+          "Sie besucht einen Deutschkurs."
+        ],
+        "answer": 2
+      },
+      {
+        "type": "tf",
+        "prompt": "Jonas und Lucía treffen sich jeden Dienstag.",
+        "answer": false,
+        "explanation": "Sie treffen sich jeden Donnerstag."
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie funktioniert ihr Tandem?",
+        "options": [
+          "Sie sprechen nur Deutsch.",
+          "Eine Stunde sprechen sie Deutsch, eine Stunde Spanisch.",
+          "Sie schreiben sich E-Mails.",
+          "Sie machen zusammen Grammatikübungen."
+        ],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Am Anfang war Jonas nervös.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Womit hatte Lucía Probleme?",
+        "options": [
+          "Mit den Zahlen",
+          "Mit dem Schreiben",
+          "Mit der Aussprache",
+          "Mit den Artikeln"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "tf",
+        "prompt": "Jonas hat für Lucía eine Paella gekocht.",
+        "answer": false,
+        "explanation": "Lucía hat für Jonas eine Paella gekocht."
+      }
+    ]
+  },
+  {
+    "id": "a2-54",
+    "level": "A2",
+    "title": "Ein Tag auf dem Bauernhof",
+    "topic": "Animals",
+    "body": "Emma ist zehn Jahre alt und wohnt mit ihren Eltern in Hamburg. In den Herbstferien hat sie zum ersten Mal ihren Onkel Bernd auf seinem Bauernhof besucht. Der Hof liegt in einem kleinen Dorf, zwei Stunden von der Stadt entfernt.\n\nAm Morgen hat der Wecker schon um halb sechs geklingelt. Emma war sehr müde, aber sie wollte nichts verpassen. Draußen war es noch dunkel und kalt. Zuerst sind sie in den Stall gegangen. Dort stehen dreißig Kühe. Onkel Bernd melkt die Kühe mit einer Maschine, aber er hat Emma auch gezeigt, wie man mit der Hand melkt. Das war schwerer, als sie gedacht hat.\n\nDanach hat Emma die Hühner gefüttert und Eier gesammelt. Sie hat vierzehn Eier gefunden, und eins war noch warm. Die Schweine waren laut und schmutzig, aber Emma hat sie lustig gefunden.\n\nUm acht Uhr haben alle zusammen gefrühstückt: frisches Brot, Eier vom Hof und warme Milch. „So ein gutes Frühstück habe ich noch nie gegessen!“, hat Emma gesagt.\n\nAm Nachmittag durfte Emma mit dem Traktor mitfahren. Sie haben Heu für die Kühe geholt. Am Abend war Emma so müde, dass sie schon um acht Uhr ins Bett gegangen ist. Am Telefon hat sie ihrer Mutter gesagt, dass sie in den nächsten Ferien wiederkommen möchte.",
+    "glossary": [
+      {
+        "german": "der Bauernhof",
+        "english": "farm",
+        "wortschatzId": "b1-der-bauernhof"
+      },
+      {
+        "german": "entfernt",
+        "english": "away, at a distance",
+        "wortschatzId": "b1-entfernen"
+      },
+      {
+        "german": "der Wecker",
+        "english": "alarm clock",
+        "wortschatzId": "b1-der-wecker"
+      },
+      {
+        "german": "klingeln",
+        "english": "to ring",
+        "match": "geklingelt",
+        "wortschatzId": "b1-klingeln"
+      },
+      {
+        "german": "verpassen",
+        "english": "to miss (out on)",
+        "wortschatzId": "a2-verpassen"
+      },
+      {
+        "german": "der Stall",
+        "english": "cowshed, stable"
+      },
+      {
+        "german": "die Kuh",
+        "english": "cow",
+        "match": "Kühe",
+        "wortschatzId": "b1-die-kuh"
+      },
+      {
+        "german": "melken",
+        "english": "to milk",
+        "match": "melkt"
+      },
+      {
+        "german": "das Huhn",
+        "english": "hen, chicken",
+        "match": "Hühner"
+      },
+      {
+        "german": "füttern",
+        "english": "to feed",
+        "match": "gefüttert",
+        "wortschatzId": "b1-fuettern"
+      },
+      {
+        "german": "sammeln",
+        "english": "to collect",
+        "match": "gesammelt",
+        "wortschatzId": "a2-sammeln"
+      },
+      {
+        "german": "das Schwein",
+        "english": "pig",
+        "match": "Schweine",
+        "wortschatzId": "a2-das-schwein"
+      },
+      {
+        "german": "schmutzig",
+        "english": "dirty",
+        "wortschatzId": "a2-schmutzig"
+      },
+      {
+        "german": "das Heu",
+        "english": "hay"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Wo wohnt Emma?",
+        "options": ["In einem Dorf", "In Hamburg", "In Berlin", "Auf einem Bauernhof"],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": "Wann hat der Wecker geklingelt?",
+        "options": ["Um fünf Uhr", "Um sechs Uhr", "Um halb acht", "Um halb sechs"],
+        "answer": 3
+      },
+      {
+        "type": "tf",
+        "prompt": "Onkel Bernd melkt seine Kühe mit der Hand.",
+        "answer": false,
+        "explanation": "Er melkt die Kühe mit einer Maschine."
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie viele Eier hat Emma gefunden?",
+        "options": ["Zehn", "Zwölf", "Vierzehn", "Dreißig"],
+        "answer": 2
+      },
+      {
+        "type": "tf",
+        "prompt": "Emma hat die Schweine lustig gefunden.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Was durfte Emma am Nachmittag machen?",
+        "options": [
+          "Mit dem Traktor mitfahren",
+          "Reiten",
+          "Allein die Kühe melken",
+          "Einen Kuchen backen"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "tf",
+        "prompt": "Emma möchte wieder auf den Bauernhof kommen.",
+        "answer": true
+      }
+    ]
+  },
+  {
+    "id": "a2-55",
+    "level": "A2",
+    "title": "Der Stromausfall",
+    "topic": "Home",
+    "body": "Letzten Dienstag war es kalt und schon um fünf Uhr dunkel. Ich war in meiner Wohnung im dritten Stock und habe gerade gekocht. Plötzlich war alles schwarz: kein Licht, kein Herd, kein Internet. Auch die Heizung hat nicht mehr funktioniert.\n\nZuerst habe ich gedacht, dass nur meine Wohnung ein Problem hat. Aber dann habe ich aus dem Fenster gesehen. Die ganze Straße war dunkel. Mit meinem Handy habe ich Licht gemacht und im Schrank nach Kerzen gesucht. Zum Glück habe ich vier Stück gefunden.\n\nNach einer halben Stunde hat jemand an meine Tür geklopft. Es war Frau Novak, meine Nachbarin von gegenüber. „Herr Wolf, haben Sie vielleicht Streichhölzer?“, hat sie gefragt. Ich habe ihr eine Schachtel gegeben. Im Treppenhaus haben wir dann noch andere Nachbarn getroffen. Herr Becker aus dem Erdgeschoss hat gesagt: „Kommen Sie doch alle zu mir! Bei mir ist es noch warm, und ich habe viele Spiele.“\n\nSo haben wir zu sechst bei Herrn Becker am Tisch gesessen. Wir haben Brettspiele gespielt, Tee aus einer Thermoskanne getrunken und viel gelacht. Frau Novak hat Kekse mitgebracht. Ich wohne schon drei Jahre in diesem Haus, aber ich habe meine Nachbarn noch nie so gut kennengelernt.\n\nUm neun Uhr ist der Strom zurückgekommen. Alle haben ein bisschen traurig „Schade!“ gerufen. Nächsten Monat wollen wir wieder einen Spieleabend machen, dann auch mit Strom.",
+    "glossary": [
+      {
+        "german": "plötzlich",
+        "english": "suddenly",
+        "wortschatzId": "a2-ploetzlich"
+      },
+      {
+        "german": "der Herd",
+        "english": "cooker, stove",
+        "wortschatzId": "a1-der-herd"
+      },
+      {
+        "german": "die Heizung",
+        "english": "heating",
+        "wortschatzId": "a2-die-heizung"
+      },
+      {
+        "german": "die Kerze",
+        "english": "candle",
+        "match": "Kerzen",
+        "wortschatzId": "b1-die-kerze"
+      },
+      {
+        "german": "klopfen",
+        "english": "to knock",
+        "match": "geklopft",
+        "wortschatzId": "b1-klopfen"
+      },
+      {
+        "german": "gegenüber",
+        "english": "opposite, across the hall",
+        "wortschatzId": "a2-gegenueber"
+      },
+      {
+        "german": "das Streichholz",
+        "english": "match (for fire)",
+        "match": "Streichhölzer",
+        "wortschatzId": "b1-das-streichholz"
+      },
+      {
+        "german": "die Schachtel",
+        "english": "box (small)",
+        "wortschatzId": "b1-die-schachtel"
+      },
+      {
+        "german": "das Treppenhaus",
+        "english": "stairwell",
+        "wortschatzId": "b1-das-treppenhaus"
+      },
+      {
+        "german": "das Erdgeschoss",
+        "english": "ground floor",
+        "wortschatzId": "b1-das-erdgeschoss-erdgeschoss"
+      },
+      {
+        "german": "zu sechst",
+        "english": "six of us, in a group of six"
+      },
+      {
+        "german": "das Brettspiel",
+        "english": "board game",
+        "match": "Brettspiele"
+      },
+      {
+        "german": "die Thermoskanne",
+        "english": "thermos flask"
+      },
+      {
+        "german": "der Strom",
+        "english": "electricity, power",
+        "wortschatzId": "b1-der-strom"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Was hat Herr Wolf um fünf Uhr gerade gemacht?",
+        "options": [
+          "Er hat gekocht.",
+          "Er hat ferngesehen.",
+          "Er hat geschlafen.",
+          "Er hat telefoniert."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "tf",
+        "prompt": "Nur in Herrn Wolfs Wohnung war der Strom weg.",
+        "answer": false,
+        "explanation": "Die ganze Straße war dunkel."
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie viele Kerzen hat Herr Wolf gefunden?",
+        "options": ["Zwei", "Drei", "Vier", "Sechs"],
+        "answer": 2
+      },
+      {
+        "type": "mc",
+        "prompt": "Was wollte Frau Novak von Herrn Wolf?",
+        "options": ["Kerzen", "Streichhölzer", "Tee", "Ein Spiel"],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Bei Herrn Becker haben die Nachbarn Brettspiele gespielt.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Wann ist der Strom zurückgekommen?",
+        "options": ["Um sechs Uhr", "Um sieben Uhr", "Um acht Uhr", "Um neun Uhr"],
+        "answer": 3
+      },
+      {
+        "type": "tf",
+        "prompt": "Die Nachbarn wollen bald wieder zusammen spielen.",
+        "answer": true
+      }
+    ]
+  },
+  {
+    "id": "a2-56",
+    "level": "A2",
+    "title": "Hochzeit im Garten",
+    "topic": "Celebrations",
+    "body": "Im Juni hat meine Cousine Miriam ihren Freund Elias geheiratet. Sie wollten keine große Feier in einem teuren Restaurant. Deshalb haben sie im Garten von Miriams Eltern gefeiert. Der Garten ist groß und hat viele alte Apfelbäume.\n\nDie ganze Familie hat bei den Vorbereitungen geholfen. Mein Onkel hat Tische und Bänke aufgebaut, meine Tante hat drei Torten gebacken, und ich habe mit meiner Schwester Blumen auf die Tische gestellt. Wir haben auch bunte Lampen in die Bäume gehängt.\n\nAm Morgen war der Himmel blau. Nach der Trauung im Rathaus sind alle Gäste in den Garten gekommen. Wir haben gegessen und auf das Brautpaar getrunken. Aber gegen fünf Uhr ist der Himmel plötzlich grau geworden, und es hat gedonnert. Dann hat es stark geregnet.\n\nAlle haben schnell die Tische, die Stühle und das Essen in die Garage getragen. Die Garage war nicht schön, aber sie war trocken. Mein Cousin hat seine Musikanlage aufgestellt, und die Party ist einfach weitergegangen. Wir haben zwischen Fahrrädern und Werkzeug getanzt.\n\nMiriam war gar nicht traurig. „Diese Hochzeit vergessen wir nie“, hat sie gelacht. Um Mitternacht hat der Regen aufgehört, und wir haben draußen unter den nassen Bäumen die Torte gegessen.",
+    "glossary": [
+      {
+        "german": "die Cousine",
+        "english": "(female) cousin",
+        "wortschatzId": "a2-die-cousine"
+      },
+      {
+        "german": "heiraten",
+        "english": "to marry",
+        "match": "geheiratet",
+        "wortschatzId": "a1-heiraten"
+      },
+      {
+        "german": "die Feier",
+        "english": "celebration, party",
+        "wortschatzId": "a1-feier"
+      },
+      {
+        "german": "die Vorbereitung",
+        "english": "preparation",
+        "match": "Vorbereitungen",
+        "wortschatzId": "b1-die-vorbereitung"
+      },
+      {
+        "german": "die Bank",
+        "english": "bench",
+        "match": "Bänke",
+        "wortschatzId": "a1-die-bank"
+      },
+      {
+        "german": "aufbauen",
+        "english": "to set up",
+        "match": "aufgebaut"
+      },
+      {
+        "german": "die Torte",
+        "english": "gateau, layer cake",
+        "match": "Torten",
+        "wortschatzId": "a2-die-torte"
+      },
+      {
+        "german": "die Trauung",
+        "english": "wedding ceremony"
+      },
+      {
+        "german": "das Brautpaar",
+        "english": "bride and groom"
+      },
+      {
+        "german": "donnern",
+        "english": "to thunder",
+        "match": "gedonnert",
+        "wortschatzId": "b1-donnern"
+      },
+      {
+        "german": "trocken",
+        "english": "dry",
+        "wortschatzId": "a2-trocken"
+      },
+      {
+        "german": "die Musikanlage",
+        "english": "sound system"
+      },
+      {
+        "german": "das Werkzeug",
+        "english": "tools",
+        "wortschatzId": "b1-das-werkzeug"
+      },
+      {
+        "german": "aufhören",
+        "english": "to stop",
+        "match": "aufgehört",
+        "wortschatzId": "a1-aufhoeren"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Wo haben Miriam und Elias gefeiert?",
+        "options": [
+          "In einem Restaurant",
+          "Im Garten von Miriams Eltern",
+          "In einem Hotel",
+          "Im Rathaus"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": "Was hat die Tante gemacht?",
+        "options": [
+          "Sie hat Tische aufgebaut.",
+          "Sie hat Blumen gekauft.",
+          "Sie hat drei Torten gebacken.",
+          "Sie hat Lampen aufgehängt."
+        ],
+        "answer": 2
+      },
+      {
+        "type": "tf",
+        "prompt": "Am Morgen war das Wetter schlecht.",
+        "answer": false,
+        "explanation": "Am Morgen war der Himmel blau."
+      },
+      {
+        "type": "mc",
+        "prompt": "Was ist gegen fünf Uhr passiert?",
+        "options": [
+          "Die Musikanlage war kaputt.",
+          "Die Gäste sind nach Hause gegangen.",
+          "Der Strom ist ausgefallen.",
+          "Es hat gedonnert und stark geregnet."
+        ],
+        "answer": 3
+      },
+      {
+        "type": "tf",
+        "prompt": "Die Party ist in der Garage weitergegangen.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie hat Miriam reagiert?",
+        "options": [
+          "Sie hat gelacht.",
+          "Sie hat geweint.",
+          "Sie war sehr traurig.",
+          "Sie ist ins Haus gegangen."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "tf",
+        "prompt": "Die Torte haben sie in der Garage gegessen.",
+        "answer": false,
+        "explanation": "Sie haben die Torte draußen unter den Bäumen gegessen."
+      }
+    ]
+  },
+  {
+    "id": "a2-57",
+    "level": "A2",
+    "title": "Gesund leben",
+    "topic": "Health",
+    "body": "Frank ist 52 Jahre alt und arbeitet als Busfahrer. Er sitzt den ganzen Tag, und am Abend liegt er oft müde auf dem Sofa. Im Januar war er beim Arzt, weil er immer Rückenschmerzen hatte. Die Ärztin hat ihn untersucht und gesagt: „Ihr Blutdruck ist zu hoch, und Sie wiegen zu viel. Sie müssen etwas ändern.“\n\nFrank hat lange nachgedacht. Dann hat er sich drei Ziele gesetzt. Erstens wollte er mehr zu Fuß gehen. Zweitens wollte er weniger Zucker essen, und drittens wollte er früher ins Bett gehen.\n\nAm Anfang war das nicht leicht. Frank ist jeden Abend dreißig Minuten im Park spazieren gegangen, auch bei Regen. Statt Cola hat er Wasser oder Tee getrunken, und statt Schokolade hat er einen Apfel gegessen. Früher hat er oft bis Mitternacht ferngesehen. Jetzt macht er den Fernseher um zehn Uhr aus.\n\nNach drei Monaten ist Frank wieder zur Ärztin gegangen. Sie war sehr zufrieden. Sein Blutdruck war normal, und er hat sechs Kilo abgenommen. Auch der Rücken tut nicht mehr so weh.\n\n„Ich fühle mich wie ein neuer Mensch“, sagt Frank. „Ich schlafe besser und habe mehr Energie. Am Wochenende gehe ich jetzt sogar mit meiner Frau wandern. Das hat früher nie geklappt.“",
+    "glossary": [
+      {
+        "german": "die Rückenschmerzen",
+        "english": "back pain"
+      },
+      {
+        "german": "untersuchen",
+        "english": "to examine",
+        "match": "untersucht",
+        "wortschatzId": "a2-untersuchen"
+      },
+      {
+        "german": "der Blutdruck",
+        "english": "blood pressure"
+      },
+      {
+        "german": "wiegen",
+        "english": "to weigh",
+        "wortschatzId": "b1-wiegen"
+      },
+      {
+        "german": "ändern",
+        "english": "to change",
+        "wortschatzId": "a2-aendern"
+      },
+      {
+        "german": "nachdenken",
+        "english": "to think (about), to reflect",
+        "match": "nachgedacht",
+        "wortschatzId": "b1-nachdenken"
+      },
+      {
+        "german": "sich ein Ziel setzen",
+        "english": "to set oneself a goal",
+        "match": "Ziele"
+      },
+      {
+        "german": "erstens",
+        "english": "firstly",
+        "wortschatzId": "a2-erstens"
+      },
+      {
+        "german": "der Zucker",
+        "english": "sugar",
+        "wortschatzId": "a2-der-zucker"
+      },
+      {
+        "german": "statt",
+        "english": "instead of",
+        "wortschatzId": "b1-statt"
+      },
+      {
+        "german": "fernsehen",
+        "english": "to watch TV",
+        "match": "ferngesehen",
+        "wortschatzId": "a1-fernsehen"
+      },
+      {
+        "german": "zufrieden",
+        "english": "satisfied, pleased",
+        "wortschatzId": "a1-zufrieden"
+      },
+      {
+        "german": "klappen",
+        "english": "to work out",
+        "match": "geklappt",
+        "wortschatzId": "a2-klappen"
+      },
+      {
+        "german": "abnehmen",
+        "english": "to lose weight",
+        "match": "abgenommen",
+        "wortschatzId": "b1-abnehmen"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Was ist Franks Beruf?",
+        "options": ["Taxifahrer", "Busfahrer", "Arzt", "Verkäufer"],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": "Warum war Frank im Januar beim Arzt?",
+        "options": [
+          "Er hatte immer Rückenschmerzen.",
+          "Er hatte Kopfschmerzen.",
+          "Er hatte Fieber.",
+          "Er brauchte eine neue Brille."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "tf",
+        "prompt": "Die Ärztin hat gesagt, dass Franks Blutdruck zu niedrig ist.",
+        "answer": false,
+        "explanation": "Sein Blutdruck war zu hoch."
+      },
+      {
+        "type": "mc",
+        "prompt": "Was trinkt Frank jetzt statt Cola?",
+        "options": ["Saft", "Bier", "Wasser oder Tee", "Milch"],
+        "answer": 2
+      },
+      {
+        "type": "tf",
+        "prompt": "Frank geht nur bei schönem Wetter spazieren.",
+        "answer": false,
+        "explanation": "Er geht auch bei Regen spazieren."
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie viele Kilo hat Frank in drei Monaten abgenommen?",
+        "options": ["Zwei", "Vier", "Zehn", "Sechs"],
+        "answer": 3
+      },
+      {
+        "type": "tf",
+        "prompt": "Am Wochenende geht Frank mit seiner Frau wandern.",
+        "answer": true
+      }
+    ]
+  },
+  {
+    "id": "a2-58",
+    "level": "A2",
+    "title": "Camping am See",
+    "topic": "Free time",
+    "body": "Letzten Sommer bin ich zum ersten Mal campen gegangen. Mein Freund Yusuf hat schon oft gecampt und hat gesagt: „Das macht Spaß, glaub mir!“ Wir sind mit dem Zug und dann mit dem Bus zu einem Campingplatz an einem See in Brandenburg gefahren.\n\nDas erste Problem war das Zelt. Yusuf hat ein neues Zelt gekauft, aber er hat es noch nie aufgebaut. Die Anleitung war nur auf Englisch und Schwedisch, und es gab sehr viele Stangen. Wir haben fast zwei Stunden gebraucht. Ein Kind vom Platz neben uns hat zugeschaut und gelacht. Am Ende hat uns sein Vater geholfen.\n\nDanach sind wir im See geschwommen. Das Wasser war kalt, aber sehr sauber. Am Abend sind dann die Mücken gekommen. Ich hatte kein Mückenspray dabei. Sie haben mich überall gestochen, an den Armen, an den Beinen und sogar im Gesicht.\n\nAber dann haben wir ein Feuer gemacht. Wir haben Würstchen gegrillt und Brot über dem Feuer gebacken. Yusuf hat Gitarre gespielt, und unsere Nachbarn sind mit Getränken zu uns gekommen. Über dem See war der Himmel voller Sterne. So viele Sterne habe ich in der Stadt noch nie gesehen.\n\nIn der Nacht habe ich schlecht geschlafen, weil der Boden so hart war. Trotzdem war es ein wunderschönes Wochenende. Nächstes Jahr fahre ich wieder mit, aber dann mit einer dicken Luftmatratze und viel Mückenspray.",
+    "glossary": [
+      {
+        "german": "campen",
+        "english": "to go camping",
+        "wortschatzId": "b1-campen"
+      },
+      {
+        "german": "der Campingplatz",
+        "english": "campsite"
+      },
+      {
+        "german": "das Zelt",
+        "english": "tent",
+        "wortschatzId": "a2-das-zelt"
+      },
+      {
+        "german": "aufbauen",
+        "english": "to put up, to set up",
+        "match": "aufgebaut"
+      },
+      {
+        "german": "die Anleitung",
+        "english": "instructions",
+        "wortschatzId": "b1-die-anleitung"
+      },
+      {
+        "german": "die Stange",
+        "english": "pole",
+        "match": "Stangen"
+      },
+      {
+        "german": "zuschauen",
+        "english": "to watch",
+        "match": "zugeschaut",
+        "wortschatzId": "b1-zuschauen"
+      },
+      {
+        "german": "die Mücke",
+        "english": "mosquito",
+        "match": "Mücken",
+        "wortschatzId": "b1-die-muecke"
+      },
+      {
+        "german": "stechen",
+        "english": "to bite, to sting",
+        "match": "gestochen",
+        "wortschatzId": "b1-stechen"
+      },
+      {
+        "german": "das Würstchen",
+        "english": "sausage"
+      },
+      {
+        "german": "der Stern",
+        "english": "star",
+        "match": "Sterne",
+        "wortschatzId": "b1-der-stern"
+      },
+      {
+        "german": "der Boden",
+        "english": "ground",
+        "wortschatzId": "b1-der-boden"
+      },
+      {
+        "german": "hart",
+        "english": "hard",
+        "wortschatzId": "a2-hart"
+      },
+      {
+        "german": "die Luftmatratze",
+        "english": "air mattress"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Wie sind die beiden zum Campingplatz gekommen?",
+        "options": [
+          "Mit dem Auto",
+          "Mit dem Fahrrad",
+          "Mit dem Zug und dem Bus",
+          "Zu Fuß"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "tf",
+        "prompt": "Yusuf hat das neue Zelt schon oft aufgebaut.",
+        "answer": false,
+        "explanation": "Er hat es noch nie aufgebaut."
+      },
+      {
+        "type": "mc",
+        "prompt": "Wer hat ihnen am Ende mit dem Zelt geholfen?",
+        "options": [
+          "Ein Kind",
+          "Der Vater von einem Kind",
+          "Der Chef vom Campingplatz",
+          "Yusufs Bruder"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie war das Wasser im See?",
+        "options": [
+          "Warm und schmutzig",
+          "Sehr warm",
+          "Kalt und schmutzig",
+          "Kalt, aber sauber"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "tf",
+        "prompt": "Am Abend haben sie Würstchen gegrillt.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Warum hat der Erzähler schlecht geschlafen?",
+        "options": [
+          "Der Boden war hart.",
+          "Die Mücken waren zu laut.",
+          "Es war zu kalt.",
+          "Die Nachbarn haben Musik gemacht."
+        ],
+        "answer": 0
+      }
+    ]
+  },
+  {
+    "id": "a2-59",
+    "level": "A2",
+    "title": "Der neue Mitbewohner",
+    "topic": "Living together",
+    "body": "Ich heiße Clara und wohne in einer WG in Kassel. Bis September haben Niklas, Hanna und ich hier zusammen gewohnt. Dann ist Hanna nach Wien gezogen, und wir haben einen neuen Mitbewohner gesucht. Viele Leute sind zur Besichtigung gekommen. Am Ende haben wir uns für Arjun entschieden. Er studiert Maschinenbau und war sehr sympathisch.\n\nSchon in der ersten Woche haben wir gemerkt: Arjun ist sehr ordentlich. Er putzt jeden Tag die Küche und spült sofort nach dem Essen. Niklas und ich sind nicht so ordentlich. Bei uns steht das Geschirr oft bis zum nächsten Tag in der Spüle.\n\nNach zwei Wochen hat Arjun einen Zettel an den Kühlschrank geklebt: „Bitte das Geschirr sofort spülen!“ Niklas hat sich darüber geärgert. „Wir sind doch kein Hotel!“, hat er gesagt. Ein paar Tage war die Stimmung in der WG nicht gut.\n\nDann haben wir uns alle zusammen an den Küchentisch gesetzt und lange geredet. Wir haben einen Putzplan gemacht. Jede Woche hat jeder eine andere Aufgabe: Bad, Küche oder Flur. Das Geschirr spült jeder am selben Abend. Arjun hat versprochen, dass er keine Zettel mehr schreibt.\n\nJetzt funktioniert es gut. Unsere Wohnung ist sauberer als früher, und am Sonntag kochen wir oft zusammen. Arjun kocht das beste Curry der Stadt.",
+    "glossary": [
+      {
+        "german": "die WG (Wohngemeinschaft)",
+        "english": "shared flat",
+        "match": "WG"
+      },
+      {
+        "german": "der Mitbewohner",
+        "english": "flatmate"
+      },
+      {
+        "german": "die Besichtigung",
+        "english": "viewing"
+      },
+      {
+        "german": "sich entscheiden für",
+        "english": "to decide on, to choose",
+        "match": "entschieden"
+      },
+      {
+        "german": "merken",
+        "english": "to notice",
+        "match": "gemerkt",
+        "wortschatzId": "a2-merken"
+      },
+      {
+        "german": "ordentlich",
+        "english": "tidy",
+        "wortschatzId": "b1-ordentlich"
+      },
+      {
+        "german": "das Geschirr",
+        "english": "dishes",
+        "wortschatzId": "a2-das-geschirr"
+      },
+      {
+        "german": "die Spüle",
+        "english": "(kitchen) sink"
+      },
+      {
+        "german": "der Zettel",
+        "english": "note, slip of paper",
+        "wortschatzId": "a2-der-zettel"
+      },
+      {
+        "german": "kleben",
+        "english": "to stick",
+        "match": "geklebt",
+        "wortschatzId": "b1-kleben"
+      },
+      {
+        "german": "sich ärgern über",
+        "english": "to be annoyed about",
+        "match": "geärgert"
+      },
+      {
+        "german": "die Stimmung",
+        "english": "mood, atmosphere",
+        "wortschatzId": "b1-die-stimmung"
+      },
+      {
+        "german": "der Putzplan",
+        "english": "cleaning rota"
+      },
+      {
+        "german": "versprechen",
+        "english": "to promise",
+        "match": "versprochen",
+        "wortschatzId": "b1-versprechen"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Warum hat die WG einen neuen Mitbewohner gesucht?",
+        "options": [
+          "Hanna ist nach Wien gezogen.",
+          "Niklas ist ausgezogen.",
+          "Die Wohnung war zu teuer.",
+          "Clara wollte nicht allein wohnen."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "mc",
+        "prompt": "Was studiert Arjun?",
+        "options": ["Medizin", "Informatik", "Maschinenbau", "Deutsch"],
+        "answer": 2
+      },
+      {
+        "type": "tf",
+        "prompt": "Niklas und Clara sind genauso ordentlich wie Arjun.",
+        "answer": false,
+        "explanation": "Niklas und Clara sind nicht so ordentlich."
+      },
+      {
+        "type": "mc",
+        "prompt": "Wohin hat Arjun den Zettel geklebt?",
+        "options": [
+          "An die Tür",
+          "An den Kühlschrank",
+          "An den Spiegel im Bad",
+          "An die Spüle"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Niklas hat sich über den Zettel geärgert.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Was haben die drei am Küchentisch gemacht?",
+        "options": [
+          "Eine Party geplant",
+          "Einen neuen Zettel geschrieben",
+          "Den Vermieter angerufen",
+          "Einen Putzplan gemacht"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "tf",
+        "prompt": "Die Wohnung ist jetzt sauberer als früher.",
+        "answer": true
+      }
+    ]
+  },
+  {
+    "id": "a2-60",
+    "level": "A2",
+    "title": "Die Waschmaschine läuft aus",
+    "topic": "Home",
+    "body": "Am Samstagmorgen wollte Sara ihre Wäsche waschen. Sie hat die Waschmaschine angemacht und ist zum Bäcker gegangen. Nach zwanzig Minuten ist sie zurückgekommen. Schon im Flur hat sie das Wasser gesehen. Das ganze Badezimmer war nass, und das Wasser ist langsam unter der Tür in den Flur gelaufen.\n\nSara hat die Maschine sofort ausgemacht und den Wasserhahn zugedreht. Dann hat sie das Wasser mit allen Handtüchern aufgewischt. Danach hat sie ihren Vermieter, Herrn Schulz, angerufen. Er hat gesagt: „Die Waschmaschine gehört Ihnen, nicht mir. Aber ich mache mir Sorgen um die Wohnung unter Ihnen.“\n\nHerr Schulz ist schnell gekommen. Zusammen sind sie zu Familie Arslan im zweiten Stock gegangen. Zum Glück war die Decke dort trocken.\n\nAm Montag ist ein Techniker gekommen. Er hat die Maschine untersucht und schnell den Grund gefunden: Ein Schlauch war alt und hatte ein Loch. „Das passiert oft bei alten Maschinen“, hat er gesagt. Er hat einen neuen Schlauch eingebaut. Die Reparatur hat 95 Euro gekostet, und Sara musste sie selbst bezahlen.\n\nSara war froh, dass es nicht teurer war. Und sie hat etwas gelernt: Jetzt bleibt sie immer zu Hause, wenn die Waschmaschine läuft.",
+    "glossary": [
+      {
+        "german": "die Wäsche",
+        "english": "laundry",
+        "wortschatzId": "a2-die-waesche"
+      },
+      {
+        "german": "anmachen",
+        "english": "to switch on",
+        "match": "angemacht",
+        "wortschatzId": "a1-anmachen"
+      },
+      {
+        "german": "nass",
+        "english": "wet",
+        "wortschatzId": "a2-nass"
+      },
+      {
+        "german": "der Wasserhahn",
+        "english": "tap"
+      },
+      {
+        "german": "zudrehen",
+        "english": "to turn off",
+        "match": "zugedreht"
+      },
+      {
+        "german": "das Handtuch",
+        "english": "towel",
+        "match": "Handtüchern",
+        "wortschatzId": "a2-das-handtuch"
+      },
+      {
+        "german": "aufwischen",
+        "english": "to mop up",
+        "match": "aufgewischt"
+      },
+      {
+        "german": "gehören",
+        "english": "to belong to",
+        "match": "gehört",
+        "wortschatzId": "a1-gehoeren"
+      },
+      {
+        "german": "sich Sorgen machen um",
+        "english": "to worry about",
+        "match": "Sorgen"
+      },
+      {
+        "german": "die Decke",
+        "english": "ceiling",
+        "wortschatzId": "b1-die-decke"
+      },
+      {
+        "german": "der Grund",
+        "english": "reason, cause",
+        "wortschatzId": "b1-der-grund"
+      },
+      {
+        "german": "der Schlauch",
+        "english": "hose"
+      },
+      {
+        "german": "das Loch",
+        "english": "hole",
+        "wortschatzId": "b1-das-loch"
+      },
+      {
+        "german": "einbauen",
+        "english": "to fit, to install",
+        "match": "eingebaut"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Wohin ist Sara am Samstagmorgen gegangen?",
+        "options": ["Zum Supermarkt", "Zum Bäcker", "Zur Arbeit", "Zu einer Freundin"],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Das Wasser ist bis in den Flur gelaufen.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Womit hat Sara das Wasser aufgewischt?",
+        "options": [
+          "Mit einem Eimer",
+          "Mit ihrer Kleidung",
+          "Mit Handtüchern",
+          "Mit Zeitungen"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "tf",
+        "prompt": "Die Waschmaschine gehört dem Vermieter.",
+        "answer": false,
+        "explanation": "Die Waschmaschine gehört Sara."
+      },
+      {
+        "type": "mc",
+        "prompt": "Warum sind Sara und Herr Schulz zu Familie Arslan gegangen?",
+        "options": [
+          "Sie wollten sehen, ob die Decke dort nass ist.",
+          "Sie wollten Werkzeug leihen.",
+          "Familie Arslan hat angerufen.",
+          "Sie wollten einen Techniker finden."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "mc",
+        "prompt": "Was war das Problem mit der Waschmaschine?",
+        "options": [
+          "Die Tür war kaputt.",
+          "Die Maschine war zu voll.",
+          "Der Strom war weg.",
+          "Ein alter Schlauch hatte ein Loch."
+        ],
+        "answer": 3
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie viel hat die Reparatur gekostet?",
+        "options": ["59 Euro", "95 Euro", "150 Euro", "195 Euro"],
+        "answer": 1
+      }
+    ]
+  },
+  {
+    "id": "a2-61",
+    "level": "A2",
+    "title": "Ein Praktikum in der Bäckerei",
+    "topic": "Work",
+    "body": "Lukas ist fünfzehn und geht in die neunte Klasse. Alle Schüler in seiner Klasse müssen ein Praktikum von zwei Wochen machen. Lukas backt gern, deshalb hat er sich bei der Bäckerei Krämer in seinem Stadtteil beworben. Herr Krämer hat sofort Ja gesagt, aber er hat ihn gewarnt: „Bei uns beginnt die Arbeit um vier Uhr morgens.“\n\nDer erste Tag war sehr hart. Lukas ist um drei Uhr aufgestanden und mit dem Fahrrad durch die dunklen Straßen gefahren. In der Backstube war es warm, und es hat nach frischem Brot gerochen. Lukas hat eine weiße Jacke und eine Mütze bekommen.\n\nZuerst durfte er nur zuschauen. Dann hat er Teig für Brötchen geknetet und Bleche in den Ofen geschoben. Das Kneten war anstrengend, und am Abend haben ihm die Arme wehgetan. Um sechs Uhr sind die ersten Kunden gekommen. Lukas war stolz, weil er einige Brötchen selbst gemacht hat.\n\nUm zwölf Uhr war die Arbeit zu Ende. Lukas ist nach Hause gefahren und hat sofort geschlafen. Am Abend musste er früh ins Bett, oft schon um acht. Seine Freunde haben ihn deshalb ausgelacht.\n\nIn der zweiten Woche hat Lukas sogar einen Kuchen allein gebacken. Am letzten Tag hat Herr Krämer gesagt: „Du hast gut gearbeitet. Wenn du später eine Ausbildung machen willst, komm zu uns.“ Lukas überlegt jetzt, ob Bäcker der richtige Beruf für ihn ist.",
+    "glossary": [
+      {
+        "german": "das Praktikum",
+        "english": "internship, work placement",
+        "wortschatzId": "a1-das-praktikum"
+      },
+      {
+        "german": "sich bewerben",
+        "english": "to apply",
+        "match": "beworben",
+        "wortschatzId": "a2-bewerben"
+      },
+      {
+        "german": "warnen",
+        "english": "to warn",
+        "match": "gewarnt",
+        "wortschatzId": "b1-warnen"
+      },
+      {
+        "german": "die Backstube",
+        "english": "bakehouse"
+      },
+      {
+        "german": "riechen nach",
+        "english": "to smell of",
+        "match": "gerochen"
+      },
+      {
+        "german": "die Mütze",
+        "english": "cap, hat",
+        "wortschatzId": "a2-die-muetze"
+      },
+      {
+        "german": "der Teig",
+        "english": "dough"
+      },
+      {
+        "german": "kneten",
+        "english": "to knead",
+        "match": "geknetet"
+      },
+      {
+        "german": "das Blech",
+        "english": "baking tray",
+        "match": "Bleche"
+      },
+      {
+        "german": "schieben",
+        "english": "to push, to slide",
+        "match": "geschoben",
+        "wortschatzId": "b1-schieben"
+      },
+      {
+        "german": "anstrengend",
+        "english": "tiring, hard work",
+        "wortschatzId": "b1-anstrengend"
+      },
+      {
+        "german": "stolz",
+        "english": "proud",
+        "wortschatzId": "b1-stolz"
+      },
+      {
+        "german": "auslachen",
+        "english": "to laugh at",
+        "match": "ausgelacht"
+      },
+      {
+        "german": "überlegen",
+        "english": "to think about, to consider",
+        "match": "überlegt",
+        "wortschatzId": "b1-ueberlegen"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Wie lange dauert das Praktikum?",
+        "options": ["Eine Woche", "Zwei Wochen", "Drei Wochen", "Einen Monat"],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": "Wann beginnt die Arbeit in der Bäckerei?",
+        "options": ["Um sechs Uhr", "Um fünf Uhr", "Um drei Uhr", "Um vier Uhr"],
+        "answer": 3
+      },
+      {
+        "type": "tf",
+        "prompt": "Am ersten Tag hat Lukas sofort allein Brötchen gebacken.",
+        "answer": false,
+        "explanation": "Zuerst durfte er nur zuschauen."
+      },
+      {
+        "type": "mc",
+        "prompt": "Warum haben Lukas am Abend die Arme wehgetan?",
+        "options": [
+          "Er ist viel Fahrrad gefahren.",
+          "Er hat schwere Kisten getragen.",
+          "Das Kneten war anstrengend.",
+          "Er hat Fußball gespielt."
+        ],
+        "answer": 2
+      },
+      {
+        "type": "tf",
+        "prompt": "Lukas war stolz auf seine Brötchen.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Was hat Lukas in der zweiten Woche allein gebacken?",
+        "options": ["Einen Kuchen", "Brot", "Brezeln", "Kekse"],
+        "answer": 0
+      },
+      {
+        "type": "tf",
+        "prompt": "Lukas weiß schon sicher, dass er Bäcker werden will.",
+        "answer": false,
+        "explanation": "Er überlegt noch, ob Bäcker der richtige Beruf für ihn ist."
+      }
+    ]
+  },
+  {
+    "id": "a2-62",
+    "level": "A2",
+    "title": "Meine Lieblingsserie",
+    "topic": "Media",
+    "body": "Ich heiße Daniela, komme aus Kolumbien und lebe seit einem Jahr in Bremen. Meine Lieblingsserie heißt „Hausnummer 12“. Sie erzählt von sechs Nachbarn in einem alten Haus in Hamburg. Es gibt eine Studentin, einen alten Taxifahrer, eine Familie mit zwei Kindern und eine Frau mit einem kleinen Café im Erdgeschoss.\n\nIch mag die Serie, weil sie lustig ist, aber manchmal auch traurig. Die Geschichten sind ganz normal: Jemand verliert seine Arbeit, zwei Nachbarn streiten über laute Musik, ein Kind hat Probleme in der Schule. Meine Lieblingsfigur ist der Taxifahrer Herr Brandt. Er ist oft unfreundlich, aber eigentlich hat er ein gutes Herz.\n\nDie Serie hilft mir auch beim Deutschlernen. Am Anfang habe ich sie mit spanischen Untertiteln gesehen. Nach drei Monaten habe ich die deutschen Untertitel genommen. Jetzt sehe ich manche Folgen schon ohne Untertitel. Die Leute in der Serie sprechen ganz normales Alltagsdeutsch, nicht wie in meinem Lehrbuch. Neue Wörter schreibe ich in ein kleines Heft.\n\nJeden Sonntagabend kommt eine neue Folge. Dann mache ich Tee, setze mich auf das Sofa und mache mein Handy aus. Meine Mitbewohnerin schaut jetzt auch mit. Danach diskutieren wir auf Deutsch über die Folge. Das ist mein bester Deutschunterricht.",
+    "glossary": [
+      {
+        "german": "die Serie",
+        "english": "(TV) series",
+        "wortschatzId": "b1-die-serie"
+      },
+      {
+        "german": "verlieren",
+        "english": "to lose",
+        "match": "verliert",
+        "wortschatzId": "a2-verlieren"
+      },
+      {
+        "german": "streiten",
+        "english": "to argue",
+        "wortschatzId": "a2-streiten"
+      },
+      {
+        "german": "die Lieblingsfigur",
+        "english": "favourite character"
+      },
+      {
+        "german": "unfreundlich",
+        "english": "unfriendly"
+      },
+      {
+        "german": "eigentlich",
+        "english": "actually, really",
+        "wortschatzId": "a2-eigentlich"
+      },
+      {
+        "german": "ein gutes Herz haben",
+        "english": "to be kind-hearted",
+        "match": "gutes Herz"
+      },
+      {
+        "german": "der Untertitel",
+        "english": "subtitle",
+        "match": "Untertiteln"
+      },
+      {
+        "german": "die Folge",
+        "english": "episode",
+        "match": "Folgen",
+        "wortschatzId": "b1-die-folge"
+      },
+      {
+        "german": "das Alltagsdeutsch",
+        "english": "everyday German"
+      },
+      {
+        "german": "das Lehrbuch",
+        "english": "textbook"
+      },
+      {
+        "german": "das Heft",
+        "english": "notebook, exercise book",
+        "wortschatzId": "a2-das-heft"
+      },
+      {
+        "german": "diskutieren",
+        "english": "to discuss",
+        "wortschatzId": "a2-diskutieren"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Wo spielt die Serie?",
+        "options": ["In Bremen", "In Hamburg", "In Berlin", "In Kolumbien"],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "In der Serie gibt es eine Frau mit einem Café.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Wer ist Danielas Lieblingsfigur?",
+        "options": [
+          "Die Studentin",
+          "Die Frau mit dem Café",
+          "Der Taxifahrer Herr Brandt",
+          "Ein Kind aus der Familie"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "tf",
+        "prompt": "Herr Brandt ist immer sehr freundlich.",
+        "answer": false,
+        "explanation": "Er ist oft unfreundlich, aber eigentlich hat er ein gutes Herz."
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie hat Daniela die Serie am Anfang gesehen?",
+        "options": [
+          "Ohne Untertitel",
+          "Mit deutschen Untertiteln",
+          "Mit englischen Untertiteln",
+          "Mit spanischen Untertiteln"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "mc",
+        "prompt": "Wann kommt eine neue Folge?",
+        "options": [
+          "Jeden Sonntagabend",
+          "Jeden Freitag",
+          "Jeden Morgen",
+          "Einmal im Monat"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "tf",
+        "prompt": "Daniela spricht mit ihrer Mitbewohnerin auf Deutsch über die Serie.",
+        "answer": true
+      }
+    ]
+  },
+  {
+    "id": "a2-63",
+    "level": "A2",
+    "title": "Einkaufen im Internet",
+    "topic": "Shopping",
+    "body": "Jana braucht neue Sportschuhe, weil sie im Frühling mit dem Laufen anfangen will. Sie hat wenig Zeit, deshalb hat sie die Schuhe im Internet bestellt. In einem Onlineshop hat sie ein schönes Modell in Blau gefunden. Es war zwanzig Euro billiger als im Geschäft in der Stadt. Sie hat Größe 39 gewählt, wie immer.\n\nNach drei Tagen hat der Paketbote geklingelt. Jana hat das Paket sofort geöffnet und die Schuhe anprobiert. Leider waren sie zu klein. Vorne haben die Schuhe an den Zehen gedrückt. „Vielleicht sind die Größen bei dieser Firma anders“, hat sie gedacht.\n\nZum Glück war die Rücksendung kostenlos. Jana hat ein Formular ausgefüllt, die Schuhe wieder in den Karton gepackt und das Paket zur Post gebracht. Dann hat sie zwei Wochen auf ihr Geld gewartet. Das hat sie geärgert.\n\nAm Samstag ist Jana doch in ein Sportgeschäft gegangen. Eine Verkäuferin hat sie beraten und ihr verschiedene Schuhe gezeigt. Jana hat fünf Paar anprobiert und ist sogar ein paar Meter im Laden gelaufen. Am Ende hat sie ein Paar in Größe 40 gekauft. Es war teurer, aber es hat perfekt gepasst.\n\nJetzt denkt Jana: Im Internet ist es billiger und bequemer. Aber Schuhe kauft sie lieber im Geschäft, weil sie sie dort anprobieren kann.",
+    "glossary": [
+      {
+        "german": "bestellen",
+        "english": "to order",
+        "match": "bestellt",
+        "wortschatzId": "a1-bestellen"
+      },
+      {
+        "german": "die Größe",
+        "english": "size",
+        "wortschatzId": "a1-die-groesse"
+      },
+      {
+        "german": "wählen",
+        "english": "to choose",
+        "match": "gewählt",
+        "wortschatzId": "a2-waehlen"
+      },
+      {
+        "german": "der Paketbote",
+        "english": "parcel delivery man"
+      },
+      {
+        "german": "anprobieren",
+        "english": "to try on",
+        "match": "anprobiert"
+      },
+      {
+        "german": "die Zehe",
+        "english": "toe",
+        "match": "Zehen"
+      },
+      {
+        "german": "drücken",
+        "english": "to pinch, to press",
+        "match": "gedrückt",
+        "wortschatzId": "a1-druecken"
+      },
+      {
+        "german": "die Rücksendung",
+        "english": "return (of goods)"
+      },
+      {
+        "german": "kostenlos",
+        "english": "free of charge",
+        "wortschatzId": "b1-kostenlos"
+      },
+      {
+        "german": "das Formular",
+        "english": "form",
+        "wortschatzId": "a1-das-formular"
+      },
+      {
+        "german": "ausfüllen",
+        "english": "to fill in",
+        "match": "ausgefüllt",
+        "wortschatzId": "a1-ausfuellen"
+      },
+      {
+        "german": "der Karton",
+        "english": "cardboard box"
+      },
+      {
+        "german": "beraten",
+        "english": "to advise",
+        "wortschatzId": "a2-beraten"
+      },
+      {
+        "german": "passen",
+        "english": "to fit",
+        "match": "gepasst",
+        "wortschatzId": "a2-passen"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Warum braucht Jana neue Schuhe?",
+        "options": [
+          "Sie will mit dem Laufen anfangen.",
+          "Ihre alten Schuhe sind kaputt.",
+          "Sie geht auf eine Hochzeit.",
+          "Sie fährt in den Urlaub."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "tf",
+        "prompt": "Im Onlineshop waren die Schuhe teurer als im Geschäft.",
+        "answer": false,
+        "explanation": "Sie waren zwanzig Euro billiger."
+      },
+      {
+        "type": "mc",
+        "prompt": "Was war das Problem mit den Schuhen?",
+        "options": [
+          "Die Farbe war falsch.",
+          "Sie waren zu groß.",
+          "Sie waren zu klein.",
+          "Sie waren kaputt."
+        ],
+        "answer": 2
+      },
+      {
+        "type": "tf",
+        "prompt": "Jana musste für die Rücksendung nichts bezahlen.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Was hat Jana geärgert?",
+        "options": [
+          "Der Paketbote war unfreundlich.",
+          "Die Post war geschlossen.",
+          "Das Formular war kompliziert.",
+          "Sie musste zwei Wochen auf ihr Geld warten."
+        ],
+        "answer": 3
+      },
+      {
+        "type": "mc",
+        "prompt": "Welche Größe hat Jana am Ende gekauft?",
+        "options": ["38", "40", "39", "41"],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Jana kauft Schuhe jetzt lieber im Geschäft.",
+        "answer": true
+      }
+    ]
+  },
+  {
+    "id": "a2-64",
+    "level": "A2",
+    "title": "Ein Brief vom Vermieter",
+    "topic": "Housing",
+    "body": "Am Montag hat Herr Okafor einen Brief in seinem Briefkasten gefunden. Er war von seinem Vermieter, Herrn Lindner. Im Brief hat er geschrieben:\n\n„Liebe Mieterinnen und Mieter, vom 3. bis zum 14. Juni bauen wir im Hof einen Spielplatz und neue Fahrradständer. Die Arbeiten beginnen jeden Tag um sieben Uhr und dauern bis siebzehn Uhr. In dieser Zeit können Sie den Hof nicht benutzen. Bitte stellen Sie Ihre Fahrräder bis zum 2. Juni in den Keller. Wir bitten um Ihr Verständnis.“\n\nHerr Okafor arbeitet nachts in einem Krankenhaus und schläft am Vormittag. Sein Schlafzimmer liegt direkt am Hof. „Zwei Wochen Lärm am Morgen! Wie soll ich da schlafen?“, hat er gedacht.\n\nIm Treppenhaus hat er mit seiner Nachbarin Frau Petrović gesprochen. Sie hat sich über den Brief gefreut, weil ihre Kinder schon lange einen Spielplatz wollen. Aber sie hat auch ein Problem: Ihr Fahrrad ist schwer, und zum Keller gibt es eine steile Treppe.\n\nHerr Okafor hat Herrn Lindner angerufen. Der Vermieter war freundlich und hat ihm Ohrstöpsel angeboten. Aber Herr Okafor hatte eine bessere Idee. In den zwei Wochen schläft er bei seinem Bruder auf der anderen Seite der Stadt. Vorher hat er Frau Petrović geholfen und ihr Fahrrad in den Keller getragen.\n\nJetzt freuen sich alle auf den neuen Hof mit Bäumen, Bänken und einem Sandkasten.",
+    "glossary": [
+      {
+        "german": "der Briefkasten",
+        "english": "letterbox",
+        "wortschatzId": "b1-der-briefkasten"
+      },
+      {
+        "german": "der Vermieter",
+        "english": "landlord",
+        "wortschatzId": "a1-der-vermieter"
+      },
+      {
+        "german": "der Mieter",
+        "english": "tenant",
+        "match": "Mieter",
+        "wortschatzId": "b1-der-mieter"
+      },
+      {
+        "german": "der Hof",
+        "english": "courtyard",
+        "wortschatzId": "b1-der-hof"
+      },
+      {
+        "german": "der Fahrradständer",
+        "english": "bike rack"
+      },
+      {
+        "german": "benutzen",
+        "english": "to use",
+        "wortschatzId": "a1-benutzen"
+      },
+      {
+        "german": "der Keller",
+        "english": "cellar, basement",
+        "wortschatzId": "a2-der-keller"
+      },
+      {
+        "german": "das Verständnis",
+        "english": "understanding",
+        "wortschatzId": "b1-das-verstaendnis"
+      },
+      {
+        "german": "der Lärm",
+        "english": "noise",
+        "wortschatzId": "b1-der-laerm"
+      },
+      {
+        "german": "das Treppenhaus",
+        "english": "stairwell",
+        "wortschatzId": "b1-das-treppenhaus"
+      },
+      {
+        "german": "steil",
+        "english": "steep",
+        "match": "steile",
+        "wortschatzId": "b1-steil"
+      },
+      {
+        "german": "der Ohrstöpsel",
+        "english": "earplug",
+        "match": "Ohrstöpsel"
+      },
+      {
+        "german": "anbieten",
+        "english": "to offer",
+        "match": "angeboten",
+        "wortschatzId": "a1-anbieten"
+      },
+      {
+        "german": "der Sandkasten",
+        "english": "sandpit"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Was will der Vermieter im Hof bauen?",
+        "options": [
+          "Eine Garage",
+          "Einen Spielplatz und Fahrradständer",
+          "Ein Schwimmbad",
+          "Parkplätze"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie lange dauern die Arbeiten?",
+        "options": ["Zwei Tage", "Eine Woche", "Zwei Wochen", "Einen Monat"],
+        "answer": 2
+      },
+      {
+        "type": "tf",
+        "prompt": "Die Mieter sollen ihre Fahrräder in den Keller stellen.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Warum ist der Lärm für Herrn Okafor ein Problem?",
+        "options": [
+          "Er arbeitet zu Hause.",
+          "Er ist krank.",
+          "Er hat ein kleines Baby.",
+          "Er arbeitet nachts und schläft am Vormittag."
+        ],
+        "answer": 3
+      },
+      {
+        "type": "tf",
+        "prompt": "Frau Petrović ärgert sich über den Spielplatz.",
+        "answer": false,
+        "explanation": "Sie freut sich, weil ihre Kinder schon lange einen Spielplatz wollen."
+      },
+      {
+        "type": "mc",
+        "prompt": "Was hat Herr Lindner Herrn Okafor angeboten?",
+        "options": [
+          "Ohrstöpsel",
+          "Weniger Miete",
+          "Eine andere Wohnung",
+          "Ein Hotelzimmer"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "tf",
+        "prompt": "Herr Okafor schläft in den zwei Wochen bei seinem Bruder.",
+        "answer": true
+      }
+    ]
+  },
+  {
+    "id": "a2-65",
+    "level": "A2",
+    "title": "Radtour an der Elbe",
+    "topic": "Sport",
+    "body": "Im Mai haben Marco, seine Schwester Julia und ihr Freund Kai eine Radtour gemacht. Drei Tage lang sind sie an der Elbe entlanggefahren, von Dresden bis nach Wittenberg. Jeden Tag sind sie ungefähr sechzig Kilometer geradelt.\n\nAm ersten Tag war das Wetter perfekt. Der Radweg war flach und gut, und sie haben viele Pausen gemacht. In Meißen haben sie sich die alte Burg auf dem Berg angesehen. Am Abend haben sie in einer Jugendherberge in Riesa übernachtet. Sie haben in einem Zimmer mit sechs Betten geschlafen, zusammen mit drei Studenten aus Polen.\n\nAm zweiten Tag hatte Kai mitten im Wald einen Platten. Leider hatten sie kein Flickzeug dabei. Sie haben fast eine Stunde gewartet. Dann ist ein älterer Mann mit seinem Fahrrad vorbeigekommen. Er hatte alles dabei und hat ihnen geholfen. „Auf einer Radtour braucht man immer Flickzeug“, hat er gelacht. Die zweite Nacht haben sie in Torgau verbracht.\n\nAm dritten Tag hat es am Morgen geregnet, aber am Nachmittag ist die Sonne wieder gekommen. Die Aussicht auf den Fluss, die Wiesen und die kleinen Dörfer war wunderschön. Julia hat viele Fotos gemacht.\n\nIn Wittenberg waren alle müde, und die Beine haben wehgetan. Aber sie waren auch glücklich. Im Zug nach Hause haben sie schon die nächste Tour geplant.",
+    "glossary": [
+      {
+        "german": "die Radtour",
+        "english": "cycling tour"
+      },
+      {
+        "german": "entlangfahren",
+        "english": "to ride along",
+        "match": "entlanggefahren"
+      },
+      {
+        "german": "radeln",
+        "english": "to cycle",
+        "match": "geradelt"
+      },
+      {
+        "german": "der Radweg",
+        "english": "cycle path"
+      },
+      {
+        "german": "flach",
+        "english": "flat",
+        "wortschatzId": "b1-flach"
+      },
+      {
+        "german": "die Burg",
+        "english": "castle",
+        "wortschatzId": "b1-die-burg"
+      },
+      {
+        "german": "die Jugendherberge",
+        "english": "youth hostel",
+        "wortschatzId": "a2-die-jugendherberge"
+      },
+      {
+        "german": "übernachten",
+        "english": "to stay the night",
+        "match": "übernachtet",
+        "wortschatzId": "a1-uebernachten"
+      },
+      {
+        "german": "einen Platten haben",
+        "english": "to have a flat tyre",
+        "match": "Platten"
+      },
+      {
+        "german": "das Flickzeug",
+        "english": "puncture repair kit"
+      },
+      {
+        "german": "vorbeikommen",
+        "english": "to come past",
+        "match": "vorbeigekommen"
+      },
+      {
+        "german": "verbringen",
+        "english": "to spend (time)",
+        "match": "verbracht",
+        "wortschatzId": "b1-verbringen"
+      },
+      {
+        "german": "die Aussicht",
+        "english": "view",
+        "wortschatzId": "b1-die-aussicht"
+      },
+      {
+        "german": "die Wiese",
+        "english": "meadow",
+        "match": "Wiesen",
+        "wortschatzId": "b1-die-wiese"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Wie viele Kilometer sind sie ungefähr pro Tag gefahren?",
+        "options": ["Dreißig", "Vierzig", "Sechzig", "Hundert"],
+        "answer": 2
+      },
+      {
+        "type": "mc",
+        "prompt": "Was haben sie sich in Meißen angesehen?",
+        "options": ["Ein Museum", "Die alte Burg", "Eine Kirche", "Einen Zoo"],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "In der Jugendherberge haben sie allein in einem Zimmer geschlafen.",
+        "answer": false,
+        "explanation": "Sie haben mit drei Studenten aus Polen in einem Zimmer geschlafen."
+      },
+      {
+        "type": "mc",
+        "prompt": "Wer hatte einen Platten?",
+        "options": ["Kai", "Marco", "Julia", "Ein älterer Mann"],
+        "answer": 0
+      },
+      {
+        "type": "tf",
+        "prompt": "Ein älterer Mann hat ihnen mit dem Reifen geholfen.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie war das Wetter am dritten Tag?",
+        "options": [
+          "Den ganzen Tag sonnig",
+          "Den ganzen Tag Regen",
+          "Sehr windig und kalt",
+          "Am Morgen Regen, am Nachmittag Sonne"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "tf",
+        "prompt": "Im Zug haben sie schon eine neue Tour geplant.",
+        "answer": true
+      }
+    ]
+  },
+  {
+    "id": "a2-66",
+    "level": "A2",
+    "title": "Eine Party planen",
+    "topic": "Friends",
+    "body": "Unsere Freundin Aylin zieht im August nach Kanada. Sie hat dort eine Stelle an einer Universität bekommen. Wir freuen uns für sie, aber wir sind auch traurig. Deshalb wollten wir für sie eine Überraschungsparty machen.\n\nWir sind fünf Freunde, und jeder hatte eine Aufgabe. Paul hat seine Wohnung angeboten, weil sie am größten ist. Nele hat die Gäste eingeladen, aber nicht in unserer normalen Chatgruppe. Dort ist nämlich auch Aylin. Deshalb hat Nele eine neue Gruppe ohne Aylin gemacht. Ich habe einen Kuchen mit einem großen Ahornblatt aus Schokolade gebacken, und Tim hat Musik und Getränke organisiert. Lena hat ein Fotoalbum mit Bildern aus zehn Jahren Freundschaft gemacht.\n\nDas Schwierigste war das Geheimnis. Zweimal hat Aylin gefragt: „Was macht ihr am Samstag?“ Wir haben gelogen und gesagt, dass wir keine Zeit haben. Sie war ein bisschen enttäuscht.\n\nAm Samstag hat Lena Aylin zu einem Spaziergang abgeholt. Um acht Uhr sind sie „zufällig“ an Pauls Haus vorbeigekommen. „Ich muss Paul schnell etwas bringen“, hat Lena gesagt. Dann hat Paul die Tür geöffnet, und dreißig Leute haben „Überraschung!“ gerufen.\n\nAylin hat zuerst gelacht und dann geweint. Wir haben bis drei Uhr nachts gefeiert, getanzt und erzählt. Am Ende hat Aylin gesagt: „Jetzt verstehe ich, warum ihr nie Zeit hattet!“ Und wir haben ihr versprochen, dass wir sie in Kanada besuchen.",
+    "glossary": [
+      {
+        "german": "die Stelle",
+        "english": "job, position",
+        "wortschatzId": "a1-die-stelle"
+      },
+      {
+        "german": "die Überraschungsparty",
+        "english": "surprise party"
+      },
+      {
+        "german": "die Aufgabe",
+        "english": "task, job",
+        "wortschatzId": "a1-die-aufgabe"
+      },
+      {
+        "german": "anbieten",
+        "english": "to offer",
+        "match": "angeboten",
+        "wortschatzId": "a1-anbieten"
+      },
+      {
+        "german": "nämlich",
+        "english": "you see, because",
+        "wortschatzId": "b1-naemlich"
+      },
+      {
+        "german": "das Ahornblatt",
+        "english": "maple leaf"
+      },
+      {
+        "german": "die Freundschaft",
+        "english": "friendship",
+        "wortschatzId": "b1-die-freundschaft"
+      },
+      {
+        "german": "das Geheimnis",
+        "english": "secret",
+        "wortschatzId": "b1-das-geheimnis"
+      },
+      {
+        "german": "lügen",
+        "english": "to lie (tell a lie)",
+        "match": "gelogen",
+        "wortschatzId": "a2-luegen"
+      },
+      {
+        "german": "enttäuscht",
+        "english": "disappointed",
+        "wortschatzId": "b1-enttaeuschen"
+      },
+      {
+        "german": "abholen",
+        "english": "to pick up, to collect",
+        "match": "abgeholt",
+        "wortschatzId": "a1-abholen"
+      },
+      {
+        "german": "zufällig",
+        "english": "by chance",
+        "wortschatzId": "b1-zufaellig"
+      },
+      {
+        "german": "weinen",
+        "english": "to cry",
+        "match": "geweint",
+        "wortschatzId": "a2-weinen"
+      },
+      {
+        "german": "versprechen",
+        "english": "to promise",
+        "match": "versprochen",
+        "wortschatzId": "b1-versprechen"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Warum zieht Aylin nach Kanada?",
+        "options": [
+          "Ihre Familie wohnt dort.",
+          "Sie hat dort eine Stelle an einer Universität.",
+          "Sie will dort studieren.",
+          "Ihr Freund wohnt dort."
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": "Warum hat Nele eine neue Chatgruppe gemacht?",
+        "options": [
+          "Die alte Gruppe war zu groß.",
+          "Paul wollte das so.",
+          "Aylin ist in der normalen Gruppe.",
+          "Ihr Handy war kaputt."
+        ],
+        "answer": 2
+      },
+      {
+        "type": "tf",
+        "prompt": "Tim hat ein Fotoalbum gemacht.",
+        "answer": false,
+        "explanation": "Lena hat das Fotoalbum gemacht."
+      },
+      {
+        "type": "mc",
+        "prompt": "Was war am schwierigsten?",
+        "options": ["Das Geheimnis", "Der Kuchen", "Die Musik", "Die Einladungen"],
+        "answer": 0
+      },
+      {
+        "type": "tf",
+        "prompt": "Aylin war ein bisschen enttäuscht, weil ihre Freunde keine Zeit hatten.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie viele Leute haben „Überraschung!“ gerufen?",
+        "options": ["Fünf", "Zehn", "Zwanzig", "Dreißig"],
+        "answer": 3
+      },
+      {
+        "type": "tf",
+        "prompt": "Die Freunde wollen Aylin in Kanada besuchen.",
+        "answer": true
+      }
+    ]
+  },
+  {
+    "id": "a2-67",
+    "level": "A2",
+    "title": "Der verlorene Schlüssel",
+    "topic": "Everyday life",
+    "body": "Am Sonntagmorgen wollte Ömer nur schnell beim Bäcker Brötchen holen. Er hat die Wohnungstür zugemacht und ist die Treppe hinuntergegangen. Unten hat er in seine Jackentasche gegriffen. Sie war leer. Der Schlüssel war noch in der Küche auf dem Tisch!\n\nÖmer hatte nur sein Handy und fünf Euro dabei. Zuerst hat er bei seiner Nachbarin Frau Kaya geklingelt. Sie hat ihn hereingelassen und ihm einen Kaffee gemacht. „Am Sonntag ist das schwierig“, hat sie gesagt. „Ein Schlüsseldienst ist am Wochenende sehr teuer.“\n\nÖmer hat trotzdem im Internet einen Schlüsseldienst gesucht und dort angerufen. Der Mann am Telefon hat gesagt: „Ich kann in einer Stunde da sein. Am Sonntag kostet das 180 Euro.“ Ömer war geschockt. So viel Geld wollte er nicht bezahlen.\n\nDann hat er sich plötzlich erinnert: Vor einem Jahr hat er seinem Freund Dario einen Ersatzschlüssel gegeben. Dario sollte damals im Urlaub Ömers Pflanzen gießen. Ömer hat Dario angerufen, und zum Glück war er zu Hause. „Kein Problem“, hat Dario gesagt. „Ich komme mit dem Fahrrad.“ Nach zwanzig Minuten war er da.\n\nÖmer hat den Schlüsseldienst abgesagt und Dario zum Frühstück eingeladen. Jetzt hat Frau Kaya auch einen Ersatzschlüssel von Ömer. Und neben seiner Wohnungstür hängt ein Zettel mit einem großen Wort: „Schlüssel?“",
+    "glossary": [
+      {
+        "german": "zumachen",
+        "english": "to close",
+        "match": "zugemacht",
+        "wortschatzId": "a2-zumachen"
+      },
+      {
+        "german": "hinuntergehen",
+        "english": "to go down",
+        "match": "hinuntergegangen"
+      },
+      {
+        "german": "greifen",
+        "english": "to reach, to grab",
+        "match": "gegriffen",
+        "wortschatzId": "b1-greifen"
+      },
+      {
+        "german": "die Jackentasche",
+        "english": "jacket pocket"
+      },
+      {
+        "german": "leer",
+        "english": "empty",
+        "wortschatzId": "a2-leer"
+      },
+      {
+        "german": "hereinlassen",
+        "english": "to let in",
+        "match": "hereingelassen"
+      },
+      {
+        "german": "der Schlüsseldienst",
+        "english": "locksmith (service)"
+      },
+      {
+        "german": "geschockt",
+        "english": "shocked"
+      },
+      {
+        "german": "sich erinnern",
+        "english": "to remember",
+        "match": "erinnert",
+        "wortschatzId": "a2-erinnern"
+      },
+      {
+        "german": "der Ersatzschlüssel",
+        "english": "spare key"
+      },
+      {
+        "german": "die Pflanze",
+        "english": "plant",
+        "match": "Pflanzen",
+        "wortschatzId": "a2-die-pflanze"
+      },
+      {
+        "german": "gießen",
+        "english": "to water",
+        "wortschatzId": "b1-giessen"
+      },
+      {
+        "german": "absagen",
+        "english": "to cancel",
+        "match": "abgesagt",
+        "wortschatzId": "b1-absagen"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Warum ist Ömer am Sonntagmorgen aus der Wohnung gegangen?",
+        "options": [
+          "Er wollte Brötchen holen.",
+          "Er wollte joggen.",
+          "Er wollte zu Dario fahren.",
+          "Er wollte den Müll wegbringen."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "mc",
+        "prompt": "Wo war der Schlüssel?",
+        "options": [
+          "In der Jackentasche",
+          "Auf dem Küchentisch",
+          "Im Auto",
+          "Bei Frau Kaya"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Frau Kaya hat Ömer einen Kaffee gemacht.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie viel kostet der Schlüsseldienst am Sonntag?",
+        "options": ["80 Euro", "100 Euro", "150 Euro", "180 Euro"],
+        "answer": 3
+      },
+      {
+        "type": "mc",
+        "prompt": "Warum hat Dario einen Ersatzschlüssel?",
+        "options": [
+          "Er hat früher in der Wohnung gewohnt.",
+          "Er ist Ömers Vermieter.",
+          "Er sollte im Urlaub Ömers Pflanzen gießen.",
+          "Frau Kaya hat ihm den Schlüssel gegeben."
+        ],
+        "answer": 2
+      },
+      {
+        "type": "tf",
+        "prompt": "Der Schlüsseldienst hat die Tür geöffnet.",
+        "answer": false,
+        "explanation": "Ömer hat den Schlüsseldienst abgesagt. Dario hat den Ersatzschlüssel gebracht."
+      },
+      {
+        "type": "tf",
+        "prompt": "Jetzt hat auch Frau Kaya einen Ersatzschlüssel.",
+        "answer": true
+      }
+    ]
+  },
+  {
+    "id": "a2-68",
+    "level": "A2",
+    "title": "Weihnachtsmarkt in Nürnberg",
+    "topic": "Culture",
+    "body": "Kurz vor Weihnachten hat Mei aus Taiwan ihre Freundin Johanna in Nürnberg besucht. Johanna hat gesagt: „Du musst unbedingt unseren Weihnachtsmarkt sehen. Er ist sehr bekannt, auch im Ausland.“\n\nAm Abend sind die beiden zum Hauptmarkt gegangen. Es war sehr kalt, minus fünf Grad. Mei hatte zwei Pullover, eine dicke Jacke, eine Mütze und Handschuhe an. Trotzdem hat sie gefroren.\n\nAuf dem Markt gab es fast zweihundert Stände. Überall waren Lichter, und es war sehr voll. Man konnte dort Kerzen, Spielzeug und viele andere Sachen kaufen. Es hat nach Zimt und Bratwurst gerochen. Mei hat drei kleine Nürnberger Würstchen im Brötchen probiert. „Drei im Weggla“, hat der Verkäufer gesagt. Johanna hat erklärt, dass „Weggla“ auf Fränkisch „Brötchen“ bedeutet.\n\nDanach haben sie Glühwein getrunken. Der heiße Wein hat Mei endlich ein bisschen warm gemacht. Für die Tasse hat sie drei Euro Pfand bezahlt. Sie hat die Tasse aber nicht zurückgegeben, sondern als Andenken behalten.\n\nZum Schluss hat Mei an einem Stand Lebkuchen in einer schönen Dose gekauft, für ihre Familie in Taipeh.\n\nZu Hause hat Mei gesagt: „So kalt war mir noch nie. Aber der Abend war sehr schön.“",
+    "glossary": [
+      {
+        "german": "unbedingt",
+        "english": "absolutely, definitely",
+        "wortschatzId": "b1-unbedingt"
+      },
+      {
+        "german": "der Handschuh",
+        "english": "glove",
+        "match": "Handschuhe"
+      },
+      {
+        "german": "frieren",
+        "english": "to be cold, to freeze",
+        "match": "gefroren",
+        "wortschatzId": "b1-frieren"
+      },
+      {
+        "german": "der Stand",
+        "english": "stall",
+        "match": "Stände"
+      },
+      {
+        "german": "das Spielzeug",
+        "english": "toys",
+        "wortschatzId": "b1-das-spielzeug"
+      },
+      {
+        "german": "der Zimt",
+        "english": "cinnamon"
+      },
+      {
+        "german": "riechen nach",
+        "english": "to smell of",
+        "match": "gerochen"
+      },
+      {
+        "german": "der Glühwein",
+        "english": "mulled wine"
+      },
+      {
+        "german": "das Pfand",
+        "english": "deposit"
+      },
+      {
+        "german": "das Andenken",
+        "english": "souvenir, keepsake"
+      },
+      {
+        "german": "behalten",
+        "english": "to keep",
+        "wortschatzId": "b1-behalten"
+      },
+      {
+        "german": "der Lebkuchen",
+        "english": "gingerbread"
+      },
+      {
+        "german": "die Dose",
+        "english": "tin",
+        "wortschatzId": "b1-die-dose"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Woher kommt Mei?",
+        "options": ["Aus Japan", "Aus Taiwan", "Aus China", "Aus Korea"],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie kalt war es am Abend?",
+        "options": ["Null Grad", "Minus zwei Grad", "Minus fünf Grad", "Minus zehn Grad"],
+        "answer": 2
+      },
+      {
+        "type": "tf",
+        "prompt": "Mei hat nicht gefroren, weil sie warme Kleidung anhatte.",
+        "answer": false,
+        "explanation": "Trotzdem hat sie gefroren."
+      },
+      {
+        "type": "mc",
+        "prompt": "Was bedeutet „Weggla“?",
+        "options": ["Brötchen", "Würstchen", "Wein", "Kuchen"],
+        "answer": 0
+      },
+      {
+        "type": "tf",
+        "prompt": "Mei hat die Tasse vom Glühwein behalten.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Für wen hat Mei Lebkuchen gekauft?",
+        "options": [
+          "Für Johanna",
+          "Für ihre Kollegen",
+          "Für den Verkäufer",
+          "Für ihre Familie in Taipeh"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "tf",
+        "prompt": "Mei hat der Abend gut gefallen.",
+        "answer": true
+      }
+    ]
+  },
+  {
+    "id": "a2-69",
+    "level": "A2",
+    "title": "Mein Opa erzählt",
+    "topic": "Family",
+    "body": "Ich heiße Lisa, und mein Opa Heinz ist 78 Jahre alt. Letzten Sonntag habe ich ihn besucht, weil ich für die Schule ein Interview über früher machen musste. Wir haben Kaffee getrunken, und Opa hat erzählt.\n\n„Ich bin in einem kleinen Dorf in der Eifel aufgewachsen“, hat er gesagt. „Wir waren sechs Kinder und hatten wenig Geld. Ein Auto hatten wir nicht, und einen Fernseher auch nicht. Wir haben immer draußen gespielt, im Wald oder am Bach. Im Winter war es im Haus kalt, weil nur die Küche einen Ofen hatte.“\n\nOpa ist jeden Tag drei Kilometer zu Fuß zur Schule gegangen, auch bei Schnee. In seiner Klasse waren Kinder von sechs bis vierzehn Jahren zusammen in einem Raum. Nach der Schule musste er seinen Eltern helfen. Sie hatten zwei Kühe und ein paar Hühner.\n\nMit vierzehn hat Opa die Schule beendet und eine Lehre als Schreiner angefangen. „Mein Meister war sehr streng“, hat er erzählt. „Im ersten Jahr durfte ich nur fegen und Holz tragen. Mein erster Lohn war zwanzig Mark im Monat. Davon habe ich meiner Mutter die Hälfte gegeben.“\n\nIch habe gefragt, ob er damals glücklich war. Opa hat gelächelt: „Wir hatten nicht viel, aber wir hatten Zeit füreinander. Das ist auch viel wert.“ Dann hat er mir einen kleinen Vogel aus Holz gezeigt. Den hat er mit fünfzehn Jahren selbst gemacht.",
+    "glossary": [
+      {
+        "german": "aufwachsen",
+        "english": "to grow up",
+        "match": "aufgewachsen"
+      },
+      {
+        "german": "der Bach",
+        "english": "stream, brook"
+      },
+      {
+        "german": "der Ofen",
+        "english": "stove",
+        "wortschatzId": "b1-der-ofen"
+      },
+      {
+        "german": "beenden",
+        "english": "to finish",
+        "match": "beendet",
+        "wortschatzId": "b1-beenden"
+      },
+      {
+        "german": "die Lehre",
+        "english": "apprenticeship",
+        "wortschatzId": "b1-die-lehre"
+      },
+      {
+        "german": "der Schreiner",
+        "english": "carpenter, joiner"
+      },
+      {
+        "german": "der Meister",
+        "english": "master craftsman, boss",
+        "wortschatzId": "b1-der-meister"
+      },
+      {
+        "german": "streng",
+        "english": "strict",
+        "wortschatzId": "b1-streng"
+      },
+      {
+        "german": "fegen",
+        "english": "to sweep"
+      },
+      {
+        "german": "der Lohn",
+        "english": "wage, pay",
+        "wortschatzId": "b1-der-lohn"
+      },
+      {
+        "german": "die Mark",
+        "english": "mark (old German currency)"
+      },
+      {
+        "german": "die Hälfte",
+        "english": "half",
+        "wortschatzId": "b1-die-haelfte"
+      },
+      {
+        "german": "damals",
+        "english": "back then",
+        "wortschatzId": "a2-damals"
+      },
+      {
+        "german": "viel wert sein",
+        "english": "to be worth a lot",
+        "match": "viel wert"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Warum hat Lisa ihren Opa besucht?",
+        "options": [
+          "Er hatte Geburtstag.",
+          "Sie musste ein Interview für die Schule machen.",
+          "Er war krank.",
+          "Ihre Eltern hatten keine Zeit."
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie viele Kinder waren in Opas Familie?",
+        "options": ["Zwei", "Vier", "Sechs", "Acht"],
+        "answer": 2
+      },
+      {
+        "type": "tf",
+        "prompt": "Opas Familie hatte ein Auto.",
+        "answer": false,
+        "explanation": "Sie hatten kein Auto."
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie ist Opa zur Schule gekommen?",
+        "options": ["Mit dem Bus", "Mit dem Fahrrad", "Mit dem Auto", "Zu Fuß"],
+        "answer": 3
+      },
+      {
+        "type": "mc",
+        "prompt": "Welchen Beruf hat Opa gelernt?",
+        "options": ["Schreiner", "Bäcker", "Bauer", "Lehrer"],
+        "answer": 0
+      },
+      {
+        "type": "tf",
+        "prompt": "Im ersten Jahr durfte Opa nur fegen und Holz tragen.",
+        "answer": true
+      },
+      {
+        "type": "tf",
+        "prompt": "Opa hat seinen ganzen Lohn für sich behalten.",
+        "answer": false,
+        "explanation": "Er hat seiner Mutter die Hälfte gegeben."
+      }
+    ]
+  },
+  {
+    "id": "a2-70",
+    "level": "A2",
+    "title": "Das Fußballspiel",
+    "topic": "Sport",
+    "body": "Pia ist neun Jahre alt und spielt in einem Fußballverein. Zum Geburtstag hat ihr Vater Stefan ihr eine besondere Überraschung geschenkt: zwei Karten für ein Spiel im Stadion. Pia war noch nie in einem Stadion.\n\nAm Samstag sind die beiden mit der Straßenbahn zum Stadion gefahren. Die Bahn war voll mit Fans in Trikots und Schals. Pia hat ihren neuen Schal getragen, rot und weiß, in den Farben ihrer Mannschaft.\n\nVor dem Eingang mussten sie lange warten, weil die Ordner alle Taschen kontrolliert haben. Dann sind sie viele Treppen hinaufgestiegen und haben ihre Plätze gefunden. Pia war sehr beeindruckt. Das Stadion war riesig, und es waren mehr als vierzigtausend Menschen da. Bald sind die Spieler auf den Platz gekommen, und alle Fans haben laut gesungen. Pia hat mitgesungen, aber sie hat den Text noch nicht gut gekannt.\n\nIn der ersten Halbzeit hat ihre Mannschaft kein Tor geschossen, aber der Gegner hat in der 30. Minute ein Tor gemacht. Pia war traurig. In der Pause hat Stefan ihr eine Bratwurst und eine heiße Schokolade gekauft.\n\nIn der zweiten Halbzeit hat ihre Mannschaft viel besser gespielt. In der 75. Minute haben die Spieler das 1:1 geschossen und kurz vor dem Ende sogar das 2:1. Das ganze Stadion hat gejubelt, und Pia hat ihren Vater umarmt.\n\nAuf dem Weg nach Hause hat Pia gesagt: „Papa, das war mein bester Geburtstag. Wann gehen wir wieder?“",
+    "glossary": [
+      {
+        "german": "der Fußballverein",
+        "english": "football club"
+      },
+      {
+        "german": "das Stadion",
+        "english": "stadium",
+        "wortschatzId": "b1-das-stadion"
+      },
+      {
+        "german": "das Trikot",
+        "english": "football shirt",
+        "match": "Trikots"
+      },
+      {
+        "german": "der Schal",
+        "english": "scarf",
+        "match": "Schals"
+      },
+      {
+        "german": "die Mannschaft",
+        "english": "team",
+        "wortschatzId": "a2-die-mannschaft"
+      },
+      {
+        "german": "der Ordner",
+        "english": "steward",
+        "match": "Ordner",
+        "wortschatzId": "b1-der-ordner"
+      },
+      {
+        "german": "hinaufsteigen",
+        "english": "to climb up",
+        "match": "hinaufgestiegen"
+      },
+      {
+        "german": "beeindruckt",
+        "english": "impressed"
+      },
+      {
+        "german": "riesig",
+        "english": "huge",
+        "wortschatzId": "b1-riesig"
+      },
+      {
+        "german": "die Halbzeit",
+        "english": "half (of a match)"
+      },
+      {
+        "german": "ein Tor schießen",
+        "english": "to score a goal",
+        "match": "Tor"
+      },
+      {
+        "german": "der Gegner",
+        "english": "opponent",
+        "wortschatzId": "b1-der-gegner"
+      },
+      {
+        "german": "jubeln",
+        "english": "to cheer",
+        "match": "gejubelt"
+      },
+      {
+        "german": "umarmen",
+        "english": "to hug",
+        "match": "umarmt",
+        "wortschatzId": "b1-umarmen"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Was hat Pia zum Geburtstag bekommen?",
+        "options": [
+          "Einen neuen Ball",
+          "Zwei Karten für ein Spiel im Stadion",
+          "Ein Trikot",
+          "Einen Schal"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Pia war schon oft in einem Stadion.",
+        "answer": false,
+        "explanation": "Sie war noch nie in einem Stadion."
+      },
+      {
+        "type": "mc",
+        "prompt": "Warum mussten sie vor dem Eingang lange warten?",
+        "options": [
+          "Die Ordner haben alle Taschen kontrolliert.",
+          "Ihre Karten waren falsch.",
+          "Das Stadion war noch zu.",
+          "Es hat stark geregnet."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie viele Menschen waren im Stadion?",
+        "options": [
+          "Ungefähr viertausend",
+          "Ungefähr vierzehntausend",
+          "Mehr als vierzigtausend",
+          "Genau hunderttausend"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "mc",
+        "prompt": "Was hat Stefan Pia in der Pause gekauft?",
+        "options": [
+          "Pommes und eine Cola",
+          "Ein Eis",
+          "Einen Schal",
+          "Eine Bratwurst und eine heiße Schokolade"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "tf",
+        "prompt": "Am Ende hat Pias Mannschaft 2:1 gewonnen.",
+        "answer": true
+      },
+      {
+        "type": "tf",
+        "prompt": "Pia möchte nicht noch einmal ins Stadion gehen.",
+        "answer": false,
+        "explanation": "Sie fragt: „Wann gehen wir wieder?“"
+      }
+    ]
+  },
+  {
+    "id": "a2-71",
+    "level": "A2",
+    "title": "Babysitten bei Familie Klein",
+    "topic": "Family",
+    "body": "Lea studiert Biologie in Freiburg und braucht ein bisschen Geld. Deshalb hat sie am Freitag zum ersten Mal auf die Kinder von Familie Klein aufgepasst.\n\nHerr und Frau Klein wollten ins Theater gehen. Um sechs Uhr hat Frau Klein Lea die Wohnung gezeigt: die Küche, das Bad und die Kinderzimmer. „Paul ist sieben und Mia ist vier“, hat sie gesagt. „Um acht Uhr müssen beide ins Bett.“ Dann sind die Eltern gegangen.\n\nZuerst war alles super. Lea hat mit den Kindern Nudeln gekocht, und danach haben sie zusammen ein Puzzle gemacht. Aber um acht Uhr wollte niemand schlafen. Paul hat gesagt: „Bei Mama dürfen wir immer noch einen Film sehen.“ Lea hat ihm das nicht geglaubt. Mia hat laut geweint, weil sie ihren Teddy nicht finden konnte. Und Paul ist immer wieder aus dem Bett gesprungen.\n\nLea war fast verzweifelt. Dann hatte sie eine Idee. Sie hat zusammen mit den Kindern den Teddy gesucht. Er war unter dem Sofa! Danach hat sie beiden im Bett eine Geschichte vorgelesen, ganz langsam und leise. Nach zehn Minuten hat Mia geschlafen, und kurz danach ist auch Paul eingeschlafen.\n\nUm elf Uhr sind die Eltern zurückgekommen. „Und? Wie war es?“, hat Frau Klein gefragt. Lea hat gelacht: „Am Anfang schwierig, aber jetzt schlafen beide.“ Frau Klein war sehr zufrieden. Sie hat gefragt, ob Lea nächste Woche wiederkommen kann.",
+    "glossary": [
+      {
+        "german": "aufpassen auf",
+        "english": "to look after",
+        "match": "aufgepasst"
+      },
+      {
+        "german": "das Theater",
+        "english": "theatre",
+        "wortschatzId": "a2-das-theater"
+      },
+      {
+        "german": "das Kinderzimmer",
+        "english": "children's room",
+        "match": "Kinderzimmer"
+      },
+      {
+        "german": "das Puzzle",
+        "english": "jigsaw puzzle",
+        "wortschatzId": "b1-das-puzzle"
+      },
+      {
+        "german": "niemand",
+        "english": "nobody",
+        "wortschatzId": "a2-niemand"
+      },
+      {
+        "german": "glauben",
+        "english": "to believe",
+        "match": "geglaubt",
+        "wortschatzId": "a1-glauben"
+      },
+      {
+        "german": "weinen",
+        "english": "to cry",
+        "match": "geweint",
+        "wortschatzId": "a2-weinen"
+      },
+      {
+        "german": "der Teddy",
+        "english": "teddy bear"
+      },
+      {
+        "german": "springen",
+        "english": "to jump",
+        "match": "gesprungen",
+        "wortschatzId": "b1-springen"
+      },
+      {
+        "german": "verzweifelt",
+        "english": "desperate, at one's wits' end"
+      },
+      {
+        "german": "vorlesen",
+        "english": "to read aloud",
+        "match": "vorgelesen",
+        "wortschatzId": "b1-vorlesen"
+      },
+      {
+        "german": "einschlafen",
+        "english": "to fall asleep",
+        "match": "eingeschlafen"
+      },
+      {
+        "german": "zufrieden",
+        "english": "satisfied, pleased",
+        "wortschatzId": "a1-zufrieden"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Warum passt Lea auf die Kinder auf?",
+        "options": [
+          "Sie ist die Tante der Kinder.",
+          "Sie braucht ein bisschen Geld.",
+          "Sie studiert Pädagogik.",
+          "Ihre Mutter hat es ihr gesagt."
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": "Wohin sind Herr und Frau Klein gegangen?",
+        "options": ["Ins Kino", "In ein Restaurant", "Ins Theater", "Zu Freunden"],
+        "answer": 2
+      },
+      {
+        "type": "tf",
+        "prompt": "Mia ist sieben Jahre alt.",
+        "answer": false,
+        "explanation": "Paul ist sieben, Mia ist vier."
+      },
+      {
+        "type": "mc",
+        "prompt": "Warum hat Mia geweint?",
+        "options": [
+          "Sie hat ihren Teddy nicht gefunden.",
+          "Sie wollte einen Film sehen.",
+          "Sie hatte Hunger.",
+          "Paul hat sie geärgert."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "mc",
+        "prompt": "Wo war der Teddy?",
+        "options": ["Im Bad", "Unter dem Bett", "In der Küche", "Unter dem Sofa"],
+        "answer": 3
+      },
+      {
+        "type": "tf",
+        "prompt": "Lea hat den Kindern eine Geschichte vorgelesen.",
+        "answer": true
+      },
+      {
+        "type": "tf",
+        "prompt": "Frau Klein war mit Lea nicht zufrieden.",
+        "answer": false,
+        "explanation": "Frau Klein war sehr zufrieden und hat gefragt, ob Lea wiederkommen kann."
+      }
+    ]
+  },
+  {
+    "id": "a2-72",
+    "level": "A2",
+    "title": "Die Prüfung",
+    "topic": "School and education",
+    "body": "Ich heiße Daniela, ich komme aus Brasilien und lebe seit einem Jahr in Hannover. Im März habe ich die A2-Prüfung gemacht. Vorher hatte ich große Angst, weil ich das Zertifikat für meine Arbeit brauche.\n\nZwei Monate vor der Prüfung habe ich einen Lernplan gemacht. Jeden Tag habe ich eine Stunde gelernt: montags Wörter, dienstags Grammatik, mittwochs Hören und so weiter. Am Wochenende habe ich alte Prüfungen aus dem Internet geübt. Meine Nachbarin, Frau Becker, hat jeden Sonntag mit mir Kaffee getrunken und nur Deutsch mit mir gesprochen. Das hat mir sehr geholfen.\n\nAm Tag der Prüfung habe ich kaum gefrühstückt, weil ich so nervös war. Der schriftliche Teil war nicht so schwer. Beim Lesen und Hören habe ich fast alles verstanden. Nur der Brief war schwierig, weil ich nicht genug Zeit hatte.\n\nAm Nachmittag hatte ich die mündliche Prüfung, zusammen mit einem Mann aus Polen. Wir mussten zusammen eine Party planen. Zuerst war mein Kopf ganz leer. Aber dann hat der Mann mich angelächelt, und plötzlich konnte ich wieder sprechen. Am Ende haben wir sogar zusammen gelacht.\n\nDrei Wochen später ist ein Brief gekommen. Ich habe ihn ganz langsam geöffnet. Ich habe bestanden, mit 86 von 100 Punkten! Am Abend habe ich Frau Becker einen Kuchen gebracht. Jetzt lerne ich für B1.",
+    "glossary": [
+      {
+        "german": "die Prüfung",
+        "english": "exam",
+        "wortschatzId": "a1-die-pruefung"
+      },
+      {
+        "german": "vorher",
+        "english": "beforehand",
+        "wortschatzId": "a2-vorher"
+      },
+      {
+        "german": "die Angst",
+        "english": "fear",
+        "wortschatzId": "a2-die-angst"
+      },
+      {
+        "german": "das Zertifikat",
+        "english": "certificate",
+        "wortschatzId": "b1-das-zertifikat"
+      },
+      {
+        "german": "der Lernplan",
+        "english": "study plan"
+      },
+      {
+        "german": "üben",
+        "english": "to practise",
+        "match": "geübt",
+        "wortschatzId": "a2-ueben"
+      },
+      {
+        "german": "kaum",
+        "english": "hardly, barely",
+        "wortschatzId": "b1-kaum"
+      },
+      {
+        "german": "nervös",
+        "english": "nervous",
+        "wortschatzId": "a2-nervoes"
+      },
+      {
+        "german": "schriftlich",
+        "english": "written",
+        "match": "schriftliche",
+        "wortschatzId": "a2-schriftlich"
+      },
+      {
+        "german": "mündlich",
+        "english": "oral, spoken",
+        "match": "mündliche",
+        "wortschatzId": "b1-muendlich"
+      },
+      {
+        "german": "leer",
+        "english": "empty",
+        "wortschatzId": "a2-leer"
+      },
+      {
+        "german": "anlächeln",
+        "english": "to smile at",
+        "match": "angelächelt"
+      },
+      {
+        "german": "bestehen",
+        "english": "to pass (an exam)",
+        "match": "bestanden",
+        "wortschatzId": "a2-bestehen"
+      },
+      {
+        "german": "der Punkt",
+        "english": "point",
+        "match": "Punkten",
+        "wortschatzId": "a2-der-punkt"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Warum braucht Daniela das Zertifikat?",
+        "options": [
+          "Für ihre Arbeit",
+          "Für ihr Studium",
+          "Für ein Visum",
+          "Für eine neue Wohnung"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "mc",
+        "prompt": "Was hat Daniela am Wochenende gemacht?",
+        "options": [
+          "Sie hat Wörter gelernt.",
+          "Sie hat Grammatik geübt.",
+          "Sie hat alte Prüfungen aus dem Internet geübt.",
+          "Sie hat einen Kurs besucht."
+        ],
+        "answer": 2
+      },
+      {
+        "type": "tf",
+        "prompt": "Frau Becker hat mit Daniela Deutsch gesprochen.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Welcher Teil der schriftlichen Prüfung war schwierig?",
+        "options": ["Das Lesen", "Das Hören", "Die Grammatik", "Der Brief"],
+        "answer": 3
+      },
+      {
+        "type": "mc",
+        "prompt": "Was mussten Daniela und der Mann aus Polen in der mündlichen Prüfung machen?",
+        "options": [
+          "Ein Bild beschreiben",
+          "Eine Party planen",
+          "Eine Wohnung suchen",
+          "Über ihre Familie sprechen"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Daniela hat die Prüfung nicht bestanden.",
+        "answer": false,
+        "explanation": "Sie hat mit 86 von 100 Punkten bestanden."
+      },
+      {
+        "type": "tf",
+        "prompt": "Daniela hat Frau Becker einen Kuchen gebracht.",
+        "answer": true
+      }
+    ]
+  },
+  {
+    "id": "a2-73",
+    "level": "A2",
+    "title": "Besuch im Krankenhaus",
+    "topic": "Health",
+    "body": "Tobias hat sich beim Fußballspielen am Knie verletzt. Am Montag hat er im Krankenhaus eine Operation gehabt. Seine Freundin Sara wollte ihn am Mittwoch besuchen.\n\nZuerst hat sie im Internet nach den Besuchszeiten gesucht: täglich von 14 bis 19 Uhr. Auf dem Weg hat sie in einem Blumenladen einen kleinen Strauß gekauft. Die Verkäuferin hat gesagt: „Nehmen Sie lieber keine Blumen mit starkem Duft. Das mögen viele Patienten nicht.“ Deshalb hat Sara gelbe Tulpen genommen. Am Kiosk hat sie noch eine Zeitschrift über Fußball gekauft.\n\nIm Krankenhaus hat sie am Empfang gefragt: „In welchem Zimmer liegt Tobias Wagner?“ – „Im zweiten Stock, Zimmer 214.“ Im Zimmer waren noch zwei andere Patienten.\n\nTobias hat sich sehr über den Besuch gefreut. „Das Essen hier ist langweilig“, hat er gesagt, „und ich darf noch nicht aufstehen.“ Aber die Operation ist gut gegangen. Der Arzt hat gesagt, dass Tobias am Freitag nach Hause darf. Danach muss er sechs Wochen lang mit Krücken gehen.\n\nSara und Tobias haben über die Arbeit, über Freunde und natürlich über Fußball gesprochen. Dabei haben sie viel gelacht. Um sieben Uhr ist eine Krankenschwester gekommen: „Die Besuchszeit ist leider vorbei.“ Sara hat Tobias versprochen, dass sie am Wochenende wiederkommt, dann bei ihm zu Hause.",
+    "glossary": [
+      {
+        "german": "sich verletzen",
+        "english": "to injure oneself",
+        "match": "verletzt"
+      },
+      {
+        "german": "das Knie",
+        "english": "knee",
+        "wortschatzId": "b1-das-knie"
+      },
+      {
+        "german": "die Operation",
+        "english": "operation, surgery",
+        "wortschatzId": "b1-die-operation"
+      },
+      {
+        "german": "die Besuchszeit",
+        "english": "visiting hours",
+        "match": "Besuchszeiten"
+      },
+      {
+        "german": "der Strauß",
+        "english": "bunch of flowers, bouquet"
+      },
+      {
+        "german": "der Duft",
+        "english": "scent, smell"
+      },
+      {
+        "german": "die Tulpe",
+        "english": "tulip",
+        "match": "Tulpen"
+      },
+      {
+        "german": "die Zeitschrift",
+        "english": "magazine",
+        "wortschatzId": "a2-die-zeitschrift"
+      },
+      {
+        "german": "der Empfang",
+        "english": "reception (desk)",
+        "wortschatzId": "b1-der-empfang"
+      },
+      {
+        "german": "der Stock",
+        "english": "floor, storey",
+        "wortschatzId": "a1-der-stock"
+      },
+      {
+        "german": "der Patient",
+        "english": "patient",
+        "match": "Patienten",
+        "wortschatzId": "b1-patient"
+      },
+      {
+        "german": "die Krücke",
+        "english": "crutch",
+        "match": "Krücken"
+      },
+      {
+        "german": "vorbei",
+        "english": "over, finished",
+        "wortschatzId": "a2-vorbei"
+      },
+      {
+        "german": "versprechen",
+        "english": "to promise",
+        "match": "versprochen",
+        "wortschatzId": "b1-versprechen"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Wie hat sich Tobias verletzt?",
+        "options": [
+          "Beim Radfahren",
+          "Beim Fußballspielen",
+          "Bei der Arbeit",
+          "Im Urlaub"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": "Wann sind die Besuchszeiten?",
+        "options": [
+          "Von 10 bis 12 Uhr",
+          "Von 12 bis 18 Uhr",
+          "Von 14 bis 19 Uhr",
+          "Den ganzen Tag"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "tf",
+        "prompt": "Die Verkäuferin hat Sara Blumen mit starkem Duft empfohlen.",
+        "answer": false,
+        "explanation": "Sie hat gesagt, dass viele Patienten keine Blumen mit starkem Duft mögen."
+      },
+      {
+        "type": "mc",
+        "prompt": "Was hat Sara am Kiosk gekauft?",
+        "options": [
+          "Eine Zeitschrift über Fußball",
+          "Schokolade",
+          "Eine Zeitung",
+          "Ein Buch"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "tf",
+        "prompt": "Tobias ist allein im Zimmer.",
+        "answer": false,
+        "explanation": "Im Zimmer waren noch zwei andere Patienten."
+      },
+      {
+        "type": "mc",
+        "prompt": "Wann darf Tobias nach Hause?",
+        "options": ["Am Mittwoch", "Am Donnerstag", "Am Samstag", "Am Freitag"],
+        "answer": 3
+      },
+      {
+        "type": "tf",
+        "prompt": "Sara möchte Tobias am Wochenende zu Hause besuchen.",
+        "answer": true
+      }
+    ]
+  },
+  {
+    "id": "a2-74",
+    "level": "A2",
+    "title": "Mit dem Nachtzug nach Wien",
+    "topic": "Transport",
+    "body": "Letzten Herbst bin ich zum ersten Mal mit dem Nachtzug gefahren, von Hamburg nach Wien. Ich wollte nicht fliegen, weil der Zug besser für die Umwelt ist. Außerdem spart man eine Nacht im Hotel.\n\nDer Zug ist um acht Uhr abends losgefahren. Ich hatte einen Platz im Liegewagen gebucht. Im Abteil waren sechs Betten, drei auf jeder Seite. Mein Bett war ganz oben. Der Schaffner hat jedem eine Flasche Wasser und ein kleines Paket mit Bettwäsche gegeben.\n\nMit mir im Abteil waren eine ältere Dame aus Wien, ein junges Paar aus Dänemark und ein Student mit einer großen Gitarre. Zuerst waren alle ein bisschen still. Dann hat die Dame Kekse aus ihrer Tasche geholt und sie allen angeboten. Danach haben wir uns lange unterhalten, auf Deutsch und auf Englisch. Die Dame hat uns viele Tipps für Wien gegeben.\n\nUm elf Uhr haben wir das Licht ausgemacht. Ich habe nicht sehr gut geschlafen, weil der Zug manchmal laut gebremst hat. Aber es war trotzdem gemütlich.\n\nAm Morgen hat der Schaffner an die Tür geklopft und das Frühstück gebracht: Kaffee, zwei Brötchen, Butter und Marmelade. Durch das Fenster habe ich schon die Donau gesehen. Um halb zehn sind wir pünktlich in Wien angekommen. Ich war ein bisschen müde, aber sehr glücklich.",
+    "glossary": [
+      {
+        "german": "der Nachtzug",
+        "english": "night train"
+      },
+      {
+        "german": "die Umwelt",
+        "english": "environment",
+        "wortschatzId": "b1-die-umwelt"
+      },
+      {
+        "german": "sparen",
+        "english": "to save",
+        "match": "spart",
+        "wortschatzId": "a2-sparen"
+      },
+      {
+        "german": "losfahren",
+        "english": "to set off, to depart",
+        "match": "losgefahren",
+        "wortschatzId": "b1-losfahren"
+      },
+      {
+        "german": "der Liegewagen",
+        "english": "couchette car"
+      },
+      {
+        "german": "das Abteil",
+        "english": "compartment"
+      },
+      {
+        "german": "der Schaffner",
+        "english": "conductor (on a train)"
+      },
+      {
+        "german": "die Bettwäsche",
+        "english": "bedding, bed linen"
+      },
+      {
+        "german": "still",
+        "english": "quiet",
+        "wortschatzId": "b1-still"
+      },
+      {
+        "german": "anbieten",
+        "english": "to offer",
+        "match": "angeboten",
+        "wortschatzId": "a1-anbieten"
+      },
+      {
+        "german": "sich unterhalten",
+        "english": "to chat, to talk",
+        "match": "unterhalten"
+      },
+      {
+        "german": "bremsen",
+        "english": "to brake",
+        "match": "gebremst",
+        "wortschatzId": "b1-bremsen"
+      },
+      {
+        "german": "gemütlich",
+        "english": "cosy",
+        "wortschatzId": "b1-gemuetlich"
+      },
+      {
+        "german": "klopfen",
+        "english": "to knock",
+        "match": "geklopft",
+        "wortschatzId": "b1-klopfen"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Warum ist der Erzähler nicht geflogen?",
+        "options": [
+          "Fliegen ist zu teuer.",
+          "Er hat Angst vor dem Fliegen.",
+          "Der Zug ist besser für die Umwelt.",
+          "Es gab keinen Flug."
+        ],
+        "answer": 2
+      },
+      {
+        "type": "tf",
+        "prompt": "Im Abteil waren vier Betten.",
+        "answer": false,
+        "explanation": "Im Abteil waren sechs Betten, drei auf jeder Seite."
+      },
+      {
+        "type": "mc",
+        "prompt": "Wer war nicht im Abteil?",
+        "options": [
+          "Eine ältere Dame aus Wien",
+          "Ein Paar aus Dänemark",
+          "Ein Student mit einer Gitarre",
+          "Eine Familie mit Kindern"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "mc",
+        "prompt": "Was hat die Dame allen angeboten?",
+        "options": ["Kekse", "Kaffee", "Obst", "Wasser"],
+        "answer": 0
+      },
+      {
+        "type": "mc",
+        "prompt": "Warum hat der Erzähler nicht gut geschlafen?",
+        "options": [
+          "Das Bett war zu klein.",
+          "Der Zug hat manchmal laut gebremst.",
+          "Der Student hat Gitarre gespielt.",
+          "Es war zu kalt."
+        ],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Der Schaffner hat am Morgen Frühstück gebracht.",
+        "answer": true
+      },
+      {
+        "type": "tf",
+        "prompt": "Der Zug ist mit Verspätung in Wien angekommen.",
+        "answer": false,
+        "explanation": "Der Zug ist pünktlich um halb zehn angekommen."
+      }
+    ]
+  },
+  {
+    "id": "a2-75",
+    "level": "A2",
+    "title": "Karneval in Köln",
+    "topic": "Culture",
+    "body": "Ich heiße Tomasz, ich komme aus Polen und arbeite seit Oktober in Köln. Im Februar haben meine Kollegen gesagt: „Du musst unbedingt Karneval feiern!“ Ich habe nicht genau gewusst, was das ist.\n\nAm Donnerstag hat der Straßenkarneval begonnen. Im Büro haben viele Kollegen Kostüme getragen. Meine Chefin war ein Pirat! Eine Kollegin hat mir lachend meine Krawatte abgeschnitten. Das ist an diesem Tag eine Tradition: Die Frauen schneiden den Männern die Krawatten ab. Zum Glück war es eine alte Krawatte.\n\nFür den Rosenmontag habe ich mir ein Kostüm gekauft: Ich war ein Löwe. Mit meinen Kollegen bin ich in die Innenstadt gefahren. Überall waren Menschen in bunten Kostümen, auch Kinder und alte Leute. Es war kalt, aber alle haben gesungen und getanzt. Immer wieder haben die Leute „Alaaf!“ gerufen. So sagt man in Köln beim Karneval.\n\nDann ist der Umzug gekommen: große Wagen mit Musik, Pferde und viele Musikgruppen. Von den Wagen haben die Leute Süßigkeiten geworfen, vor allem Bonbons und kleine Schokoladen. In Köln heißen diese Süßigkeiten „Kamelle“. Alle haben laut „Kamelle!“ gerufen. Ein Mann auf einem Wagen hat mir sogar eine Blume geschenkt. Am Ende war meine Tasche voll mit Süßigkeiten.\n\nAm Abend war ich sehr müde, aber ich habe gedacht: Nächstes Jahr bin ich wieder dabei.",
+    "glossary": [
+      {
+        "german": "unbedingt",
+        "english": "absolutely, definitely",
+        "wortschatzId": "b1-unbedingt"
+      },
+      {
+        "german": "der Karneval",
+        "english": "carnival",
+        "wortschatzId": "a2-der-karneval"
+      },
+      {
+        "german": "das Kostüm",
+        "english": "costume",
+        "match": "Kostüme",
+        "wortschatzId": "b1-das-kostuem"
+      },
+      {
+        "german": "der Pirat",
+        "english": "pirate"
+      },
+      {
+        "german": "die Krawatte",
+        "english": "tie",
+        "match": "Krawatte"
+      },
+      {
+        "german": "abschneiden",
+        "english": "to cut off",
+        "match": "abgeschnitten"
+      },
+      {
+        "german": "die Tradition",
+        "english": "tradition",
+        "wortschatzId": "b1-die-tradition"
+      },
+      {
+        "german": "der Löwe",
+        "english": "lion",
+        "wortschatzId": "b1-der-loewe"
+      },
+      {
+        "german": "bunt",
+        "english": "colourful",
+        "match": "bunten",
+        "wortschatzId": "a2-bunt"
+      },
+      {
+        "german": "der Umzug",
+        "english": "parade, procession",
+        "wortschatzId": "a2-der-umzug"
+      },
+      {
+        "german": "der Wagen",
+        "english": "float (in a parade)",
+        "wortschatzId": "a2-der-wagen"
+      },
+      {
+        "german": "werfen",
+        "english": "to throw",
+        "match": "geworfen",
+        "wortschatzId": "b1-werfen"
+      },
+      {
+        "german": "die Süßigkeiten",
+        "english": "sweets, candy",
+        "match": "Süßigkeiten",
+        "wortschatzId": "a2-die-suessigkeiten"
+      },
+      {
+        "german": "dabei sein",
+        "english": "to be there, to take part",
+        "match": "dabei"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Woher kommt Tomasz?",
+        "options": ["Aus Köln", "Aus Polen", "Aus Österreich", "Aus Tschechien"],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Am Donnerstag hat niemand im Büro ein Kostüm getragen.",
+        "answer": false,
+        "explanation": "Viele Kollegen haben Kostüme getragen, die Chefin war ein Pirat."
+      },
+      {
+        "type": "mc",
+        "prompt": "Was hat eine Kollegin mit Tomasz' Krawatte gemacht?",
+        "options": [
+          "Sie hat sie versteckt.",
+          "Sie hat sie bunt bemalt.",
+          "Sie hat sie abgeschnitten.",
+          "Sie hat sie gekauft."
+        ],
+        "answer": 2
+      },
+      {
+        "type": "mc",
+        "prompt": "Was für ein Kostüm hatte Tomasz am Rosenmontag?",
+        "options": ["Einen Piraten", "Einen Clown", "Einen Bären", "Einen Löwen"],
+        "answer": 3
+      },
+      {
+        "type": "mc",
+        "prompt": "Was ruft man in Köln beim Karneval?",
+        "options": ["„Alaaf!“", "„Prost!“", "„Hallo!“", "„Helau!“"],
+        "answer": 0
+      },
+      {
+        "type": "tf",
+        "prompt": "Von den Wagen haben die Leute Süßigkeiten geworfen.",
+        "answer": true
+      },
+      {
+        "type": "tf",
+        "prompt": "Tomasz möchte nächstes Jahr wieder Karneval feiern.",
+        "answer": true
+      }
+    ]
+  },
+  {
+    "id": "a2-76",
+    "level": "A2",
+    "title": "Der Nachbar ist zu laut",
+    "topic": "Neighbours",
+    "body": "Elena arbeitet als Krankenschwester in Bremen. Sie muss jeden Morgen um fünf Uhr aufstehen, deshalb geht sie früh ins Bett.\n\nIm Frühling ist ein neuer Nachbar in die Wohnung über ihr eingezogen. Er heißt Marco und ist ungefähr fünfundzwanzig. Seit diesem Tag hört Elena jeden Abend laute Musik, oft bis Mitternacht. Sie konnte kaum noch schlafen und war bei der Arbeit immer müde.\n\nZuerst wollte sie einen Brief an den Vermieter schreiben. Aber ihre Freundin hat gesagt: „Sprich doch erst mal mit ihm. Vielleicht weiß er gar nicht, dass es so laut ist.“\n\nAm Samstag hat Elena also bei Marco geklingelt. Sie war nervös. Marco hat die Tür geöffnet und freundlich gelächelt. Elena hat ruhig erklärt, dass sie früh aufstehen muss und seine Musik sehr gut hört. Marco war überrascht. „Das tut mir wirklich leid! Ich habe gedacht, die Wände sind dick genug.“ Er hat erzählt, dass er als DJ arbeitet und abends oft neue Musik ausprobiert.\n\nZusammen haben sie eine Lösung gefunden: Unter der Woche benutzt Marco ab zehn Uhr Kopfhörer. Am Wochenende darf die Musik ein bisschen länger laufen, aber nur bis elf Uhr. Außerdem hat Marco einen dicken Teppich auf den Boden gelegt.\n\nSeitdem schläft Elena wieder gut. Und letzten Sonntag hat Marco sie sogar zum Kaffee eingeladen.",
+    "glossary": [
+      {
+        "german": "die Krankenschwester",
+        "english": "nurse",
+        "wortschatzId": "a2-die-krankenschwester"
+      },
+      {
+        "german": "einziehen",
+        "english": "to move in",
+        "match": "eingezogen",
+        "wortschatzId": "a2-einziehen"
+      },
+      {
+        "german": "ungefähr",
+        "english": "about, approximately",
+        "wortschatzId": "b1-ungefaehr"
+      },
+      {
+        "german": "die Mitternacht",
+        "english": "midnight",
+        "match": "Mitternacht",
+        "wortschatzId": "a2-die-mitternacht"
+      },
+      {
+        "german": "kaum",
+        "english": "hardly, barely",
+        "wortschatzId": "b1-kaum"
+      },
+      {
+        "german": "der Vermieter",
+        "english": "landlord",
+        "wortschatzId": "a1-der-vermieter"
+      },
+      {
+        "german": "klingeln",
+        "english": "to ring the doorbell",
+        "match": "geklingelt",
+        "wortschatzId": "b1-klingeln"
+      },
+      {
+        "german": "überrascht",
+        "english": "surprised",
+        "wortschatzId": "b1-ueberraschen"
+      },
+      {
+        "german": "die Wand",
+        "english": "wall",
+        "match": "Wände",
+        "wortschatzId": "b1-die-wand"
+      },
+      {
+        "german": "ausprobieren",
+        "english": "to try out",
+        "match": "ausprobiert"
+      },
+      {
+        "german": "die Lösung",
+        "english": "solution",
+        "wortschatzId": "a1-die-loesung"
+      },
+      {
+        "german": "der Kopfhörer",
+        "english": "headphones",
+        "match": "Kopfhörer"
+      },
+      {
+        "german": "der Teppich",
+        "english": "carpet, rug",
+        "wortschatzId": "b1-der-teppich"
+      },
+      {
+        "german": "seitdem",
+        "english": "since then",
+        "wortschatzId": "b1-seitdem"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Warum geht Elena früh ins Bett?",
+        "options": [
+          "Sie ist oft krank.",
+          "Sie muss um fünf Uhr aufstehen.",
+          "Sie mag den Abend nicht.",
+          "Sie hat kleine Kinder."
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": "Wo wohnt Marco?",
+        "options": ["Neben Elena", "Unter Elena", "Über Elena", "Im Nachbarhaus"],
+        "answer": 2
+      },
+      {
+        "type": "tf",
+        "prompt": "Elena hat zuerst einen Brief an den Vermieter geschrieben.",
+        "answer": false,
+        "explanation": "Sie wollte zuerst schreiben, aber dann hat sie mit Marco gesprochen."
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie hat Marco reagiert?",
+        "options": [
+          "Er war überrascht, und es hat ihm leidgetan.",
+          "Er war wütend.",
+          "Er hat die Tür wieder zugemacht.",
+          "Er hat gelacht und nichts gesagt."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "mc",
+        "prompt": "Was ist Marco von Beruf?",
+        "options": ["Krankenpfleger", "Musiklehrer", "Vermieter", "DJ"],
+        "answer": 3
+      },
+      {
+        "type": "mc",
+        "prompt": "Was macht Marco unter der Woche ab zehn Uhr?",
+        "options": [
+          "Er macht keine Musik mehr.",
+          "Er benutzt Kopfhörer.",
+          "Er geht aus.",
+          "Er spielt nur leise Gitarre."
+        ],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Marco hat Elena zum Kaffee eingeladen.",
+        "answer": true
+      }
+    ]
+  },
+  {
+    "id": "a2-77",
+    "level": "A2",
+    "title": "Gartenarbeit im Frühling",
+    "topic": "Home",
+    "body": "Anna und Karim haben seit letztem Jahr einen kleinen Garten hinter ihrem Haus in Kassel. Im Winter haben sie viel geplant. Im März war es endlich warm genug, und sie konnten anfangen.\n\nZuerst haben sie den Garten aufgeräumt. Sie haben alte Blätter und Äste gesammelt und weggebracht. Dann hat Karim die Erde umgegraben. Das war harte Arbeit, und am Abend hat ihm der Rücken wehgetan. Anna hat im Gartencenter Samen und kleine Pflanzen gekauft: Tomaten, Salat, Karotten und Kräuter wie Petersilie und Basilikum.\n\nAnfang April haben sie den Salat und die Karotten gesät. Die Tomaten sind zuerst in kleinen Töpfen auf dem Fensterbrett geblieben, weil die Nächte noch zu kalt waren. Mitte April hat es plötzlich noch einmal Frost gegeben. Zum Glück haben Anna und Karim die Beete am Abend mit alten Decken zugedeckt. So ist fast nichts kaputtgegangen.\n\nIm Mai haben sie die Tomaten in den Garten gepflanzt. Jeden Abend hat Anna die Pflanzen gegossen. Karim hat ein kleines Schild gemacht: „Unser Gemüse – bitte nicht essen, liebe Schnecken!“ Leider können Schnecken nicht lesen.\n\nEnde Mai haben sie endlich den ersten Salat geerntet. Er war klein, und ein paar Blätter hatten Löcher. Aber er war sehr lecker. „Das ist der beste Salat der Welt“, hat Karim gesagt.",
+    "glossary": [
+      {
+        "german": "aufräumen",
+        "english": "to tidy up",
+        "match": "aufgeräumt",
+        "wortschatzId": "a2-aufraeumen"
+      },
+      {
+        "german": "der Ast",
+        "english": "branch",
+        "match": "Äste"
+      },
+      {
+        "german": "die Erde",
+        "english": "soil, earth",
+        "wortschatzId": "b1-die-erde"
+      },
+      {
+        "german": "umgraben",
+        "english": "to dig over",
+        "match": "umgegraben"
+      },
+      {
+        "german": "der Rücken",
+        "english": "back",
+        "wortschatzId": "a2-der-ruecken"
+      },
+      {
+        "german": "der Samen",
+        "english": "seed(s)",
+        "match": "Samen"
+      },
+      {
+        "german": "säen",
+        "english": "to sow",
+        "match": "gesät"
+      },
+      {
+        "german": "der Topf",
+        "english": "pot",
+        "match": "Töpfen",
+        "wortschatzId": "a2-der-topf"
+      },
+      {
+        "german": "das Fensterbrett",
+        "english": "windowsill"
+      },
+      {
+        "german": "der Frost",
+        "english": "frost"
+      },
+      {
+        "german": "das Beet",
+        "english": "flower bed, vegetable patch",
+        "match": "Beete"
+      },
+      {
+        "german": "gießen",
+        "english": "to water",
+        "match": "gegossen",
+        "wortschatzId": "b1-giessen"
+      },
+      {
+        "german": "die Schnecke",
+        "english": "snail, slug",
+        "match": "Schnecken"
+      },
+      {
+        "german": "ernten",
+        "english": "to harvest",
+        "match": "geerntet"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Wann haben Anna und Karim mit der Gartenarbeit angefangen?",
+        "options": ["Im Januar", "Im März", "Im Mai", "Im Juni"],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Nach dem Umgraben hat Karim der Rücken wehgetan.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Was hat Anna im Gartencenter nicht gekauft?",
+        "options": ["Tomaten", "Petersilie", "Karotten", "Kartoffeln"],
+        "answer": 3
+      },
+      {
+        "type": "mc",
+        "prompt": "Warum sind die Tomaten zuerst im Haus geblieben?",
+        "options": [
+          "Die Nächte waren noch zu kalt.",
+          "Es hat zu viel geregnet.",
+          "Der Garten war noch nicht fertig.",
+          "Die Schnecken haben sie gegessen."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "mc",
+        "prompt": "Was haben Anna und Karim gegen den Frost gemacht?",
+        "options": [
+          "Sie haben die Pflanzen ins Haus gebracht.",
+          "Sie haben die Beete mit alten Decken zugedeckt.",
+          "Sie haben die Pflanzen gegossen.",
+          "Sie haben nichts gemacht."
+        ],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Die Schnecken haben das Schild gelesen.",
+        "answer": false,
+        "explanation": "Schnecken können nicht lesen."
+      },
+      {
+        "type": "mc",
+        "prompt": "Was haben sie Ende Mai geerntet?",
+        "options": ["Tomaten", "Karotten", "Salat", "Basilikum"],
+        "answer": 2
+      }
+    ]
+  },
+  {
+    "id": "a2-78",
+    "level": "A2",
+    "title": "Ein Tag im Freizeitpark",
+    "topic": "Free time",
+    "body": "In den Sommerferien sind Jana, Luis und Emre mit dem Zug in einen großen Freizeitpark gefahren. Sie sind alle fünfzehn und haben lange für die Eintrittskarten gespart.\n\nUm zehn Uhr hat der Park geöffnet. Zuerst wollten sie unbedingt mit der neuen Achterbahn fahren. Sie ist die höchste und schnellste im ganzen Park. Aber die Schlange war sehr lang. Sie mussten fast eine Stunde warten. Dann war es endlich so weit. Jana hat die ganze Zeit geschrien, Emre hat gelacht, und Luis hat die Augen zugemacht.\n\nDanach sind sie mit der Wildwasserbahn gefahren und ganz nass geworden. Zum Glück war es heiß, und ihre Kleidung ist schnell wieder trocken geworden.\n\nZum Mittagessen haben sie Pommes und Bratwurst gegessen. Emre hat außerdem noch ein großes Eis gegessen und eine Cola getrunken. Gleich danach wollte er unbedingt mit dem „Wirbelwind“ fahren. Dieses Karussell dreht sich sehr schnell. Nach zwei Minuten war Emre ganz blass. Ihm war schlecht, und er musste sich auf eine Bank setzen. Jana hat ihm Wasser gekauft, und Luis hat gesagt: „Nächstes Mal isst du das Eis nach dem Karussell!“\n\nNach einer halben Stunde hat sich Emre wieder besser gefühlt. Am Nachmittag sind sie noch einmal mit der Achterbahn gefahren. Diesmal haben sie nur zehn Minuten gewartet. Um sechs Uhr sind die drei müde, aber glücklich nach Hause gefahren.",
+    "glossary": [
+      {
+        "german": "der Freizeitpark",
+        "english": "amusement park"
+      },
+      {
+        "german": "die Eintrittskarte",
+        "english": "admission ticket",
+        "match": "Eintrittskarten"
+      },
+      {
+        "german": "sparen",
+        "english": "to save (money)",
+        "match": "gespart",
+        "wortschatzId": "a2-sparen"
+      },
+      {
+        "german": "die Achterbahn",
+        "english": "roller coaster"
+      },
+      {
+        "german": "die Schlange",
+        "english": "queue, line",
+        "wortschatzId": "b1-die-schlange"
+      },
+      {
+        "german": "schreien",
+        "english": "to scream",
+        "match": "geschrien",
+        "wortschatzId": "b1-schreien"
+      },
+      {
+        "german": "die Wildwasserbahn",
+        "english": "log flume"
+      },
+      {
+        "german": "nass",
+        "english": "wet",
+        "wortschatzId": "a2-nass"
+      },
+      {
+        "german": "trocken",
+        "english": "dry",
+        "wortschatzId": "a2-trocken"
+      },
+      {
+        "german": "das Karussell",
+        "english": "fairground ride, carousel"
+      },
+      {
+        "german": "sich drehen",
+        "english": "to spin, to turn",
+        "match": "dreht"
+      },
+      {
+        "german": "blass",
+        "english": "pale",
+        "wortschatzId": "b1-blass"
+      },
+      {
+        "german": "Mir ist schlecht.",
+        "english": "I feel sick.",
+        "match": "schlecht"
+      },
+      {
+        "german": "sich fühlen",
+        "english": "to feel",
+        "match": "gefühlt"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Wie sind die drei Freunde in den Freizeitpark gefahren?",
+        "options": ["Mit dem Auto", "Mit dem Bus", "Mit dem Zug", "Mit dem Fahrrad"],
+        "answer": 2
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie lange mussten sie am Vormittag an der Achterbahn warten?",
+        "options": [
+          "Zehn Minuten",
+          "Fast eine Stunde",
+          "Eine halbe Stunde",
+          "Zwei Stunden"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Luis hat in der Achterbahn die Augen zugemacht.",
+        "answer": true
+      },
+      {
+        "type": "tf",
+        "prompt": "Nach der Wildwasserbahn sind die Freunde lange nass geblieben.",
+        "answer": false,
+        "explanation": "Es war heiß, und ihre Kleidung ist schnell wieder trocken geworden."
+      },
+      {
+        "type": "mc",
+        "prompt": "Was hat Emre vor dem „Wirbelwind“ gegessen und getrunken?",
+        "options": [
+          "Ein Eis und eine Cola",
+          "Nur Wasser",
+          "Einen Kuchen und Kaffee",
+          "Nichts"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "mc",
+        "prompt": "Was ist mit Emre auf dem Karussell passiert?",
+        "options": [
+          "Er hat seine Tasche verloren.",
+          "Er ist nass geworden.",
+          "Er hat geschrien.",
+          "Ihm ist schlecht geworden."
+        ],
+        "answer": 3
+      },
+      {
+        "type": "tf",
+        "prompt": "Am Nachmittag sind sie nicht mehr mit der Achterbahn gefahren.",
+        "answer": false,
+        "explanation": "Am Nachmittag sind sie noch einmal mit der Achterbahn gefahren."
+      }
+    ]
+  },
+  {
+    "id": "a2-79",
+    "level": "A2",
+    "title": "Mülltrennung",
+    "topic": "Environment",
+    "body": "Ich heiße Chen und wohne seit drei Wochen in Nürnberg. Am Anfang habe ich meinen ganzen Müll in eine Tonne geworfen. Nach ein paar Tagen hat meine Nachbarin, Frau Lorenz, im Hof mit mir gesprochen. Sie war freundlich, aber sie hat gesagt: „In Deutschland trennen wir den Müll. Ich zeige es Ihnen.“\n\nIm Hof stehen vier Tonnen in verschiedenen Farben. In die blaue Tonne kommt Papier, zum Beispiel Zeitungen und Kartons. In die gelbe Tonne kommen Verpackungen aus Plastik und Metall, also Joghurtbecher oder Dosen. Die braune Tonne ist für Biomüll: Reste von Obst und Gemüse, Kaffeefilter und Eierschalen. Alles andere kommt in die graue Tonne. Das ist der Restmüll.\n\n„Und Glas?“, habe ich gefragt. „Für Glas gibt es Container an der Straßenecke“, hat Frau Lorenz erklärt. „Dort trennt man nach Farben: weiß, grün und braun. Aber bitte nicht am Sonntag, das ist zu laut.“\n\nDann hat sie mir noch etwas Wichtiges gezeigt. Auf vielen Flaschen steht „Pfand“. Für diese Flaschen bezahlt man im Supermarkt ein bisschen mehr, oft 25 Cent. Wenn man die leere Flasche zurückbringt, bekommt man das Geld wieder. Dafür gibt es im Supermarkt einen Automaten.\n\nAm nächsten Tag habe ich zwölf leere Flaschen in den Supermarkt gebracht und drei Euro bekommen. Jetzt habe ich in meiner Küche drei kleine Mülleimer, und Frau Lorenz ist sehr zufrieden mit mir.",
+    "glossary": [
+      {
+        "german": "der Müll",
+        "english": "rubbish, waste",
+        "wortschatzId": "a2-der-muell"
+      },
+      {
+        "german": "die Tonne",
+        "english": "(wheelie) bin",
+        "match": "Tonne"
+      },
+      {
+        "german": "der Hof",
+        "english": "courtyard",
+        "wortschatzId": "b1-der-hof"
+      },
+      {
+        "german": "trennen",
+        "english": "to separate, to sort",
+        "wortschatzId": "b1-trennen"
+      },
+      {
+        "german": "verschieden",
+        "english": "different",
+        "match": "verschiedenen",
+        "wortschatzId": "a2-verschieden"
+      },
+      {
+        "german": "der Karton",
+        "english": "cardboard box",
+        "match": "Kartons"
+      },
+      {
+        "german": "die Verpackung",
+        "english": "packaging",
+        "match": "Verpackungen"
+      },
+      {
+        "german": "die Dose",
+        "english": "can, tin",
+        "match": "Dosen",
+        "wortschatzId": "b1-die-dose"
+      },
+      {
+        "german": "der Rest",
+        "english": "leftover, remains",
+        "match": "Reste",
+        "wortschatzId": "a2-der-rest"
+      },
+      {
+        "german": "die Eierschale",
+        "english": "eggshell",
+        "match": "Eierschalen"
+      },
+      {
+        "german": "der Restmüll",
+        "english": "general waste"
+      },
+      {
+        "german": "das Pfand",
+        "english": "deposit (on bottles)"
+      },
+      {
+        "german": "leer",
+        "english": "empty",
+        "match": "leere",
+        "wortschatzId": "a2-leer"
+      },
+      {
+        "german": "der Mülleimer",
+        "english": "waste bin",
+        "match": "Mülleimer"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Seit wann wohnt Chen in Nürnberg?",
+        "options": [
+          "Seit drei Tagen",
+          "Seit drei Wochen",
+          "Seit drei Monaten",
+          "Seit drei Jahren"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Am Anfang hat Chen den Müll schon richtig getrennt.",
+        "answer": false,
+        "explanation": "Am Anfang hat er seinen ganzen Müll in eine Tonne geworfen."
+      },
+      {
+        "type": "mc",
+        "prompt": "Was kommt in die blaue Tonne?",
+        "options": ["Papier", "Glas", "Biomüll", "Dosen"],
+        "answer": 0
+      },
+      {
+        "type": "mc",
+        "prompt": "Wohin kommen Eierschalen?",
+        "options": [
+          "In die gelbe Tonne",
+          "In die blaue Tonne",
+          "In die graue Tonne",
+          "In die braune Tonne"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "mc",
+        "prompt": "Wann soll man kein Glas in den Container werfen?",
+        "options": ["Am Montag", "Am Abend", "Am Sonntag", "Im Winter"],
+        "answer": 2
+      },
+      {
+        "type": "tf",
+        "prompt": "Für eine Pfandflasche bezahlt man oft 25 Cent mehr.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie viel Geld hat Chen für seine Flaschen bekommen?",
+        "options": ["Zwölf Euro", "Drei Euro", "25 Cent", "Fünf Euro"],
+        "answer": 1
+      }
+    ]
+  },
+  {
+    "id": "a2-80",
+    "level": "A2",
+    "title": "Kuchen für das Schulfest",
+    "topic": "Food and drink",
+    "body": "Am Samstag hat die Grundschule von Ben ein Sommerfest gefeiert. Jede Familie sollte etwas für das Buffet mitbringen. Ben und seine Mutter Sabine wollten einen Kuchen mit Schokolade backen, weil Ben Schokolade liebt.\n\nAm Abend vorher haben sie zusammen gebacken. Ben hat Eier, Zucker und Butter in eine Schüssel gegeben und alles gerührt. Sabine hat das Mehl und den Kakao dazugegeben. Dann haben sie den Kuchen für fünfzig Minuten in den Ofen gestellt. Die ganze Küche hat wunderbar gerochen.\n\nLeider hat dann das Telefon geklingelt. Sabines Schwester hat angerufen, und das Gespräch war lang. Plötzlich hat Ben gerufen: „Mama, es riecht komisch!“ Der Kuchen war zwanzig Minuten zu lange im Ofen. Oben war er ganz schwarz.\n\nBen war traurig. „Den können wir nicht mitnehmen!“ Aber Sabine hatte eine Idee. Sie hat den schwarzen Teil vorsichtig abgeschnitten. Dann hat sie den Kuchen in kleine Stücke geschnitten. Zusammen haben sie die Stücke in warme Schokolade getaucht und auf kleine Holzstäbchen gesteckt.\n\nAm Samstag haben sie die „Kuchen-Spieße“ zum Schulfest gebracht. Die Kinder haben sie geliebt, und nach einer halben Stunde war alles weg. Die Lehrerin von Ben hat sogar nach dem Rezept gefragt. Ben hat gelacht: „Das Geheimnis ist das Telefon!“",
+    "glossary": [
+      {
+        "german": "die Grundschule",
+        "english": "primary school",
+        "wortschatzId": "b1-die-grundschule"
+      },
+      {
+        "german": "das Buffet",
+        "english": "buffet",
+        "wortschatzId": "b1-das-buffet"
+      },
+      {
+        "german": "die Schüssel",
+        "english": "bowl",
+        "wortschatzId": "b1-die-schuessel"
+      },
+      {
+        "german": "rühren",
+        "english": "to stir, to mix",
+        "match": "gerührt"
+      },
+      {
+        "german": "das Mehl",
+        "english": "flour",
+        "wortschatzId": "b1-das-mehl"
+      },
+      {
+        "german": "dazugeben",
+        "english": "to add",
+        "match": "dazugegeben"
+      },
+      {
+        "german": "riechen",
+        "english": "to smell",
+        "match": "gerochen",
+        "wortschatzId": "a1-riechen"
+      },
+      {
+        "german": "komisch",
+        "english": "strange, funny",
+        "wortschatzId": "a2-komisch"
+      },
+      {
+        "german": "abschneiden",
+        "english": "to cut off",
+        "match": "abgeschnitten"
+      },
+      {
+        "german": "vorsichtig",
+        "english": "carefully",
+        "wortschatzId": "a2-vorsichtig"
+      },
+      {
+        "german": "tauchen",
+        "english": "to dip",
+        "match": "getaucht",
+        "wortschatzId": "b1-tauchen"
+      },
+      {
+        "german": "das Holzstäbchen",
+        "english": "wooden stick",
+        "match": "Holzstäbchen"
+      },
+      {
+        "german": "das Rezept",
+        "english": "recipe",
+        "wortschatzId": "a2-das-rezept"
+      },
+      {
+        "german": "das Geheimnis",
+        "english": "secret",
+        "wortschatzId": "b1-das-geheimnis"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Warum wollten Ben und Sabine einen Schokoladenkuchen backen?",
+        "options": [
+          "Er ist einfach.",
+          "Ben liebt Schokolade.",
+          "Die Lehrerin wollte das.",
+          "Sie hatten nur Kakao zu Hause."
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": "Was hat Ben beim Backen gemacht?",
+        "options": [
+          "Er hat Eier, Zucker und Butter gerührt.",
+          "Er hat das Mehl und den Kakao dazugegeben.",
+          "Er hat den Ofen sauber gemacht.",
+          "Er hat telefoniert."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "tf",
+        "prompt": "Sabines Mutter hat angerufen.",
+        "answer": false,
+        "explanation": "Sabines Schwester hat angerufen."
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie lange war der Kuchen zu lange im Ofen?",
+        "options": ["Fünf Minuten", "Zehn Minuten", "Fünfzig Minuten", "Zwanzig Minuten"],
+        "answer": 3
+      },
+      {
+        "type": "mc",
+        "prompt": "Was hat Sabine mit dem Kuchen gemacht?",
+        "options": [
+          "Sie hat ihn weggeworfen.",
+          "Sie hat einen neuen Kuchen gekauft.",
+          "Sie hat ihn in Stücke geschnitten und in Schokolade getaucht.",
+          "Sie hat ihn mit Sahne dekoriert."
+        ],
+        "answer": 2
+      },
+      {
+        "type": "tf",
+        "prompt": "Die Kuchen-Spieße waren schnell weg.",
+        "answer": true
+      },
+      {
+        "type": "tf",
+        "prompt": "Bens Lehrerin wollte das Rezept haben.",
+        "answer": true
+      }
+    ]
+  },
+  {
+    "id": "a2-81",
+    "level": "A2",
+    "title": "Die Wohnungsbesichtigung",
+    "topic": "Housing",
+    "body": "Marta und ihr Freund Julian suchen seit vier Monaten eine Wohnung in München. Das ist sehr schwer, weil die Mieten hoch sind und sehr viele Leute suchen. Letzten Dienstag hatten sie endlich einen Termin für eine Besichtigung: drei Zimmer, 75 Quadratmeter, mit Balkon, für 1.400 Euro warm.\n\nVor dem Haus haben schon ungefähr dreißig Menschen gewartet. „Oh nein“, hat Julian gesagt. „Die wollen alle diese Wohnung.“\n\nDie Maklerin hat alle zusammen in die Wohnung gelassen. Die Zimmer waren hell, und die Küche war neu. Nur das Bad war ziemlich klein. Marta hat viele Fragen gestellt: „Wie hoch sind die Nebenkosten? Gibt es einen Keller? Darf man Haustiere haben?“ Die Maklerin hat geantwortet: „Die Nebenkosten sind im Preis dabei, und es gibt einen Keller. Aber Haustiere sind leider nicht erlaubt.“ Zum Glück haben Marta und Julian keine Katze.\n\nAm Ende hat die Maklerin gesagt: „Wenn Sie Interesse haben, schicken Sie mir bitte heute noch Ihre Unterlagen.“ Dazu gehören eine Kopie vom Ausweis, die letzten drei Gehaltsabrechnungen und ein Brief vom alten Vermieter.\n\nNoch am selben Abend hat Marta alles per E-Mail geschickt. Sie hat auch einen kurzen, freundlichen Text über sich und Julian geschrieben.\n\nDann haben sie gewartet. Jeden Tag hat Marta ihre E-Mails zehnmal gelesen. Nach acht Tagen ist endlich eine Antwort gekommen: Sie bekommen die Wohnung! Am Wochenende haben sie den Mietvertrag unterschrieben.",
+    "glossary": [
+      {
+        "german": "die Miete",
+        "english": "rent",
+        "match": "Mieten",
+        "wortschatzId": "a1-die-miete"
+      },
+      {
+        "german": "der Termin",
+        "english": "appointment",
+        "wortschatzId": "a1-der-termin"
+      },
+      {
+        "german": "die Besichtigung",
+        "english": "viewing"
+      },
+      {
+        "german": "warm",
+        "english": "including heating and utilities (of rent)",
+        "wortschatzId": "a2-warm"
+      },
+      {
+        "german": "die Maklerin",
+        "english": "estate agent (female)"
+      },
+      {
+        "german": "ziemlich",
+        "english": "quite, rather",
+        "wortschatzId": "b1-ziemlich"
+      },
+      {
+        "german": "die Nebenkosten",
+        "english": "additional costs, utilities",
+        "match": "Nebenkosten"
+      },
+      {
+        "german": "der Keller",
+        "english": "cellar, basement",
+        "wortschatzId": "a2-der-keller"
+      },
+      {
+        "german": "das Haustier",
+        "english": "pet",
+        "match": "Haustiere",
+        "wortschatzId": "b1-das-haustier"
+      },
+      {
+        "german": "erlaubt",
+        "english": "allowed",
+        "wortschatzId": "a1-erlauben"
+      },
+      {
+        "german": "die Unterlagen",
+        "english": "documents, paperwork",
+        "match": "Unterlagen",
+        "wortschatzId": "b1-die-unterlagen"
+      },
+      {
+        "german": "der Ausweis",
+        "english": "ID card",
+        "wortschatzId": "a1-der-ausweis"
+      },
+      {
+        "german": "die Gehaltsabrechnung",
+        "english": "payslip",
+        "match": "Gehaltsabrechnungen"
+      },
+      {
+        "german": "der Mietvertrag",
+        "english": "tenancy agreement, lease"
+      },
+      {
+        "german": "unterschreiben",
+        "english": "to sign",
+        "match": "unterschrieben",
+        "wortschatzId": "a1-unterschreiben"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Warum ist die Wohnungssuche in München schwer?",
+        "options": [
+          "Es gibt keine Wohnungen mit Balkon.",
+          "Die Mieten sind hoch, und viele Leute suchen.",
+          "Marta und Julian haben eine Katze.",
+          "Die Makler sind unfreundlich."
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie viele Zimmer hat die Wohnung?",
+        "options": ["Zwei", "Vier", "Drei", "Fünf"],
+        "answer": 2
+      },
+      {
+        "type": "tf",
+        "prompt": "Bei der Besichtigung waren Marta und Julian allein.",
+        "answer": false,
+        "explanation": "Vor dem Haus haben ungefähr dreißig Menschen gewartet."
+      },
+      {
+        "type": "mc",
+        "prompt": "Was war in der Wohnung nicht so gut?",
+        "options": [
+          "Das Bad war ziemlich klein.",
+          "Die Küche war alt.",
+          "Die Zimmer waren dunkel.",
+          "Es gab keinen Keller."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "tf",
+        "prompt": "In der Wohnung sind Haustiere erlaubt.",
+        "answer": false,
+        "explanation": "Die Maklerin hat gesagt, dass Haustiere nicht erlaubt sind."
+      },
+      {
+        "type": "mc",
+        "prompt": "Was gehört nicht zu den Unterlagen?",
+        "options": [
+          "Eine Kopie vom Ausweis",
+          "Die letzten drei Gehaltsabrechnungen",
+          "Ein Brief vom alten Vermieter",
+          "Ein Foto von der Familie"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "mc",
+        "prompt": "Wann ist die Antwort gekommen?",
+        "options": [
+          "Am selben Abend",
+          "Nach acht Tagen",
+          "Nach drei Wochen",
+          "Am Wochenende"
+        ],
+        "answer": 1
+      }
+    ]
+  },
+  {
+    "id": "a2-82",
+    "level": "A2",
+    "title": "Mein erstes Gehalt",
+    "topic": "Banking and money",
+    "body": "Ich heiße Leonie, ich bin achtzehn und mache seit August eine Ausbildung in einem Hotel in Dresden. Ende August habe ich zum ersten Mal Geld auf mein Konto bekommen: 850 Euro netto. Das war ein tolles Gefühl! Ich habe mir den Kontoauszug bestimmt fünfmal angeschaut.\n\nAm Abend habe ich mit meinen Eltern über das Geld gesprochen. Ich wohne noch zu Hause, aber ich möchte jetzt 150 Euro im Monat für das Essen und die Wohnung bezahlen. Meine Eltern haben zuerst Nein gesagt, aber ich wollte das unbedingt. Am Ende waren sie einverstanden.\n\nDann habe ich einen Plan gemacht. Für mein Handy und die Monatskarte für Bus und Bahn brauche ich etwa 100 Euro. Für Kleidung, Kino und Freunde plane ich 250 Euro ein. Den Rest, also 350 Euro, möchte ich jeden Monat sparen. Deshalb habe ich ein Sparkonto eröffnet. Die Frau in der Bank hat mir alles genau erklärt.\n\nWarum spare ich so viel? Ich habe zwei große Wünsche. Nächsten Sommer möchte ich mit meiner besten Freundin nach Portugal fahren. Außerdem möchte ich bald den Führerschein machen, und das ist in Deutschland ziemlich teuer.\n\nAber ein bisschen Spaß wollte ich auch haben. Von meinem ersten Gehalt habe ich meine Familie zum Essen in eine Pizzeria eingeladen. Mein Vater hat gesagt: „Das ist die beste Pizza seit Jahren, weil du bezahlst!“",
+    "glossary": [
+      {
+        "german": "das Gehalt",
+        "english": "salary, wages",
+        "wortschatzId": "a2-das-gehalt"
+      },
+      {
+        "german": "die Ausbildung",
+        "english": "apprenticeship, vocational training",
+        "wortschatzId": "a2-die-ausbildung"
+      },
+      {
+        "german": "das Konto",
+        "english": "bank account",
+        "wortschatzId": "a1-das-konto"
+      },
+      {
+        "german": "netto",
+        "english": "net (after tax)"
+      },
+      {
+        "german": "der Kontoauszug",
+        "english": "bank statement"
+      },
+      {
+        "german": "einverstanden",
+        "english": "in agreement, okay with it",
+        "wortschatzId": "a2-einverstanden"
+      },
+      {
+        "german": "die Monatskarte",
+        "english": "monthly travel pass"
+      },
+      {
+        "german": "einplanen",
+        "english": "to budget, to plan in",
+        "match": "plane"
+      },
+      {
+        "german": "sparen",
+        "english": "to save (money)",
+        "wortschatzId": "a2-sparen"
+      },
+      {
+        "german": "das Sparkonto",
+        "english": "savings account"
+      },
+      {
+        "german": "eröffnen",
+        "english": "to open (an account)",
+        "match": "eröffnet",
+        "wortschatzId": "b1-eroeffnen"
+      },
+      {
+        "german": "der Wunsch",
+        "english": "wish",
+        "match": "Wünsche",
+        "wortschatzId": "a2-der-wunsch"
+      },
+      {
+        "german": "der Führerschein",
+        "english": "driving licence",
+        "wortschatzId": "a2-der-fuehrerschein"
+      },
+      {
+        "german": "ziemlich",
+        "english": "quite, rather",
+        "wortschatzId": "b1-ziemlich"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Wo macht Leonie ihre Ausbildung?",
+        "options": [
+          "In einer Bank",
+          "In einem Hotel",
+          "In einem Supermarkt",
+          "In einer Pizzeria"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie viel Geld hat Leonie bekommen?",
+        "options": ["850 Euro", "350 Euro", "1.000 Euro", "150 Euro"],
+        "answer": 0
+      },
+      {
+        "type": "tf",
+        "prompt": "Leonies Eltern wollten sofort Geld von ihr haben.",
+        "answer": false,
+        "explanation": "Ihre Eltern haben zuerst Nein gesagt."
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie viel Geld möchte Leonie jeden Monat sparen?",
+        "options": ["100 Euro", "150 Euro", "250 Euro", "350 Euro"],
+        "answer": 3
+      },
+      {
+        "type": "tf",
+        "prompt": "Die Frau in der Bank hat Leonie alles erklärt.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Wohin möchte Leonie nächsten Sommer fahren?",
+        "options": ["Nach Spanien", "Nach Italien", "Nach Portugal", "Nach Dresden"],
+        "answer": 2
+      },
+      {
+        "type": "mc",
+        "prompt": "Was hat Leonie von ihrem ersten Gehalt gemacht?",
+        "options": [
+          "Sie hat neue Kleidung gekauft.",
+          "Sie hat ihre Familie zum Essen eingeladen.",
+          "Sie hat ein Handy gekauft.",
+          "Sie hat den Führerschein bezahlt."
+        ],
+        "answer": 1
+      }
+    ]
+  },
+  {
+    "id": "a2-83",
+    "level": "A2",
+    "title": "Ein Ausflug mit der Klasse",
+    "topic": "School",
+    "body": "Im Juni hat die Klasse 6b einen Ausflug zu einer alten Burg in der Eifel gemacht. Am Morgen haben sich alle 24 Schülerinnen und Schüler um acht Uhr vor der Schule getroffen. Ihre Lehrerin, Frau Nowak, und ein Vater sind mitgekommen. Die Busfahrt hat eine Stunde gedauert.\n\nVom Parkplatz mussten sie noch zwanzig Minuten durch den Wald laufen. Dann haben sie die Burg gesehen: hohe Türme, kleine Fenster und dicke Mauern. „Wie im Film!“, hat Lukas gerufen.\n\nIn der Burg hat ein Führer auf die Klasse gewartet. Er hat lustige Geschichten über die Ritter und ihre Familien erzählt. Die Kinder haben alte Betten, eine riesige Küche und echte Schwerter gesehen. Die Burg ist über 800 Jahre alt.\n\nNach der Führung haben alle im Hof gepicknickt. Dann hat Frau Nowak die Kinder gezählt: dreiundzwanzig. Ein Kind hat gefehlt! Wo war Lukas? Alle haben ihn gesucht, und Frau Nowak war sehr nervös. Nach zehn Minuten hat der Vater Lukas im Souvenirladen gefunden. Er hat dort ein kleines Holzschwert gekauft und dabei die Zeit vergessen. „Entschuldigung“, hat er leise gesagt.\n\nIm Bus nach Hause waren alle müde. Einige Kinder haben geschlafen, andere haben Lieder gesungen. Lukas musste neben Frau Nowak sitzen. Das war seine Strafe. Aber er hat trotzdem die ganze Zeit mit seinem Schwert gespielt.",
+    "glossary": [
+      {
+        "german": "der Ausflug",
+        "english": "trip, outing",
+        "wortschatzId": "a1-der-ausflug"
+      },
+      {
+        "german": "die Burg",
+        "english": "castle",
+        "wortschatzId": "b1-die-burg"
+      },
+      {
+        "german": "der Turm",
+        "english": "tower",
+        "match": "Türme",
+        "wortschatzId": "b1-der-turm"
+      },
+      {
+        "german": "die Mauer",
+        "english": "(outer) wall",
+        "match": "Mauern",
+        "wortschatzId": "b1-die-mauer"
+      },
+      {
+        "german": "der Führer",
+        "english": "guide"
+      },
+      {
+        "german": "der Ritter",
+        "english": "knight"
+      },
+      {
+        "german": "riesig",
+        "english": "huge",
+        "match": "riesige",
+        "wortschatzId": "b1-riesig"
+      },
+      {
+        "german": "das Schwert",
+        "english": "sword",
+        "match": "Schwerter"
+      },
+      {
+        "german": "die Führung",
+        "english": "guided tour",
+        "wortschatzId": "a1-die-fuehrung"
+      },
+      {
+        "german": "picknicken",
+        "english": "to have a picnic",
+        "match": "gepicknickt"
+      },
+      {
+        "german": "zählen",
+        "english": "to count",
+        "match": "gezählt",
+        "wortschatzId": "b1-zaehlen"
+      },
+      {
+        "german": "fehlen",
+        "english": "to be missing",
+        "match": "gefehlt",
+        "wortschatzId": "a1-fehlen"
+      },
+      {
+        "german": "vergessen",
+        "english": "to forget",
+        "wortschatzId": "a2-vergessen"
+      },
+      {
+        "german": "die Strafe",
+        "english": "punishment",
+        "wortschatzId": "b1-die-strafe"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Wohin ist die Klasse 6b gefahren?",
+        "options": [
+          "In ein Museum in der Stadt",
+          "Zu einer alten Burg",
+          "In einen Zoo",
+          "An einen See"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Die Klasse ist mit dem Zug gefahren.",
+        "answer": false,
+        "explanation": "Die Klasse ist mit dem Bus gefahren."
+      },
+      {
+        "type": "mc",
+        "prompt": "Wer ist außer Frau Nowak mitgekommen?",
+        "options": ["Der Schulleiter", "Eine Mutter", "Ein Vater", "Ein anderer Lehrer"],
+        "answer": 2
+      },
+      {
+        "type": "mc",
+        "prompt": "Was hat der Führer erzählt?",
+        "options": [
+          "Lustige Geschichten über die Ritter und ihre Familien",
+          "Wie man ein Schwert macht",
+          "Wie alt der Wald ist",
+          "Geschichten über einen Film"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "mc",
+        "prompt": "Wo war Lukas?",
+        "options": ["Im Bus", "Im Wald", "Im Hof", "Im Souvenirladen"],
+        "answer": 3
+      },
+      {
+        "type": "tf",
+        "prompt": "Lukas hat im Souvenirladen ein Holzschwert gekauft.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Was war Lukas' Strafe?",
+        "options": [
+          "Er durfte nicht singen.",
+          "Er musste neben Frau Nowak sitzen.",
+          "Er musste sein Schwert abgeben.",
+          "Er musste einen Brief schreiben."
+        ],
+        "answer": 1
+      }
+    ]
+  },
+  {
+    "id": "a2-84",
+    "level": "A2",
+    "title": "Skiurlaub in den Alpen",
+    "topic": "Holidays",
+    "body": "Letzten Winter habe ich zum ersten Mal Skiurlaub gemacht. Meine Freundin Clara fährt schon seit ihrer Kindheit Ski, aber ich komme aus Hamburg, und dort gibt es keine Berge. Wir sind für eine Woche nach Tirol in Österreich gefahren.\n\nAm ersten Tag habe ich mir Skier, Skischuhe und einen Helm ausgeliehen. Die Skischuhe waren schwer und unbequem. Ich konnte kaum laufen! Dann bin ich in die Skischule gegangen. In meiner Gruppe waren sechs Erwachsene, alle Anfänger. Unser Lehrer Florian war sehr geduldig.\n\nAm Anfang bin ich sehr oft hingefallen. Einmal bin ich sogar am Lift gestürzt, und alle haben gelacht. Aber Florian hat gesagt: „Hinfallen gehört dazu. Wichtig ist, dass du wieder aufstehst.“ Am dritten Tag konnte ich schon langsam eine kleine Piste hinunterfahren.\n\nIn der Mittagspause haben Clara und ich uns immer in einer Hütte getroffen. Dort haben wir heiße Schokolade mit Sahne getrunken und Kaiserschmarrn gegessen. Das ist ein süßes Essen aus Österreich. Draußen hat die Sonne auf den Schnee geschienen, und die Berge waren wunderschön.\n\nAm letzten Tag bin ich mit Clara zusammen eine blaue Piste gefahren. Blaue Pisten sind leicht. Ich war langsam, aber ich bin kein einziges Mal hingefallen. Am Abend hatte ich überall Muskelkater, aber ich war sehr stolz. Nächstes Jahr fahre ich wieder mit.",
+    "glossary": [
+      {
+        "german": "die Kindheit",
+        "english": "childhood",
+        "wortschatzId": "b1-die-kindheit"
+      },
+      {
+        "german": "ausleihen",
+        "english": "to hire, to borrow",
+        "match": "ausgeliehen"
+      },
+      {
+        "german": "der Helm",
+        "english": "helmet"
+      },
+      {
+        "german": "unbequem",
+        "english": "uncomfortable"
+      },
+      {
+        "german": "der Anfänger",
+        "english": "beginner",
+        "match": "Anfänger"
+      },
+      {
+        "german": "geduldig",
+        "english": "patient"
+      },
+      {
+        "german": "hinfallen",
+        "english": "to fall over",
+        "match": "hingefallen"
+      },
+      {
+        "german": "stürzen",
+        "english": "to fall, to take a tumble",
+        "match": "gestürzt",
+        "wortschatzId": "b1-stuerzen"
+      },
+      {
+        "german": "die Piste",
+        "english": "ski slope, run"
+      },
+      {
+        "german": "die Hütte",
+        "english": "mountain hut",
+        "wortschatzId": "b1-die-huette"
+      },
+      {
+        "german": "die Sahne",
+        "english": "cream",
+        "wortschatzId": "b1-die-sahne"
+      },
+      {
+        "german": "scheinen",
+        "english": "to shine",
+        "match": "geschienen",
+        "wortschatzId": "a1-scheinen"
+      },
+      {
+        "german": "der Muskelkater",
+        "english": "sore muscles"
+      },
+      {
+        "german": "stolz",
+        "english": "proud",
+        "wortschatzId": "b1-stolz"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Warum hat der Erzähler noch nie Ski gemacht?",
+        "options": [
+          "Er hatte nie Zeit.",
+          "In Hamburg gibt es keine Berge.",
+          "Skifahren ist zu teuer.",
+          "Er mag keinen Schnee."
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": "Wohin sind Clara und der Erzähler gefahren?",
+        "options": [
+          "In die Schweiz",
+          "Nach Bayern",
+          "Nach Tirol in Österreich",
+          "Nach Italien"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "tf",
+        "prompt": "Die Skischuhe waren bequem.",
+        "answer": false,
+        "explanation": "Die Skischuhe waren schwer und unbequem."
+      },
+      {
+        "type": "mc",
+        "prompt": "Was hat Florian gesagt?",
+        "options": [
+          "Hinfallen gehört dazu.",
+          "Du musst schneller fahren.",
+          "Skifahren ist ganz leicht.",
+          "Du darfst nicht hinfallen."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "mc",
+        "prompt": "Was ist Kaiserschmarrn?",
+        "options": [
+          "Eine Suppe",
+          "Ein Getränk",
+          "Eine Piste",
+          "Ein süßes Essen aus Österreich"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "tf",
+        "prompt": "Am letzten Tag ist der Erzähler kein einziges Mal hingefallen.",
+        "answer": true
+      },
+      {
+        "type": "tf",
+        "prompt": "Der Erzähler möchte nie wieder Ski fahren.",
+        "answer": false,
+        "explanation": "Er sagt: „Nächstes Jahr fahre ich wieder mit.“"
+      }
+    ]
+  },
+  {
+    "id": "a2-85",
+    "level": "A2",
+    "title": "Das Familienessen am Sonntag",
+    "topic": "Family",
+    "body": "Jeden ersten Sonntag im Monat trifft sich unsere ganze Familie bei Oma Ingrid in Bielefeld. Dann sitzen zwölf Leute an einem großen Tisch.\n\nOma kocht immer selbst, und sie möchte keine Hilfe in der Küche. Diesmal hat sie Rinderbraten mit Kartoffeln und Rotkohl gekocht. Tante Petra hat einen Salat mitgebracht, und Onkel Jürgen hat den Nachtisch gemacht: einen Apfelkuchen.\n\nBeim Essen haben alle gleichzeitig gesprochen. Opa hat wie immer über Fußball geredet. Die Kinder haben von der Schule erzählt. Mein Cousin Tim hat stolz gesagt, dass er seinen Führerschein gemacht hat. Und Tante Petra hat Fotos von ihrem Urlaub in Italien gezeigt.\n\nDann hat Onkel Jürgen gefragt: „Und, Lisa, wann heiratest du endlich?“ Ich bin dreißig und habe seit fünf Jahren einen Freund. Diese Frage habe ich schon hundertmal gehört. „Das ist meine Sache“, habe ich gesagt. „Ich frage ja nur!“, hat Onkel Jürgen geantwortet. Dann hat auch noch meine Mutter etwas gesagt, und plötzlich war die Stimmung schlecht. Alle waren still.\n\nDa ist Oma aufgestanden und hat laut gesagt: „So, jetzt gibt es Kuchen. Und beim Kuchen streitet man nicht!“ Alle haben gelacht. Onkel Jürgen hat sich bei mir entschuldigt, und ich habe ihm das größte Stück Kuchen gegeben.\n\nNach dem Essen haben wir zusammen abgewaschen. Oma hat leise zu mir gesagt: „Mach dir keine Sorgen. Ich habe auch erst mit vierunddreißig geheiratet.“",
+    "glossary": [
+      {
+        "german": "sich treffen",
+        "english": "to meet",
+        "match": "trifft"
+      },
+      {
+        "german": "der Rinderbraten",
+        "english": "roast beef"
+      },
+      {
+        "german": "der Rotkohl",
+        "english": "red cabbage"
+      },
+      {
+        "german": "der Nachtisch",
+        "english": "dessert"
+      },
+      {
+        "german": "gleichzeitig",
+        "english": "at the same time",
+        "wortschatzId": "b1-gleichzeitig"
+      },
+      {
+        "german": "reden",
+        "english": "to talk",
+        "match": "geredet",
+        "wortschatzId": "a2-reden"
+      },
+      {
+        "german": "stolz",
+        "english": "proud(ly)",
+        "wortschatzId": "b1-stolz"
+      },
+      {
+        "german": "heiraten",
+        "english": "to marry, to get married",
+        "match": "heiratest",
+        "wortschatzId": "a1-heiraten"
+      },
+      {
+        "german": "die Sache",
+        "english": "matter, business",
+        "wortschatzId": "a2-die-sache"
+      },
+      {
+        "german": "die Stimmung",
+        "english": "mood, atmosphere",
+        "wortschatzId": "b1-die-stimmung"
+      },
+      {
+        "german": "streiten",
+        "english": "to argue",
+        "match": "streitet",
+        "wortschatzId": "a2-streiten"
+      },
+      {
+        "german": "sich entschuldigen",
+        "english": "to apologise",
+        "match": "entschuldigt"
+      },
+      {
+        "german": "abwaschen",
+        "english": "to do the dishes",
+        "match": "abgewaschen",
+        "wortschatzId": "b1-abwaschen"
+      },
+      {
+        "german": "sich Sorgen machen",
+        "english": "to worry",
+        "match": "Sorgen"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Wann trifft sich die Familie bei Oma Ingrid?",
+        "options": [
+          "Jeden Sonntag",
+          "Jeden ersten Sonntag im Monat",
+          "Nur an Weihnachten",
+          "Jeden Samstag"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Oma Ingrid möchte in der Küche viel Hilfe haben.",
+        "answer": false,
+        "explanation": "Oma kocht immer selbst und möchte keine Hilfe in der Küche."
+      },
+      {
+        "type": "mc",
+        "prompt": "Wer hat den Nachtisch gemacht?",
+        "options": ["Oma Ingrid", "Tante Petra", "Lisa", "Onkel Jürgen"],
+        "answer": 3
+      },
+      {
+        "type": "mc",
+        "prompt": "Worüber hat Opa gesprochen?",
+        "options": [
+          "Über Fußball",
+          "Über seinen Urlaub",
+          "Über die Schule",
+          "Über das Essen"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "mc",
+        "prompt": "Warum war die Stimmung plötzlich schlecht?",
+        "options": [
+          "Das Essen war kalt.",
+          "Tim hat keinen Führerschein.",
+          "Onkel Jürgen hat Lisa gefragt, wann sie heiratet.",
+          "Opa war krank."
+        ],
+        "answer": 2
+      },
+      {
+        "type": "tf",
+        "prompt": "Onkel Jürgen hat sich bei Lisa entschuldigt.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie alt war Oma, als sie geheiratet hat?",
+        "options": ["Dreißig", "Vierunddreißig", "Fünfundzwanzig", "Vierzig"],
+        "answer": 1
+      }
+    ]
+  },
+  {
+    "id": "a2-86",
+    "level": "A2",
+    "title": "Ein Notfall in der Nacht",
+    "topic": "Health",
+    "body": "Es war zwei Uhr nachts. Plötzlich hat die kleine Defne laut geweint. Ihre Mutter Selin ist sofort aufgestanden. Defne ist drei Jahre alt. Ihr Gesicht war ganz rot, und ihr Kopf war sehr heiß. Selin hat Fieber gemessen: 39,8 Grad! Ihr Mann Cem war auf einer Geschäftsreise, und Selin war allein mit den Kindern.\n\nAber die 112 ist für sehr schwere Notfälle. Deshalb hat Selin die Nummer 116 117 angerufen. Das ist der ärztliche Bereitschaftsdienst. Dort kann man nachts und am Wochenende anrufen, wenn die Arztpraxen geschlossen sind.\n\nEine freundliche Frau hat viele Fragen gestellt: „Wie alt ist das Kind? Trinkt es genug? Hat es Schmerzen?“ Dann hat sie gesagt: „Fahren Sie bitte in die Kindernotaufnahme. Das ist sicherer.“\n\nSelin hat ihre Nachbarin geweckt. Frau Berger ist sofort gekommen und hat auf Defnes großen Bruder aufgepasst. Dann ist Selin mit Defne im Taxi ins Krankenhaus gefahren.\n\nIn der Notaufnahme mussten sie eine Stunde warten. Dann hat eine Ärztin Defne untersucht und in ihre Ohren geschaut. „Sie hat eine Mittelohrentzündung“, hat die Ärztin gesagt. „Das ist nicht gefährlich. Sie bekommt einen Saft gegen das Fieber und die Schmerzen.“\n\nUm sechs Uhr morgens waren Selin und Defne wieder zu Hause. Defne ist sofort eingeschlafen. Selin hat sich einen Kaffee gemacht und Cem angerufen.",
+    "glossary": [
+      {
+        "german": "der Notfall",
+        "english": "emergency",
+        "match": "Notfälle",
+        "wortschatzId": "b1-der-notfall"
+      },
+      {
+        "german": "weinen",
+        "english": "to cry",
+        "match": "geweint",
+        "wortschatzId": "a2-weinen"
+      },
+      {
+        "german": "das Fieber",
+        "english": "fever, temperature",
+        "wortschatzId": "a1-das-fieber"
+      },
+      {
+        "german": "messen",
+        "english": "to measure, to take (a temperature)",
+        "match": "gemessen",
+        "wortschatzId": "b1-messen"
+      },
+      {
+        "german": "die Geschäftsreise",
+        "english": "business trip"
+      },
+      {
+        "german": "der Bereitschaftsdienst",
+        "english": "on-call (medical) service"
+      },
+      {
+        "german": "die Arztpraxis",
+        "english": "doctor's surgery",
+        "match": "Arztpraxen"
+      },
+      {
+        "german": "die Notaufnahme",
+        "english": "emergency department (A&E)",
+        "wortschatzId": "b1-die-notaufnahme"
+      },
+      {
+        "german": "sicher",
+        "english": "safe",
+        "match": "sicherer",
+        "wortschatzId": "b1-sicher"
+      },
+      {
+        "german": "wecken",
+        "english": "to wake (someone) up",
+        "match": "geweckt",
+        "wortschatzId": "a2-wecken"
+      },
+      {
+        "german": "untersuchen",
+        "english": "to examine",
+        "match": "untersucht",
+        "wortschatzId": "a2-untersuchen"
+      },
+      {
+        "german": "die Mittelohrentzündung",
+        "english": "middle ear infection"
+      },
+      {
+        "german": "gefährlich",
+        "english": "dangerous",
+        "wortschatzId": "a2-gefaehrlich"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Wie alt ist Defne?",
+        "options": ["Ein Jahr", "Drei Jahre", "Fünf Jahre", "Acht Jahre"],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Cem war in der Nacht zu Hause.",
+        "answer": false,
+        "explanation": "Cem war auf einer Geschäftsreise."
+      },
+      {
+        "type": "mc",
+        "prompt": "Welche Nummer hat Selin angerufen?",
+        "options": ["Die 110", "Die 112", "Die 116 117", "Die Nummer von ihrer Ärztin"],
+        "answer": 2
+      },
+      {
+        "type": "mc",
+        "prompt": "Was hat die Frau am Telefon gesagt?",
+        "options": [
+          "Selin soll in die Kindernotaufnahme fahren.",
+          "Selin soll bis morgen warten.",
+          "Ein Arzt kommt nach Hause.",
+          "Defne soll viel schlafen."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "mc",
+        "prompt": "Wer hat auf Defnes Bruder aufgepasst?",
+        "options": ["Cem", "Eine Ärztin", "Die Oma", "Die Nachbarin, Frau Berger"],
+        "answer": 3
+      },
+      {
+        "type": "tf",
+        "prompt": "Defne hat eine Mittelohrentzündung.",
+        "answer": true
+      },
+      {
+        "type": "tf",
+        "prompt": "Die Ärztin hat gesagt, dass die Krankheit sehr gefährlich ist.",
+        "answer": false,
+        "explanation": "Die Ärztin hat gesagt: „Das ist nicht gefährlich.“"
+      }
+    ]
+  },
+  {
+    "id": "a2-87",
+    "level": "A2",
+    "title": "Im Altenheim helfen",
+    "topic": "Society",
+    "body": "Ich heiße Jakob, ich bin siebzehn und gehe in die elfte Klasse. Seit einem halben Jahr helfe ich jeden Samstag in einem Altenheim in meiner Stadt. Am Anfang bin ich nur hingegangen, weil wir für die Schule ein soziales Projekt machen mussten. Aber jetzt komme ich gern.\n\nAm Vormittag lese ich im Gemeinschaftsraum vor. Viele Bewohner können nicht mehr gut sehen, deshalb freuen sie sich über die Zeitung oder eine Geschichte. Frau Albrecht ist 91 und hört am liebsten Krimis. Bei spannenden Stellen sagt sie immer: „Junge, lies schneller!“\n\nNach dem Mittagessen spielen wir zusammen. Herr Demir spielt sehr gern Schach. Er war früher Ingenieur und gewinnt fast immer gegen mich. Mit den anderen spiele ich Karten oder Bingo. Beim Bingo sind alle laut und lustig.\n\nAm schönsten sind aber die Geschichten. Die Bewohner haben so viel erlebt! Frau Albrecht hat als junge Frau in Paris gearbeitet. Herr Demir ist 1970 aus der Türkei nach Deutschland gekommen und hat hier eine Familie gegründet. Er hat mir erzählt, dass er am Anfang kein Wort Deutsch konnte.\n\nManchmal ist es auch traurig. Im Winter ist eine Bewohnerin gestorben, und ich habe lange an sie gedacht. Aber ich habe hier viel gelernt: Man muss zuhören und Geduld haben. Letzten Samstag hat Herr Demir zu mir gesagt: „Du bist wie ein Enkel für mich.“ Das war ein wunderschöner Moment.",
+    "glossary": [
+      {
+        "german": "das Altenheim",
+        "english": "care home, old people's home",
+        "wortschatzId": "b1-das-altenheim"
+      },
+      {
+        "german": "sozial",
+        "english": "social",
+        "match": "soziales",
+        "wortschatzId": "b1-sozial"
+      },
+      {
+        "german": "der Gemeinschaftsraum",
+        "english": "common room"
+      },
+      {
+        "german": "vorlesen",
+        "english": "to read aloud",
+        "match": "lese",
+        "wortschatzId": "b1-vorlesen"
+      },
+      {
+        "german": "der Bewohner",
+        "english": "resident",
+        "match": "Bewohner",
+        "wortschatzId": "b1-der-bewohner"
+      },
+      {
+        "german": "der Krimi",
+        "english": "crime story, thriller",
+        "match": "Krimis",
+        "wortschatzId": "a2-der-krimi"
+      },
+      {
+        "german": "spannend",
+        "english": "exciting, gripping",
+        "match": "spannenden",
+        "wortschatzId": "a2-spannend"
+      },
+      {
+        "german": "das Schach",
+        "english": "chess"
+      },
+      {
+        "german": "gewinnen",
+        "english": "to win",
+        "match": "gewinnt",
+        "wortschatzId": "a1-gewinnen"
+      },
+      {
+        "german": "erleben",
+        "english": "to experience",
+        "match": "erlebt",
+        "wortschatzId": "b1-erleben"
+      },
+      {
+        "german": "gründen",
+        "english": "to start, to found",
+        "match": "gegründet",
+        "wortschatzId": "b1-gruenden"
+      },
+      {
+        "german": "sterben",
+        "english": "to die",
+        "match": "gestorben",
+        "wortschatzId": "a2-sterben"
+      },
+      {
+        "german": "die Geduld",
+        "english": "patience",
+        "wortschatzId": "b1-die-geduld"
+      },
+      {
+        "german": "der Enkel",
+        "english": "grandson, grandchild",
+        "wortschatzId": "a2-der-enkel"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Warum ist Jakob am Anfang ins Altenheim gegangen?",
+        "options": [
+          "Seine Oma wohnt dort.",
+          "Er wollte Geld verdienen.",
+          "Er musste für die Schule ein soziales Projekt machen.",
+          "Seine Mutter arbeitet dort."
+        ],
+        "answer": 2
+      },
+      {
+        "type": "mc",
+        "prompt": "Was hört Frau Albrecht am liebsten?",
+        "options": ["Krimis", "Die Zeitung", "Musik", "Liebesgeschichten"],
+        "answer": 0
+      },
+      {
+        "type": "tf",
+        "prompt": "Jakob gewinnt beim Schach fast immer gegen Herrn Demir.",
+        "answer": false,
+        "explanation": "Herr Demir gewinnt fast immer gegen Jakob."
+      },
+      {
+        "type": "mc",
+        "prompt": "Was war Herr Demir früher von Beruf?",
+        "options": ["Lehrer", "Koch", "Arzt", "Ingenieur"],
+        "answer": 3
+      },
+      {
+        "type": "mc",
+        "prompt": "Wo hat Frau Albrecht als junge Frau gearbeitet?",
+        "options": ["In Paris", "In der Türkei", "In Berlin", "In London"],
+        "answer": 0
+      },
+      {
+        "type": "tf",
+        "prompt": "Herr Demir hat am Anfang in Deutschland kein Wort Deutsch gesprochen.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Was hat Herr Demir letzten Samstag zu Jakob gesagt?",
+        "options": [
+          "„Lies schneller!“",
+          "„Du bist wie ein Enkel für mich.“",
+          "„Du spielst sehr gut Schach.“",
+          "„Komm nächste Woche nicht.“"
+        ],
+        "answer": 1
+      }
+    ]
+  },
+  {
+    "id": "a2-88",
+    "level": "A2",
+    "title": "Ein Brief aus Spanien",
+    "topic": "Communication",
+    "body": "Liebe Hannah,\n\nseit zwei Wochen bin ich jetzt in Valencia, und ich muss dir unbedingt schreiben. Hier ist alles wunderbar!\n\nIch mache einen Spanischkurs an einer kleinen Sprachschule in der Altstadt. Der Unterricht ist jeden Tag von neun bis eins. In meiner Klasse sind acht Leute aus Japan, Schweden, Italien und den USA. Unsere Lehrerin Carmen spricht nur Spanisch mit uns, auch in der Pause. Am Anfang war das sehr anstrengend, aber jetzt verstehe ich schon viel mehr.\n\nIch wohne bei einer Gastfamilie. Señora López kocht jeden Abend für mich, und das Essen ist fantastisch. Gestern hat sie mir gezeigt, wie man eine echte Paella macht. In Spanien isst man sehr spät, oft erst um zehn Uhr abends! Daran muss ich mich noch gewöhnen.\n\nAm Nachmittag habe ich frei. Meistens gehe ich mit meinen Mitschülern an den Strand. Das Meer ist warm, und die Sonne scheint fast jeden Tag. Letztes Wochenende haben wir zusammen einen Ausflug in die Berge gemacht. Das war toll!\n\nNur eine Sache ist schwierig: Ich vermisse dich und unsere Abende im Café. Und manchmal vermisse ich sogar das deutsche Brot.\n\nIn drei Wochen komme ich zurück. Dann zeige ich dir alle Fotos und koche für dich Paella, versprochen!\n\nLiebe Grüße und bis bald\ndeine Sofia",
+    "glossary": [
+      {
+        "german": "unbedingt",
+        "english": "absolutely, really",
+        "wortschatzId": "b1-unbedingt"
+      },
+      {
+        "german": "die Altstadt",
+        "english": "old town"
+      },
+      {
+        "german": "der Unterricht",
+        "english": "lessons, classes",
+        "wortschatzId": "a1-der-unterricht"
+      },
+      {
+        "german": "anstrengend",
+        "english": "tiring, exhausting",
+        "wortschatzId": "b1-anstrengend"
+      },
+      {
+        "german": "die Gastfamilie",
+        "english": "host family"
+      },
+      {
+        "german": "fantastisch",
+        "english": "fantastic",
+        "wortschatzId": "a2-fantastisch"
+      },
+      {
+        "german": "echt",
+        "english": "real, genuine",
+        "match": "echte",
+        "wortschatzId": "a2-echt"
+      },
+      {
+        "german": "sich gewöhnen an",
+        "english": "to get used to",
+        "match": "gewöhnen"
+      },
+      {
+        "german": "meistens",
+        "english": "mostly, usually"
+      },
+      {
+        "german": "der Mitschüler",
+        "english": "classmate",
+        "match": "Mitschülern"
+      },
+      {
+        "german": "der Strand",
+        "english": "beach",
+        "wortschatzId": "a2-der-strand"
+      },
+      {
+        "german": "der Ausflug",
+        "english": "trip, outing",
+        "wortschatzId": "a1-der-ausflug"
+      },
+      {
+        "german": "vermissen",
+        "english": "to miss",
+        "match": "vermisse",
+        "wortschatzId": "b1-vermissen"
+      },
+      {
+        "german": "versprechen",
+        "english": "to promise",
+        "match": "versprochen",
+        "wortschatzId": "b1-versprechen"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Wie lange ist Sofia schon in Valencia?",
+        "options": [
+          "Seit drei Wochen",
+          "Seit einer Woche",
+          "Seit zwei Wochen",
+          "Seit einem Monat"
+        ],
+        "answer": 2
+      },
+      {
+        "type": "mc",
+        "prompt": "Wann hat Sofia Unterricht?",
+        "options": [
+          "Von neun bis eins",
+          "Am Nachmittag",
+          "Am Abend",
+          "Nur am Wochenende"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "tf",
+        "prompt": "Die Lehrerin Carmen spricht in der Pause auch Deutsch.",
+        "answer": false,
+        "explanation": "Carmen spricht nur Spanisch, auch in der Pause."
+      },
+      {
+        "type": "mc",
+        "prompt": "Wo wohnt Sofia in Valencia?",
+        "options": [
+          "In einem Hotel",
+          "Bei einer Gastfamilie",
+          "In einer WG",
+          "In der Sprachschule"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": "Woran muss sich Sofia noch gewöhnen?",
+        "options": [
+          "An das warme Wetter",
+          "An das Meer",
+          "An die Sprache",
+          "An das späte Abendessen"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "tf",
+        "prompt": "Sofia vermisst manchmal das deutsche Brot.",
+        "answer": true
+      },
+      {
+        "type": "tf",
+        "prompt": "Sofia möchte für Hannah Paella kochen.",
+        "answer": true
+      }
+    ]
+  },
+  {
+    "id": "a2-89",
+    "level": "A2",
+    "title": "Das Wetter spielt verrückt",
+    "topic": "Weather",
+    "body": "Was für eine Woche! Ich heiße Paul und wohne mit meiner Familie in Erfurt. Am Montag bin ich aufgewacht, und draußen war alles weiß. In der Nacht hat es geschneit, mitten im April! Die Bäume hatten schon Blüten, und jetzt waren die Blüten weiß vom Schnee. Meine Kinder haben sich riesig gefreut und sofort einen Schneemann gebaut. Ich habe mich nicht gefreut, weil ich schon Sommerreifen am Auto hatte. Deshalb bin ich mit dem Bus zur Arbeit gefahren.\n\nAm Dienstag und am Mittwoch war es kalt und grau. Viele Leute haben ihre Winterjacken wieder aus dem Schrank geholt. Unsere Nachbarin hat ihre Tomatenpflanzen schnell ins Haus getragen.\n\nAm Donnerstag hat dann plötzlich die Sonne geschienen, und am Freitag waren es schon 28 Grad! Im Radio habe ich gehört, dass das ein Rekord für April ist. In der Mittagspause haben alle Kollegen draußen gegessen. Vor der Eisdiele in unserer Straße war eine lange Schlange. Im Park haben die Leute in kurzen Hosen auf der Wiese gelegen. Meine Frau hat gelacht: „Am Montag ein Schneemann, am Freitag ein Eis!“\n\nAm Samstag habe ich mit meinem Nachbarn über das Wetter gesprochen. Er ist 75 Jahre alt und hat gesagt: „So etwas habe ich früher nie erlebt. Das Klima ändert sich.“ Vielleicht hat er recht. Für nächste Woche sagt der Wetterbericht übrigens wieder Regen und zwölf Grad voraus.",
+    "glossary": [
+      {
+        "german": "schneien",
+        "english": "to snow",
+        "match": "geschneit",
+        "wortschatzId": "a2-schneien"
+      },
+      {
+        "german": "mitten in",
+        "english": "in the middle of",
+        "match": "mitten"
+      },
+      {
+        "german": "die Blüte",
+        "english": "blossom",
+        "match": "Blüten"
+      },
+      {
+        "german": "riesig",
+        "english": "hugely, enormously",
+        "wortschatzId": "b1-riesig"
+      },
+      {
+        "german": "der Sommerreifen",
+        "english": "summer tyre",
+        "match": "Sommerreifen"
+      },
+      {
+        "german": "der Schrank",
+        "english": "wardrobe, cupboard",
+        "wortschatzId": "a1-der-schrank"
+      },
+      {
+        "german": "der Rekord",
+        "english": "record",
+        "wortschatzId": "b1-der-rekord"
+      },
+      {
+        "german": "die Eisdiele",
+        "english": "ice-cream parlour"
+      },
+      {
+        "german": "die Schlange",
+        "english": "queue, line",
+        "wortschatzId": "b1-die-schlange"
+      },
+      {
+        "german": "die Wiese",
+        "english": "meadow, lawn",
+        "wortschatzId": "b1-die-wiese"
+      },
+      {
+        "german": "erleben",
+        "english": "to experience",
+        "match": "erlebt",
+        "wortschatzId": "b1-erleben"
+      },
+      {
+        "german": "das Klima",
+        "english": "climate",
+        "wortschatzId": "b1-das-klima"
+      },
+      {
+        "german": "sich ändern",
+        "english": "to change",
+        "match": "ändert"
+      },
+      {
+        "german": "der Wetterbericht",
+        "english": "weather forecast",
+        "wortschatzId": "b1-der-wetterbericht"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Was war am Montag besonders?",
+        "options": [
+          "Es war sehr heiß.",
+          "Es hat geschneit.",
+          "Es hat stark geregnet.",
+          "Es war sehr windig."
+        ],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Paul hat sich über den Schnee gefreut.",
+        "answer": false,
+        "explanation": "Paul hat sich nicht gefreut, weil er schon Sommerreifen am Auto hatte."
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie ist Paul am Montag zur Arbeit gefahren?",
+        "options": ["Mit dem Auto", "Mit dem Fahrrad", "Mit dem Bus", "Mit dem Taxi"],
+        "answer": 2
+      },
+      {
+        "type": "mc",
+        "prompt": "Was hat die Nachbarin gemacht?",
+        "options": [
+          "Sie hat einen Schneemann gebaut.",
+          "Sie hat ihre Tomatenpflanzen ins Haus getragen.",
+          "Sie hat Eis gekauft.",
+          "Sie ist im See geschwommen."
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie warm war es am Freitag?",
+        "options": ["12 Grad", "18 Grad", "25 Grad", "28 Grad"],
+        "answer": 3
+      },
+      {
+        "type": "tf",
+        "prompt": "Der alte Nachbar meint, dass sich das Klima ändert.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie soll das Wetter nächste Woche werden?",
+        "options": [
+          "Regen und zwölf Grad",
+          "Schnee und null Grad",
+          "Sonne und 30 Grad",
+          "Wind und Gewitter"
+        ],
+        "answer": 0
+      }
+    ]
+  },
+  {
+    "id": "a2-90",
+    "level": "A2",
+    "title": "Laufen für einen guten Zweck",
+    "topic": "Sport",
+    "body": "Im Frühling hat Nadia ihren Kollegen eine E-Mail geschrieben: „Im September gibt es in Mainz einen Spendenlauf für das Kinderkrankenhaus. Wer macht mit?“ Bei einem Spendenlauf sucht jeder Läufer Sponsoren. Die Sponsoren bezahlen für jeden Kilometer ein bisschen Geld.\n\nZuerst haben sich nur drei Kollegen gemeldet. Aber dann hat der Chef, Herr Weber, gesagt, dass die Firma für jeden Kilometer zwei Euro spendet. Danach wollten plötzlich zwölf Leute mitlaufen.\n\nViele von ihnen sind aber seit Jahren nicht mehr gelaufen. Deshalb haben sie zusammen trainiert, jeden Dienstag und Donnerstag nach der Arbeit im Park. Am Anfang konnte Thomas aus der Buchhaltung nur zehn Minuten laufen. Er hatte Schmerzen in den Beinen und wollte schon aufhören. Aber die anderen haben ihn motiviert. Nach drei Monaten konnte er eine ganze Stunde laufen.\n\nAm Tag des Laufs war das Wetter perfekt: sonnig, aber nicht zu warm. Die Strecke war eine Runde von zwei Kilometern am Rhein. Jeder konnte so viele Runden laufen, wie er wollte. Nadias Kinder hatten ein großes Schild: „Weiter so, Mama!“\n\nNadia ist 20 Kilometer gelaufen, und Thomas hat 12 Kilometer geschafft. Zusammen ist das Team 156 Kilometer gelaufen. Mit dem Geld von der Firma, von Freunden und von der Familie haben sie 1.840 Euro gesammelt. Das Kinderkrankenhaus kauft davon Spiele und Bücher für ein neues Spielzimmer. Nächstes Jahr wollen alle wieder mitlaufen.",
+    "glossary": [
+      {
+        "german": "der Spendenlauf",
+        "english": "charity run, sponsored run"
+      },
+      {
+        "german": "der Läufer",
+        "english": "runner"
+      },
+      {
+        "german": "der Sponsor",
+        "english": "sponsor",
+        "match": "Sponsoren"
+      },
+      {
+        "german": "sich melden",
+        "english": "to sign up, to volunteer",
+        "match": "gemeldet"
+      },
+      {
+        "german": "spenden",
+        "english": "to donate",
+        "match": "spendet"
+      },
+      {
+        "german": "trainieren",
+        "english": "to train",
+        "match": "trainiert",
+        "wortschatzId": "a2-trainieren"
+      },
+      {
+        "german": "die Buchhaltung",
+        "english": "accounts department"
+      },
+      {
+        "german": "aufhören",
+        "english": "to stop, to give up",
+        "wortschatzId": "a1-aufhoeren"
+      },
+      {
+        "german": "motivieren",
+        "english": "to motivate, to encourage",
+        "match": "motiviert"
+      },
+      {
+        "german": "die Strecke",
+        "english": "route, course",
+        "wortschatzId": "b1-die-strecke"
+      },
+      {
+        "german": "schaffen",
+        "english": "to manage, to achieve",
+        "match": "geschafft",
+        "wortschatzId": "a2-schaffen"
+      },
+      {
+        "german": "sammeln",
+        "english": "to collect, to raise",
+        "match": "gesammelt",
+        "wortschatzId": "a2-sammeln"
+      }
+    ],
+    "questions": [
+      {
+        "type": "mc",
+        "prompt": "Für wen war der Spendenlauf?",
+        "options": [
+          "Für ein Altenheim",
+          "Für das Kinderkrankenhaus",
+          "Für eine Schule",
+          "Für einen Sportverein"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "tf",
+        "prompt": "Am Anfang wollten sofort zwölf Kollegen mitlaufen.",
+        "answer": false,
+        "explanation": "Zuerst haben sich nur drei Kollegen gemeldet."
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie viel Geld spendet die Firma für jeden Kilometer?",
+        "options": ["Einen Euro", "Fünf Euro", "Zwei Euro", "Zehn Euro"],
+        "answer": 2
+      },
+      {
+        "type": "mc",
+        "prompt": "Wann hat das Team trainiert?",
+        "options": [
+          "Jeden Dienstag und Donnerstag nach der Arbeit",
+          "Jeden Morgen vor der Arbeit",
+          "Nur am Wochenende",
+          "In der Mittagspause"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "tf",
+        "prompt": "Thomas konnte nach drei Monaten eine ganze Stunde laufen.",
+        "answer": true
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie lang war eine Runde?",
+        "options": [
+          "Ein Kilometer",
+          "Fünf Kilometer",
+          "Zehn Kilometer",
+          "Zwei Kilometer"
+        ],
+        "answer": 3
+      },
+      {
+        "type": "mc",
+        "prompt": "Wie viel Geld hat das Team gesammelt?",
+        "options": ["156 Euro", "1.840 Euro", "2.000 Euro", "312 Euro"],
+        "answer": 1
+      }
+    ]
   }
 ]
